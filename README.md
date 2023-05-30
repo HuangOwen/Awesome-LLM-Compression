@@ -9,20 +9,16 @@ Awesome LLM compression research papers and tools.
   - [Sparsity](#quantization)
   - [Distillation](#binarization)
 - [Tools](#tools)
----
 
 ## Papers
 
 ### Quantization
 
-- ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers
-NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code]](https://github.com/microsoft/DeepSpeed)
+- ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code]](https://github.com/microsoft/DeepSpeed)
 
-- LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale
-NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2208.07339) [[Code]](https://github.com/TimDettmers/bitsandbytes)
+- LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2208.07339) [[Code]](https://github.com/TimDettmers/bitsandbytes)
 
-- LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models
-Arxiv 2022 [[Paper]](https://arxiv.org/abs/2206.09557) 
+- LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2206.09557) 
 
 - Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling
 Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.09145)
