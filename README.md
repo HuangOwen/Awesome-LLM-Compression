@@ -4,10 +4,9 @@ Awesome LLM compression research papers and tools.
 # Contents
 
 - [Papers](#papers)
-  - [Quantization](#general)
-  - [Pruning](#architecture)
-  - [Sparsity](#quantization)
-  - [Distillation](#binarization)
+  - [Quantization](#quantization)
+  - [Pruning/Sparsity](#pruning/sparsity)
+  - [Distillation](#distillation)
 - [Tools](#tools)
 
 ## Papers
@@ -39,18 +38,12 @@ Awesome LLM compression research papers and tools.
 - Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.14152)
 
 
-### Pruning
-- Structured Pruning of Large Language Models <br> EMNLP 2020 [[Paper]](https://arxiv.org/abs/1910.04732) [[Code]](https://github.com/asappresearch/flop)
+### Pruning/Sparsity
 
-- The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models <br> EMNLP 2022 [[Paper]](https://arxiv.org/abs/2203.07259) [[Code]](https://github.com/neuralmagic/sparseml/tree/main/research/optimal_BERT_surgeon_oBERT)
-
-- ZipLM: Hardware-Aware Structured Pruning of Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2302.04089) 
 
 - SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2301.00774) [[Code]](https://github.com/IST-DASLab/sparsegpt)
 
 - LLM-Pruner: On the Structural Pruning of Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.11627) [[Code]](https://github.com/horseee/LLM-Pruner)
-
-### Sparsity
 
 ### Distillation
 
@@ -58,7 +51,10 @@ Awesome LLM compression research papers and tools.
 
 - Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.02301) 
 
-- Large Language Model Distillation Doesn't Need a Teacher <br> [[Paper]](https://arxiv.org/abs/2305.14864) [[Code]](https://github.com/ananyahjha93/llm-distill)
+- Large Language Model Distillation Doesn't Need a Teacher <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.14864) [[Code]](https://github.com/ananyahjha93/llm-distill)
+
+- GPT4All: Training an Assistant-style Chatbot with Large Scale Data
+Distillation from GPT-3.5-Turbo <br> Arxiv 2023 [[Paper]](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf) [[Code]](https://github.com/nomic-ai/gpt4all)
 
 ## Tools
   
