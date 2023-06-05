@@ -35,7 +35,11 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.12356)
 
+- The Quantization Model of Neural Scaling <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2303.13506)
+
 - Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.14152)
+
+- LLM-QAT: Data-Free Quantization Aware Training for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.17888)
 
 
 ### Pruning/Sparsity
