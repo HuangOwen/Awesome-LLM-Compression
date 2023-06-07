@@ -41,6 +41,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - LLM-QAT: Data-Free Quantization Aware Training for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.17888)
 
+- AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [[Paper]](https://arxiv.org/abs/2306.00978) [[Code]](https://github.com/mit-han-lab/llm-awq)
 
 ### Pruning/Sparsity
 
