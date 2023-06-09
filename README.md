@@ -61,6 +61,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Learning to Compress Prompts with Gist Tokens <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.08467) [[Code]](https://github.com/jayelm/gisting)
 
+- Efficient Prompting via Dynamic In-Context Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.11170)
+
 
 ### Distillation
 
