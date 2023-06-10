@@ -61,7 +61,11 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Learning to Compress Prompts with Gist Tokens <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.08467) [[Code]](https://github.com/jayelm/gisting)
 
+<<<<<<< HEAD
 - Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2212.09095) [[Code]](https://github.com/amazon-science/llm-interpret)
+=======
+- Efficient Prompting via Dynamic In-Context Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.11170)
+>>>>>>> 62694067b81a6a015cc8cd5ff86e3e065df61de5
 
 
 ### Distillation
