@@ -5,8 +5,9 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - [Papers](#papers)
   - [Quantization](#quantization)
-  - [Pruning/Sparsity](#pruning/sparsity)
+  - [Pruning and Sparsity](#pruning-and-sparsity)
   - [Distillation](#distillation)
+  - [Efficient Prompting](#efficient-prompting)
 - [Tools](#tools)
 
 ## Papers
@@ -49,7 +50,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - OWQ: Lessons learned from activation outliers for weight quantization in large language models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.02272)
 
-### Pruning/Sparsity
+### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
 
@@ -60,10 +61,6 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - Prune and Tune: Improving Efficient Pruning Techniques for Massive Language Models <br> ICLR 2023 TinyPapers [[Paper]](https://openreview.net/pdf?id=cKlgcx7nSZ)
 
 - Unlocking Context Constraints of LLMs: Enhancing Context Efficiency of LLMs with Self-Information-Based Content Filtering <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.12102) [[Code]](https://github.com/liyucheng09/Selective_Context)
-
-- Learning to Compress Prompts with Gist Tokens <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.08467) [[Code]](https://github.com/jayelm/gisting)
-
-- Efficient Prompting via Dynamic In-Context Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.11170)
 
 - Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2212.09095) [[Code]](https://github.com/amazon-science/llm-interpret)
 
@@ -83,6 +80,14 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo <br> Arxiv 2023 [[Paper]](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf) [[Code]](https://github.com/nomic-ai/gpt4all)
 
 - PaD: Program-aided Distillation Specializes Large Models in Reasoning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.13888) 
+
+### Efficient Prompting
+
+- Efficient Prompting via Dynamic In-Context Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.11170)
+
+- Learning to Compress Prompts with Gist Tokens <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.08467) [[Code]](https://github.com/jayelm/gisting)
+
+- Batch Prompting: Efficient Inference with Large Language Model APIs <br> Arxiv 2023 [[Paper]](https://github.com/HKUNLP/batch-prompting) [[Code]](https://arxiv.org/abs/2301.08721)
 
 ## Tools
 
