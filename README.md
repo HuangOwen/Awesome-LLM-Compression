@@ -52,6 +52,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - OWQ: Lessons learned from activation outliers for weight quantization in large language models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.02272)
 
+- SqueezeLLM: Dense-and-Sparse Quantization <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.07629)  [[Code]](https://github.com/SqueezeAILab/SqueezeLLM)
+
 
 ### Pruning and Sparsity
 
