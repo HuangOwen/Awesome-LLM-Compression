@@ -54,6 +54,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - SqueezeLLM: Dense-and-Sparse Quantization <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.07629)  [[Code]](https://github.com/SqueezeAILab/SqueezeLLM)
 
+- [[Paper]](https://arxiv.org/abs/2306.08162)
+
 
 ### Pruning and Sparsity
 
