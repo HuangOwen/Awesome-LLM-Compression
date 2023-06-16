@@ -54,7 +54,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - SqueezeLLM: Dense-and-Sparse Quantization <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.07629)  [[Code]](https://github.com/SqueezeAILab/SqueezeLLM)
 
-- [[Paper]](https://arxiv.org/abs/2306.08162)
+- INT2.1: Towards Fine-Tunable Quantized Large Language Models with Error Correction through Low-Rank Adaptation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.08162) 
 
 
 ### Pruning and Sparsity
@@ -95,6 +95,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - Learning to Compress Prompts with Gist Tokens <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.08467) [[Code]](https://github.com/jayelm/gisting)
 
 - Batch Prompting: Efficient Inference with Large Language Model APIs <br> Arxiv 2023 [[Paper]](https://github.com/HKUNLP/batch-prompting) [[Code]](https://arxiv.org/abs/2301.08721)
+
+- Adapting Language Models to Compress Contexts <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.14788) [[Code]](https://github.com/princeton-nlp/AutoCompressors)
 
 ## Tools
 
