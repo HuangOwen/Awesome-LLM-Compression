@@ -8,6 +8,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
   - [Pruning and Sparsity](#pruning-and-sparsity)
   - [Distillation](#distillation)
   - [Efficient Prompting](#efficient-prompting)
+  - [Other](#other)
 - [Tools](#tools)
 
 ## Papers
@@ -107,6 +108,11 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - Batch Prompting: Efficient Inference with Large Language Model APIs <br> Arxiv 2023 [[Paper]](https://github.com/HKUNLP/batch-prompting) [[Code]](https://arxiv.org/abs/2301.08721)
 
 - Adapting Language Models to Compress Contexts <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.14788) [[Code]](https://github.com/princeton-nlp/AutoCompressors)
+
+## Other
+
+- TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.00526)
+
 
 ## Tools
 
