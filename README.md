@@ -124,6 +124,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling)
 
+- DataMUX: Data Multiplexing for Neural Networks <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2202.09318) [[Code]](https://github.com/princeton-nlp/DataMUX)
+
 
 ## Tools
 
