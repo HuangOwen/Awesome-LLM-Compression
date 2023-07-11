@@ -128,6 +128,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling)
 
+- Text Alignment Is An Efficient Unified Model for Massive NLP Tasks <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.02729) [[Code]](https://github.com/yuh-zha/Align)
 
 ## Tools
 
