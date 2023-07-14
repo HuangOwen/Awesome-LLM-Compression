@@ -115,6 +115,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Adapting Language Models to Compress Contexts <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.14788) [[Code]](https://github.com/princeton-nlp/AutoCompressors)
 
+- In-context Autoencoder for Context Compression in a Large Language Model <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.06945) 
 
 ### Other
 
