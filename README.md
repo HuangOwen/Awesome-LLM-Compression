@@ -61,6 +61,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.03738) [[Code]](https://github.com/IST-DASLab/QIGen)
 
+- Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.08072)
+
 
 ### Pruning and Sparsity
 
@@ -130,6 +132,9 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling)
 
 - Text Alignment Is An Efficient Unified Model for Massive NLP Tasks <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.02729) [[Code]](https://github.com/yuh-zha/Align)
+
+- CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.07705)
+
 
 ## Tools
 
