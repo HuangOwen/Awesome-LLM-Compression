@@ -27,7 +27,9 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2211.10438) [[Code]](https://github.com/mit-han-lab/smoothquant)
 
-- FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2306.00317) [[Code]](https://openreview.net/attachment?id=-tYCaP0phY_&name=supplementary_material)
+- FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2301.12017) [[Code(DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
+
+- Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2306.00317) [[Code]](https://openreview.net/attachment?id=-tYCaP0phY_&name=supplementary_material)
 
 - GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers <br> ICLR 2023 [[Paper]](https://arxiv.org/abs/2210.17323) [[Code]](https://github.com/IST-DASLab/gptq)
 
