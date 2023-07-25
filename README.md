@@ -21,10 +21,6 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2206.09557) 
 
-- Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.09145)
-
-- Quantized Distributed Training of Large Models with Convergence Guarantees <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2302.02390)
-
 - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2211.10438) [[Code]](https://github.com/mit-han-lab/smoothquant)
 
 - FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2301.12017) [[Code(DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
@@ -34,6 +30,10 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers <br> ICLR 2023 [[Paper]](https://arxiv.org/abs/2210.17323) [[Code]](https://github.com/IST-DASLab/gptq)
 
 - RPTQ: Reorder-based Post-training Quantization for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.01089) [[Code]](https://github.com/hahnyuan/RPTQ4LLM)
+
+- Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.09145)
+
+- Quantized Distributed Training of Large Models with Convergence Guarantees <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2302.02390)
 
 - ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2303.08302) [[Code]](https://github.com/microsoft/DeepSpeed)
 
@@ -66,6 +66,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.08072)
 
 - ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.09782) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
+
+OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization <br> ISCA 2023 [[Paper]](https://arxiv.org/abs/2304.07493)
 
 ### Pruning and Sparsity
 
