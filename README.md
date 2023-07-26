@@ -67,7 +67,9 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.09782) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
 
-OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization <br> ISCA 2023 [[Paper]](https://arxiv.org/abs/2304.07493)
+- OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization <br> ISCA 2023 [[Paper]](https://arxiv.org/abs/2304.07493)
+
+- QuIP: 2-Bit Quantization of Large Language Models With Guarantees <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.13304) [[Code]](https://github.com/jerry-chee/QuIP)
 
 ### Pruning and Sparsity
 
