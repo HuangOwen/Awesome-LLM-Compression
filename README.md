@@ -98,11 +98,11 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
 
-- Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step [[Ppaer]](https://arxiv.org/abs/2306.14050) 
+- Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step <br> ACL 2023 [[Ppaer]](https://arxiv.org/abs/2306.14050) 
 
 - Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.02301) 
 
-- SCOTT: Self-Consistent Chain-of-Thought Distillation [[Paper]](https://arxiv.org/abs/2305.01879) 
+- SCOTT: Self-Consistent Chain-of-Thought Distillation <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.01879) 
 
 - LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.14402) [[Code]](https://github.com/mbzuai-nlp/LaMini-LM)
 
