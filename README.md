@@ -75,6 +75,9 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Floating-Point Quantized Transformers <br> Arxiv 2023 [[Paper]](https://openreview.net/forum?id=eaupB5ToNR)
 
+- NUPES : Non-Uniform Post-Training Quantization via Power Exponent Search <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.05600)
+
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
