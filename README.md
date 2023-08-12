@@ -73,8 +73,6 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - QuIP: 2-Bit Quantization of Large Language Models With Guarantees <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.13304) [[Code]](https://github.com/jerry-chee/QuIP)
 
-- Floating-Point Quantized Transformers <br> Arxiv 2023 [[Paper]](https://openreview.net/forum?id=eaupB5ToNR)
-
 - NUPES : Non-Uniform Post-Training Quantization via Power Exponent Search <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.05600)
 
 
