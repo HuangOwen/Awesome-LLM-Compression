@@ -99,8 +99,6 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - A Simple and Effective Pruning Approach for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.11695) [[Code]](https://github.com/locuslab/wanda)
 
-- Knowledge-preserving Pruning for Pre-trained Language Models without Retraining <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.03449)
-
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
