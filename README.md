@@ -75,6 +75,9 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - NUPES : Non-Uniform Post-Training Quantization via Power Exponent Search <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.05600)
 
+- GPT-Zip: Deep Compression of Finetuned Large Language Models <br> ICML 2023 Workshop ES-FoMO [[Paper]](https://openreview.net/forum?id=hO0c2tG2xL)
+
+- Generating Efficient Kernels for Quantized Inference on Large Language Models <br> ICML 2023 Workshop ES-FoMO [[Paper]](https://openreview.net/forum?id=jjazoNAf1S)
 
 ### Pruning and Sparsity
 
@@ -96,7 +99,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - A Simple and Effective Pruning Approach for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.11695) [[Code]](https://github.com/locuslab/wanda)
 
-- Knowledge-preserving Pruning for Pre-trained Language Models without Retraining Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.03449)
+- Knowledge-preserving Pruning for Pre-trained Language Models without Retraining <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.03449)
 
 ### Distillation
 
