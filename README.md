@@ -127,6 +127,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Task-agnostic Distillation of Encoder-Decoder Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.12330)
 
+- PET: Parameter-efficient Knowledge Distillation on Transformer <br> NCBI 2023 [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10325108/)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
