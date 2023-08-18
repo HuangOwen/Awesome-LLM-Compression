@@ -4,6 +4,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 # Contents
 
 - [Papers](#papers)
+  - [Survey](#survey)
   - [Quantization](#quantization)
   - [Pruning and Sparsity](#pruning-and-sparsity)
   - [Distillation](#distillation)
@@ -12,6 +13,10 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - [Tools](#tools)
 
 ## Papers
+
+### Survey
+
+- A Survey on Model Compression for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.07633)
 
 ### Quantization
 
