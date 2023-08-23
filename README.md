@@ -120,6 +120,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - SCOTT: Self-Consistent Chain-of-Thought Distillation <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.01879) 
 
+- DISCO: Distilling Counterfactuals with Large Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2212.10534) [[Code]](https://github.com/eric11eca/disco)
+
 - LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.14402) [[Code]](https://github.com/mbzuai-nlp/LaMini-LM)
 
 - Large Language Model Distillation Doesn't Need a Teacher <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.14864) [[Code]](https://github.com/ananyahjha93/llm-distill)
@@ -137,6 +139,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - Chain-of-Thought Prompt Distillation for Multimodal Named Entity and Multimodal Relation Extraction <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.14122)
 
 - Task-agnostic Distillation of Encoder-Decoder Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.12330)
+
+- Lion: Adversarial Distillation of Closed-Source Large Language Model <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.12870) [[Code]](https://github.com/YJiangcm/Lion)
 
 ### Efficient Prompting
 
