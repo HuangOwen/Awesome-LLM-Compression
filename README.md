@@ -176,6 +176,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.07705)
 
+- Ternary Singular Value Decomposition as a Better Parameterized Form in Linear Mapping <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.07641)
+
 
 ## Tools
 
