@@ -20,7 +20,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 ### Quantization
 
-- ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code]](https://github.com/microsoft/DeepSpeed)
+- ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
 
 - LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2208.07339) [[Code]](https://github.com/TimDettmers/bitsandbytes)
 
@@ -28,7 +28,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2211.10438) [[Code]](https://github.com/mit-han-lab/smoothquant)
 
-- FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2301.12017) [[Code(DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
+- FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2301.12017) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
 
 - Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2306.00317) [[Code]](https://openreview.net/attachment?id=-tYCaP0phY_&name=supplementary_material)
 
