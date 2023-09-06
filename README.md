@@ -219,3 +219,5 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Sparsebit: A model compression and acceleration toolbox based on pytorch. [[Code]](https://github.com/megvii-research/Sparsebit)
 
+- llama2.c: Inference Llama 2 in one file of pure C [[Code]](https://github.com/karpathy/llama2.c)
+
