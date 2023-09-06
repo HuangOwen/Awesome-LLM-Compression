@@ -94,6 +94,10 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - FPTQ: Fine-grained Post-Training Quantization for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.15987)
 
+- eDKM: An Efficient and Accurate Train-time Weight Clustering for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.00964)
+
+- QuantEase: Optimization-based Quantization for Language Models -- An Efficient and Intuitive Algorithm <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.01885)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
