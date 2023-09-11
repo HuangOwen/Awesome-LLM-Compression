@@ -192,6 +192,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Ternary Singular Value Decomposition as a Better Parameterized Form in Linear Mapping <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.07641)
 
+- LLMCad: Fast and Scalable On-device Large Language Model Inference <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.04255)
+
 
 ## Tools
 
