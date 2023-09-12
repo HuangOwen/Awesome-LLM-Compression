@@ -229,3 +229,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - llama2.c: Inference Llama 2 in one file of pure C [[Code]](https://github.com/karpathy/llama2.c)
 
+- Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads [[Code]](https://github.com/FasterDecoding/Medusa)
+
+- Megatron-LM: Ongoing research training transformer models at scale [[Code]](https://github.com/NVIDIA/Megatron-LM)
+
