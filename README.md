@@ -102,6 +102,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Understanding the Impact of Post-Training Quantization on Large-scale Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.05210)
 
+- MEMORY-VQ: Compression for Tractable Internet-Scale Memory <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.14903)
+
 - Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.05516) [[Code]](https://github.com/intel/neural-compressor)
 
 ### Pruning and Sparsity
@@ -127,6 +129,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.18403) 
 
 - Structural pruning of large language models via neural architecture search <br> AutoML 2023 [[Paper]](https://www.amazon.science/publications/structural-pruning-of-large-language-models-via-neural-architecture-search) 
+
+- Pruning Large Language Models via Accuracy Predictor <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.09507) 
 
 ### Distillation
 
