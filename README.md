@@ -132,6 +132,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Pruning Large Language Models via Accuracy Predictor <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.09507) 
 
+- Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.10285)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
