@@ -166,7 +166,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Lion: Adversarial Distillation of Closed-Source Large Language Model <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.12870) [[Code]](https://github.com/YJiangcm/Lion)
 
-- Offline Prompt Evaluation and Optimization with Inverse Reinforcement Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.06553) [[Code]](https://github.com/holarissun/Prompt-OIRL)
+- Sci-CoT: Leveraging Large Language Models for Enhanced Knowledge Distillation in Small Models for Scientific QA <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.04679)
 
 ### Efficient Prompting
 
