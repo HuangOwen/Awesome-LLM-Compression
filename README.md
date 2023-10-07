@@ -106,6 +106,16 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.05516) [[Code]](https://github.com/intel/neural-compressor)
 
+- Efficient Post-training Quantization with FP8 Formats <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.14592) [[Code (Intel® Neural Compressor)]](https://github.com/intel/neural-compressor)
+
+- QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.14717) [[Code]](https://github.com/yuhuixu1993/qa-lora)
+
+- Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.15531) 
+
+- ModuLoRA: Finetuning 3-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.16119) 
+
+- PB-LLM: Partially Binarized Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.00034) [[Code]](https://github.com/hahnyuan/PB-LLM)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
