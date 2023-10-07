@@ -144,6 +144,10 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.10285)
 
+- Compressing LLMs: The Truth is Rarely Pure and Never Simple <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.01382) 
+
+- Junk DNA Hypothesis: A Task-Centric Angle of LLM Pre-trained Weights through Sparsity <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.02277)  [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
