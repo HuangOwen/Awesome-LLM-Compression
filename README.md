@@ -149,6 +149,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Junk DNA Hypothesis: A Task-Centric Angle of LLM Pre-trained Weights through Sparsity <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.02277)  [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
 
+- Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.01801)  
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
@@ -204,6 +206,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - BatchPrompt: Accomplish more with less <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.00384) 
 
 - (Dynamic) Prompting might be all you need to repair Compressed LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.00867) 
+
+- RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.04408) [[Code]](https://github.com/carriex/recomp)
 
 ### Other
 
