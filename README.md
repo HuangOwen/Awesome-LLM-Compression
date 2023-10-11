@@ -116,6 +116,9 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - PB-LLM: Partially Binarized Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.00034) [[Code]](https://github.com/hahnyuan/PB-LLM)
 
+- Dual Grained Quantization: Efficient Fine-Grained Quantization for LLM <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.04836) 
+
+- Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.15531) 
 
 ### Pruning and Sparsity
 
