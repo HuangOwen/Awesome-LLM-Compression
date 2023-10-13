@@ -120,6 +120,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.15531) 
 
+- QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.08041) 
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
@@ -243,6 +245,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.12307) [[Code]](https://github.com/dvlab-research/LongLoRA)
 
 - LORD: Low Rank Decomposition Of Monolingual Code LLMs For One-Shot Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.14021) [[Code]](https://huggingface.co/nolanoAI)
+
+- Context Compression for Auto-regressive Transformers with Sentinel Tokens <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.08152) [[Code]](https://github.com/DRSY/KV_Compression)
 
 ## Tools
 
