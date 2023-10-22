@@ -128,6 +128,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - TEQ: Trainable Equivalent Transformation for Quantization of LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.10944) [[Code (Intel® Neural Compressor)]](https://github.com/intel/neural-compressor)
 
+- BitNet: Scaling 1-bit Transformers for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.11453) 
+
 - Watermarking LLMs with Weight Quantization <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.11237) [[Code]](https://github.com/Twilight92z/Quantize-Watermark)
 
 
@@ -174,6 +176,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.08915) [[Code]](https://github.com/zxyxmu/DSnoT)
 
 - One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models <br> ICASSP 2024 [[Paper]](https://arxiv.org/abs/2310.09499) 
+
+- Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.12774) 
 
 ### Distillation
 
