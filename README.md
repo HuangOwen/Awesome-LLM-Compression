@@ -182,6 +182,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.12774) 
 
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
@@ -273,6 +274,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.12307) [[Code]](https://github.com/dvlab-research/LongLoRA)
 
 - LORD: Low Rank Decomposition Of Monolingual Code LLMs For One-Shot Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.14021) [[Code]](https://huggingface.co/nolanoAI)
+
+- Mixture of Tokens: Efficient LLMs through Cross-Example Aggregation <br> rxiv 2023 [[Paper]](https://arxiv.org/abs/2310.15961) 
 
 - Context Compression for Auto-regressive Transformers with Sentinel Tokens <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.08152) [[Code]](https://github.com/DRSY/KV_Compression)
 
