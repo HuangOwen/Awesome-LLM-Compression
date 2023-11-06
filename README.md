@@ -192,6 +192,11 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.12774) 
 
+- Divergent Token Metrics: Measuring degradation to prune away LLM components -- and optimize quantization <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.01544) 
+
+- LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.18356) 
+
+- E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.15929)
 
 ### Distillation
 
