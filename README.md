@@ -132,11 +132,15 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - FP8-LM: Training FP8 Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.18313) [[Code]](https://github.com/Azure/MS-AMP)
 
+- QUIK: Towards End-to-End 4-Bit Inference on Generative Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.09259) [[Code]](https://github.com/IST-DASLab/QUIK)
+
 - AFPQ: Asymmetric Floating Point Quantization for LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.01792) [[Code]](https://github.com/zhangsichengsjtu/AFPQ)
 
 - AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.01305) 
 
 - Atom: Low-bit Quantization for Efficient and Accurate LLM Serving <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.19102) 
+
+- QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.16795) 
 
 - Efficient LLM Inference on CPUs <br> NeurIPS 2023 on Efficient Natural Language and Speech Processing [[Paper]](https://arxiv.org/abs/2311.00502) [[Code]](https://github.com/intel/intel-extension-for-transformers)
 
