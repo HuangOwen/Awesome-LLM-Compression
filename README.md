@@ -22,8 +22,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - A Survey on Model Compression for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.07633)
 
-- The case for 4-bit precision: k-bit inference scaling laws <br> ICML 2023 [[Paper]](https://proceedings.mlr.press/v202/dettmers23a/dettmers23a.pdf)
-
 ### Quantization
 
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
@@ -159,8 +157,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Enhancing Computation Efficiency in Large Language Models through Weight and Activation Quantization <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2311.05161)
 
 - LLM-FP4: 4-Bit Floating-Point Quantized Transformers <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.16836) [[Code]](https://github.com/nbasyl/LLM-FP4)
-
-- Towards Efficient Post-training Quantization of Pre-trained Language Models <br> NIPS 2022 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/096347b4efc264ae7f07742fea34af1f-Paper-Conference.pdf) 
 
 ### Pruning and Sparsity
 
