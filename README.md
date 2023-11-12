@@ -302,6 +302,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Retrieval-based Knowledge Transfer: An Effective Approach for Extreme Large Language Model Compression <br> EMNLP 2023 Findings [[Paper]](https://arxiv.org/abs/2310.15594)
 
+- BEYOND SIZE: HOW GRADIENTS SHAPE PRUNING DECISIONS IN LARGE LANGUAGE MODELS <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2311.04902.pdf) [[Code]](https://github.com/RocktimJyotiDas/GBLM-Pruner)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
