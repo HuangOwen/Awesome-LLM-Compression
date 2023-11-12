@@ -212,7 +212,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ZipLM: Inference-Aware Structured Pruning of Language Models <br> NeurIPS 2023  [[Paper]](https://arxiv.org/abs/2302.04089) [[Code]](https://github.com/IST-DASLab/ZipLM)
 
-- BEYOND SIZE: HOW GRADIENTS SHAPE PRUNING DECISIONS IN LARGE LANGUAGE MODELS <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2311.04902.pdf) [[Code]](https://github.com/RocktimJyotiDas/GBLM-Pruner)
+- Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2311.04902.pdf) [[Code]](https://github.com/RocktimJyotiDas/GBLM-Pruner)
 
 ### Distillation
 
