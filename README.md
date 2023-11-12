@@ -1,5 +1,9 @@
-# Awesome-LLM-Compression [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Awesome LLM compression research papers and tools to accelerate the LLM training and inference. 
+<div align="center">
+    <h1>Awesome LLM Compression</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+</div>
+
+Awesome LLM compression research papers and tools to accelerate LLM training and inference. 
 
 # Contents
 
