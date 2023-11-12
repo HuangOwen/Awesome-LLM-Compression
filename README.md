@@ -17,6 +17,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 ### Survey
 
 - A Survey on Model Compression for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.07633)
+
 - The case for 4-bit precision: k-bit inference scaling laws <br> ICML 2023 [[Paper]](https://proceedings.mlr.press/v202/dettmers23a/dettmers23a.pdf)
 
 ### Quantization
