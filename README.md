@@ -1,16 +1,22 @@
-# Awesome-LLM-Compression [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Awesome LLM compression research papers and tools to accelerate the LLM training and inference. 
+<div align="center">
+    <h1>Awesome LLM Compression</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+</div>
+
+Awesome LLM compression research papers and tools to accelerate LLM training and inference. 
 
 # Contents
 
-- [Papers](#papers)
+- [📑 Papers](#papers)
   - [Survey](#survey)
   - [Quantization](#quantization)
   - [Pruning and Sparsity](#pruning-and-sparsity)
   - [Distillation](#distillation)
   - [Efficient Prompting](#efficient-prompting)
   - [Other](#other)
-- [Tools](#tools)
+- [🔧 Tools](#tools)
+- [🙌 Contributing](#contributing)
+- [🌟 Star History](#star-history)
 
 ## Papers
 
@@ -31,6 +37,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2306.00317) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
 
 - Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2301.12017) [[Code]](https://openreview.net/attachment?id=-tYCaP0phY_&name=supplementary_material)
+
+- The case for 4-bit precision: k-bit Inference Scaling Laws <br> ICML 2023 [[Paper]](https://proceedings.mlr.press/v202/dettmers23a.html)
 
 - GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers <br> ICLR 2023 [[Paper]](https://arxiv.org/abs/2210.17323) [[Code]](https://github.com/IST-DASLab/gptq)
 
@@ -144,6 +152,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - Dissecting the Runtime Performance of the Training, Fine-tuning, and Inference of Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.03687) 
 
+- Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2306.12929) [[Code]](https://github.com/Qualcomm-AI-research/outlier-free-transformers)
+
 - Efficient LLM Inference on CPUs <br> NeurIPS 2023 on Efficient Natural Language and Speech Processing [[Paper]](https://arxiv.org/abs/2311.00502) [[Code]](https://github.com/intel/intel-extension-for-transformers)
 
 - Zero-Shot Sharpness-Aware Quantization for Pre-trained Language Models <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.13315) 
@@ -208,7 +218,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - ZipLM: Inference-Aware Structured Pruning of Language Models <br> NeurIPS 2023  [[Paper]](https://arxiv.org/abs/2302.04089) [[Code]](https://github.com/IST-DASLab/ZipLM)
 
-- BEYOND SIZE: HOW GRADIENTS SHAPE PRUNING DECISIONS IN LARGE LANGUAGE MODELS <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2311.04902.pdf) [[Code]](https://github.com/RocktimJyotiDas/GBLM-Pruner)
+- Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2311.04902.pdf) [[Code]](https://github.com/RocktimJyotiDas/GBLM-Pruner)
 
 - JUNK DNA HYPOTHESIS: A TASK-CENTRIC ANGLE OF LLM PRE-TRAINED WEIGHTS THROUGH SPARSITY <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2310.02277.pdf) [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis.git)
 
@@ -304,7 +314,7 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - LORD: Low Rank Decomposition Of Monolingual Code LLMs For One-Shot Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.14021) [[Code]](https://huggingface.co/nolanoAI)
 
-- Mixture of Tokens: Efficient LLMs through Cross-Example Aggregation <br> rxiv 2023 [[Paper]](https://arxiv.org/abs/2310.15961) 
+- Mixture of Tokens: Efficient LLMs through Cross-Example Aggregation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.15961) 
 
 - Context Compression for Auto-regressive Transformers with Sentinel Tokens <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.08152) [[Code]](https://github.com/DRSY/KV_Compression)
 
@@ -357,3 +367,16 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 - rwkv.cpp: NT4/INT5/INT8 and FP16 inference on CPU for RWKV language model [[Code]](https://github.com/saharNooby/rwkv.cpp)
 
 - Can my GPU run this LLM?: Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization [[Code]](https://github.com/RahulSChand/gpu_poor)
+
+## Contributing
+
+This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
+
+- The paper or tools is related to **Large Language Models (LLMs)**. If the compression algorithms or tools are only evaluated on small-scale language models (e.g., BERT), they should not be included in the list.
+- The paper should be inserted in the correct position in chronological order (publication/Arxiv release time). 
+- The link to [Paper] should be the Arxiv page, not the pdf page if this is a paper posted on Arxiv.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HuangOwen/Awesome-LLM-Compression&type=Date)](https://star-history.com/#HuangOwen/Awesome-LLM-Compression&Date)
+
