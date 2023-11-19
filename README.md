@@ -210,6 +210,8 @@ Awesome LLM compression research papers and tools to accelerate the LLM training
 
 - BEYOND SIZE: HOW GRADIENTS SHAPE PRUNING DECISIONS IN LARGE LANGUAGE MODELS <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2311.04902.pdf) [[Code]](https://github.com/RocktimJyotiDas/GBLM-Pruner)
 
+- JUNK DNA HYPOTHESIS: A TASK-CENTRIC ANGLE OF LLM PRE-TRAINED WEIGHTS THROUGH SPARSITY <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2310.02277.pdf) [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis.git)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
