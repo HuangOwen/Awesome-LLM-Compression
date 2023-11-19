@@ -7,14 +7,16 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 # Contents
 
-- [Papers](#papers)
+- [📑 Papers](#papers)
   - [Survey](#survey)
   - [Quantization](#quantization)
   - [Pruning and Sparsity](#pruning-and-sparsity)
   - [Distillation](#distillation)
   - [Efficient Prompting](#efficient-prompting)
   - [Other](#other)
-- [Tools](#tools)
+- [🔧 Tools](#tools)
+- [🙌 Contributing](#contributing)
+- [🌟 Star History](#star-history)
 
 ## Papers
 
@@ -308,7 +310,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LORD: Low Rank Decomposition Of Monolingual Code LLMs For One-Shot Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.14021) [[Code]](https://huggingface.co/nolanoAI)
 
-- Mixture of Tokens: Efficient LLMs through Cross-Example Aggregation <br> rxiv 2023 [[Paper]](https://arxiv.org/abs/2310.15961) 
+- Mixture of Tokens: Efficient LLMs through Cross-Example Aggregation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.15961) 
 
 - Context Compression for Auto-regressive Transformers with Sentinel Tokens <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.08152) [[Code]](https://github.com/DRSY/KV_Compression)
 
@@ -361,3 +363,16 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - rwkv.cpp: NT4/INT5/INT8 and FP16 inference on CPU for RWKV language model [[Code]](https://github.com/saharNooby/rwkv.cpp)
 
 - Can my GPU run this LLM?: Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization [[Code]](https://github.com/RahulSChand/gpu_poor)
+
+## Contributing
+
+This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
+
+- The paper or tools is related to **Large Language Models (LLMs)**. If the compression algorithms or tools are only evaluated on small-scale language models (e.g., BERT), they should not be included in the list.
+- The paper should be inserted in the correct position in chronological order (publication/Arxiv release time). 
+- The link to [Paper] should be the Arxiv page, not the pdf page if this is a paper posted on Arxiv.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HuangOwen/Awesome-LLM-Compression&type=Date)](https://star-history.com/#HuangOwen/Awesome-LLM-Compression&Date)
+
