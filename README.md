@@ -230,6 +230,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 -BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation <br> OpenReview [[Paper]](https://openreview.net/pdf?id=gC6JTEU3jl) [[Code]](https://github.com/LinkAnonymous/BESA)
  
+-OUTLIER WEIGHED LAYERWISE SPARSITY (OWL ):A MISSING SECRET SAUCE FOR PRUNING LLMS TO HIGH SPARSITY <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2310.05175.pdf) [[Code]](https://github.com/luuyin/OWL)
 
 ### Distillation
 
