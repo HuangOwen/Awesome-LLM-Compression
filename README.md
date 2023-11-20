@@ -226,7 +226,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - How Does Calibration Data Affect the Post-training Pruning and Quantization of Large Language Models? <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.09755)
 
-- JUNK DNA HYPOTHESIS: A TASK-CENTRIC ANGLE OF LLM PRE-TRAINED WEIGHTS THROUGH SPARSITY <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2310.02277.pdf) [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis.git)
+- Junk DNA Hypothesis: A Task-Centric Angle of LLM Pre-trained Weights through Sparsity <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.02277v1) [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
+
 
 ### Distillation
 
@@ -322,6 +323,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Mixture of Tokens: Efficient LLMs through Cross-Example Aggregation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.15961) 
 
+- Efficient Streaming Language Models with Attention Sinks <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.17453) [[Code]](https://github.com/mit-han-lab/streaming-llm)
+
 - Context Compression for Auto-regressive Transformers with Sentinel Tokens <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.08152) [[Code]](https://github.com/DRSY/KV_Compression)
 
 - TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction <br> EMNLP 2023 Findings [[Paper]](https://arxiv.org/abs/2310.15556)
@@ -379,8 +382,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
 
 - The paper or tools is related to **Large Language Models (LLMs)**. If the compression algorithms or tools are only evaluated on small-scale language models (e.g., BERT), they should not be included in the list.
-- The paper should be inserted in the correct position in chronological order (publication/Arxiv release time). 
-- The link to [Paper] should be the Arxiv page, not the pdf page if this is a paper posted on Arxiv.
+- The paper should be inserted in the correct position in chronological order (publication/arxiv release time). 
+- The link to [Paper] should be the arxiv page, not the pdf page if this is a paper posted on arxiv.
 
 ## Star History
 
