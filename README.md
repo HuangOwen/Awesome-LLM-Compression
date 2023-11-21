@@ -229,8 +229,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Junk DNA Hypothesis: A Task-Centric Angle of LLM Pre-trained Weights through Sparsity <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.02277v1) [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
 
 - BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation <br> OpenReview [[Paper]](https://openreview.net/pdf?id=gC6JTEU3jl) [[Code]](https://github.com/LinkAnonymous/BESA)
- 
-- OUTLIER WEIGHED LAYERWISE SPARSITY (OWL ):A MISSING SECRET SAUCE FOR PRUNING LLMS TO HIGH SPARSITY <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2310.05175.pdf) [[Code]](https://github.com/luuyin/OWL)
 
 ### Distillation
 
