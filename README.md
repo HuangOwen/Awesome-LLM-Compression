@@ -230,8 +230,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - How Does Calibration Data Affect the Post-training Pruning and Quantization of Large Language Models? <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.09755)
 
-- Junk DNA Hypothesis: A Task-Centric Angle of LLM Pre-trained Weights through Sparsity <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.02277v1) [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
-
 - BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation <br> OpenReview [[Paper]](https://openreview.net/pdf?id=gC6JTEU3jl) [[Code]](https://github.com/LinkAnonymous/BESA)
 
 - PUSHING GRADIENT TOWARDS ZERO: A NOVEL PRUNING METHOD FOR LARGE LANGUAGE MODELS <br> OpenReview [[Paper]](https://openreview.net/attachment?id=IU4L7wiwxw&name=pdf)
