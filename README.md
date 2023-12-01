@@ -290,6 +290,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.05736) [[Code]](https://github.com/microsoft/LLMLingua)
 
+- Vector-Quantized Prompt Learning for Paraphrase Generation <br> EMNLP 2023 Findings [[Paper]](https://arxiv.org/abs/2311.14949)
+
 - Efficient Prompting via Dynamic In-Context Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.11170)
 
 - Learning to Compress Prompts with Gist Tokens <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.08467) [[Code]](https://github.com/jayelm/gisting)
