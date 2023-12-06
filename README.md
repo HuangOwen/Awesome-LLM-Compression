@@ -278,6 +278,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Can a student Large Language Model perform as well as it's teacher? <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.02421)
 
+- Multistage Collaborative Knowledge Distillation from Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.08640)
+
 - Lion: Adversarial Distillation of Closed-Source Large Language Model <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2305.12870) [[Code]](https://github.com/YJiangcm/Lion)
 
 - MCC-KD: Multi-CoT Consistent Knowledge Distillation <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.14747)
