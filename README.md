@@ -250,6 +250,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - An Efficient Plug-and-Play Post-Training Pruning Strategy in Large Language Models <br> Preprints [[Paper]](https://www.preprints.org/manuscript/202310.1487/download/final_file)
 
+- Lighter, yet More Faithful: Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2311.09335.pdf) [[Code]](https://github.com/casszhao/PruneHall)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
