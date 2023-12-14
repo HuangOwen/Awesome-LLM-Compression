@@ -248,6 +248,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PUSHING GRADIENT TOWARDS ZERO: A NOVEL PRUNING METHOD FOR LARGE LANGUAGE MODELS <br> OpenReview [[Paper]](https://openreview.net/attachment?id=IU4L7wiwxw&name=pdf)
 
+- An Efficient Plug-and-Play Post-Training Pruning Strategy in Large Language Models <br> Preprints [[Paper]](https://www.preprints.org/manuscript/202310.1487/download/final_file)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
