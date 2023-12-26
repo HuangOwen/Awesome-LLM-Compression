@@ -376,6 +376,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SparQ Attention: Bandwidth-Efficient LLM Inference <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.04985)
 
+- Rethinking Compression: Reduced Order Modelling of Latent Features in Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.07046) 
+
 - Dataset Quantization <br> ICCV 2023 [[Paper]](https://arxiv.org/abs/2308.10524) [[Code]](https://github.com/magic-research/Dataset_Quantization)
 
 - Text Alignment Is An Efficient Unified Model for Massive NLP Tasks <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2307.02729) [[Code]](https://github.com/yuh-zha/Align)
