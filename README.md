@@ -188,7 +188,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.08583)
 
-
+- A Performance Evaluation of a Quantized Large Language Model on Various Smartphones <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.12472)
 
 ### Pruning and Sparsity
 
