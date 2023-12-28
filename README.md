@@ -90,8 +90,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization <br> ISCA 2023 [[Paper]](https://arxiv.org/abs/2304.07493)
 
-- QuIP: 2-Bit Quantization of Large Language Models With Guarantees <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.13304) [[Code]](https://github.com/jerry-chee/QuIP)
-
 - NUPES : Non-Uniform Post-Training Quantization via Power Exponent Search <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.05600)
 
 - GPT-Zip: Deep Compression of Finetuned Large Language Models <br> ICML 2023 Workshop ES-FoMO [[Paper]](https://openreview.net/forum?id=hO0c2tG2xL)
