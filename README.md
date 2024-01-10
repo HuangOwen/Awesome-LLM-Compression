@@ -409,6 +409,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Retrieval-based Knowledge Transfer: An Effective Approach for Extreme Large Language Model Compression <br> EMNLP 2023 Findings [[Paper]](https://arxiv.org/abs/2310.15594)
 
+- FFSplit: Split Feed-Forward Network For Optimizing Accuracy-Efficiency Trade-off in Language Model Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.04044)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
