@@ -367,6 +367,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.08901)
 
+- The Impact of Reasoning Step Length on Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.04925)
+
 ### Other
 
 - TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.00526)
