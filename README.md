@@ -28,7 +28,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Efficient Large Language Models: A Survey <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.03863) [[GitHub Page]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 
+- Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.15234) 
+
 - Understanding LLMs: A Comprehensive Overview from Training to Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.02038) 
+
 
 ### Quantization
 
