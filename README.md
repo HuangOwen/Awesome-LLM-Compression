@@ -199,6 +199,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Extreme Compression of Large Language Models via Additive Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.06118)
 
+- Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.07159)
+
+- Inferflow: an Efficient and Highly Configurable Inference Engine for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.08294)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
