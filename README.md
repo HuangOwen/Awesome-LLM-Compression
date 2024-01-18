@@ -32,6 +32,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Understanding LLMs: A Comprehensive Overview from Training to Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.02038) 
 
+- A Survey of Resource-efficient LLM and Multimodal Foundation Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.08092) 
+
 
 ### Quantization
 
