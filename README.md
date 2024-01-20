@@ -428,6 +428,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FFSplit: Split Feed-Forward Network For Optimizing Accuracy-Efficiency Trade-off in Language Model Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.04044)
 
+- LoMA: Lossless Compressed Memory Attention <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.09486)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
