@@ -430,6 +430,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LoMA: Lossless Compressed Memory Attention <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.09486)
 
+- Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.10774) [[Code]](https://github.com/FasterDecoding/Medusa)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
@@ -465,8 +467,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Sparsebit: A model compression and acceleration toolbox based on pytorch. [[Code]](https://github.com/megvii-research/Sparsebit)
 
 - llama2.c: Inference Llama 2 in one file of pure C [[Code]](https://github.com/karpathy/llama2.c)
-
-- Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads [[Code]](https://github.com/FasterDecoding/Medusa)
 
 - Megatron-LM: Ongoing research training transformer models at scale [[Code]](https://github.com/NVIDIA/Megatron-LM)
 
