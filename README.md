@@ -303,6 +303,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Fast and Optimal Weight Update for Pruned Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.02938)
 
+- APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.12200)
 
 ### Distillation
 
