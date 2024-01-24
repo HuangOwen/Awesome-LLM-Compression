@@ -34,6 +34,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - A Survey of Resource-efficient LLM and Multimodal Foundation Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.08092) 
 
+- A Survey on Hardware Accelerators for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.09890) 
+
 
 ### Quantization
 
