@@ -491,6 +491,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - EasyLLM: Built upon Megatron-Deepspeed and HuggingFace Trainer, EasyLLM has reorganized the code logic with a focus on usability. While enhancing usability, it also ensures training efficiency [[Code]](https://github.com/ModelTC/EasyLLM)
 
+- GreenBit LLaMA: Advanced Ultra-Low Bitrate Compression Techniques for the LLaMA Family of LLMs [[Code]](https://github.com/GreenBitAI/low_bit_llama)
+
 ## Contributing
 
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
