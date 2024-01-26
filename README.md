@@ -207,6 +207,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Inferflow: an Efficient and Highly Configurable Inference Engine for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.08294)
 
+- FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.14112)
+
 - AffineQuant: Affine Transformation Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://openreview.net/forum?id=of2rhALq8l)
 
 ### Pruning and Sparsity
