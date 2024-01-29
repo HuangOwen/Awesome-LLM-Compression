@@ -209,8 +209,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.14112)
 
-- CompactifAI: Extreme Compression of Large Language Models using Quantum-Inspired Tensor Networks <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.14109)
-
 - AffineQuant: Affine Transformation Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://openreview.net/forum?id=of2rhALq8l)
 
 ### Pruning and Sparsity
@@ -310,6 +308,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Fast and Optimal Weight Update for Pruned Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.02938)
 
 - APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.12200)
+
+- SliceGPT: Compress Large Language Models by Deleting Rows and Columns <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2401.15024) [[Code]](https://github.com/microsoft/TransformerCompression)
 
 ### Distillation
 
@@ -440,6 +440,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.10774) [[Code]](https://github.com/FasterDecoding/Medusa)
 
 - BiTA: Bi-Directional Tuning for Lossless Acceleration in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.12522) [[Code]](https://github.com/linfeng93/BiTA)
+
+- CompactifAI: Extreme Compression of Large Language Models using Quantum-Inspired Tensor Networks <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.14109)
 
 ## Tools
 
