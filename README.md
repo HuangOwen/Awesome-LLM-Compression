@@ -36,6 +36,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - A Survey on Hardware Accelerators for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.09890) 
 
+- A Comprehensive Survey of Compression Algorithms for Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.15347) 
 
 ### Quantization
 
@@ -208,6 +209,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Inferflow: an Efficient and Highly Configurable Inference Engine for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.08294)
 
 - FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.14112)
+
+- KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.18079)
 
 - AffineQuant: Affine Transformation Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://openreview.net/forum?id=of2rhALq8l)
 
