@@ -212,7 +212,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.18079)
 
-- AffineQuant: Affine Transformation Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://openreview.net/forum?id=of2rhALq8l)
+- Can Large Language Models Understand Context? <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.18079)
+
+- AffineQuant: Affine Transformation Quantization for Large Language Models <br> EACL 2024 [[Paper]](https://browse.arxiv.org/abs/2402.00858)
 
 ### Pruning and Sparsity
 
