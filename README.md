@@ -222,6 +222,14 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.10517) 
 
+- LQER: Low-Rank Quantization Error Reconstruction for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.02446) 
+
+- KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.02750) [[Code]](https://github.com/jy-yuan/KIVI)
+
+- BiLLM: Pushing the Limit of Post-Training Quantization for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.04291) [[Code]](https://github.com/Aaronhuang-778/BiLLM)
+
+- QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.04396) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
