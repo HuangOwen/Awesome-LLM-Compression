@@ -230,6 +230,14 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.04396) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp)
 
+- L4Q: Parameter Efficient Quantization-Aware Training on Large Language Models via LoRA-wise LSQ <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.04902) 
+
+- TP-Aware Dequantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.04925) 
+
+- ApiQ: Finetuning of 2-Bit Quantized Large Language Model <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.05147) 
+
+- Accurate LoRA-Finetuning Quantization of LLMs via Information Retention <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.05445) [[Code]](https://github.com/htqin/ir-qlora)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
