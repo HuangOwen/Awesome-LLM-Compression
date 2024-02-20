@@ -355,6 +355,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SliceGPT: Compress Large Language Models by Deleting Rows and Columns <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2401.15024) [[Code]](https://github.com/microsoft/TransformerCompression)
 
+- Shortened LLaMA: A Simple Depth Pruning for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.02834)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
