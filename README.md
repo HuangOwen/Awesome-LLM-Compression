@@ -248,6 +248,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - OneBit: Towards Extremely Low-bit Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11295)
 
+- DB-LLM: Accurate Dual-Binarization for Efficient LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11960)
+
+- WKVQuant: Quantizing Weight and Key/Value Cache for Large Language Models Gains More <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.12065)
+
 
 ### Pruning and Sparsity
 
