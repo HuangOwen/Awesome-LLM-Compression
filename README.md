@@ -202,6 +202,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - A Performance Evaluation of a Quantized Large Language Model on Various Smartphones <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.12472)
 
+- DeltaZip: Multi-Tenant Language Model Serving via Delta Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.05215) [[Code]](https://github.com/eth-easl/deltazip)
+
 - FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGA <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.03868)
 
 - Extreme Compression of Large Language Models via Additive Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.06118)
@@ -444,6 +446,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.08901)
 
 - The Impact of Reasoning Step Length on Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.04925)
+
+- Compressed Context Memory For Online Language Model Interaction <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2312.03414) [[Code]](https://github.com/snu-mllab/context-memory)
 
 ### Other
 
