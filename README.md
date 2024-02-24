@@ -283,6 +283,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2301.00774) [[Code]](https://github.com/IST-DASLab/sparsegpt)
 
+- AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2303.10512)
+
 - Unlocking Context Constraints of LLMs: Enhancing Context Efficiency of LLMs with Self-Information-Based Content Filtering <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.12102) [[Code]](https://github.com/liyucheng09/Selective_Context)
 
 - Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2212.09095) [[Code]](https://github.com/amazon-science/llm-interpret)
@@ -367,7 +369,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LaCo: Large Language Model Pruning via Layer Collapse <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11187) 
 
-- Why Lift so Heavy? Slimming Large Language Models by Cutting Off the Layers <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11700) 
+- Why Lift so Heavy? Slimming Large Language Models by Cutting Off the Layers <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11700)
 
 ### Distillation
 
@@ -452,6 +454,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Compressed Context Memory For Online Language Model Interaction <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2312.03414) [[Code]](https://github.com/snu-mllab/context-memory)
 
 ### Other
+- FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2205.14135)
 
 - TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.00526)
 
@@ -465,9 +468,13 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.07705)
 
+- Universal and Transferable Adversarial Attacks on Aligned Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.15043)
+
 - Ternary Singular Value Decomposition as a Better Parameterized Form in Linear Mapping <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.07641)
 
 - LLMCad: Fast and Scalable On-device Large Language Model Inference <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.04255)
+
+- vLLM: Efficient Memory Management for Large Language Model Serving with PagedAttention <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.06180)
 
 - LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.12307) [[Code]](https://github.com/dvlab-research/LongLoRA)
 
