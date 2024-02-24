@@ -468,8 +468,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.07705)
 
-- Universal and Transferable Adversarial Attacks on Aligned Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.15043)
-
 - Ternary Singular Value Decomposition as a Better Parameterized Form in Linear Mapping <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.07641)
 
 - LLMCad: Fast and Scalable On-device Large Language Model Inference <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.04255)
