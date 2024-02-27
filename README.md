@@ -260,7 +260,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models <br> DAC 2024 [[Paper]](https://arxiv.org/abs/2402.14866) 
 
-
+- A Comprehensive Evaluation of Quantization Strategies for Large Language Models <br> DAC 2024 [[Paper]](https://arxiv.org/abs/2402.16775) 
 
 ### Pruning and Sparsity
 
