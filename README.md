@@ -378,6 +378,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - EBFT: Effective and Block-Wise Fine-Tuning for Sparse LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2402.12419) [[Code]](https://github.com/sunggo/EBFT)
 
+- Data-free Weight Compress and Denoise for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.16319)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
@@ -468,8 +470,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Compressed Context Memory For Online Language Model Interaction <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2312.03414) [[Code]](https://github.com/snu-mllab/context-memory)
 
+- Say More with Less: Understanding Prompt Learning Behaviors through Gist Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.04925)
+
 ### Other
-- FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2205.14135)
+- FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2402.16058) [[Code]](https://github.com/OpenMatch/Gist-COCO)
 
 - TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.00526)
 
