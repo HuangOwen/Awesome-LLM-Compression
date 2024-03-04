@@ -386,6 +386,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Data-free Weight Compress and Denoise for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.16319)
 
+- Gradient-Free Adaptive Global Pruning for Pre-trained Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.17946)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
