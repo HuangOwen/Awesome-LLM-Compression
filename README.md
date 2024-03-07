@@ -553,6 +553,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - NoMAD-Attention: Efficient LLM Inference on CPUs Through Multiply-add-free Attention <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.01273)
 
+- Not all Layers of LLMs are Necessary during Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.02181)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
