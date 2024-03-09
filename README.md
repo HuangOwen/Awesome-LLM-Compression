@@ -559,6 +559,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Not all Layers of LLMs are Necessary during Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.02181)
 
+- GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.03507)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
