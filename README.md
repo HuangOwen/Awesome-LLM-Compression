@@ -280,6 +280,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.05527)
 
+- What Makes Quantization for Large Language Models Hard? An Empirical Study from the Lens of Perturbation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.06408)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
