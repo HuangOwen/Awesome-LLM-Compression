@@ -571,6 +571,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.03507)
 
+- Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.09636)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
