@@ -506,6 +506,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Say More with Less: Understanding Prompt Learning Behaviors through Gist Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.04925) [[Code]](https://github.com/OpenMatch/Gist-COCO)
 
+- StreamingDialogue: Prolonged Dialogue Learning via Long Context Compression with Minimal Losses <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.08312) 
+
 ### Other
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2402.16058) 
  
