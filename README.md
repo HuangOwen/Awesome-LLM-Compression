@@ -575,6 +575,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.09636)
 
+- Smart-Infinity: Fast Large Language Model Training using Near-Storage Processing on a Real System <br> HPCA 2024 [[Paper]](https://arxiv.org/abs/2403.06664)
+
 - Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference <br> MLSys 2024 [[Paper]](https://arxiv.org/abs/2403.09054)
 
 
