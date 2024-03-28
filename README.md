@@ -464,7 +464,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Sinkhorn Distance Minimization for Knowledge Distillation <br> COLING 2024 [[Paper]](https://arxiv.org/abs/2402.17110) 
 
-- Learning to Maximize Mutual Information for Chain-of-Thought Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.03348) 
+- Learning to Maximize Mutual Information for Chain-of-Thought Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.03348)
+
+- DistiLLM: Towards Streamlined Distillation for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.03898) [[Code]](https://github.com/jongwooko/distillm)
 
 ### Efficient Prompting
 
