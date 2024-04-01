@@ -591,6 +591,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference <br> MLSys 2024 [[Paper]](https://arxiv.org/abs/2403.09054)
 
+- ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.16187)
+
 
 ## Tools
 
