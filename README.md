@@ -286,6 +286,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - AffineQuant: Affine Transformation Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://browse.arxiv.org/abs/2402.00858) [[Code]](https://github.com/bytedance/AffineQuant)
 
+- Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models <br> ICLR Practical ML for Low Resource Settings Workshop 2024 [[Paper]](https://arxiv.org/abs/2403.18159) 
+
+- Accurate Block Quantization in LLMs with Outliers <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.20137)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
