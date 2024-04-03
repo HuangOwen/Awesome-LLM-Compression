@@ -3,6 +3,8 @@
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
 </div>
 
+![](quantization.gif)
+
 Awesome LLM compression research papers and tools to accelerate LLM training and inference. 
 
 # Contents
@@ -671,4 +673,3 @@ This is an active repository and your contributions are always welcome! Before y
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HuangOwen/Awesome-LLM-Compression&type=Date)](https://star-history.com/#HuangOwen/Awesome-LLM-Compression&Date)
-
