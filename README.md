@@ -296,6 +296,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.00456) [[Code]](https://github.com/spcl/QuaRot)
 
+- Minimize Quantization Output Error with Bias Compensation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.01892) [[Code]](https://github.com/GongCheng1919/bias-compensation)
+
 - Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.02837)
 
 ### Pruning and Sparsity
