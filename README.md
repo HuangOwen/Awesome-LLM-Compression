@@ -300,6 +300,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.02837)
 
+- Increased LLM Vulnerabilities from Fine-tuning and Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.04392)
+ 
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
