@@ -302,6 +302,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Increased LLM Vulnerabilities from Fine-tuning and Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.04392)
  
+- Quantization of Large Language Models with an Overdetermined Basis <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.09737)
 
 ### Pruning and Sparsity
 
@@ -430,7 +431,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Compressing Large Language Models by Streamlining the Unimportant Layer <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.19135)
 
 - LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.09695)
-
 
 ### Distillation
 
