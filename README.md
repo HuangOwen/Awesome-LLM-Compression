@@ -304,6 +304,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
  
 - Quantization of Large Language Models with an Overdetermined Basis <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.09737)
 
+- QuantTune: Optimizing Model Quantization with Adaptive Outlier-Driven Fine Tuning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.06497)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
