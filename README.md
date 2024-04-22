@@ -623,6 +623,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.11912) [[Code]](https://github.com/Infini-AI-Lab/TriForce)
 
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
