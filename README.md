@@ -304,6 +304,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
  
 - Quantization of Large Language Models with an Overdetermined Basis <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.09737)
 
+- How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.14047) [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization) [[Model]](https://huggingface.co/LLMQ)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
