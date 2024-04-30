@@ -306,6 +306,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.14047) [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization) [[Model]](https://huggingface.co/LLMQ)
 
+- How to Parameterize Asymmetric Quantization Ranges for Quantization-Aware Training <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.16898)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
@@ -435,6 +437,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.09695)
 
 - Shears: Unstructured Sparsity with Neural Low-rank Adapter Search <br> NAACL 2024 [[Paper]](https://arxiv.org/abs/2404.10934)
+
+- Eigenpruning <br> NAACL 2024 Abstract [[Paper]](https://arxiv.org/abs/2404.03147)
 
 ### Distillation
 
