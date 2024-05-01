@@ -697,6 +697,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLM-Viewer: Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface. [[Code]](https://github.com/hahnyuan/LLM-Viewer)
 
+- LLaMA3-Quantization: A repository dedicated to evaluating the performance of quantizied LLaMA3 using various quantization methods. [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization)
+
+- LLamaSharp: A C#/.NET library to run LLM models (🦙LLaMA/LLaVA) on your local device efficiently. [[Code]](https://github.com/SciSharp/LLamaSharp)
+
 ## Contributing
 
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
