@@ -701,6 +701,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLamaSharp: A C#/.NET library to run LLM models (🦙LLaMA/LLaVA) on your local device efficiently. [[Code]](https://github.com/SciSharp/LLamaSharp)
 
+- Green-bit-LLM: A toolkit for fine-tuning, inferencing, and evaluating GreenBitAI's LLMs. [[Code]](https://github.com/GreenBitAI/green-bit-llm) [[Model]](https://huggingface.co/GreenBitAI)
+
+- Bitorch Engine: Streamlining AI with Open-Source Low-Bit Quantization. [[Code]](https://github.com/GreenBitAI/bitorch-engine)
+
 ## Contributing
 
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
