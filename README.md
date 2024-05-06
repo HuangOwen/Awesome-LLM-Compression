@@ -350,6 +350,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Structural pruning of large language models via neural architecture search <br> AutoML 2023 [[Paper]](https://www.amazon.science/publications/structural-pruning-of-large-language-models-via-neural-architecture-search) 
 
+- Baby Llama: knowledge distillation from an ensemble of teachers trained on a small dataset with no performance penalty <br> CoNLL 2023 [[Paper]](https://arxiv.org/abs/2308.02019) [[Code]](https://github.com/timinar/BabyLlama)
+
 - Pruning Large Language Models via Accuracy Predictor <br> ICASSP 2024 [[Paper]](https://arxiv.org/abs/2309.09507) 
 
 - Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity <br> VLDB 2024 [[Paper]](https://arxiv.org/abs/2309.10285) [[Cde]](https://github.com/AlibabaResearch/flash-llm)
@@ -498,6 +500,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Sinkhorn Distance Minimization for Knowledge Distillation <br> COLING 2024 [[Paper]](https://arxiv.org/abs/2402.17110) 
 
+- Divide-or-Conquer? Which Part Should You Distill Your LLM? <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.15000)
+
 - Learning to Maximize Mutual Information for Chain-of-Thought Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.03348)
 
 - DistiLLM: Towards Streamlined Distillation for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.03898) [[Code]](https://github.com/jongwooko/distillm)
@@ -507,6 +511,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.02657)
 
 - Distilling Algorithmic Reasoning from LLMs via Explaining Solution Programs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.08148)
+
 
 ### Efficient Prompting
 
