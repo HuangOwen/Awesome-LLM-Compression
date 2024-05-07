@@ -568,6 +568,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Adapting LLMs for Efficient Context Processing through Soft Prompt Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.04997) 
 
+- Compressing Long Context for Enhancing RAG with AMR-based Concept Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.03085) 
+
 ### Other
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2402.16058) 
 
