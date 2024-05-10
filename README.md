@@ -446,6 +446,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Eigenpruning <br> NAACL 2024 Abstract [[Paper]](https://arxiv.org/abs/2404.03147)
 
+- OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.05957)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
