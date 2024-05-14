@@ -322,6 +322,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.06219) 
 
+- Combining multiple post-training techniques to achieve most efficient quantized LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.07135) 
+
+- Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.07140) 
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
