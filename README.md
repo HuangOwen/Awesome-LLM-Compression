@@ -678,6 +678,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.06626)
 
+- KV-Runahead: Scalable Causal LLM Inference by Parallel Key-Value Cache Generation <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2405.05329)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
