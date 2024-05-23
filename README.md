@@ -326,6 +326,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.07140) 
 
+- Unlocking Data-free Low-bit Quantization with Matrix Decomposition for KV Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.12591) 
 
 ### Pruning and Sparsity
 
@@ -683,6 +684,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - KV-Runahead: Scalable Causal LLM Inference by Parallel Key-Value Cache Generation <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2405.05329)
 
 - Token-wise Influential Training Data Retrieval for Large Language Models <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2405.11724) [[Code]](https://github.com/huawei-lin/RapidIn)
+
+- PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2405.12532) 
 
 ## Tools
 
