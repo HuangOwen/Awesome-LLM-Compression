@@ -609,6 +609,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - SelfCP: Compressing Long Prompt to 1/12 Using the Frozen Large Language Model Itself <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.17052) 
 
 ### Other
+
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2402.16058) 
 
 - TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.00526)
@@ -700,6 +701,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.14256)
 
 - MiniCache: KV Cache Compression in Depth Dimension for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.14366)
+
+- Basis Selection: Low-Rank Decomposition of Pretrained Large Language Models for Target Applications <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.15877)
 
 ## Tools
 
