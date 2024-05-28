@@ -332,6 +332,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - OAC: Output-adaptive Calibration for Accurate Post-training Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.15025) 
 
+- PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.14852) 
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
