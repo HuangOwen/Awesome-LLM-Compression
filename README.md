@@ -336,6 +336,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SpinQuant -- LLM quantization with learned rotations <br> Arxiv 2024 [[Paper]](https://www.arxiv.org/abs/2405.16406) 
 
+- Compressing Large Language Models using Low Rank and Low Precision Decomposition <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.18886) [[Code]](https://github.com/pilancilab/caldera)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
