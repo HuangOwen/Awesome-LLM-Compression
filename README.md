@@ -344,6 +344,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.20202) 
 
+- LCQ: Low-Rank Codebook based Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.20973) 
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
