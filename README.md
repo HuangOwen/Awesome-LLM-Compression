@@ -13,8 +13,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - [📑 Papers](#papers)
   - [Survey](#survey)
-  - [Quantization](#quantization)
-  - [Pruning and Sparsity](#pruning-and-sparsity)
+  - [Quantization](#quantization) | [[Subpage]](QUANTIZATION.md)
+  - [Pruning and Sparsity](#pruning-and-sparsity) | [[Subpage]](PRUNE.md)
   - [Distillation](#distillation)
   - [Efficient Prompting](#efficient-prompting)
   - [Other](#other)
@@ -49,6 +49,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Efficient Prompting Methods for Large Language Models: A Survey <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.01077)
 
 ### Quantization
+
+<b>🌟 Feel free to explore the [subpage](QUANTIZATION.md) for LLM quantization</b>
 
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
 
@@ -349,6 +351,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - LCQ: Low-Rank Codebook based Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.20973) 
 
 ### Pruning and Sparsity
+
+<b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
 
