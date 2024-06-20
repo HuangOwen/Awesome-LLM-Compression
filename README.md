@@ -1,6 +1,8 @@
 <div align="center">
     <h1>Awesome LLM Compression</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+    <img src=https://img.shields.io/github/stars/HuangOwen/Awesome-LLM-Compression.svg?style=social >
+    <img src=https://img.shields.io/github/watchers/HuangOwen/Awesome-LLM-Compression.svg?style=social >
 </div>
 
 ![](quantization.gif)
