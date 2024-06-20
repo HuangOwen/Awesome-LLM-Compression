@@ -256,7 +256,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.10517) 
 
-- BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.10631) [[Code]](https://github.com/DD-DuDa/BitDistiller)
+- BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2402.10631) [[Code]](https://github.com/DD-DuDa/BitDistiller)
 
 - OneBit: Towards Extremely Low-bit Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11295)
 
@@ -349,6 +349,36 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.20202) 
 
 - LCQ: Low-Rank Codebook based Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.20973) 
+
+- LoQT: Low Rank Adapters for Quantized Training <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.16528) [[Code]](https://github.com/sebulo/LoQT)
+
+- CLAQ: Pushing the Limits of Low-Bit Post-Training Quantization for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.17233) [[Code]](https://github.com/fayuge/CLAQ)
+
+- I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.17849)
+
+- Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.20835)
+
+- Rotation and Permutation for Advanced Outlier Management and Efficient Quantization of LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.01721) [[Code]](https://github.com/Hsu1023/DuQuant)
+
+- QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.03482) [[Code]](https://github.com/amirzandieh/QJL)
+
+- ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.05981) [[Code]](https://github.com/GATECH-EIC/ShiftAddLLM)
+
+- Low-Rank Quantization-Aware Training for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.06385)
+
+- TernaryLLM: Ternarized Large Language Model <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.07177)
+
+- Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.08155) [[Code]](https://github.com/UNITES-Lab/moe-quantization)
+
+- Delta-CoMe: Training-Free Delta-Compression with Mixed-Precision for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.08903)
+
+- QQQ: Quality Quattuor-Bit Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.09904) [[Code]](https://github.com/HandH1998/QQQ)
+
+- QTIP: Quantization with Trellises and Incoherence Processing <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.11235) 
+
+- Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.12016) 
+
+- Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.12311) 
 
 ### Pruning and Sparsity
 
