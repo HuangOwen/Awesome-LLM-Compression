@@ -384,6 +384,12 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.12311) 
 
+- Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization <br> ISCA 2024 [[Paper]](https://arxiv.org/abs/2406.12930) 
+
+- SDQ: Sparse Decomposed Quantization for LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.13868) 
+
+- Attention-aware Post-training Quantization without Backpropagation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.13474) 
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
