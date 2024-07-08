@@ -836,6 +836,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs [[Code]](https://github.com/hiyouga/LLaMA-Factory)
 
+- LLMC: A tool designed for LLM Compression. [[Code]](https://github.com/ModelTC/llmc)
+
 ## Contributing
 
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
