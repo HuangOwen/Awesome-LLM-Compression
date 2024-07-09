@@ -142,7 +142,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - MEMORY-VQ: Compression for Tractable Internet-Scale Memory <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.14903)
 
-- Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.05516) [[Code]](https://github.com/intel/neural-compressor)
+- Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.05516) [[Code]](https://github.com/intel/auto-round)
 
 - Efficient Post-training Quantization with FP8 Formats <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.14592) [[Code (Intel® Neural Compressor)]](https://github.com/intel/neural-compressor)
 
