@@ -390,6 +390,24 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Attention-aware Post-training Quantization without Backpropagation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.13474) 
 
+- EDGE-LLM: Enabling Efficient Large Language Model Adaptation on Edge Devices via Layerwise Unified Compression and Adaptive Layer Tuning and Voting <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.15758) [[Code]](https://github.com/GATECH-EIC/Edge-LLM)
+
+- Compensate Quantization Errors: Make Weights Hierarchical to Compensate Each Other <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.16299) 
+
+- Layer-Wise Quantization: A Pragmatic and Effective Method for Quantizing LLMs Beyond Integer Bit-Levels <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.17415) [[Code]](https://github.com/RazvanDu/LayerwiseQuant)
+
+- CDQuant: Accurate Post-training Weight Quantization of Large Pre-trained Models using Greedy Coordinate Descent <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.17542) 
+
+- OutlierTune: Efficient Channel-Wise Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.18832) 
+
+- T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.00088) [[Code]](https://github.com/microsoft/T-MAC)
+
+- GPTQT: Quantize Large Language Models Twice to Push the Efficiency <br> ICORIS 2024 [[Paper]](https://arxiv.org/abs/2407.02891) 
+
+- Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.03051) 
+
+- How Does Quantization Affect Multilingual LLMs? <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.03211) 
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
