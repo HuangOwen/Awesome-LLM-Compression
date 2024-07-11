@@ -556,6 +556,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Surgical Feature-Space Decomposition of LLMs: Why, When and How? <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2405.13039)
 
+- Pruning Large Language Models to Intra-module Low-rank Architecture with Transitional Activations <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2407.05690)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
