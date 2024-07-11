@@ -718,6 +718,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 ### Other
 
+- A Simple and Effective L2 Norm-Based Strategy for KV Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.11430)
+
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2402.16058) 
 
 - TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.00526)
