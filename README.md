@@ -408,6 +408,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - How Does Quantization Affect Multilingual LLMs? <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.03211) 
 
+- RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.08044) [[Code]](https://github.com/HuangOwen/RoLoRA)
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
