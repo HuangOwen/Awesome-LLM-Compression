@@ -416,6 +416,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Accuracy is Not All You Need <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.09141)
 
+- BitNet b1.58 Reloaded: State-of-the-art Performance Also on Smaller Networks <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.09527)
+
 - LeanQuant: Accurate Large Language Model Quantization with Loss-Error-Aware Grid <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.10032)
 
 - Fast Matrix Multiplications for Lookup Table-Quantized LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.10960) [[Code]](https://github.com/HanGuo97/flute) 
