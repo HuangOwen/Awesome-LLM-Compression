@@ -426,6 +426,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.11534) [[Code]](https://github.com/onliwad101/FlexRound_LRQ) 
 
+- Exploring Quantization for Efficient Pre-Training of Transformer Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.11722) [[Code]](https://github.com/chandar-lab/EfficientLLMs) 
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
