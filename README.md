@@ -428,6 +428,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Exploring Quantization for Efficient Pre-Training of Transformer Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.11722) [[Code]](https://github.com/chandar-lab/EfficientLLMs) 
 
+- Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12327) [[Code]](https://github.com/NolanoOrg/SpectraSuite) 
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
