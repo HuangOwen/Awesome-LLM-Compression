@@ -430,6 +430,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12327) [[Code]](https://github.com/NolanoOrg/SpectraSuite) 
 
+- Mamba-PTQ: Outlier Channels in Recurrent Large Language Models  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12397)
+
+- PQCache: Product Quantization-based KVCache for Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2407.12820)
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
