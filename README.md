@@ -746,6 +746,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SelfCP: Compressing Long Prompt to 1/12 Using the Frozen Large Language Model Itself <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.17052) 
 
+- Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.15504) 
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2402.16058) 
