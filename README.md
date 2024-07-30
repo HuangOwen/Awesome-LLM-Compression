@@ -616,6 +616,12 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.11681) 
 
+- Reconstruct the Pruned Model without Any Retraining  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.13331) 
+
+- A deeper look at depth pruning of LLMs <br> ICML TF2M Workshop 2024 [[Paper]](https://arxiv.org/abs/2407.16286) [[Code]](https://github.com/shoaibahmed/llm_depth_pruning)
+
+- Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.19126) 
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
