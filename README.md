@@ -622,6 +622,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.19126) 
 
+- Pruning Large Language Models with Semi-Structural Adaptive Sparse Training <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.20584) 
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
