@@ -946,6 +946,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLMC: A tool designed for LLM Compression. [[Code]](https://github.com/ModelTC/llmc)
 
+- BitBLAS: BitBLAS is a library to support mixed-precision matrix multiplications, especially for quantized LLM deployment. [[Code]](https://github.com/microsoft/BitBLAS)
+
 ## Contributing
 
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
