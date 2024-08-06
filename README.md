@@ -950,6 +950,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - BitBLAS: BitBLAS is a library to support mixed-precision matrix multiplications, especially for quantized LLM deployment. [[Code]](https://github.com/microsoft/BitBLAS)
 
+- AutoFP8: Open-source FP8 quantization library for producing compressed checkpoints for running in vLLM  [[Code]](https://github.com/neuralmagic/AutoFP8)
+
+- AutoGGUF: automatically quant GGUF models [[Code]](https://github.com/leafspark/AutoGGUF)
+
 ## Contributing
 
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
