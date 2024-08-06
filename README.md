@@ -954,6 +954,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - AutoGGUF: automatically quant GGUF models [[Code]](https://github.com/leafspark/AutoGGUF)
 
+- Transformer Compression: For releasing code related to compression methods for transformers, accompanying our publications [[Code]](https://github.com/microsoft/TransformerCompression)
+
 ## Contributing
 
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
