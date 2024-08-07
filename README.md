@@ -438,6 +438,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Accurate and Efficient Fine-Tuning of Quantized Large Language Models Through Optimal Balance <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.17029) [[Code]](https://github.com/xiaocaigou/qbaraqahira) 
 
+- STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.01803)
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
