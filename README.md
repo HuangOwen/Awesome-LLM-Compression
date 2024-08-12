@@ -954,6 +954,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Bitorch Engine: Streamlining AI with Open-Source Low-Bit Quantization. [[Code]](https://github.com/GreenBitAI/bitorch-engine)
 
+- llama-zip: LLM-powered lossless compression tool [[Code]](https://github.com/AlexBuz/llama-zip)
+
 - LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs [[Code]](https://github.com/hiyouga/LLaMA-Factory)
 
 - LLMC: A tool designed for LLM Compression. [[Code]](https://github.com/ModelTC/llmc)
