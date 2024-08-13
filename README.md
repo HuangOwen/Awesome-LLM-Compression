@@ -886,6 +886,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CaM: Cache Merging for Memory-efficient LLMs Inference <br> ICML 2024 [[Paper]](https://openreview.net/forum?id=LCTmppB165) [[Code]](https://github.com/zyxxmu/cam)
 
+- Eigen Attention: Attention in Low-Rank Space for KV Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.05646) [[Code]](https://github.com/UtkarshSaxena1/EigenAttn/tree/main)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
