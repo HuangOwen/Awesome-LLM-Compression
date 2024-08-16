@@ -112,7 +112,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.03738) [[Code]](https://github.com/IST-DASLab/QIGen)
 
-- Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.08072)
+- Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study <br> COLING 2024 [[Paper]](https://arxiv.org/abs/2307.08072)
 
 - ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.09782) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
 
@@ -132,11 +132,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FPTQ: Fine-grained Post-Training Quantization for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.15987)
 
-- eDKM: An Efficient and Accurate Train-time Weight Clustering for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.00964)
+- eDKM: An Efficient and Accurate Train-time Weight Clustering for Large Language Models <br> IEEE Computer Architecture Letters 2023 [[Paper]](https://arxiv.org/abs/2309.00964)
 
 - QuantEase: Optimization-based Quantization for Language Models -- An Efficient and Intuitive Algorithm <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.01885)
 
-- Norm Tweaking: High-performance Low-bit Quantization of Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.02784)
+- Norm Tweaking: High-performance Low-bit Quantization of Large Language Models <br> AAAI 2024 [[Paper]](https://arxiv.org/abs/2309.02784)
 
 - Understanding the Impact of Post-Training Quantization on Large-scale Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.05210)
 
@@ -144,23 +144,21 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.05516) [[Code]](https://github.com/intel/auto-round)
 
-- Efficient Post-training Quantization with FP8 Formats <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.14592) [[Code (Intel® Neural Compressor)]](https://github.com/intel/neural-compressor)
+- Efficient Post-training Quantization with FP8 Formats <br> MLSys 2024 [[Paper]](https://arxiv.org/abs/2309.14592) [[Code (Intel® Neural Compressor)]](https://github.com/intel/neural-compressor)
 
 - QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2309.14717) [[Code]](https://github.com/yuhuixu1993/qa-lora)
 
-- Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.15531) 
+- Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2309.15531) [[Code]](https://github.com/johnheo/adadim-llm)
 
 - ModuLoRA: Finetuning 3-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers <br> TMLR (Featured Certification 🌟) [[Paper]](https://arxiv.org/abs/2309.16119) 
 
-- PB-LLM: Partially Binarized Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.00034) [[Code]](https://github.com/hahnyuan/PB-LLM)
+- PB-LLM: Partially Binarized Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.00034) [[Code]](https://github.com/hahnyuan/PB-LLM)
 
 - Dual Grained Quantization: Efficient Fine-Grained Quantization for LLM <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.04836) 
 
-- Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.15531) 
+- QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.08041) [[Code]](https://github.com/ModelTC/QLLM)
 
-- QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.08041) 
-
-- LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.08659) 
+- LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.08659) [[Code]](https://github.com/yxli2123/LoftQ)
 
 - QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.07147) 
 
