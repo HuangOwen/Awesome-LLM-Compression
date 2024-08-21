@@ -632,6 +632,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ThinK: Thinner Key Cache by Query-Driven Pruning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.21018) 
 
+- LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.10631) [[Code]](https://github.com/YupengSu/LLM-Barber)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
