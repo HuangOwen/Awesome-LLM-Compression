@@ -896,6 +896,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Eigen Attention: Attention in Low-Rank Space for KV Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.05646) [[Code]](https://github.com/UtkarshSaxena1/EigenAttn/tree/main)
 
+- MoDeGPT: Modular Decomposition for Large Language Model Compression  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.09632)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
