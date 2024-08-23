@@ -442,6 +442,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.08554)
 
+- MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11743)
+
+- Matmul or No Matmal in the Era of 1-bit LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11939)
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
