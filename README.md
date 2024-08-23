@@ -28,6 +28,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - A Survey on Model Compression for Large Language Models <br> TACL [[Paper]](https://arxiv.org/abs/2308.07633)
 
+- The Cost of Compression: Investigating the Impact of Compression on Parametric Knowledge in Language Models <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2312.00960) [[Code]](https://github.com/NamburiSrinath/LLMCompression)
+
 - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.00678)
 
 - Efficient Large Language Models: A Survey <br> TMLR [[Paper]](https://arxiv.org/abs/2312.03863) [[GitHub Page]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
