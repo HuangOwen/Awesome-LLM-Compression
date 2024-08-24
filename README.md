@@ -24,10 +24,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 ## Papers
 
-<details>
-
-<summary>Survey Papers</summary>
-
 ### Survey
 
 - A Survey on Model Compression for Large Language Models <br> TACL [[Paper]](https://arxiv.org/abs/2308.07633)
