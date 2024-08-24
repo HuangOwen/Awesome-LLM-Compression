@@ -476,19 +476,17 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Prune and Tune: Improving Efficient Pruning Techniques for Massive Language Models <br> ICLR 2023 TinyPapers [[Paper]](https://openreview.net/pdf?id=cKlgcx7nSZ)
 
-- SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2301.00774) [[Code]](https://github.com/IST-DASLab/sparsegpt)
+- SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2301.00774) [[Code]](https://github.com/IST-DASLab/sparsegpt)
 
-- AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2303.10512)
-
-- Unlocking Context Constraints of LLMs: Enhancing Context Efficiency of LLMs with Self-Information-Based Content Filtering <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.12102) [[Code]](https://github.com/liyucheng09/Selective_Context)
+- AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning <br> ICLR 2023 [[Paper]](https://arxiv.org/abs/2303.10512)
 
 - Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2212.09095) [[Code]](https://github.com/amazon-science/llm-interpret)
 
 - Structured Pruning for Efficient Generative Pre-trained Language Models <br> ACL 2023 [[Paper]](https://aclanthology.org/2023.findings-acl.692.pdf)
 
-- A Simple and Effective Pruning Approach for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.11695) [[Code]](https://github.com/locuslab/wanda)
+- A Simple and Effective Pruning Approach for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.11695) [[Code]](https://github.com/locuslab/wanda)
 
-- Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.18403) 
+- Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2305.18403) 
 
 - Structural pruning of large language models via neural architecture search <br> AutoML 2023 [[Paper]](https://www.amazon.science/publications/structural-pruning-of-large-language-models-via-neural-architecture-search) 
 
@@ -496,11 +494,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity <br> VLDB 2024 [[Paper]](https://arxiv.org/abs/2309.10285) [[Cde]](https://github.com/AlibabaResearch/flash-llm)
 
-- Compressing LLMs: The Truth is Rarely Pure and Never Simple <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.01382) 
+- Compressing LLMs: The Truth is Rarely Pure and Never Simple <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.01382) 
 
-- Junk DNA Hypothesis: A Task-Centric Angle of LLM Pre-trained Weights through Sparsity <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.02277)  [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
+- Pruning Small Pre-Trained Weights Irreversibly and Monotonically Impairs "Difficult" Downstream Tasks in LLMs <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2310.02277)  [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
 
-- Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.01801)  
+- Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.01801)  
 
 - Compresso: Structured Pruning with Collaborative Prompting Learns Compact Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.05015) [[Code]](https://github.com/microsoft/Moonlit/tree/main/Compresso)
 
@@ -508,7 +506,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.06694) [[Code]](https://github.com/princeton-nlp/LLM-Shearing)
 
-- Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.08915) [[Code]](https://github.com/zxyxmu/DSnoT)
+- Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.08915) [[Code]](https://github.com/zxyxmu/DSnoT)
 
 - One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models <br> ICASSP 2024 [[Paper]](https://arxiv.org/abs/2310.09499) 
 
