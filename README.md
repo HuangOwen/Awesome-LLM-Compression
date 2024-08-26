@@ -446,7 +446,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.08554)
 
-- MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11743)
+- MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11743) [[Code (Marlin)]](https://github.com/IST-DASLab/marlin) [[Code (Sparse Marlin)]](https://github.com/IST-DASLab/Sparse-Marlin)
 
 - Matmul or No Matmal in the Era of 1-bit LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11939)
 
