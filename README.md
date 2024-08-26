@@ -668,7 +668,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.13649)
 
-- GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.13649)
+- GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.13649)
 
 - Chain-of-Thought Prompt Distillation for Multimodal Named Entity and Multimodal Relation Extraction <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.14122)
 
@@ -680,7 +680,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Can a student Large Language Model perform as well as it's teacher? <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.02421)
 
-- Multistage Collaborative Knowledge Distillation from Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.08640)
+- Multistage Collaborative Knowledge Distillation from Large Language Models <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2311.08640) [[Code]](https://github.com/andotalao24/Multistage-Collaborative-Knowledge-Distillation)
 
 - Lion: Adversarial Distillation of Closed-Source Large Language Model <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2305.12870) [[Code]](https://github.com/YJiangcm/Lion)
 
@@ -698,15 +698,15 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.12030)
 
-- Revisiting Knowledge Distillation for Autoregressive Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11890)
+- Revisiting Knowledge Distillation for Autoregressive Language Models <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2402.11890)
 
 - Sinkhorn Distance Minimization for Knowledge Distillation <br> COLING 2024 [[Paper]](https://arxiv.org/abs/2402.17110) 
 
 - Divide-or-Conquer? Which Part Should You Distill Your LLM? <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.15000)
 
-- Learning to Maximize Mutual Information for Chain-of-Thought Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.03348)
+- Learning to Maximize Mutual Information for Chain-of-Thought Distillation <br> ACL 2024 Findings [[Paper]](https://arxiv.org/abs/2403.03348)
 
-- DistiLLM: Towards Streamlined Distillation for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.03898) [[Code]](https://github.com/jongwooko/distillm)
+- DistiLLM: Towards Streamlined Distillation for Large Language Models <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.03898) [[Code]](https://github.com/jongwooko/distillm)
 
 - Efficiently Distilling LLMs for Edge Applications <br> NAACL 2024 [[Paper]](https://arxiv.org/abs/2404.01353)
 
@@ -734,11 +734,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Efficient Prompting via Dynamic In-Context Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.11170)
 
-- Learning to Compress Prompts with Gist Tokens <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.08467) [[Code]](https://github.com/jayelm/gisting)
+- Learning to Compress Prompts with Gist Tokens <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2304.08467) [[Code]](https://github.com/jayelm/gisting)
 
-- In-context Autoencoder for Context Compression in a Large Language Model <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.06945) 
+- In-context Autoencoder for Context Compression in a Large Language Model <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2307.06945) 
 
-- Discrete Prompt Compression with Reinforcement Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.08758) 
+- Discrete Prompt Compression with Reinforcement Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.08758) [[Code]](https://github.com/nenomigami/PromptCompressor)
 
 - BatchPrompt: Accomplish more with less <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.00384) 
 
@@ -746,13 +746,13 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.04408) [[Code]](https://github.com/carriex/recomp)
 
-- LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.06839) [[Code]](https://github.com/microsoft/LLMLingua)
+- LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2310.06839) [[Code]](https://github.com/microsoft/LLMLingua)
 
 - Extending Context Window of Large Language Models via Semantic Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.09571)
 
 - Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.08901)
 
-- The Impact of Reasoning Step Length on Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.04925)
+- The Impact of Reasoning Step Length on Large Language Models <br> ACL 2024 Findings [[Paper]](https://arxiv.org/abs/2401.04925)
 
 - Compressed Context Memory For Online Language Model Interaction <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2312.03414) [[Code]](https://github.com/snu-mllab/context-memory)
 
