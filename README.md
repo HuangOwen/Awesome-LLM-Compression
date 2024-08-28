@@ -450,6 +450,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Matmul or No Matmal in the Era of 1-bit LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11939)
 
+- MobileQuant: Mobile-friendly Quantization for On-device Language Models  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.13933) [[Code]](https://github.com/saic-fi/MobileQuant) 
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
@@ -987,7 +989,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Transformer Compression: For releasing code related to compression methods for transformers, accompanying our publications [[Code]](https://github.com/microsoft/TransformerCompression)
 
 ## Contributing
-
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
 
 - The paper or tools is related to **Large Language Models (LLMs)**. If the compression algorithms or tools are only evaluated on small-scale language models (e.g., BERT), they should not be included in the list.
