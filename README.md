@@ -646,6 +646,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Training-Free Activation Sparsity in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.14690) 
 
+- PAT: Pruning-Aware Tuning for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.14721) [[Code]](https://github.com/kriskrisliu/PAT_Pruning-Aware-Tuning)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
@@ -721,6 +723,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Compact Language Models via Pruning and Knowledge Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.14679) [[Code]](https://github.com/NVlabs/Minitron)
 
 - LLM Pruning and Distillation in Practice: The Minitron Approach <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11796) [[Models]](https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base)
+
+- The Mamba in the Llama: Distilling and Accelerating Hybrid Models  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.15237) 
 
 ### Efficient Prompting
 
