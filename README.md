@@ -794,6 +794,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - 500xCompressor: Generalized Prompt Compression for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.03094)
 
+- Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.15491)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2402.16058) 
