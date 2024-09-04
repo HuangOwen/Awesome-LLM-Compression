@@ -454,6 +454,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.15300) [[Code]](https://github.com/On-Point-RND/GIFT_SW-v2-Gaussian-noise-Injected-Fine-Tuning-of-Salient-Weights-for-LLMs) 
 
+- Foundations of Large Language Model Compression -- Part 1: Weight Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.02026) [[Code]](https://github.com/seannz/cvxq) 
+
 
 ### Pruning and Sparsity
 
