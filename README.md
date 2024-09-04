@@ -54,7 +54,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Efficient Prompting Methods for Large Language Models: A Survey <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.01077)
 
-</details>
+- On-Device Language Models: A Comprehensive Review <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.00088) [[GitHub Page]](https://github.com/NexaAI/Awesome-LLMs-on-device) [[Download On-device LLMs]](https://nexaai.com/models)
 
 ### Quantization
 
