@@ -923,6 +923,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - MoDeGPT: Modular Decomposition for Large Language Model Compression  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.09632)
 
+- Accelerating Large Language Model Training with Hybrid GPU-based Compression  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.02423)
+
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
