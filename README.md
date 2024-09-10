@@ -921,6 +921,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CaM: Cache Merging for Memory-efficient LLMs Inference <br> ICML 2024 [[Paper]](https://openreview.net/forum?id=LCTmppB165) [[Code]](https://github.com/zyxxmu/cam)
 
+- CLLMs: Consistency Large Language Models <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2403.00835) [[Code]](https://github.com/hao-ai-lab/Consistency_LLM)
+
 - Eigen Attention: Attention in Low-Rank Space for KV Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.05646) [[Code]](https://github.com/UtkarshSaxena1/EigenAttn/tree/main)
 
 - MoDeGPT: Modular Decomposition for Large Language Model Compression  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.09632)
