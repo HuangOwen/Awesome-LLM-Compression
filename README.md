@@ -456,6 +456,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Foundations of Large Language Model Compression -- Part 1: Weight Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.02026) [[Code]](https://github.com/seannz/cvxq) 
 
+- OPAL: Outlier-Preserved Microscaling Quantization A ccelerator for Generative Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.05902)
+
 
 ### Pruning and Sparsity
 
