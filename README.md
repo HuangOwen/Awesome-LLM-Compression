@@ -458,7 +458,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - OPAL: Outlier-Preserved Microscaling Quantization A ccelerator for Generative Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.05902)
 
-
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
@@ -806,6 +805,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.15491)
 
 - Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.01227) [[Code]](https://github.com/Workday/cpc)
+
+- Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.07331)
 
 ### Other
 
