@@ -732,6 +732,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Distilling Algorithmic Reasoning from LLMs via Explaining Solution Programs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.08148)
 
+- DDK: Distilling Domain Knowledge for Efficient Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.16154)
+
 - Compact Language Models via Pruning and Knowledge Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.14679) [[Code]](https://github.com/NVlabs/Minitron)
 
 - LLM Pruning and Distillation in Practice: The Minitron Approach <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11796) [[Models]](https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base)
