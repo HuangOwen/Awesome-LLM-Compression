@@ -286,7 +286,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLM-PQ: Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.01136)
 
-- IntactKV: Improving Large Language Model Quantization by Keeping Pivot Tokens Intact <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.01241)
+- IntactKV: Improving Large Languagze Model Quantization by Keeping Pivot Tokens Intact <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2403.01241) [[Code]](https://github.com/ruikangliu/IntactKV)
 
 - On the Compressibility of Quantized Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.01384)
 
@@ -540,7 +540,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PUSHING GRADIENT TOWARDS ZERO: A NOVEL PRUNING METHOD FOR LARGE LANGUAGE MODELS <br> OpenReview 2023 [[Paper]](https://openreview.net/attachment?id=IU4L7wiwxw&name=pdf)
 
-- An Efficient Plug-and-Play Post-Training Pruning Strategy in Large Language Models <br> Preprints 2023 [[Paper]](https://www.preprints.org/manuscript/202310.1487/download/final_file)
+- Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models <br> ICLR 2024 [[Paper]](https://openreview.net/forum?id=Tr0lPx9woF) [[Code]](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
 
 - Lighter, yet More Faithful: Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2311.09335.pdf) [[Code]](https://github.com/casszhao/PruneHall)
 
