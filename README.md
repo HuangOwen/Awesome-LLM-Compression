@@ -410,7 +410,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GPTQT: Quantize Large Language Models Twice to Push the Efficiency <br> ICORIS 2024 [[Paper]](https://arxiv.org/abs/2407.02891) 
 
-- Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.03051) 
+- Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2407.03051) 
 
 - How Does Quantization Affect Multilingual LLMs? <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.03211) 
 
@@ -436,9 +436,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12327) [[Code]](https://github.com/NolanoOrg/SpectraSuite) 
 
-- Mamba-PTQ: Outlier Channels in Recurrent Large Language Models  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12397)
+- Mamba-PTQ: Outlier Channels in Recurrent Large Language Models  <br> Efficient Systems for Foundation Models Workshop @ ICML 2024 [[Paper]](https://arxiv.org/abs/2407.12397)
 
-- PQCache: Product Quantization-based KVCache for Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2407.12820)
+- PQCache: Product Quantization-based KVCache for Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12820)
 
 - Compensate Quantization Errors+: Quantized Models Are Inquisitive Learners <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.15508)
 
@@ -800,7 +800,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Prompts As Programs: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.02319) [[Code]](https://github.com/microsoft/sammo)
 
-- Adapting LLMs for Efficient Context Processing through Soft Prompt Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.04997) 
+- Adapting LLMs for Efficient Context Processing through Soft Prompt Compression <br> IPCA 2024 [[Paper]](https://arxiv.org/abs/2404.04997) 
 
 - Compressing Long Context for Enhancing RAG with AMR-based Concept Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.03085) 
 
@@ -822,11 +822,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 ### Other
 
-- FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2402.16058) 
+- FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
 
 - TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.00526)
 
-- Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.15805)
+- Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2305.15805)
 
 - SkipDecode: Autoregressive Skip Decoding with Batching and Caching for Efficient LLM Inference <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.02628)
 
