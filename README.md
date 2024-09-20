@@ -414,7 +414,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - How Does Quantization Affect Multilingual LLMs? <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.03211) 
 
-- RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.08044) [[Code]](https://github.com/HuangOwen/RoLoRA) 
+- RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.08044) [[Code]](https://github.com/HuangOwen/RoLoRA) 
 
 - Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.08296) [[Code]](https://github.com/VITA-Group/Q-GaLore) 
 
@@ -780,7 +780,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Extending Context Window of Large Language Models via Semantic Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.09571)
 
-- Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.08901)
+- Fewer is More: Boosting LLM Reasoning with Reinforced Context Pruning <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2312.08901)
 
 - The Impact of Reasoning Step Length on Large Language Models <br> ACL 2024 Findings [[Paper]](https://arxiv.org/abs/2401.04925)
 
