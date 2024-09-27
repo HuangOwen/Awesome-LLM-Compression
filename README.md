@@ -150,7 +150,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - MEMORY-VQ: Compression for Tractable Internet-Scale Memory <br> NAACL 2024 [[Paper]](https://arxiv.org/abs/2308.14903)
 
-- Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.05516) [[Code]](https://github.com/intel/auto-round)
+- Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2309.05516) [[Code]](https://github.com/intel/auto-round)
 
 - Efficient Post-training Quantization with FP8 Formats <br> MLSys 2024 [[Paper]](https://arxiv.org/abs/2309.14592) [[Code (Intel® Neural Compressor)]](https://github.com/intel/neural-compressor)
 
@@ -176,7 +176,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FP8-LM: Training FP8 Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.18313) [[Code]](https://github.com/Azure/MS-AMP)
 
-- QUIK: Towards End-to-End 4-Bit Inference on Generative Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.09259) [[Code]](https://github.com/IST-DASLab/QUIK)
+- QUIK: Towards End-to-End 4-Bit Inference on Generative Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2310.09259) [[Code]](https://github.com/IST-DASLab/QUIK)
 
 - AFPQ: Asymmetric Floating Point Quantization for LLMs <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2311.01792) [[Code]](https://github.com/zhangsichengsjtu/AFPQ)
 
@@ -256,7 +256,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - TP-Aware Dequantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.04925) 
 
-- ApiQ: Finetuning of 2-Bit Quantized Large Language Model <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.05147) 
+- ApiQ: Finetuning of 2-Bit Quantized Large Language Model <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2402.05147) 
 
 - Accurate LoRA-Finetuning Quantization of LLMs via Information Retention <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.05445) [[Code]](https://github.com/htqin/ir-qlora)
 
@@ -386,7 +386,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - QTIP: Quantization with Trellises and Incoherence Processing <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.11235) 
 
-- Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.12016) 
+- Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.12016) 
 
 - Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.12311) 
 
@@ -412,7 +412,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2407.03051) 
 
-- How Does Quantization Affect Multilingual LLMs? <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.03211) 
+- How Does Quantization Affect Multilingual LLMs? <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.03211) 
 
 - RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.08044) [[Code]](https://github.com/HuangOwen/RoLoRA) 
 
@@ -426,13 +426,13 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LeanQuant: Accurate Large Language Model Quantization with Loss-Error-Aware Grid <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.10032)
 
-- Fast Matrix Multiplications for Lookup Table-Quantized LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.10960) [[Code]](https://github.com/HanGuo97/flute) 
+- Fast Matrix Multiplications for Lookup Table-Quantized LLMs <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.10960) [[Code]](https://github.com/HanGuo97/flute) 
 
 - EfficientQAT: Efficient Quantization-Aware Training for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.11062) [[Code]](https://github.com/OpenGVLab/EfficientQAT) 
 
 - LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.11534) [[Code]](https://github.com/onliwad101/FlexRound_LRQ) 
 
-- Exploring Quantization for Efficient Pre-Training of Transformer Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.11722) [[Code]](https://github.com/chandar-lab/EfficientLLMs) 
+- Exploring Quantization for Efficient Pre-Training of Transformer Language Models <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.11722) [[Code]](https://github.com/chandar-lab/EfficientLLMs) 
 
 - Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12327) [[Code]](https://github.com/NolanoOrg/SpectraSuite) 
 
@@ -454,13 +454,15 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Matmul or No Matmal in the Era of 1-bit LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11939)
 
-- MobileQuant: Mobile-friendly Quantization for On-device Language Models  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.13933) [[Code]](https://github.com/saic-fi/MobileQuant) 
+- MobileQuant: Mobile-friendly Quantization for On-device Language Models  <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2408.13933) [[Code]](https://github.com/saic-fi/MobileQuant) 
 
 - GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.15300) [[Code]](https://github.com/On-Point-RND/GIFT_SW-v2-Gaussian-noise-Injected-Fine-Tuning-of-Salient-Weights-for-LLMs) 
 
 - Foundations of Large Language Model Compression -- Part 1: Weight Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.02026) [[Code]](https://github.com/seannz/cvxq) 
 
 - OPAL: Outlier-Preserved Microscaling Quantization A ccelerator for Generative Large Language Models <br> DAC 2024 [[Paper]](https://arxiv.org/abs/2409.05902)
+
+- VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2409.17066) [[Code]](https://github.com/microsoft/VPTQ)
 
 ### Pruning and Sparsity
 
