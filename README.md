@@ -60,6 +60,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - On-Device Language Models: A Comprehensive Review <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.00088) [[GitHub Page]](https://github.com/NexaAI/Awesome-LLMs-on-device) [[Download On-device LLMs]](https://nexaai.com/models)
 
+- A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.16694) 
+
 ### Quantization
 
 <b>🌟 Feel free to explore the [subpage](QUANTIZATION.md) for LLM quantization</b>
@@ -368,7 +370,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.20835)
 
-- DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs <br> NeurIPS 2024 Oral [[Paper]](https://arxiv.org/abs/2406.01721) [[Code]](https://github.com/Hsu1023/DuQuant)
+- DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.01721) [[Code]](https://github.com/Hsu1023/DuQuant)
 
 - QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.03482) [[Code]](https://github.com/amirzandieh/QJL)
 
@@ -463,6 +465,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - OPAL: Outlier-Preserved Microscaling Quantization A ccelerator for Generative Large Language Models <br> DAC 2024 [[Paper]](https://arxiv.org/abs/2409.05902)
 
 - VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2409.17066) [[Code]](https://github.com/microsoft/VPTQ)
+
+- Scaling FP8 training to trillion-token LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.12517)
+
+- Accumulator-Aware Post-Training Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.17092)
 
 ### Pruning and Sparsity
 
