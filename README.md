@@ -470,6 +470,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Accumulator-Aware Post-Training Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.17092)
 
+- Efficient Arbitrary Precision Acceleration for Large Language Models on GPU Tensor Cores <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.17870)
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
