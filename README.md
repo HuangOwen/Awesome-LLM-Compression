@@ -62,6 +62,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.16694) 
 
+- Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.13385) 
+
 ### Quantization
 
 <b>🌟 Feel free to explore the [subpage](QUANTIZATION.md) for LLM quantization</b>
@@ -831,6 +833,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.01227) [[Code]](https://github.com/Workday/cpc)
 
 - Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.07331)
+
+- Parse Trees Guided LLM Prompt Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.15395)
+
+- AlphaZip: Neural Network-Enhanced Lossless Text Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.15046)
 
 - Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.17422) [[Code]](https://github.com/SalesforceAIResearch/GemFilter)
 
