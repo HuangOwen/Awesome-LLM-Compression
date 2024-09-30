@@ -956,6 +956,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.10593) [[Code]](https://github.com/wln20/CSKV)
 
+- Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2409.17836)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
