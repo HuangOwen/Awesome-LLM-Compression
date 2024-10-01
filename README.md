@@ -678,6 +678,12 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Search for Efficient Large Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2409.17372)
 
+- SlimGPT: Layer-wise Structured Pruning for Large Language Models <br> NeurIPS 2024 [[Paper]](https://nips.cc/virtual/2024/poster/95477)
+
+- Learn To be Efficient: Build Structured Sparsity in Large Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2402.06126)
+
+- ALS: Adaptive Layer Sparsity for Large Language Models via Activation Correlation Assessment <br> NeurIPS 2024 [[Paper]](https://nips.cc/virtual/2024/poster/95693)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
@@ -967,6 +973,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.10593) [[Code]](https://github.com/wln20/CSKV)
 
 - Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2409.17836)
+
+- FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2409.05976) [[Code]](https://github.com/ATP-1010/FederatedLLM)
 
 ## Tools
 
