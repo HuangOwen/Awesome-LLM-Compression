@@ -974,8 +974,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2409.17836)
 
-- FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2409.05976) [[Code]](https://github.com/ATP-1010/FederatedLLM)
-
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
