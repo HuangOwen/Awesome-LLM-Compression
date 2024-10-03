@@ -851,6 +851,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.17422) [[Code]](https://github.com/SalesforceAIResearch/GemFilter)
 
+- Perception Compressor:A training-free prompt compression method in long context scenarios <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.19272)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
@@ -978,6 +980,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.10593) [[Code]](https://github.com/wln20/CSKV)
 
 - Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2409.17836)
+
+- KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.00161)
 
 ## Tools
 
