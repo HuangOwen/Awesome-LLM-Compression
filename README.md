@@ -474,6 +474,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Efficient Arbitrary Precision Acceleration for Large Language Models on GPU Tensor Cores <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.17870)
 
+- Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.20361) [[Code]](https://github.com/Coco58323/Rotated_Runtime_Smooth)
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
@@ -683,6 +685,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Learn To be Efficient: Build Structured Sparsity in Large Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2402.06126)
 
 - ALS: Adaptive Layer Sparsity for Large Language Models via Activation Correlation Assessment <br> NeurIPS 2024 [[Paper]](https://nips.cc/virtual/2024/poster/95693)
+
+
 
 ### Distillation
 
