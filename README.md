@@ -686,6 +686,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ALS: Adaptive Layer Sparsity for Large Language Models via Activation Correlation Assessment <br> NeurIPS 2024 [[Paper]](https://nips.cc/virtual/2024/poster/95693)
 
+- Getting Free Bits Back from Rotational Symmetries in LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.01309)
 
 
 ### Distillation
