@@ -983,6 +983,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.00161)
 
+- InfiniPot: Infinite Context Processing on Memory-Constrained LLMs <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2410.01518)
+
+- SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.02367) [[Code]](https://github.com/thu-ml/SageAttention)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
