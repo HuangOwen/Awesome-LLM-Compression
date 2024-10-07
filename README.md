@@ -540,7 +540,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models <br> ICASSP 2024 [[Paper]](https://arxiv.org/abs/2310.09499) 
 
-- Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning <br> EMNLP 2023 Findings [[Paper]](https://arxiv.org/abs/2310.12774) 
+- Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning <br> EMNLP Findings 2023 [[Paper]](https://arxiv.org/abs/2310.12774) 
 
 - The Cost of Compression: Investigating the Impact of Compression on Parametric Knowledge in Language Models <br> EMNLP Findings 2023 [[Paper]](https://arxiv.org/abs/2312.00960) 
 
@@ -590,7 +590,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - NutePrune: Efficient Progressive Pruning with Numerous Teachers for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.09773)
 
-- LaCo: Large Language Model Pruning via Layer Collapse <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11187) 
+- LaCo: Large Language Model Pruning via Layer Collapse <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2402.11187) 
 
 - Why Lift so Heavy? Slimming Large Language Models by Cutting Off the Layers <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11700)
 
@@ -648,7 +648,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - What Matters in Transformers? Not All Attention is Needed <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.15786) [[Code]](https://github.com/Shwai-He/LLM-Drop)
 
-- Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.16330) 
+- Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.16330) 
 
 - ShadowLLM: Predictor-based Contextual Sparsity for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.16635) [[Code]](https://github.com/abdelfattah-lab/shadow_llm/)
 
@@ -857,6 +857,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Perception Compressor:A training-free prompt compression method in long context scenarios <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.19272)
 
+- 
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
@@ -957,7 +959,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling <br> Arxiv 2024 [[Paper]](http://arxiv.org/abs/2406.02069)
 
-- A Simple and Effective L2 Norm-Based Strategy for KV Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.11430)
+- A Simple and Effective L2 Norm-Based Strategy for KV Cache Compression <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.11430)
 
 - LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.14057)
 
@@ -975,7 +977,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CLLMs: Consistency Large Language Models <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2403.00835) [[Code]](https://github.com/hao-ai-lab/Consistency_LLM)
 
-- Eigen Attention: Attention in Low-Rank Space for KV Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.05646) [[Code]](https://github.com/UtkarshSaxena1/EigenAttn/tree/main)
+- Eigen Attention: Attention in Low-Rank Space for KV Cache Compression <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2408.05646) [[Code]](https://github.com/UtkarshSaxena1/EigenAttn/tree/main)
 
 - MoDeGPT: Modular Decomposition for Large Language Model Compression  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.09632)
 
