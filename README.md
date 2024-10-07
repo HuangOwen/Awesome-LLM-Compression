@@ -991,6 +991,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.02367) [[Code]](https://github.com/thu-ml/SageAttention)
 
+- LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03111)
+
+- UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03090)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
