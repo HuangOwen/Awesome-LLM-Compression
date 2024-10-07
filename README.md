@@ -476,6 +476,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.20361) [[Code]](https://github.com/Coco58323/Rotated_Runtime_Smooth)
 
+- EXAQ: Exponent Aware Quantization For LLMs Acceleration <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03185) 
+
+- ARB-LLM: Alternating Refined Binarizations for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03129) [[Code]](https://github.com/ZHITENGLI/ARB-LLM)
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
