@@ -789,7 +789,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.05736) [[Code]](https://github.com/microsoft/LLMLingua)
 
-- Vector-Quantized Prompt Learning for Paraphrase Generation <br> EMNLP 2023 Findings [[Paper]](https://arxiv.org/abs/2311.14949)
+- Vector-Quantized Prompt Learning for Paraphrase Generation <br> EMNLP Findings 2023 [[Paper]](https://arxiv.org/abs/2311.14949)
 
 - Efficient Prompting via Dynamic In-Context Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.11170)
 
@@ -857,7 +857,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Perception Compressor:A training-free prompt compression method in long context scenarios <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.19272)
 
-- 
+- From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.04139)
 
 ### Other
 
@@ -903,9 +903,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Context Compression for Auto-regressive Transformers with Sentinel Tokens <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.08152) [[Code]](https://github.com/DRSY/KV_Compression)
 
-- TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction <br> EMNLP 2023 Findings [[Paper]](https://arxiv.org/abs/2310.15556)
+- TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction <br> EMNLP Findings 2023 [[Paper]](https://arxiv.org/abs/2310.15556)
 
-- Retrieval-based Knowledge Transfer: An Effective Approach for Extreme Large Language Model Compression <br> EMNLP 2023 Findings [[Paper]](https://arxiv.org/abs/2310.15594)
+- Retrieval-based Knowledge Transfer: An Effective Approach for Extreme Large Language Model Compression <br> EMNLP Findings 2023 [[Paper]](https://arxiv.org/abs/2310.15594)
 
 - FFSplit: Split Feed-Forward Network For Optimizing Accuracy-Efficiency Trade-off in Language Model Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.04044)
 
