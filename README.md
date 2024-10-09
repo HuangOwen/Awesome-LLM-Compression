@@ -266,7 +266,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - BitDelta: Your Fine-Tune May Only Be Worth One Bit <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.10193) [[Code]](https://github.com/FasterDecoding/BitDelta)
 
-- QDyLoRA: Quantized Dynamic Low-Rank Adaptation for Efficient Large Language Model Tuning <br> AAAI EIW Workshop 2024 [[Paper]](https://arxiv.org/abs/2402.10462) 
+- QDyLoRA: Quantized Dynamic Low-Rank Adaptation for Efficient Large Language Model Tuning <br> EMNLP 2024 Industry Track [[Paper]](https://arxiv.org/abs/2402.10462) 
 
 - Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.10517) 
 
@@ -778,6 +778,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - LLM Pruning and Distillation in Practice: The Minitron Approach <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11796) [[Models]](https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base)
 
 - The Mamba in the Llama: Distilling and Accelerating Hybrid Models  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.15237) 
+
+- DocKD: Knowledge Distillation from LLMs for Open-World Document Understanding Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2410.03061) 
 
 ### Efficient Prompting
 
