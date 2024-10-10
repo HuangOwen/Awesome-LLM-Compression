@@ -482,6 +482,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.05265) [[Code]](https://github.com/ChenMnZ/PrefixQuant)
 
+- SpaLLM: Unified Compressive Adaptation of Large Language Models with Sketching <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.06364) 
+
+- Scaling Laws for Mixed quantization in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.06722) 
+
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
