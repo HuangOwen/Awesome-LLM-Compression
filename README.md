@@ -1003,6 +1003,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03765) [[Code]](https://arxiv.org/abs/2410.03765)
 
+- Rodimus*: Breaking the Accuracy-Efficiency Trade-Off with Efficient Attentions <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.06577)
+
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
