@@ -388,7 +388,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - QQQ: Quality Quattuor-Bit Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.09904) [[Code]](https://github.com/HandH1998/QQQ)
 
-- QTIP: Quantization with Trellises and Incoherence Processing <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.11235) 
+- QTIP: Quantization with Trellises and Incoherence Processing <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.11235) [[Code]](https://github.com/Cornell-RelaxML/qtip)
 
 - Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.12016) 
 
@@ -452,7 +452,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Advancing Multimodal Large Language Models with Quantization-Aware Scale Learning for Efficient Adaptation <br> ACM MM 2024 [[Paper]](https://arxiv.org/abs/2408.03735)
 
-- ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.08554)
+- ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.08554) 
 
 - MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11743) [[Code (Marlin)]](https://github.com/IST-DASLab/marlin) [[Code (Sparse Marlin)]](https://github.com/IST-DASLab/Sparse-Marlin)
 
@@ -486,6 +486,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Scaling Laws for Mixed quantization in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.06722) 
 
+- Q-VLM: Post-training Quantization for Large Vision-Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2410.08119) [[Code]](https://github.com/ChangyuanWang17/QVLM)
+
+- CrossQuant: A Post-Training Quantization Method with Smaller Quantization Kernel for Precise Large Language Model Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.07505) 
 
 ### Pruning and Sparsity
 
