@@ -1013,6 +1013,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Rodimus*: Breaking the Accuracy-Efficiency Trade-Off with Efficient Attentions <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.06577)
 
+- DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.10819) [[Code]](https://github.com/mit-han-lab/duo-attention)
 
 ## Tools
 
