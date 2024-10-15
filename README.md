@@ -708,6 +708,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Getting Free Bits Back from Rotational Symmetries in LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.01309)
 
+- SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.09615) [[Code]](https://github.com/Mohammad-Mozaffari/slim)
+
+- Self-Data Distillation for Recovering Quality in Pruned Large Language Models <br> NeurIPS 2024 Machine Learning and Compression Workshop [[Paper]](https://arxiv.org/abs/2410.09982) 
 
 ### Distillation
 
