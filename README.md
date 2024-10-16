@@ -496,6 +496,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - QEFT: Quantization for Efficient Fine-Tuning of LLMs <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.08661) [[Code]](https://github.com/xvyaward/qeft)
 
+- Continuous Approximations for Improving Quantization Aware Training of LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.10849) 
+
 ### Pruning and Sparsity
 
 <b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
