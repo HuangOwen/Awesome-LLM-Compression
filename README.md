@@ -13,8 +13,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - [📑 Papers](#papers)
   - [Survey](#survey)
-  - [Quantization](#quantization) | [[Subpage]](QUANTIZATION.md)
-  - [Pruning and Sparsity](#pruning-and-sparsity) | [[Subpage]](PRUNE.md)
+  - [Quantization](#quantization)
+  - [Pruning and Sparsity](#pruning-and-sparsity)
   - [Distillation](#distillation)
   - [Efficient Prompting](#efficient-prompting)
   - [Other](#other)
@@ -65,8 +65,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.13385) 
 
 ### Quantization
-
-<b>🌟 Feel free to explore the [subpage](QUANTIZATION.md) for LLM quantization</b>
 
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
 
@@ -505,8 +503,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Scaling laws for post-training quantized large language models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.12119) 
 
 ### Pruning and Sparsity
-
-<b>🌟 Feel free to explore the [subpage](PRUNE.md) for LLM pruning</b>
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
 
@@ -1033,6 +1029,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Rodimus*: Breaking the Accuracy-Efficiency Trade-Off with Efficient Attentions <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.06577)
 
 - DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.10819) [[Code]](https://github.com/mit-han-lab/duo-attention)
+
+- Progressive Mixed-Precision Decoding for Efficient LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.13461)
+
+- SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.13846) [[Code]](https://github.com/sail-sg/SimLayerKV)
 
 ## Tools
 
