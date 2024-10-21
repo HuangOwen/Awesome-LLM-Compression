@@ -506,6 +506,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.13212) 
 
+- Understanding the difficulty of low-precision post-training quantization of large language models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.14570) 
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
@@ -719,6 +721,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.09615) [[Code]](https://github.com/Mohammad-Mozaffari/slim)
 
 - Self-Data Distillation for Recovering Quality in Pruned Large Language Models <br> NeurIPS 2024 Machine Learning and Compression Workshop [[Paper]](https://arxiv.org/abs/2410.09982) 
+
+- EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.14649) [[Code]](https://github.com/IST-DASLab/EvoPress)
 
 ### Distillation
 
