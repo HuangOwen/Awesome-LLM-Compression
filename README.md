@@ -510,6 +510,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Understanding the difficulty of low-precision post-training quantization of large language models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.14570) 
 
+- QuAILoRA: Quantization-Aware Initialization for LoRA <br> NeurIPS Workshop on Efficient Natural Language and Speech Processing (ENLSP-IV) 2024 [[Paper]](https://arxiv.org/abs/2410.14713) 
+
+- SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2410.15526) 
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
