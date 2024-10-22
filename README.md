@@ -64,6 +64,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.13385) 
 
+- Prompt Compression for Large Language Models: A Survey <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.12388) 
+
 ### Quantization
 
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
