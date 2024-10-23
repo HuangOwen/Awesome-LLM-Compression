@@ -427,8 +427,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Mamba-PTQ: Outlier Channels in Recurrent Large Language Models  <br> Efficient Systems for Foundation Models Workshop @ ICML 2024 [[Paper]](https://arxiv.org/abs/2407.12397)
 
-- PQCache: Product Quantization-based KVCache for Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12820)
-
 - Compensate Quantization Errors+: Quantized Models Are Inquisitive Learners <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.15508)
 
 - Accurate and Efficient Fine-Tuning of Quantized Large Language Models Through Optimal Balance <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.17029) [[Code]](https://github.com/xiaocaigou/qbaraqahira) 
@@ -887,7 +885,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.01801)  
 
-- KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.18079)
+- KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2401.18079)
 
 - KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.02750) [[Code]](https://github.com/jy-yuan/KIVI)
 
@@ -913,7 +911,13 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.03482) [[Code]](https://github.com/amirzandieh/QJL)
 
+- Effectively Compress KV Heads for LLM <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.07056)
+
 - A Simple and Effective L2 Norm-Based Strategy for KV Cache Compression <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.11430)
+
+- PQCache: Product Quantization-based KVCache for Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12820)
+
+- Palu: Compressing KV-Cache with Low-Rank Projection <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.21118) [[Code]](https://github.com/shadowpa0327/Palu)
 
 - RazorAttention: Efficient KV Cache Compression Through Retrieval Heads <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.15891)
 
@@ -1026,8 +1030,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.14057)
 
 - AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.19410)
- 
-- Palu: Compressing KV-Cache with Low-Rank Projection <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.21118) [[Code]](https://github.com/shadowpa0327/Palu)
 
 - Finch: Prompt-guided Key-Value Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2408.00167)
 
