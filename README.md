@@ -514,6 +514,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2410.15526) 
 
+- Pyramid Vector Quantization for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.16926) 
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
