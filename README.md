@@ -709,6 +709,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.14649) [[Code]](https://github.com/IST-DASLab/EvoPress)
 
+- Pruning Foundation Models for High Accuracy without Retraining <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.15567) [[Code]](https://github.com/piuzha/APT)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
@@ -879,6 +881,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.11786)
 
+- Style-Compress: An LLM-Based Prompt Compression Framework Considering Task-Specific Styles <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.14042)
+
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/pdf/2305.17118.pdf)
@@ -921,6 +925,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - RazorAttention: Efficient KV Cache Compression Through Retrieval Heads <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.15891)
 
+- Finch: Prompt-guided Key-Value Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2408.00167)
+
 - Zero-Delay QKV Compression for Mitigating KV Cache and Network Bottlenecks in LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.04107)
 
 - Eigen Attention: Attention in Low-Rank Space for KV Cache Compression <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2408.05646) [[Code]](https://github.com/UtkarshSaxena1/EigenAttn/tree/main)
@@ -934,6 +940,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.14731)
 
 - AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.13212) 
+
+- Residual vector quantization for KV cache compression in large language model <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.15704) [[Code]](https://github.com/iankur/vqllm)
 
 - Lossless KV Cache Compression to 2% <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.15252)
 
@@ -1030,8 +1038,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.14057)
 
 - AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.19410)
-
-- Finch: Prompt-guided Key-Value Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2408.00167)
 
 - CaM: Cache Merging for Memory-efficient LLMs Inference <br> ICML 2024 [[Paper]](https://openreview.net/forum?id=LCTmppB165) [[Code]](https://github.com/zyxxmu/cam)
 
