@@ -1077,6 +1077,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Progressive Mixed-Precision Decoding for Efficient LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.13461)
 
+- EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.21271)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
