@@ -1083,6 +1083,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.21271)
 
+- LLMCBench: Benchmarking Large Language Model Compression for Efficient Deployment <br> NeurIPS 2024 Datasets and Benchmarks Track [[Paper]](https://arxiv.org/abs/2410.21352) [[Code]](https://github.com/AboveParadise/LLMCBench)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
