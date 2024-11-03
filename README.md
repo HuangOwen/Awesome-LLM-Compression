@@ -807,7 +807,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - DocKD: Knowledge Distillation from LLMs for Open-World Document Understanding Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2410.03061) 
 
-- SWITCH: Studying with Teacher for Knowledge Distillation of Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.19503) 
+- SWITCH: Studying with Teacher for Knowledge Distillation of Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.19503)
+
+- Mentor-KD: Making Small Language Models Better Multi-step Reasoners <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2410.09037) [[Code]](https://github.com/2hojae/mentor-kd)
+
 
 ### Efficient Prompting
 
