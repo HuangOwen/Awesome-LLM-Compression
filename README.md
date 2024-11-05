@@ -271,7 +271,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - OneBit: Towards Extremely Low-bit Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11295)
 
-- DB-LLM: Accurate Dual-Binarization for Efficient LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11960)
+- DB-LLM: Accurate Dual-Binarization for Efficient LLMs <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2402.11960)
 
 - WKVQuant: Quantizing Weight and Key/Value Cache for Large Language Models Gains More <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.12065)
 
@@ -813,6 +813,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Mentor-KD: Making Small Language Models Better Multi-step Reasoners <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2410.09037) [[Code]](https://github.com/2hojae/mentor-kd)
 
+- Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.12512) 
 
 ### Efficient Prompting
 
@@ -1055,6 +1056,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Token-wise Influential Training Data Retrieval for Large Language Models <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2405.11724) [[Code]](https://github.com/huawei-lin/RapidIn)
 
 - Basis Selection: Low-Rank Decomposition of Pretrained Large Language Models for Target Applications <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.15877)
+
+- Demystifying the Compression of Mixture-of-Experts Through a Unified Framework <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.02500) [[Code]](https://github.com/CASE-Lab-UMD/Unified-MoE-Compression)
 
 - LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.14057)
 
