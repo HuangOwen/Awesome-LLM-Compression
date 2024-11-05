@@ -1090,6 +1090,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLMCBench: Benchmarking Large Language Model Compression for Efficient Deployment <br> NeurIPS 2024 Datasets and Benchmarks Track [[Paper]](https://arxiv.org/abs/2410.21352) [[Code]](https://github.com/AboveParadise/LLMCBench)
 
+- NeuZip: Memory-Efficient Training and Inference with Dynamic Compression of Neural Networks <br> Arxiv 2024 [[paper]](https://arxiv.org/abs/2410.20650) [[Code]](https://github.com/BorealisAI/neuzip)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
