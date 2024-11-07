@@ -503,6 +503,12 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - BitStack: Fine-Grained Size Control for Compressed Large Language Models in Variable Memory Environments <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.23918) [[Code]](https://github.com/xinghaow99/BitStack)
 
+- GWQ: Gradient-Aware Weight Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.00850) 
+
+- "Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.02355) 
+
+- Interactions Across Blocks in Post-Training Quantization of Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.03934) 
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
