@@ -521,6 +521,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - AMXFP4: Taming Activation Outliers with Asymmetric Microscaling Floating-Point for 4-bit LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.09909) [[Code]](https://github.com/aiha-lab/MX-QLLM)
 
+- Scaling Laws for Precision <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.04330) 
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
