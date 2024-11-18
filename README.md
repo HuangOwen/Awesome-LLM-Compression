@@ -511,6 +511,16 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Interactions Across Blocks in Post-Training Quantization of Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.03934) 
 
+- BitNet a4.8: 4-bit Activations for 1-bit LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.04965) 
+
+- The Super Weight in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.07191) [[Code]](https://github.com/mengxiayu/LLMSuperWeight)
+
+- ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.07762) 
+
+- Towards Low-bit Communication for Tensor Parallel LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.07942) 
+
+- AMXFP4: Taming Activation Outliers with Asymmetric Microscaling Floating-Point for 4-bit LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.09909) [[Code]](https://github.com/aiha-lab/MX-QLLM)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
