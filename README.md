@@ -1207,6 +1207,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FastAPI-BitNet: a combination of Uvicorn, FastAPI (Python) and Docker to provide a reliable REST API for testing Microsoft's BitNet out locally [[Code]](https://github.com/grctest/FastAPI-BitNet)
 
+- kvpress: LLM KV cache compression made easy [[Code]](https://github.com/NVIDIA/kvpress)
+
 ## Contributing
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
 
