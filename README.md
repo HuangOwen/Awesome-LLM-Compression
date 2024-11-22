@@ -749,6 +749,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Change Is the Only Constant: Dynamic LLM Slicing based on Layer Redundancy <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2411.03513) [[Code]](https://github.com/RazvanDu/DynamicSlicing)
 
+- Scaling Law for Post-training after Model Pruning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.10272)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
