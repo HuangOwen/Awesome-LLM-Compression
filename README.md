@@ -529,6 +529,24 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - AutoMixQ: Self-Adjusting Quantization for High Performance Memory-Efficient Fine-Tuning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.13814)
 
+- Anda: Unlocking Efficient LLM Inference with a Variable-Length Grouped Activation Data Format <br> HPCA 2025 [[Paper]](https://arxiv.org/abs/2411.15982)
+
+- MixPE: Quantization and Hardware Co-design for Efficient LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.16158)
+
+- Pushing the Limits of Large Language Model Quantization via the Linearity Theorem <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.17525)
+
+- Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.17691) [[Models]](https://huggingface.co/Xu-Ouyang)
+
+- DFRot: Achieving Outlier-Free and Massive Activation-Free for Rotated LLMs with Refined Rotation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.00648) [[Code]](https://github.com/JingyangXiang/DFRot)
+
+- RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.01129)
+
+- CPTQuant -- A Novel Mixed Precision Post-Training Quantization Techniques for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.03599)
+
+- SKIM: Any-bit Quantization Pushing The Limits of Post-Training Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.04180)
+
+- Direct Quantized Training of Language Models with Stochastic Rounding <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.04787)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
