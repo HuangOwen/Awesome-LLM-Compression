@@ -733,6 +733,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ThinK: Thinner Key Cache by Query-Driven Pruning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.21018) 
 
+- MoDeGPT: Modular Decomposition for Large Language Model Compression <br> Arxiv 2024 [[Paper]](https://www.arxiv.org/abs/2408.09632) 
+
 - LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.10631) [[Code]](https://github.com/YupengSu/LLM-Barber)
 
 - LLM Pruning and Distillation in Practice: The Minitron Approach <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11796) [[Models]](https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base)
@@ -744,6 +746,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Sirius: Contextual Sparsity with Correction for Efficient LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.03856) [[Code]](https://github.com/Infini-AI-Lab/Sirius)
 
 - STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.06211)
+
+- DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2410.11988)
 
 - Search for Efficient Large Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2409.17372)
 
