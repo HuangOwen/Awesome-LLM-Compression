@@ -547,6 +547,12 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Direct Quantized Training of Language Models with Stochastic Rounding <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.04787) [[Code]](https://github.com/KYuuto1006/DQT)
 
+- Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.06858)
+
+- Low-Rank Correction for Quantized LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.07902)
+
+- CRVQ: Channel-relaxed Vector Quantization for Extreme Compression of LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.09282) 
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
