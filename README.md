@@ -775,6 +775,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Scaling Law for Post-training after Model Pruning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.10272)
 
+- LEMON: Reviving Stronger and Smaller LMs from Larger LMs with Linear Parameter Fusion <br> ACL 2024 [[Paper]](https://aclanthology.org/2024.acl-long.434/)
+
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
@@ -1020,6 +1023,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.18517) [[Code]](https://github.com/yangyifei729/KVSharer)
 
 - Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.19318) [[Code]](https://github.com/Clement25/SharedLLM)
+
+- NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2408.03675) [[Code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL)
+
+- DHA: Learning Decoupled-Head Attention from Transformer Checkpoints via Adaptive Heads Fusion <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.06567)
 
 ### Other
 
