@@ -1040,6 +1040,26 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - DHA: Learning Decoupled-Head Attention from Transformer Checkpoints via Adaptive Heads Fusion <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.06567)
 
+- MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.06567) 
+
+- Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.02252) 
+
+- Unifying KV Cache Compression for Large Language Models with LeanKV <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.03131) 
+
+- ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.03213) 
+
+- Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.08890) [[Code]](https://github.com/krafton-ai/lexico)
+
+- ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.09036) 
+
+- SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.12094) [[Code]](https://github.com/HKUDS/SepLLM)
+
+- More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.12706) 
+
+- SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.13649) [[Code]](https://github.com/Linking-ai/SCOPE)
+
+- DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.14838) 
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
