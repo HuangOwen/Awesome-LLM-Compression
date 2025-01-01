@@ -795,6 +795,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 
 ### Distillation
+- Lillama: Large Language Models Compression with Low-Rank Feature Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2412.16719)
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
 
