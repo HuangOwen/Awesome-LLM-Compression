@@ -563,6 +563,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.18135)
 
+- Pushing the Envelope of Low-Bit LLM via Dynamic Error Compensation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.20185)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
