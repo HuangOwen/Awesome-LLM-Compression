@@ -985,6 +985,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Style-Compress: An LLM-Based Prompt Compression Framework Considering Task-Specific Styles <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.14042)
 
+- ICPC: In-context Prompt Compression with Faster Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.01625)
+
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/pdf/2305.17118.pdf)
@@ -1075,7 +1077,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.14838) 
 
-- TreeKV: Smooth Key-Value Cache Compression with Tree Structures <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2501.04987) 
+- TreeKV: Smooth Key-Value Cache Compression with Tree Structures <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.04987) 
 
 ### Other
 
