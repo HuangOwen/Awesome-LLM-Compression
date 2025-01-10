@@ -1075,6 +1075,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.14838) 
 
+- TreeKV: Smooth Key-Value Cache Compression with Tree Structures <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2501.04987) 
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
