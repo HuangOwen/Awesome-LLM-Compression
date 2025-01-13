@@ -899,6 +899,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Lillama: Large Language Models Compression via Low-Rank Feature Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2412.18232) 
 
+- Chunk-Distilled Language Modeling <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.00343) 
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
