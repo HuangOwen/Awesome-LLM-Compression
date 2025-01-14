@@ -565,6 +565,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Pushing the Envelope of Low-Bit LLM via Dynamic Error Compensation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.20185)
 
+- HALO: Hadamard-Assisted Lossless Optimization for Efficient Low-Precision LLM Training and Fine-Tuning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.02625)
+
+- The Power of Negative Zero: Datatype Customization for Quantized Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.04052)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
