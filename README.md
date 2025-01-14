@@ -795,6 +795,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LEMON: Reviving Stronger and Smaller LMs from Larger LMs with Linear Parameter Fusion <br> ACL 2024 [[Paper]](https://aclanthology.org/2024.acl-long.434/)
 
+- TrimLLM: Progressive Layer Dropping for Domain-Specific LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.11242)
+
+- FTP: A Fine-grained Token-wise Pruner for Large Language Models via Token Routing <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.11494)
+
+- Activation Sparsity Opportunities for Compressing General Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.12178)
 
 ### Distillation
 - Lillama: Large Language Models Compression with Low-Rank Feature Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2412.16719)
