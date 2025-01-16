@@ -1224,6 +1224,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLM Vocabulary Compression for Low-Compute Environments <br> Machine Learning and Compression Workshop @ NeurIPS 2024 [[paper]](https://arxiv.org/abs/2411.06371)
 
+- SWSC: Shared Weight for Similar Channel in LLM <br> Arxiv 2024 [[paper]](https://arxiv.org/abs/2501.08631) [[Code]](https://github.com/BorealisAI/neuzip)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
