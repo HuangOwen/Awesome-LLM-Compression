@@ -807,6 +807,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Activation Sparsity Opportunities for Compressing General Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.12178)
 
+- FASP: Fast and Accurate Structured Pruning of Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.09412)
+
+
 ### Distillation
 - Lillama: Large Language Models Compression with Low-Rank Feature Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2412.16719)
 
@@ -1224,7 +1227,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLM Vocabulary Compression for Low-Compute Environments <br> Machine Learning and Compression Workshop @ NeurIPS 2024 [[paper]](https://arxiv.org/abs/2411.06371)
 
-- SWSC: Shared Weight for Similar Channel in LLM <br> Arxiv 2024 [[paper]](https://arxiv.org/abs/2501.08631) [[Code]](https://github.com/BorealisAI/neuzip)
+- SWSC: Shared Weight for Similar Channel in LLM <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2501.08631) 
 
 ## Tools
 
