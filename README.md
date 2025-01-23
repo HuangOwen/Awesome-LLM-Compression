@@ -1007,6 +1007,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ICPC: In-context Prompt Compression with Faster Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.01625)
 
+- Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.12959)
+
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/pdf/2305.17118.pdf)
