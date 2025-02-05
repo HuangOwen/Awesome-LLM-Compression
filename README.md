@@ -817,6 +817,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2501.17088) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/Mamba-Shedder)
 
+- Zeroth-Order Adaptive Neuron Alignment Based Pruning without Retraining <br> Arxiv 2025 [[Paper]](https://arxiv.org/pdf/2411.07066?) [[Code]](https://github.com/eliacunegatti/NeuroAL)
+
+- 2SSP: A Two-Stage Framework for Structured Pruning of LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/pdf/2501.17771) [[Code]](https://github.com/FabrizioSandri/2SSP)
 ### Distillation
 - Lillama: Large Language Models Compression with Low-Rank Feature Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2412.16719)
 
