@@ -1127,6 +1127,18 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - TreeKV: Smooth Key-Value Cache Compression with Tree Structures <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.04987) 
 
+- RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.16383) 
+
+- Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.19392) 
+
+- ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.00299) 
+
+- FastKV: KV Cache Compression for Fast Long-Context Processing with Token-Selective Propagation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01068) [[Code]](https://github.com/dongwonjo/FastKV)
+
+- Can LLMs Maintain Fundamental Abilities under KV Cache Compression? <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01941) 
+
+- PolarQuant: Quantizing KV Caches with Polar Transformation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.02617) 
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
