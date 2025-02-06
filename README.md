@@ -1235,6 +1235,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SWSC: Shared Weight for Similar Channel in LLM <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2501.08631) 
 
+- Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2501.13629) 
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
