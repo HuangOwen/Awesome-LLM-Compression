@@ -1277,6 +1277,12 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing <br> NAACL 2025 [[paper]](https://arxiv.org/abs/2501.14713) 
 
+- AdaSVD: Adaptive Singular Value Decomposition for Large Language Models <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.01403) [[Code]](https://github.com/ZHITENGLI/AdaSVD)
+
+- HASSLE-free: A unified Framework for Sparse plus Low-Rank Matrix Decomposition for LLMs <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.00899) 
+
+- Choose Your Model Size: Any Compression by a Single Gradient Descent <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.01717) 
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
