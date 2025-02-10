@@ -583,6 +583,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Unlocking Efficient Large Inference Models: One-Bit Unrolling Tips the Scales <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01908)
 
+- QuEST: Stable Training of LLMs with 1-Bit Weights and Activations <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.05003)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
