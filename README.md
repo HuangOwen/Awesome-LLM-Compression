@@ -585,6 +585,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - QuEST: Stable Training of LLMs with 1-Bit Weights and Activations <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.05003)
 
+- ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.02631)
+
 - Systematic Outliers in Large Language Models <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2502.06415) [[Code]](https://github.com/an-yongqi/systematic-outliers)
 
 ### Pruning and Sparsity
