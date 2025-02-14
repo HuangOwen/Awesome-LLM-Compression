@@ -1153,6 +1153,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PolarQuant: Quantizing KV Caches with Polar Transformation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.02617) 
 
+- BalanceKV: KV Cache Compression through Discrepancy Theory <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.07861) 
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
