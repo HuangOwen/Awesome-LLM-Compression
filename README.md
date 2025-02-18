@@ -1051,6 +1051,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2502.06139)
 
+- TokenSkip: Controllable Chain-of-Thought Compression in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.12067)
+
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/pdf/2305.17118.pdf)
