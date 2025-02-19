@@ -79,7 +79,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Outlier Suppression: Pushing the Limit of Low-bit Transformer Language Models <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2209.13325) [[Code]](https://github.com/wimh966/outlier_suppression)
 
-- LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models <br> Arxiv 2022 [[Paper]](https://arxiv.org/abs/2206.09557) 
+- LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2206.09557) 
 
 - SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2211.10438) [[Code]](https://github.com/mit-han-lab/smoothquant)
 
@@ -105,7 +105,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation <br> AAAI 2024 [[Paper]](https://arxiv.org/abs/2303.08302) [[Code]](https://github.com/microsoft/DeepSpeed)
 
-- Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.12356)
+- Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2305.12356)
 
 - Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2305.14152)
 
@@ -590,6 +590,14 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Systematic Outliers in Large Language Models <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2502.06415) [[Code]](https://github.com/an-yongqi/systematic-outliers)
 
 - Can Post-Training Quantization Benefit from an Additional QLoRA Integration? <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2502.10202)
+
+- 1bit-Merging: Dynamic Quantized Merging for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.10743)
+
+- Towards Efficient Pre-training: Exploring FP4 Precision in Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.11458)
+
+- Continual Quantization-Aware Pre-Training: When to transition from 16-bit to 1.58-bit pre-training for BitNet language models? <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.11895)
+
+- QuZO: Quantized Zeroth-Order Fine-Tuning for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.12346)
 
 ### Pruning and Sparsity
 
