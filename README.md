@@ -1063,6 +1063,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - TokenSkip: Controllable Chain-of-Thought Compression in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.12067)
 
+- Task-agnostic Prompt Compression with Context-aware Sentence Embedding and Reward-guided Task Descriptor <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.13374)
+
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/pdf/2305.17118.pdf)
