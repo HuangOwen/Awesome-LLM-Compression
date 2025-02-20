@@ -599,6 +599,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - QuZO: Quantized Zeroth-Order Fine-Tuning for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.12346)
 
+- Benchmarking Post-Training Quantization in LLMs: Comprehensive Taxonomy, Unified Evaluation, and Comparative Analysis <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.13178)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
