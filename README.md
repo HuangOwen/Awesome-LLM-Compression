@@ -1179,6 +1179,12 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Unshackling Context Length: An Efficient Selective Attention Approach through Query-Key Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.14477) 
 
+- RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.14051) 
+
+- More for Keys, Less for Values: Adaptive KV Cache Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.15075) [[Code]](https://anonymous.4open.science/r/KV-AdaQuant-8F58)
+
+- SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.15304) 
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
