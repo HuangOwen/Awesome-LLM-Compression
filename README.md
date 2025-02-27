@@ -603,6 +603,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Compression Scaling Laws:Unifying Sparsity and Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.16440)
 
+- M-ANT: Efficient Low-bit Group Quantization for LLMs via Mathematically Adaptive Numerical Type <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.18755)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
