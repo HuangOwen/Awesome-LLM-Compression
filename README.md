@@ -1335,6 +1335,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Choose Your Model Size: Any Compression by a Single Gradient Descent <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.01717) 
 
+- Delta Decompression for MoE-based LLMs Compression <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.17298) [[Code]](https://github.com/lliai/D2MoE)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
