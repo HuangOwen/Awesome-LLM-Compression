@@ -601,6 +601,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Benchmarking Post-Training Quantization in LLMs: Comprehensive Taxonomy, Unified Evaluation, and Comparative Analysis <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.13178)
 
+- Compression Scaling Laws:Unifying Sparsity and Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.16440)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
@@ -868,6 +870,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Determining Layer-wise Sparsity for Large Language Models Through a Theoretical Perspective <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.14770)
 
 - PPC-GPT: Federated Task-Specific Compression of Large Language Models via Pruning and Chain-of-Thought Distillation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.15857)
+
+- Compression Scaling Laws:Unifying Sparsity and Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.16440)
 
 ### Distillation
 
