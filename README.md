@@ -1339,6 +1339,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Delta Decompression for MoE-based LLMs Compression <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.17298) [[Code]](https://github.com/lliai/D2MoE)
 
+- ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.21231) 
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
