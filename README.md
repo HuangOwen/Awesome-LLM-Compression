@@ -873,7 +873,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PPC-GPT: Federated Task-Specific Compression of Large Language Models via Pruning and Chain-of-Thought Distillation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.15857)
 
-- Compression Scaling Laws:Unifying Sparsity and Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.16440)
+- Compression Scaling Laws: Unifying Sparsity and Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.16440)
+
+- PASER: Post-Training Data Selection for Efficient Pruned Large Language Model Recovery <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.12594)
 
 ### Distillation
 
