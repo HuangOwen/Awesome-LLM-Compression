@@ -981,6 +981,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Chunk-Distilled Language Modeling <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.00343) 
 
+- CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.21074) 
+
+- Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.12947) 
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
