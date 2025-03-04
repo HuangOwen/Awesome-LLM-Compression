@@ -1205,6 +1205,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - BaKlaVa -- Budgeted Allocation of KV cache for Long-context Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.13176) 
 
+- WeightedKV: Attention Scores Weighted Key-Value Cache Merging for Large Language Models <br> ICASSP 2025 [[Paper]](https://arxiv.org/abs/2503.01330) 
+
+- KVCrush: Key value cache size-reduction using similarity in head-behaviour <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.00022) 
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
