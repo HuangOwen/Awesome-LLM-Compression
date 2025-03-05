@@ -1209,6 +1209,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KVCrush: Key value cache size-reduction using similarity in head-behaviour <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.00022) 
 
+- Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.02812) [[Code]](https://github.com/NathanGodey/qfilters)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
