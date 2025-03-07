@@ -1089,6 +1089,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LightThinker: Thinking Step-by-Step Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.15589) [[Code]](https://github.com/zjunlp/LightThinker)
 
+- BatchGEMBA: Token-Efficient Machine Translation Evaluation with Batched Prompting and Prompt Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.02756) [[Code]](https://github.com/NL2G/batchgemba)
+
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/pdf/2305.17118.pdf)
