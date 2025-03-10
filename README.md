@@ -609,6 +609,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Identifying Sensitive Weights via Post-quantization Integral <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.01901)
 
+- RSQ: Learning from Important Tokens Leads to Better Quantized LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.01820) [[Code]](https://github.com/ylsung/rsq)
+
 - Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.04704)
 
 ### Pruning and Sparsity
