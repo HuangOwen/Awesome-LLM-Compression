@@ -1219,6 +1219,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.02812) [[Code]](https://github.com/NathanGodey/qfilters)
 
+- Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge Reasoning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.04973)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
