@@ -613,6 +613,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.04704)
 
+- Towards Superior Quantization Accuracy: A Layer-sensitive Approach <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.06518)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
