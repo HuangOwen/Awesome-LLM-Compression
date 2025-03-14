@@ -811,6 +811,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Training-Free Activation Sparsity in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.14690) 
 
+- Enhancing One-shot Pruned Pre-trained Language Models through Sparse-Dense-Sparse Mechanism <br> COLING 2025 [[Paper]](https://arxiv.org/abs/2408.10473)
+
 - PAT: Pruning-Aware Tuning for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.14721) [[Code]](https://github.com/kriskrisliu/PAT_Pruning-Aware-Tuning)
 
 - Sirius: Contextual Sparsity with Correction for Efficient LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.03856) [[Code]](https://github.com/Infini-AI-Lab/Sirius)
