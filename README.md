@@ -1101,6 +1101,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - BatchGEMBA: Token-Efficient Machine Translation Evaluation with Batched Prompting and Prompt Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.02756) [[Code]](https://github.com/NL2G/batchgemba)
 
+- EFPC: Towards Efficient and Flexible Prompt Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.07956)
+
+- KV-Distill: Nearly Lossless Learnable Context Compression for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.10337)
+
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/pdf/2305.17118.pdf)
