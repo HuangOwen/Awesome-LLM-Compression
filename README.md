@@ -615,6 +615,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Towards Superior Quantization Accuracy: A Layer-sensitive Approach <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.06518)
 
+- MergeQuant: Accurate 4-bit Static Quantization of Large Language Models by Channel-wise Calibration  <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.07654)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
