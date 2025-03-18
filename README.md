@@ -301,8 +301,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - What Makes Quantization for Large Language Models Hard? An Empirical Study from the Lens of Perturbation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.06408)
 
-- SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.07378) [[Code]](https://github.com/AIoT-MLSys-Lab/SVD-LLM)
-
 - AffineQuant: Affine Transformation Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://browse.arxiv.org/abs/2402.00858) [[Code]](https://github.com/bytedance/AffineQuant)
 
 - Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models <br> ICLR Practical ML for Low Resource Settings Workshop 2024 [[Paper]](https://arxiv.org/abs/2403.18159) 
@@ -1317,6 +1315,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.16187)
 
+- SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2403.07378) [[Code]](https://github.com/AIoT-MLSys-Lab/SVD-LLM)
+
 - Parameter Efficient Quasi-Orthogonal Fine-Tuning via Givens Rotation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.04316)
 
 - Training LLMs over Neurally Compressed Text <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.03626)
@@ -1388,6 +1388,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Delta Decompression for MoE-based LLMs Compression <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.17298) [[Code]](https://github.com/lliai/D2MoE)
 
 - ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.21231) 
+
+- SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression <br> NAACL 2025 [[paper]](https://arxiv.org/abs/2503.12340) [[Code]](https://github.com/AIoT-MLSys-Lab/SVD-LLM)
 
 ## Tools
 
