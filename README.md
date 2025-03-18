@@ -1239,6 +1239,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2503.08879)
 
+- ZeroMerge: Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.10714) [[Code]](https://github.com/SusCom-Lab/ZeroMerge)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
