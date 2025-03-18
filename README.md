@@ -1109,6 +1109,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KV-Distill: Nearly Lossless Learnable Context Compression for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.10337)
 
+- Text Compression for Efficient Language Generation <br> NAACL Student Research Workshop (SRW) 2025 [[Paper]](https://arxiv.org/abs/2503.11426)
+
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/pdf/2305.17118.pdf)
