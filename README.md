@@ -613,7 +613,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Towards Superior Quantization Accuracy: A Layer-sensitive Approach <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.06518)
 
-- MergeQuant: Accurate 4-bit Static Quantization of Large Language Models by Channel-wise Calibration  <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.07654)
+- MergeQuant: Accurate 4-bit Static Quantization of Large Language Models by Channel-wise Calibration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.07654)
+
+- ClusComp: A Simple Paradigm for Model Compression and Efficient Finetuning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.13089)
 
 ### Pruning and Sparsity
 
