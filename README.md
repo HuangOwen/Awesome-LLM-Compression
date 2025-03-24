@@ -1399,6 +1399,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SVD-LLM V2: Optimizing Singular Value Truncation for Large Language Model Compression <br> NAACL 2025 [[paper]](https://arxiv.org/abs/2503.12340) [[Code]](https://github.com/AIoT-MLSys-Lab/SVD-LLM)
 
+- Large Language Model Compression via the Nested Activation-Aware Decomposition <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2503.17101) 
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
