@@ -73,6 +73,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Efficient AI in Practice: Training and Deployment of Efficient LLMs for Industry Applications <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.14305) 
 
+- Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques <br> CICC 2025 [[Paper]](https://arxiv.org/abs/2503.11816)
+
 ### Quantization
 
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
@@ -1240,6 +1242,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2503.08879)
 
 - ZeroMerge: Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.10714) [[Code]](https://github.com/SusCom-Lab/ZeroMerge)
+
+- Limits of KV Cache Compression for Tensor Attention based Autoregressive Transformers <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.11108)
+
+- Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.16257) [[Code]](https://github.com/KD-TAO/VidKV)
 
 ### Other
 
