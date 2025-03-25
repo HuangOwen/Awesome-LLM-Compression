@@ -1247,6 +1247,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.16257) [[Code]](https://github.com/KD-TAO/VidKV)
 
+- OmniKV: Dynamic Context Selection for Efficient Long-Context LLMs <br> ICLR 2025 [[Paper]](https://openreview.net/forum?id=ulCAPXYXfa)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
