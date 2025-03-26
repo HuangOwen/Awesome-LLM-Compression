@@ -1111,6 +1111,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Text Compression for Efficient Language Generation <br> NAACL Student Research Workshop (SRW) 2025 [[Paper]](https://arxiv.org/abs/2503.11426)
 
+- Understanding and Improving Information Preservation in Prompt Compression for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.19114)
+
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/pdf/2305.17118.pdf)
