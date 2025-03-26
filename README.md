@@ -1247,6 +1247,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.16257) [[Code]](https://github.com/KD-TAO/VidKV)
 
+- OmniKV: Dynamic Context Selection for Efficient Long-Context LLMs <br> ICLR 2025 [[Paper]](https://openreview.net/forum?id=ulCAPXYXfa)
+
 - WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.17922) [[Code]](https://github.com/optim996/WindowKV)
 
 - xKV: Cross-Layer SVD for KV-Cache Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.18893) [[Code]](https://github.com/abdelfattah-lab/xKV)
