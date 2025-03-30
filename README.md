@@ -617,6 +617,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ClusComp: A Simple Paradigm for Model Compression and Efficient Finetuning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.13089)
 
+- MoQa: Rethinking MoE Quantization with Multi-stage Data-model Distribution Awareness <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.21135)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
