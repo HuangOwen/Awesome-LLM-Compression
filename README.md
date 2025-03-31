@@ -241,7 +241,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGA <br> FPGA 2024 [[Paper]](https://arxiv.org/abs/2401.03868)
 
-- Extreme Compression of Large Language Models via Additive Quantization <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2401.06118)
+- Extreme Compression of Large Language Models via Additive Quantization <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2401.06118) [[Code]](https://github.com/Vahe1994/AQLM)
 
 - Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.07159)
 
