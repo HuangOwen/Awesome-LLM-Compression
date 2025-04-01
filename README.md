@@ -1413,6 +1413,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Large Language Model Compression via the Nested Activation-Aware Decomposition <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2503.17101) 
 
+- PromptDistill: Query-based Selective Token Retention in Intermediate Layers for Efficient Large Language Model Inference <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2503.23274) [[Code]](https://github.com/declare-lab/PromptDistill)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
