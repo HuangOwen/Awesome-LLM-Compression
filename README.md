@@ -75,6 +75,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques <br> CICC 2025 [[Paper]](https://arxiv.org/abs/2503.11816)
 
+- Are We There Yet? A Measurement Study of Efficiency for LLM Applications on Mobile Devices <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.00002) 
+
 ### Quantization
 
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
