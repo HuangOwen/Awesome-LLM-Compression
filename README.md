@@ -1421,6 +1421,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PromptDistill: Query-based Selective Token Retention in Intermediate Layers for Efficient Large Language Model Inference <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2503.23274) [[Code]](https://github.com/declare-lab/PromptDistill)
 
+- When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.02010) 
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
