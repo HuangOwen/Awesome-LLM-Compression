@@ -623,7 +623,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.02692) [[Code]](https://github.com/Intelligent-Computing-Lab-Yale/GPTQv2)
 
-
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
@@ -1011,6 +1010,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.12947) 
 
 - TinyR1-32B-Preview: Boosting Accuracy with Branch-Merge Distillation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.04872) 
+
+- UNDO: Understanding Distillation as Optimization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.02521) 
 
 ### Efficient Prompting
 
