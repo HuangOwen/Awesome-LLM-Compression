@@ -899,6 +899,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.09657)
 
+- Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.05346)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
