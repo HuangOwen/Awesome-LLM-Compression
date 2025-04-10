@@ -1269,7 +1269,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving <br> MLSys 2025 [[Paper]](https://arxiv.org/abs/2503.24000) [[Code]](https://github.com/LLMkvsys/rethink-kv-compression)
 
-- MILLION: Mastering Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.03661) [[Code]](https://github.com/ZongwuWang/MILLION)
+- MILLION: Mastering Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization <br> DAC 2025 [[Paper]](https://arxiv.org/abs/2504.03661) [[Code]](https://github.com/ZongwuWang/MILLION)
 
 ### Other
 
@@ -1428,6 +1428,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - PromptDistill: Query-based Selective Token Retention in Intermediate Layers for Efficient Large Language Model Inference <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2503.23274) [[Code]](https://github.com/declare-lab/PromptDistill)
 
 - When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.02010) 
+
+- Compression Laws for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.04342) 
 
 ## Tools
 
