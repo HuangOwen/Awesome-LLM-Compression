@@ -1269,6 +1269,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving <br> MLSys 2025 [[Paper]](https://arxiv.org/abs/2503.24000) [[Code]](https://github.com/LLMkvsys/rethink-kv-compression)
 
+- MILLION: Mastering Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.03661) [[Code]](https://github.com/ZongwuWang/MILLION)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
