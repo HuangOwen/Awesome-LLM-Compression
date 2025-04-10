@@ -1433,6 +1433,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Compression Laws for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.04342) 
 
+- Mosaic: Composite Projection Pruning for Resource-efficient LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.06323) 
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
