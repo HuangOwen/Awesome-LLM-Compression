@@ -623,6 +623,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.02692) [[Code]](https://github.com/Intelligent-Computing-Lab-Yale/GPTQv2)
 
+- Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.07389) [[Code]](https://github.com/The-Inscrutable-X/TACQ)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
