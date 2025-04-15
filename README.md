@@ -625,6 +625,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.07389) [[Code]](https://github.com/The-Inscrutable-X/TACQ)
 
+- Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.09629)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
