@@ -1277,6 +1277,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - MILLION: Mastering Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization <br> DAC 2025 [[Paper]](https://arxiv.org/abs/2504.03661) [[Code]](https://github.com/ZongwuWang/MILLION)
 
+- KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.09936)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
