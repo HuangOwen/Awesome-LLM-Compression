@@ -1437,6 +1437,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Mosaic: Composite Projection Pruning for Resource-efficient LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.06323) 
 
+- SD2: Self-Distilled Sparse Drafters <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.08838) 
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
