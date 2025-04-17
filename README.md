@@ -1127,6 +1127,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Understanding and Improving Information Preservation in Prompt Compression for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.19114)
 
+- Dynamic Compressing Prompts for Efficient Inference of Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.11004) [[Code]](https://github.com/Fhujinwu/DCP)
+
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/pdf/2305.17118.pdf)
