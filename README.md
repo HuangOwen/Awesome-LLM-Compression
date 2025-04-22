@@ -627,6 +627,16 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.09629)
 
+- Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.23294)
+
+- RaanA: A Fast, Flexible, and Data-Efficient Post-Training Quantization Algorithm <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.03717) [[Code]](https://github.com/FFTYYY/RaanA)
+
+- Achieving binary weight and activation for LLMs using Post-Training Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.05352)
+
+- DL-QAT: Weight-Decomposed Low-Rank Quantization-Aware Training for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.09223)
+
+- Gradual Binary Search and Dimension Expansion : A general method for activation quantization in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.13989)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
