@@ -1459,6 +1459,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - 70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2504.11651) [[Code]](https://github.com/LeanModels/DFloat11)
 
+- ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.13237) 
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
