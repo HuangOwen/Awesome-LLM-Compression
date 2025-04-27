@@ -639,7 +639,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Gradual Binary Search and Dimension Expansion : A general method for activation quantization in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.13989)
 
-- VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference <br> HCPA 2025 [[Paper]](https://arxiv.org/pdf/2503.02236)
+- VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference <br> HPCA 2025 [[Paper]](https://arxiv.org/pdf/2503.02236)
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
