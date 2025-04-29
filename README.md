@@ -645,6 +645,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.18415)
 
+- FineQ: Software-Hardware Co-Design for Low-Bit Fine-Grained Mixed-Precision Quantization of LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.19746)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
