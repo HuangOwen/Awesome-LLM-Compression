@@ -641,6 +641,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FGMP: Fine-Grained Mixed-Precision Weight and Activation Quantization for Hardware-Accelerated LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.14152)
 
+- VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference <br> HPCA 2025 [[Paper]](https://arxiv.org/pdf/2503.02236)
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
