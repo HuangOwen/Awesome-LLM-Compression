@@ -635,7 +635,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Achieving binary weight and activation for LLMs using Post-Training Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.05352)
 
-- DL-QAT: Weight-Decomposed Low-Rank Quantization-Aware Training for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.09223)
+- DL-QAT: Weight-Decomposed Low-Rank Quantization-Aware Training for Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2504.09223)
 
 - Gradual Binary Search and Dimension Expansion : A general method for activation quantization in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.13989)
 
@@ -1460,6 +1460,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - 70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2504.11651) [[Code]](https://github.com/LeanModels/DFloat11)
 
 - ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.13237) 
+
+- From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.13471) 
 
 ## Tools
 
