@@ -925,7 +925,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.05346)
 
-- Efficient LLMs with AMP: Attention Heads and MLP Pruning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.21174)
+- Efficient LLMs with AMP: Attention Heads and MLP Pruning <br> IJCNN 2025 [[Paper]](https://arxiv.org/abs/2504.21174)
 
 ### Distillation
 
