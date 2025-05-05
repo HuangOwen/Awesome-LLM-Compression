@@ -649,6 +649,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FineQ: Software-Hardware Co-Design for Low-Bit Fine-Grained Mixed-Precision Quantization of LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.19746)
 
+- Precision Where It Matters: A Novel Spike Aware Mixed-Precision Quantization Strategy for LLaMA-based Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.21553)
+
+- ICQuant: Index Coding enables Low-bit LLM Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.00850)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
