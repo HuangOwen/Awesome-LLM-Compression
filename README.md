@@ -653,6 +653,14 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ICQuant: Index Coding enables Low-bit LLM Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.00850)
 
+- Radio: Rate-Distortion Optimization for Large Language Model Compression <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2505.03031)
+
+- Efficient Fine-Tuning of Quantized Models via Adaptive Rank and Bitwidth <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.03802)
+
+- MoEQuant: Enhancing Quantization for Mixture-of-Experts Large Language Models via Expert-Balanced Sampling and Affinity Guidance <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2505.03804)
+
+- Grouped Sequency-arranged Rotation: Optimizing Rotation Transformation for Quantization for Free <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.03810)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
