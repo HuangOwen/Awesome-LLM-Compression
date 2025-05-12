@@ -941,6 +941,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Efficient LLMs with AMP: Attention Heads and MLP Pruning <br> IJCNN 2025 [[Paper]](https://arxiv.org/abs/2504.21174)
 
+- ReplaceMe: Network Simplification via Layer Pruning and Linear Transformations <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.02819) [[Code]](https://github.com/mts-ai/ReplaceMe)
+
+- Large Language Model Compression with Global Rank and Sparsity Optimization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.03801)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
