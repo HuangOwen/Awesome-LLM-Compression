@@ -79,6 +79,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.14772) 
 
+- An Empirical Study on Prompt Compression for Large Language Models <br> Building Trust Workshop @ ICLR 2025 2025 [[Paper]](https://arxiv.org/abs/2505.00019) [[PCToolkit]](https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression)
+
 - Low-Precision Training of Large Language Models: Methods, Challenges, and Opportunities <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.01043) [[GitHub Page]](https://github.com/Hao840/Awesome-Low-Precision-Training)
 
 - Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques <br> COMPSAC 2025 [[Paper]](https://arxiv.org/abs/2505.02309) 
