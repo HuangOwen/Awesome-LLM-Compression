@@ -83,6 +83,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques <br> COMPSAC 2025 [[Paper]](https://arxiv.org/abs/2505.02309) 
 
+- A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.01658) [[GitHub Page]](https://github.com/sihyeong/Awesome-LLM-Inference-Engine)
+
 ### Quantization
 
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
