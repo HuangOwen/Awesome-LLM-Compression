@@ -1329,6 +1329,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.09936)
 
+- FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.00570)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
