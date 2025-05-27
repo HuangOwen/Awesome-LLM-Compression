@@ -951,6 +951,14 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Large Language Model Compression with Global Rank and Sparsity Optimization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.03801)
 
+- TRIM: Achieving Extreme Sparsity with Targeted Row-wise Iterative Metric-driven Pruning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.16743) [[Code]](https://github.com/flobk/TRIM)
+
+- RAP: Runtime-Adaptive Pruning for LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.17138)
+
+- ELDeR: Getting Efficient LLMs through Data-Driven Regularized Layer-wise Pruning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.18232)
+
+- Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.20155)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
