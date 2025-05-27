@@ -677,6 +677,18 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Fine-tuning Quantized Neural Networks with Zeroth-order Optimization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.13430)
 
+- Scaling Law for Quantization-Aware Training <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.14302)
+
+- Quaff: Quantized Parameter-Efficient Fine-Tuning under Outlier Spatial Stability Hypothesis <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.14742) [[Code]](https://github.com/Little0o0/Quaff)
+
+- Is (Selective) Round-To-Nearest Quantization All You Need? <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.15909)
+
+- NeUQI: Near-Optimal Uniform Quantization Parameter Initialization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.17595)
+
+- LoTA-QAF: Lossless Ternary Adaptation for Quantization-Aware Fine-Tuning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.18724) [[Code]](https://github.com/KingdalfGoodman/LoTA-QAF)
+
+- FP4 All the Way: Fully Quantized Training of LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.19115) [[Code]](https://github.com/Anonymous1252022/fp4-all-the-way)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
