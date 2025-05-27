@@ -667,6 +667,16 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Grouped Sequency-arranged Rotation: Optimizing Rotation Transformation for Quantization for Free <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.03810)
 
+- Improving Block-Wise LLM Quantization by 4-bit Block-Wise Optimal Float (BOF4): Analysis and Variations <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.06653)
+
+- QuantX: A Framework for Hardware-Aware Quantization of Generative AI Workloads <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.07531)
+
+- An Extra RMSNorm is All You Need for Fine Tuning to 1.58 Bits <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.08823)
+
+- ITERA-LLM: Boosting Sub-8-Bit Large Language Model Inference via Iterative Tensor Decomposition <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.08981)
+
+- Fine-tuning Quantized Neural Networks with Zeroth-order Optimization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.13430)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
