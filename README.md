@@ -1363,6 +1363,17 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.00570)
 
+- Accurate KV Cache Quantization with Outlier Tokens Tracing <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2505.10938) [[Code]](https://github.com/yisunlp/OTT)
+
+- NQKV: A KV Cache Quantization Scheme Based on Normal Distribution Characteristics <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.16210)
+
+- Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration <br> GLSVLSI 2025 [[Paper]](https://arxiv.org/abs/2505.17787) [[Code]](https://github.com/peilin-chen/Titanus-for-LLM-acceleration)
+
+- NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.18231)
+
+- PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.18610) [[Code]](https://github.com/thu-nics/PM-KVQ)
+
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
