@@ -983,6 +983,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.20155)
 
+- Sparsified State-Space Models are Efficient Highway Networks <br> TMLR 2025 [[Paper]](https://arxiv.org/abs/2505.20698) [[Code]](https://github.com/woominsong/Simba)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
@@ -1299,6 +1301,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.14838) 
 
+- Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2404.10308) [[Code]](https://github.com/alinlab/HOMER)
+
 - TreeKV: Smooth Key-Value Cache Compression with Tree Structures <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.04987) 
 
 - RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.16383) 
@@ -1547,6 +1551,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - NoWag: A Unified Framework for Shape Preserving Compression of Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.14569) [[Code]](https://github.com/LawrenceRLiu/NoWag)
 
 - GaLore 2: Large-Scale LLM Pre-Training by Gradient Low-Rank Projection <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.20437) 
+
+- Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.01215) 
 
 ## Tools
 
