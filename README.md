@@ -1377,6 +1377,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.18610) [[Code]](https://github.com/thu-nics/PM-KVQ)
 
+- KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.23416) [[Code]](https://github.com/snu-mllab/KVzip)
 
 ### Other
 
