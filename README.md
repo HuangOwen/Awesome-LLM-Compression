@@ -671,6 +671,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Improving Block-Wise LLM Quantization by 4-bit Block-Wise Optimal Float (BOF4): Analysis and Variations <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.06653)
 
+- GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2505.07004) [[Code]](https://github.com/snu-mllab/GuidedQuant)
+
 - QuantX: A Framework for Hardware-Aware Quantization of Generative AI Workloads <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.07531)
 
 - An Extra RMSNorm is All You Need for Fine Tuning to 1.58 Bits <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.08823)
