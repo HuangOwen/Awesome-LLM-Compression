@@ -695,6 +695,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 ### Pruning and Sparsity
 
+- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models
+
+  Arxiv 2025  [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
+
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
 
 - Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time <br> ICML 2023 [[Paper]](https://proceedings.mlr.press/v202/liu23am.html)  [[Code]](https://github.com/FMInference/DejaVu)
@@ -988,6 +992,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Sparsified State-Space Models are Efficient Highway Networks <br> TMLR 2025 [[Paper]](https://arxiv.org/abs/2505.20698) [[Code]](https://github.com/woominsong/Simba)
 
 ### Distillation
+
+- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models
+
+  Arxiv 2025  [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
 
