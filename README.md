@@ -932,7 +932,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Activation Sparsity Opportunities for Compressing General Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.12178)
 
 - FASP: Fast and Accurate Structured Pruning of Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.09412)
-  
+
 - MultiPruner: Balanced Structure Removal in Foundation Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.09949) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/MultiPruner)
 
 - Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2501.17088) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/Mamba-Shedder)
@@ -986,6 +986,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.20155)
 
 - Sparsified State-Space Models are Efficient Highway Networks <br> TMLR 2025 [[Paper]](https://arxiv.org/abs/2505.20698) [[Code]](https://github.com/woominsong/Simba)
+
+- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models
+
+  Arxiv 2025  [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
+
 
 ### Distillation
 
@@ -1102,6 +1107,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - UNDO: Understanding Distillation as Optimization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.02521) 
 
 - A Token is Worth over 1,000 Tokens: Efficient Knowledge Distillation through Low-Rank Clone <br> Arxiv 2025 [[Paper]](https://arxiv.org/pdf/2505.12781) [[Code]](https://github.com/CURRENTF/LowRankClone)
+
+- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models
+
+  Arxiv 2025  [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
+
 
 ### Efficient Prompting
 
