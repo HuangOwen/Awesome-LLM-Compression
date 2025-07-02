@@ -993,10 +993,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 ### Distillation
 
-- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models
-
-  Arxiv 2025  [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
-
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
 
 - Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.14050) 
@@ -1110,6 +1106,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - UNDO: Understanding Distillation as Optimization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.02521) 
 
 - A Token is Worth over 1,000 Tokens: Efficient Knowledge Distillation through Low-Rank Clone <br> Arxiv 2025 [[Paper]](https://arxiv.org/pdf/2505.12781) [[Code]](https://github.com/CURRENTF/LowRankClone)
+
+- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models
+
+  Arxiv 2025  [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
+
 
 ### Efficient Prompting
 
