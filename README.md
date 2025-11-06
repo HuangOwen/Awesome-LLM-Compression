@@ -721,6 +721,19 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LittleBit: Ultra Low-Bit Quantization via Latent Factorization <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2506.13771)
 
+- BASE-Q: Bias and Asymmetric Scaling Enhanced Rotational Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.15689) [[Code]](https://github.com/Heliulu/BASE-Q)
+
+- UltraSketchLLM: Saliency-Driven Sketching for Ultra-Low Bit LLM Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.17255) 
+
+- DBellQuant: Breaking the Bell with Double-Bell Transformation for LLMs Post Training Binarization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2507.01027) 
+
+- any4: Learned 4-bit Numeric Representation for LLMs <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2507.04610) 
+
+- CCQ: Convolutional Code for Extreme Low-bit Quantization in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2507.07145) 
+
+- First-Order Error Matters: Accurate Compensation for Quantized Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2507.11017) 
+
+- PoTPTQ: A Two-step Power-of-Two Post-training for LLMs <br> ECAI 2025 [[Paper]](https://arxiv.org/abs/2507.11959) 
 
 ### Pruning and Sparsity
 
@@ -1424,6 +1437,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.18610) [[Code]](https://github.com/thu-nics/PM-KVQ)
 
 - KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.23416) [[Code]](https://github.com/snu-mllab/KVzip)
+
+- CommVQ: Commutative Vector Quantization for KV Cache Compression <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2506.18879) [[Code]](https://github.com/UMass-Embodied-AGI/CommVQ)
 
 ### Other
 
