@@ -697,6 +697,31 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.20839) [[Code]](https://github.com/llm-fireq/fireq)
 
+- Rethinking the Outlier Distribution in Large Language Models: An In-depth Study <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.21670)
+
+- Assigning Distinct Roles to Quantized and Low-Rank Matrices Toward Optimal Weight Decomposition <br> ACL Findings 2025 [[Paper]](https://arxiv.org/abs/2506.02077)
+
+- Unifying Uniform and Binary-coding Quantization for Accurate Compression of Large Language Models <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2506.03781)
+
+- FPTQuant: Function-Preserving Transforms for LLM Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.04985) 
+
+- BAQ: Efficient Bit Allocation Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.05664) [[Code]](https://github.com/CSU-ModelCompression/BAQ)
+
+- MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2506.07533)
+
+- Unifying Block-wise PTQ and Distillation-based QAT for Progressive Quantization toward 2-bit Instruction-Tuned LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.09104) 
+
+- Boost Post-Training Quantization via Null Space Optimization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.11044) [[Code]](https://github.com/zjq0455/q2n)
+
+- FlexQuant: A Flexible and Efficient Dynamic Precision Switching Framework for LLM Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.12024)
+
+- BTC-LLM: Efficient Sub-1-Bit LLM Quantization via Learnable Transformation and Binary Codebook <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.12040)
+
+- ROSAQ: Rotation-based Saliency-Aware Weight Quantization for Efficiently Compressing Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.13472)
+
+- LittleBit: Ultra Low-Bit Quantization via Latent Factorization <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2506.13771)
+
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
