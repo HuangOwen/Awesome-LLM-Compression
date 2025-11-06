@@ -695,6 +695,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FP4 All the Way: Fully Quantized Training of LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.19115) [[Code]](https://github.com/Anonymous1252022/fp4-all-the-way)
 
+- FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.20839) [[Code]](https://github.com/llm-fireq/fireq)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
