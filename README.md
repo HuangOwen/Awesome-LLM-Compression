@@ -993,6 +993,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
   Arxiv 2025  [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
 
+- FineGates: LLMs Finetuning with Compression using Stochastic Gates
+
+  Arxiv 2025  [[Paper]](https://arxiv.org/abs/2412.12951)
 
 ### Distillation
 
