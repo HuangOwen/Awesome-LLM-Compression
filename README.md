@@ -1442,8 +1442,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 ### Other
 
-- On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration <br> Arxiv 2025 [[Paper]](https://export.arxiv.org/pdf/2504.17376)
-
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
 
 - TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.00526)
@@ -1616,7 +1614,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GaLore 2: Large-Scale LLM Pre-Training by Gradient Low-Rank Projection <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.20437) 
 
-- Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.01215) 
+- Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.01215)
+
+- On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration <br> Arxiv 2025 [[Paper]](https://export.arxiv.org/pdf/2504.17376)
 
 ## Tools
 
