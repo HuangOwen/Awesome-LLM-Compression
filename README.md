@@ -1614,7 +1614,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GaLore 2: Large-Scale LLM Pre-Training by Gradient Low-Rank Projection <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.20437) 
 
-- Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.01215) 
+- Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.01215)
+
+- On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration <br> Arxiv 2025 [[Paper]](https://export.arxiv.org/pdf/2504.17376)
 
 ## Tools
 
