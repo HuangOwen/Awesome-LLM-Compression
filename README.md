@@ -1036,6 +1036,10 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - FineGates: LLMs Finetuning with Compression using Stochastic Gates
 
   Arxiv 2025  [[Paper]](https://arxiv.org/abs/2412.12951)
+  
+- High-Fidelity Pruning for Large Language Models 
+
+  Arxiv 2026  [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 ### Distillation
 
