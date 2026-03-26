@@ -1037,6 +1037,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
   Arxiv 2025  [[Paper]](https://arxiv.org/abs/2412.12951)
 
+- TECS-L (Golden MoE): Dense-to-Sparse MoE Conversion via Mathematically Optimal Expert Activation Ratio <br> 2025 [[Code]](https://github.com/need-singularity/TECS-L)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
