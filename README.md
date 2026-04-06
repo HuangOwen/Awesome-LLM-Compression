@@ -1270,6 +1270,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PIS: Linking Importance Sampling and Attention Mechanisms for Efficient Prompt Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.16574)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts optimized for efficient LLM orchestration with Claude Code. MIT licensed.
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/pdf/2305.17118.pdf)
