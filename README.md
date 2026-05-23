@@ -1723,3 +1723,7 @@ Thanks again for all the awesome contributors to this list!
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HuangOwen/Awesome-LLM-Compression&type=Date)](https://star-history.com/#HuangOwen/Awesome-LLM-Compression&Date)
+
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time monitoring dashboard for OpenClaw AI agents with token tracking, session management, and 7-day trend charts. [#2](https://github.com/flik2002/openclaw-monitor)
+
