@@ -1708,6 +1708,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Knowledge Fidelity: Compress LLMs via SVD while auditing whether they still know truth vs popular myths. Uses factual probes for both importance-guided compression and false-belief detection. [[Code]](https://github.com/SolomonB14D3/knowledge-fidelity) [[PyPI]](https://pypi.org/project/knowledge-fidelity/) [[Demo]](https://huggingface.co/spaces/bsanch52/knowledge-fidelity-demo)
 
+- SigmaScale: LLM compression using SVD and auxiliary learned scaling matrices  [[code]](https://github.com/ernlavr/SigmaScale) [[paper]](https://arxiv.org/abs/2606.07098)
+
 ## Contributing
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
 
