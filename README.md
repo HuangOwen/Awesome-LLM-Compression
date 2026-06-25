@@ -1040,7 +1040,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Fragile Knowledge, Robust Instruction-Following: The Width Pruning Dichotomy in Llama-3.2
 
   Arxiv 2025  [[Paper]](https://arxiv.org/abs/2512.22671) [[Code]](https://github.com/peremartra/llama-glu-expansion-pruning)
-  
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
