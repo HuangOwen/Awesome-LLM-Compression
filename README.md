@@ -1628,7 +1628,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
 
-- SuperCompress: Learned prompt compression reducing LLM token costs by ~65% while preserving answer quality. ~5K-param CPU policy (~60ms). [[Code]](https://github.com/arjunkshah21/supercompress-tv)
+- SuperCompress: Learned prompt compression reducing LLM token costs by ~65% while preserving answer quality. ~5K-param CPU policy (~60ms). [[Code]](https://github.com/arjunkshah21/supercompress)
 
 - Alpaca-CoT: An Instruction Fine-Tuning Platform with Instruction Data Collection and Unified Large Language Models Interface [[Code]](https://github.com/PhoebusSi/Alpaca-CoT)
 
