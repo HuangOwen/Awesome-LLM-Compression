@@ -95,9 +95,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 ### Quantization
 
-- [OneComp: One-Line Revolution for Generative AI Model Compression](https://arxiv.org/abs/2603.28845) (arXiv 2026, Fujitsu Research) [[Code](https://github.com/FujitsuResearch/OneCompression)]
-- [Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization](https://openreview.net/forum?id=a3l3K9khbL) (NeurIPS 2025) [[Code](https://github.com/FujitsuResearch/OneCompression)] [[Original](https://github.com/FujitsuResearch/qep)]
-
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
 
 - LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2208.07339) [[Code]](https://github.com/TimDettmers/bitsandbytes)
@@ -644,7 +641,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.07389) [[Code]](https://github.com/The-Inscrutable-X/TACQ)
 
-- Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.09629)
+- Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2504.09629) [[Code]](https://github.com/FujitsuResearch/qep)
 
 - Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.23294)
 
@@ -739,9 +736,12 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - First-Order Error Matters: Accurate Compensation for Quantized Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2507.11017) 
 
 - PoTPTQ: A Two-step Power-of-Two Post-training for LLMs <br> ECAI 2025 [[Paper]](https://arxiv.org/abs/2507.11959)
+
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 - EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
+
+- OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
 
 ### Pruning and Sparsity
 
@@ -1044,17 +1044,19 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - FineGates: LLMs Finetuning with Compression using Stochastic Gates
 
   Arxiv 2025  [[Paper]](https://arxiv.org/abs/2412.12951)
-  
-- High-Fidelity Pruning for Large Language Models 
+
+- High-Fidelity Pruning for Large Language Models
 
   Arxiv 2026  [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents
+
   Arxiv 2026  [[Paper]](https://arxiv.org/abs/2601.09694)
 
 - Fragile Knowledge, Robust Instruction-Following: The Width Pruning Dichotomy in Llama-3.2
 
   Arxiv 2025  [[Paper]](https://arxiv.org/abs/2512.22671) [[Code]](https://github.com/peremartra/llama-glu-expansion-pruning)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
@@ -1731,6 +1733,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Knowledge Fidelity: Compress LLMs via SVD while auditing whether they still know truth vs popular myths. Uses factual probes for both importance-guided compression and false-belief detection. [[Code]](https://github.com/SolomonB14D3/knowledge-fidelity) [[PyPI]](https://pypi.org/project/knowledge-fidelity/) [[Demo]](https://huggingface.co/spaces/bsanch52/knowledge-fidelity-demo)
 
 - PackRat: Auto-learning codebook compression for LLM context and prompt files. Token-optimized using tiktoken (cl100k_base) with 100% lossless round-trip. [[Code]](https://github.com/kevdogg102396-afk/packrat) [[npm]](https://www.npmjs.com/package/packrat-compress)
+
+- SigmaScale: LLM compression using SVD and auxiliary learned scaling matrices. [[Code]](https://github.com/ernlavr/SigmaScale) [[Paper]](https://arxiv.org/abs/2606.07098)
 
 ## Contributing
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
