@@ -1621,6 +1621,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration <br> Arxiv 2025 [[Paper]](https://export.arxiv.org/pdf/2504.17376)
 
+- MineDraft: A Framework for Batch Parallel Speculative Decoding <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
