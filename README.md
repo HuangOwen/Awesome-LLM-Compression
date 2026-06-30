@@ -95,6 +95,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 ### Quantization
 
+- [OneComp: One-Line Revolution for Generative AI Model Compression](https://arxiv.org/abs/2603.28845) (arXiv 2026, Fujitsu Research) [[Code](https://github.com/FujitsuResearch/OneCompression)]
+- [Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization](https://openreview.net/forum?id=a3l3K9khbL) (NeurIPS 2025) [[Code](https://github.com/FujitsuResearch/OneCompression)] [[Original](https://github.com/FujitsuResearch/qep)]
+
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
 
 - LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2208.07339) [[Code]](https://github.com/TimDettmers/bitsandbytes)
