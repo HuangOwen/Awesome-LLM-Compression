@@ -735,7 +735,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - First-Order Error Matters: Accurate Compensation for Quantized Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2507.11017) 
 
-- PoTPTQ: A Two-step Power-of-Two Post-training for LLMs <br> ECAI 2025 [[Paper]](https://arxiv.org/abs/2507.11959) 
+- PoTPTQ: A Two-step Power-of-Two Post-training for LLMs <br> ECAI 2025 [[Paper]](https://arxiv.org/abs/2507.11959)
+- Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 ### Pruning and Sparsity
 
