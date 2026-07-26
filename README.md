@@ -1736,6 +1736,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SigmaScale: LLM compression using SVD and auxiliary learned scaling matrices. [[Code]](https://github.com/ernlavr/SigmaScale) [[Paper]](https://arxiv.org/abs/2606.07098)
 
+- ctxfold: Structure-aware, lossless re-encoding of logs, JSON, and CSV for LLM prompts. Folds repeated keys, prefixes, and templates into a one-time header the model reads directly, cutting prompt tokens; every encode is round-trip verified, or the input passes through unchanged (lossless or no-op). [[Code]](https://github.com/antrixy/ctxfold) [[npm]](https://www.npmjs.com/package/ctxfold)
+
 ## Contributing
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
 
