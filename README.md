@@ -1750,4 +1750,4 @@ Thanks again for all the awesome contributors to this list!
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HuangOwen/Awesome-LLM-Compression&type=Date)](https://star-history.com/#HuangOwen/Awesome-LLM-Compression&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=HuangOwen/Awesome-LLM-Compression&type=Date)](https://star-history.dera.page/#HuangOwen/Awesome-LLM-Compression&Date)
