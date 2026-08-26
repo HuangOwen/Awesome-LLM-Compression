@@ -1455,6 +1455,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CompressKV: Semantic Retrieval Heads Know What Tokens are Not Important Before Generation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02401) [[Code]](https://github.com/TUDa-HWAI/CompressKV)
 
+- Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02558) [[Code]](https://github.com/OpenMOSS/Sparse-dLLM)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
