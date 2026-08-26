@@ -1505,6 +1505,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PADD: Path-Aligned Decompression Distillation for Non-Router Teacher to Guide MoE Student Learning <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.10369)
 
+- AsyncOPD: How Stale Can On-Policy Distillation Be? <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.24143) [[Code]](https://github.com/furiosa-ai/async-opd)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
