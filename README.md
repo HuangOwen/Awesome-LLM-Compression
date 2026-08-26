@@ -2468,6 +2468,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ipex-llm: Accelerate local LLM inference and finetuning on Intel CPU, iGPU, NPU and discrete GPU with low-bit formats [[Code]](https://github.com/intel/ipex-llm)
 
+- MLC LLM: Universal LLM deployment engine with ML compilation, supporting quantized deployment across GPUs, phones and browsers [[Code]](https://github.com/mlc-ai/mlc-llm)
+
 ### Quantization Libraries and Kernels
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
