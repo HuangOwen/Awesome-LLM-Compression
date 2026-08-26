@@ -1653,6 +1653,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FlexiCache: Leveraging Temporal Stability of Attention Heads for Efficient KV Cache Management <br> MLSys 2026 [[Paper]](https://arxiv.org/abs/2511.00868)
 
+- KV Cache Transform Coding for Compact Storage in LLM Inference <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2511.01815)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
