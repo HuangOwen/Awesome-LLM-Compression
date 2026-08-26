@@ -2464,6 +2464,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - llamafile: Distribute and run LLMs with a single file [[Code]](https://github.com/mozilla-ai/llamafile)
 
+- Ollama: Get up and running with local LLMs, built on llama.cpp with quantized GGUF models [[Code]](https://github.com/ollama/ollama)
+
 ### Quantization Libraries and Kernels
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
