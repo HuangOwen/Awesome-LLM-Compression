@@ -1201,6 +1201,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Beyond Scaling Law: A Data-Efficient Distillation Framework for Reasoning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.09883)
 
+- Can Large Models Teach Student Models to Solve Mathematical Problems Like Human Beings? A Reasoning Distillation Method via Multi-LoRA Interaction <br> IJCAI 2025 [[Paper]](https://arxiv.org/abs/2508.13037)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
