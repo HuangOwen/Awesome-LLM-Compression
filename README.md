@@ -1855,6 +1855,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Make Your LVLM KV Cache More Lightweight <br> TMLR 2026 [[Paper]](https://arxiv.org/abs/2605.00789)
 
+- SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.01708) [[Code]](https://github.com/Intelligent-Microsystems-Lab/SplitZip)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
