@@ -2466,6 +2466,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Ollama: Get up and running with local LLMs, built on llama.cpp with quantized GGUF models [[Code]](https://github.com/ollama/ollama)
 
+- ipex-llm: Accelerate local LLM inference and finetuning on Intel CPU, iGPU, NPU and discrete GPU with low-bit formats [[Code]](https://github.com/intel/ipex-llm)
+
 ### Quantization Libraries and Kernels
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
