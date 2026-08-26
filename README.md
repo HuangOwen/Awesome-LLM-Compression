@@ -1601,6 +1601,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KaVa: Latent Reasoning via Compressed KV-Cache Distillation <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.02312)
 
+- OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2510.07651)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
