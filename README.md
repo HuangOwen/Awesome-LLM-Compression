@@ -891,6 +891,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture <br> ISCA 2026 [[Paper]](https://arxiv.org/abs/2605.24144)
 
+- Influence-Inspired Spectral Rotations for Extreme Low-Bit LLM Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.25203) [[Code]](https://github.com/gogipav14/spectral-llm)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
