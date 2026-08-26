@@ -2460,6 +2460,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - AirLLM: 70B LLM inference on a single 4GB GPU through layer-wise offloading, without quantization or distillation [[Code]](https://github.com/lyogavin/airllm)
 
+- fastllm: Dependency-free high-performance inference library supporting tensor-parallel dense models and mixed-mode MoE inference on modest GPUs [[Code]](https://github.com/ztxz16/fastllm)
+
 ### Quantization Libraries and Kernels
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
