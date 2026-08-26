@@ -1527,6 +1527,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Token-level Response-visual Attention Guidance for Multimodal LLMs Knowledge Distillation <br> ECCV 2026 [[Paper]](https://arxiv.org/abs/2607.02593)
 
+- Answer-Conditioned Chains of Thought Degrade Verifiable-Reasoning Distillation in Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.14552) [[Code]](https://github.com/js-lee-AI/answer-leakage)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
