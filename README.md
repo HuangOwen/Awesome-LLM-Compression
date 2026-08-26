@@ -1327,6 +1327,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - EPTS: Elastic Post-Training Sparsity for Efficient Large Language Model Compression <br> KDD 2026 [[Paper]](https://arxiv.org/abs/2606.25285)
 
+- Super-Tuning: From Activation-Aware Pruning to Sparse Fine-Tuning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.09287) [[Code]](https://github.com/vectozavr/SuperTuning)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
