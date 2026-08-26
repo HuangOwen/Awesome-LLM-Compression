@@ -1679,6 +1679,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KV Cache Transform Coding for Compact Storage in LLM Inference <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2511.01815)
 
+- Reconstructing KV Caches with Cross-layer Fusion For Enhanced Transformers <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2512.03870)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
