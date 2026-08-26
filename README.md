@@ -1959,6 +1959,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.21198)
 
+- Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.02848) [[Code]](https://github.com/mint-vu/Zero-Sum-SVD)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
