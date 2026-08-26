@@ -1231,6 +1231,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Sink-Aware Pruning for Diffusion Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.17664) [[Code]](https://github.com/VILA-Lab/Sink-Aware-Pruning)
 
+- Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization <br> UAI 2026 [[Paper]](https://arxiv.org/abs/2603.00910) [[Code]](https://github.com/TKAI-LAB-Mali/Curvature-Weighted-Capacity-Allocation)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
