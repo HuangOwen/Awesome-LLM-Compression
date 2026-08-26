@@ -851,6 +851,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - QuRL: Efficient Reinforcement Learning with Quantized Rollout <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2602.13953)
 
+- SPQ: An Ensemble Technique for Large Language Model Compression <br> LREC 2026 [[Paper]](https://arxiv.org/abs/2602.18420) [[Code]](https://github.com/JiaminYao/SPQ_LLM_Compression)
+
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
 
 - EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
