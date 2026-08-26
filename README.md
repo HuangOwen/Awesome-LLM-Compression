@@ -2523,4 +2523,10 @@ Thanks again for all the awesome contributors to this list!
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HuangOwen/Awesome-LLM-Compression&type=Date)](https://www.star-history.com/?type=date&repos=HuangOwen%2FAwesome-LLM-Compression)
+<a href="https://www.star-history.com/?repos=HuangOwen%2FAwesome-LLM-Compression&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=HuangOwen/Awesome-LLM-Compression&type=date&theme=dark&legend=top-left&sealed_token=5SSRPNfF6hBwb-6ILZHT15PCCY4HzBDFw9kfjeeZ2WwukldzG9SkCsD3qnEi41T0iQM7zuGpEL4uuxevqfa1vKfSWTIsQuhKhES8a5fFjFfnoz0uyd9jlHAR9OqHvxxYinZO7qFlpypua_0Ccb6Thl7VADoRb2tRORnT1nPf7QnRYl1I-o6ejAwqv-xL" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=HuangOwen/Awesome-LLM-Compression&type=date&legend=top-left&sealed_token=5SSRPNfF6hBwb-6ILZHT15PCCY4HzBDFw9kfjeeZ2WwukldzG9SkCsD3qnEi41T0iQM7zuGpEL4uuxevqfa1vKfSWTIsQuhKhES8a5fFjFfnoz0uyd9jlHAR9OqHvxxYinZO7qFlpypua_0Ccb6Thl7VADoRb2tRORnT1nPf7QnRYl1I-o6ejAwqv-xL" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=HuangOwen/Awesome-LLM-Compression&type=date&legend=top-left&sealed_token=5SSRPNfF6hBwb-6ILZHT15PCCY4HzBDFw9kfjeeZ2WwukldzG9SkCsD3qnEi41T0iQM7zuGpEL4uuxevqfa1vKfSWTIsQuhKhES8a5fFjFfnoz0uyd9jlHAR9OqHvxxYinZO7qFlpypua_0Ccb6Thl7VADoRb2tRORnT1nPf7QnRYl1I-o6ejAwqv-xL" />
+ </picture>
+</a>
