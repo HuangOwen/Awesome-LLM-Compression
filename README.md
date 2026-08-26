@@ -2021,6 +2021,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
+- TIDE: Token-Informed Depth Execution for Per-Token Early Exit in LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.21365) [[Code]](https://github.com/RightNow-AI/TIDE)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
