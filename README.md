@@ -2345,4 +2345,4 @@ Thanks again for all the awesome contributors to this list!
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HuangOwen/Awesome-LLM-Compression&type=Date)](https://star-history.com/#HuangOwen/Awesome-LLM-Compression&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HuangOwen/Awesome-LLM-Compression&type=Date)](https://www.star-history.com/?type=date&repos=HuangOwen%2FAwesome-LLM-Compression)
