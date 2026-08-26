@@ -91,8 +91,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - EfficientLLM: Efficiency in Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.13840) [[Homepage]](https://dlyuangod.github.io/EfficientLLM/) [[Huggingface Page]](https://huggingface.co/Tyrannosaurus/EfficientLLM)
 
-- Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.02309)
-
 ### Quantization
 
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
@@ -270,8 +268,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Can Large Language Models Understand Context? <br> EACL Findings 2024 [[Paper]](https://arxiv.org/abs/2402.00858)
 
 - Squat: Quant Small Language Models on the Edge <br> ICCAD 2025 [[Paper]](https://arxiv.org/abs/2402.10787) [[Code]](https://github.com/shawnricecake/EdgeQAT)
-
-- Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.10517) 
 
 - LQER: Low-Rank Quantization Error Reconstruction for LLMs <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.02446) 
 
@@ -821,8 +817,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Lighter, yet More Faithful: Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization <br> TACL 2024 [[Paper]](https://arxiv.org/abs/2311.09335) [[Code]](https://github.com/casszhao/PruneHall)
 
-- LORAPRUNE: PRUNING MEETS LOW-RANK PARAMETER-EFFICIENT FINE-TUNING <br> Arxiv 2023 [[Paper]](https://arxiv.org/pdf/2305.18403.pdf)
-
 - Mini-GPTs: Efficient Large Language Models through Contextual Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.12682) [[Code]](https://github.com/tval2/contextual-pruning)
 
 - The LLM Surgeon <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.17244)
@@ -1082,8 +1076,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - MiniLLM: Knowledge Distillation of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.08543) [[Code]](https://github.com/microsoft/LMOps/tree/main/minillm)
 
 - On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.13649)
-
-- GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.13649)
 
 - Chain-of-Thought Prompt Distillation for Multimodal Named Entity and Multimodal Relation Extraction <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.14122)
 
