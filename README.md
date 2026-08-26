@@ -733,6 +733,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PoTPTQ: A Two-step Power-of-Two Post-training for LLMs <br> ECAI 2025 [[Paper]](https://arxiv.org/abs/2507.11959)
 
+- EAC-MoE: Expert-Selection Aware Compressor for Mixture-of-Experts Large Language Models <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2508.01625)
+
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
