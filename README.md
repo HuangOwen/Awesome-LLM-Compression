@@ -1709,6 +1709,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - OrbitFlow: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration <br> VLDB 2026 [[Paper]](https://arxiv.org/abs/2601.10729)
 
+- HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2601.13684)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
