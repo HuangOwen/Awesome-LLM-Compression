@@ -1267,6 +1267,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GRASPrune: Global Gating for Budgeted Structured Pruning of Large Language Models <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2604.19398)
 
+- Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2604.25098)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
