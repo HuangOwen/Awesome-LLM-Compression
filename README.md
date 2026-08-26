@@ -1301,6 +1301,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Locality-Aware Redundancy Pruning for LLM Depth Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.27786) [[Code]](https://github.com/daniel-eai/LoRP-Locality-Aware-Redundancy-Pruning)
 
+- FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.09079) [[Code]](https://github.com/libertywing/FlashMemory-Deepseek-V4)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
