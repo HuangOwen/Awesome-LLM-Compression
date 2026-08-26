@@ -1407,6 +1407,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Surgical Post-Training: Proximal On-Policy Distillation for Reasoning with Knowledge Retention <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.01683) [[Code]](https://github.com/Visual-AI/SPoT)
 
+- KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.01875) [[Code]](https://github.com/songmzhang/KDFlow)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
