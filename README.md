@@ -919,6 +919,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PolyQ: Codesigning End-to-End Quantization Framework for Scalable Edge CPU LLM Inference <br> ICCAD 2026 [[Paper]](https://arxiv.org/abs/2607.14618)
 
+- ExaGEMM: Exploration Framework for CPU-Driven ML Inference via Associative In-Register Computing for Low-Bit GEMM <br> ICCAD 2026 [[Paper]](https://arxiv.org/abs/2607.14622)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
