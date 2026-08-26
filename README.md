@@ -22,6 +22,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
   - [KV Cache Compression](#kv-cache-compression)
   - [Other](#other)
 - [🔧 Tools](#tools)
+  - [Inference and Serving Engines](#inference-and-serving-engines)
+  - [Quantization Libraries and Kernels](#quantization-libraries-and-kernels)
+  - [Model Compression Toolkits](#model-compression-toolkits)
+  - [KV Cache and Prompt Compression](#kv-cache-and-prompt-compression)
+  - [Training and Fine-Tuning](#training-and-fine-tuning)
+  - [Analysis and Benchmarking](#analysis-and-benchmarking)
+  - [Other Tools](#other-tools)
 - [🙌 Contributing](#contributing)
 - [🌟 Star History](#star-history)
 
@@ -2417,41 +2424,21 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 ## Tools
 
-- BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
-  
+### Inference and Serving Engines
+
 - llama.cpp: Inference of LLaMA model in pure C/C++ [[Code]](https://github.com/ggerganov/llama.cpp)
-
-- LangChain: Building applications with LLMs through composability [[Code]](https://github.com/hwchase17/langchain)
-
-- GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
-
-- Alpaca-CoT: An Instruction Fine-Tuning Platform with Instruction Data Collection and Unified Large Language Models Interface [[Code]](https://github.com/PhoebusSi/Alpaca-CoT)
 
 - vllm: A high-throughput and memory-efficient inference and serving engine for LLMs [[Code]](https://github.com/vllm-project/vllm)
 
-- LLaMA Efficient Tuning: Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA) [[Code]](https://github.com/hiyouga/LLaMA-Efficient-Tuning)
-
 - gpt-fast: Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. [[Code]](https://github.com/pytorch-labs/gpt-fast)
 
-- Efficient-Tuning-LLMs: (Efficient Finetuning of QLoRA LLMs). QLoRA, LLama, bloom, baichuan-7B, GLM [[Code]](https://github.com/jianzhnie/Efficient-Tuning-LLMs)
-
-- bitsandbytes: 8-bit CUDA functions for PyTorch [[Code]](https://github.com/TimDettmers/bitsandbytes)
-
 - ExLlama: A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights. [[Code]](https://github.com/turboderp/exllama)
-
-- lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [[Code]](https://github.com/Lightning-AI/lit-gpt)
-
-- Lit-LLaMA: Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [[Code]](https://github.com/Lightning-AI/lit-llama)
 
 - lama.onnx: LLaMa/RWKV onnx models, quantization and testcase [[Code]](https://github.com/tpoisonooo/llama.onnx)
 
 - fastLLaMa: An experimental high-performance framework for running Decoder-only LLMs with 4-bit quantization in Python using a C/C++ backend. [[Code]](https://github.com/PotatoSpudowski/fastLLaMa)
 
-- Sparsebit: A model compression and acceleration toolbox based on pytorch. [[Code]](https://github.com/megvii-research/Sparsebit)
-
 - llama2.c: Inference Llama 2 in one file of pure C [[Code]](https://github.com/karpathy/llama2.c)
-
-- Megatron-LM: Ongoing research training transformer models at scale [[Code]](https://github.com/NVIDIA/Megatron-LM)
 
 - ggml: Tensor library for machine learning [[Code]](https://github.com/ggerganov/ggml)
 
@@ -2459,35 +2446,25 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - rwkv.cpp: NT4/INT5/INT8 and FP16 inference on CPU for RWKV language model [[Code]](https://github.com/saharNooby/rwkv.cpp)
 
-- Can my GPU run this LLM?: Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization [[Code]](https://github.com/RahulSChand/gpu_poor)
-
 - TinyChatEngine: On-Device LLM Inference Library [[Code]](https://github.com/mit-han-lab/TinyChatEngine)
 
 - TensorRT-LLM: TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. [[Code]](https://github.com/NVIDIA/TensorRT-LLM)
 
+- LLamaSharp: A C#/.NET library to run LLM models (🦙LLaMA/LLaVA) on your local device efficiently. [[Code]](https://github.com/SciSharp/LLamaSharp)
+
+### Quantization Libraries and Kernels
+
+- GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
+
+- bitsandbytes: 8-bit CUDA functions for PyTorch [[Code]](https://github.com/TimDettmers/bitsandbytes)
+
 - IntLLaMA: A fast and light quantization solution for LLaMA [[Code]](https://github.com/megvii-research/IntLLaMA)
 
-- EasyLLM: Built upon Megatron-Deepspeed and HuggingFace Trainer, EasyLLM has reorganized the code logic with a focus on usability. While enhancing usability, it also ensures training efficiency [[Code]](https://github.com/ModelTC/EasyLLM)
-
 - GreenBit LLaMA: Advanced Ultra-Low Bitrate Compression Techniques for the LLaMA Family of LLMs [[Code]](https://github.com/GreenBitAI/low_bit_llama)
-
-- Intel® Neural Compressor: An open-source Python library supporting popular model compression techniques on all mainstream deep learning frameworks (TensorFlow, PyTorch, ONNX Runtime, and MXNet) [[Code]](https://github.com/intel/neural-compressor)
-
-- LLM-Viewer: Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface. [[Code]](https://github.com/hahnyuan/LLM-Viewer)
-
-- LLaMA3-Quantization: A repository dedicated to evaluating the performance of quantizied LLaMA3 using various quantization methods. [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization)
-
-- LLamaSharp: A C#/.NET library to run LLM models (🦙LLaMA/LLaVA) on your local device efficiently. [[Code]](https://github.com/SciSharp/LLamaSharp)
 
 - Green-bit-LLM: A toolkit for fine-tuning, inferencing, and evaluating GreenBitAI's LLMs. [[Code]](https://github.com/GreenBitAI/green-bit-llm) [[Model]](https://huggingface.co/GreenBitAI)
 
 - Bitorch Engine: Streamlining AI with Open-Source Low-Bit Quantization. [[Code]](https://github.com/GreenBitAI/bitorch-engine)
-
-- llama-zip: LLM-powered lossless compression tool [[Code]](https://github.com/AlexBuz/llama-zip)
-
-- LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs [[Code]](https://github.com/hiyouga/LLaMA-Factory)
-
-- LLMC: A tool designed for LLM Compression. [[Code]](https://github.com/ModelTC/llmc)
 
 - BitBLAS: BitBLAS is a library to support mixed-precision matrix multiplications, especially for quantized LLM deployment. [[Code]](https://github.com/microsoft/BitBLAS)
 
@@ -2495,20 +2472,63 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - AutoGGUF: automatically quant GGUF models [[Code]](https://github.com/leafspark/AutoGGUF)
 
+### Model Compression Toolkits
+
+- BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
+
+- Sparsebit: A model compression and acceleration toolbox based on pytorch. [[Code]](https://github.com/megvii-research/Sparsebit)
+
+- Intel® Neural Compressor: An open-source Python library supporting popular model compression techniques on all mainstream deep learning frameworks (TensorFlow, PyTorch, ONNX Runtime, and MXNet) [[Code]](https://github.com/intel/neural-compressor)
+
+- LLMC: A tool designed for LLM Compression. [[Code]](https://github.com/ModelTC/llmc)
+
 - Transformer Compression: For releasing code related to compression methods for transformers, accompanying our publications [[Code]](https://github.com/microsoft/TransformerCompression)
+
+- Knowledge Fidelity: Compress LLMs via SVD while auditing whether they still know truth vs popular myths. Uses factual probes for both importance-guided compression and false-belief detection. [[PyPI]](https://pypi.org/project/knowledge-fidelity/) [[Demo]](https://huggingface.co/spaces/bsanch52/knowledge-fidelity-demo)
+
+- SigmaScale: LLM compression using SVD and auxiliary learned scaling matrices. [[Code]](https://github.com/ernlavr/SigmaScale) [[Paper]](https://arxiv.org/abs/2606.07098)
+
+### KV Cache and Prompt Compression
+
+- kvpress: LLM KV cache compression made easy [[Code]](https://github.com/NVIDIA/kvpress)
+
+- PackRat: Auto-learning codebook compression for LLM context and prompt files. Token-optimized using tiktoken (cl100k_base) with 100% lossless round-trip. [[Code]](https://github.com/kevdogg102396-afk/packrat) [[npm]](https://www.npmjs.com/package/packrat-compress)
+
+### Training and Fine-Tuning
+
+- Alpaca-CoT: An Instruction Fine-Tuning Platform with Instruction Data Collection and Unified Large Language Models Interface [[Code]](https://github.com/PhoebusSi/Alpaca-CoT)
+
+- LLaMA Efficient Tuning: Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA) [[Code]](https://github.com/hiyouga/LLaMA-Efficient-Tuning)
+
+- Efficient-Tuning-LLMs: (Efficient Finetuning of QLoRA LLMs). QLoRA, LLama, bloom, baichuan-7B, GLM [[Code]](https://github.com/jianzhnie/Efficient-Tuning-LLMs)
+
+- lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [[Code]](https://github.com/Lightning-AI/lit-gpt)
+
+- Lit-LLaMA: Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [[Code]](https://github.com/Lightning-AI/lit-llama)
+
+- Megatron-LM: Ongoing research training transformer models at scale [[Code]](https://github.com/NVIDIA/Megatron-LM)
+
+- EasyLLM: Built upon Megatron-Deepspeed and HuggingFace Trainer, EasyLLM has reorganized the code logic with a focus on usability. While enhancing usability, it also ensures training efficiency [[Code]](https://github.com/ModelTC/EasyLLM)
+
+- LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs [[Code]](https://github.com/hiyouga/LLaMA-Factory)
+
+### Analysis and Benchmarking
+
+- Can my GPU run this LLM?: Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization [[Code]](https://github.com/RahulSChand/gpu_poor)
+
+- LLM-Viewer: Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface. [[Code]](https://github.com/hahnyuan/LLM-Viewer)
+
+- LLaMA3-Quantization: A repository dedicated to evaluating the performance of quantizied LLaMA3 using various quantization methods. [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization)
+
+### Other Tools
+
+- LangChain: Building applications with LLMs through composability [[Code]](https://github.com/hwchase17/langchain)
+
+- llama-zip: LLM-powered lossless compression tool [[Code]](https://github.com/AlexBuz/llama-zip)
 
 - Electron-BitNet: Running Microsoft's BitNet via Electron [[Code]](https://github.com/grctest/Electron-BitNet)
 
 - FastAPI-BitNet: a combination of Uvicorn, FastAPI (Python) and Docker to provide a reliable REST API for testing Microsoft's BitNet out locally [[Code]](https://github.com/grctest/FastAPI-BitNet)
-
-- kvpress: LLM KV cache compression made easy [[Code]](https://github.com/NVIDIA/kvpress)
-
-- Knowledge Fidelity: Compress LLMs via SVD while auditing whether they still know truth vs popular myths. Uses factual probes for both importance-guided compression and false-belief detection. [[PyPI]](https://pypi.org/project/knowledge-fidelity/) [[Demo]](https://huggingface.co/spaces/bsanch52/knowledge-fidelity-demo)
-
-- PackRat: Auto-learning codebook compression for LLM context and prompt files. Token-optimized using tiktoken (cl100k_base) with 100% lossless round-trip. [[Code]](https://github.com/kevdogg102396-afk/packrat) [[npm]](https://www.npmjs.com/package/packrat-compress)
-
-- SigmaScale: LLM compression using SVD and auxiliary learned scaling matrices. [[Code]](https://github.com/ernlavr/SigmaScale) [[Paper]](https://arxiv.org/abs/2606.07098)
-
 ## Contributing
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
 
