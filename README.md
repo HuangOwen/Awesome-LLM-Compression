@@ -1089,6 +1089,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert Partition and Reconstruction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.18376)
 
+- Optimal Sparsity of Mixture-of-Experts Language Models for Reasoning Tasks <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2508.18672) [[Code]](https://github.com/rioyokotalab/optimal-sparsity)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
