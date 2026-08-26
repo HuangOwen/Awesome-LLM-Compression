@@ -739,6 +739,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - VLMQ: Token Saliency-Driven Post-Training Quantization for Vision-language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.03351)
 
+- FlashCommunication V2: Bit Splitting and Spike Reserving for Any Bit Communication <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.03760)
+
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
