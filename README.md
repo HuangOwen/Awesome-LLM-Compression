@@ -1941,6 +1941,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2607.01065)
 
+- Fractal KV-Cache Archives: Lossless Symbolic Storage with In-Place Retrieval for Long-Context LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.07144) [[Code]](https://github.com/eighteight/fractal-kv)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
