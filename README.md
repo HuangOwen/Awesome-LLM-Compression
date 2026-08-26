@@ -2161,6 +2161,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.18967) [[Code]](https://github.com/furiosa-ai/EfficientRollout)
 
+- Activation- and Influence-Aware Ranks (AIR): Function-Preserving SVD Compression for LLMs <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2606.19993)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
