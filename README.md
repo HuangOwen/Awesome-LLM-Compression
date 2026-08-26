@@ -1553,6 +1553,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - On-Policy Self-Distillation without Any Supervision <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.06296) [[Code]](https://github.com/williamium3000/u-opsd)
 
+- Mismatch Matters: On-Policy Distillation Beyond Token Agreement <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.09836) [[Code]](https://github.com/yzc-666/TIDE)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
