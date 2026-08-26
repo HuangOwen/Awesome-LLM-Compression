@@ -37,7 +37,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 </details>
 
 <details>
-<summary><b>2025</b> &nbsp;·&nbsp; 11 papers</summary>
+<summary><b>2025</b> &nbsp;·&nbsp; 12 papers</summary>
 
 - Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs <br> NeurIPS Lock-LLM Workshop 2025 [[Paper]](https://openreview.net/pdf?id=OkNfb8SmLh) [[Blog]](https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17)
 
@@ -60,6 +60,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - EfficientLLM: Efficiency in Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.13840) [[Homepage]](https://dlyuangod.github.io/EfficientLLM/) [[Huggingface Page]](https://huggingface.co/Tyrannosaurus/EfficientLLM)
 
 - KV Cache Compression for Inference Efficiency in LLMs: A Review <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06297)
+
+- A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.08712) [[Code]](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation)
 
 </details>
 
