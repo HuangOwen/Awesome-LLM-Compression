@@ -1457,6 +1457,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - MTA: Multi-Granular Trajectory Alignment for Large Language Model Distillation <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2605.01374)
 
+- UniSD: Towards a Unified Self-Distillation Framework for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.06597) [[Code]](https://github.com/Ahren09/UniSD)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
