@@ -1213,6 +1213,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FASA: Frequency-aware Sparse Attention <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2602.03152)
 
+- Compressing LLMs with MoP: Mixture of Pruners <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.06127) [[Code]](https://github.com/c2d-usp/Efficient-LLMs-with-MoP)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
