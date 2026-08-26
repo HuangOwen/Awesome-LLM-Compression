@@ -1137,6 +1137,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - From Local to Global: Revisiting Structured Pruning Paradigms for Large Language Models <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2510.18030)
 
+- Sparser Block-Sparse Attention via Token Permutation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2510.21270) [[Code]](https://github.com/xinghaow99/pbs-attn)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
