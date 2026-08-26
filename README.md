@@ -1281,6 +1281,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Compute Where it Counts: Self Optimizing Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.10875) [[Code]](https://github.com/akhauriyash/SOL)
 
+- Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.15491) [[Code]](https://github.com/daniel-eai/ghosted_layers_official_repository)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
