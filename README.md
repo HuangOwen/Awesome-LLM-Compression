@@ -2472,6 +2472,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LMDeploy: A toolkit for compressing, deploying, and serving LLMs, including W4A16 and KV cache quantization [[Code]](https://github.com/InternLM/lmdeploy)
 
+- SGLang: A high-performance serving framework for LLMs and multimodal models with RadixAttention prefix caching [[Code]](https://github.com/sgl-project/sglang)
+
 ### Quantization Libraries and Kernels
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
