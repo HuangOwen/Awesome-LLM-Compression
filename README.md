@@ -1491,6 +1491,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PiKV: KV Cache Management System for Mixture of Experts <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06526) [[Code]](https://github.com/NoakLiu/PiKV)
 
+- Retrospective Sparse Attention for Efficient Long-Context Generation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.09001)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
