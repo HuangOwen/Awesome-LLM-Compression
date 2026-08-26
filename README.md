@@ -2456,6 +2456,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - PowerInfer: High-speed LLM serving for local deployment using a GPU-CPU hybrid engine that exploits activation locality [[Code]](https://github.com/Tiiny-AI/PowerInfer)
 
+- FlexGen: Running large language models on a single GPU for throughput-oriented scenarios via offloading [[Code]](https://github.com/FMInference/FlexLLMGen)
+
 ### Quantization Libraries and Kernels
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
