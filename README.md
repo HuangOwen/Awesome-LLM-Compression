@@ -1841,6 +1841,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - River-LLM: Large Language Model Seamless Exit Based on KV Share <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2604.18396)
 
+- PolyKV: A Shared Asymmetrically-Compressed KV Cache Pool for Multi-Agent LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.24971) [[Code]](https://github.com/ishan1410/PolyKV)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
