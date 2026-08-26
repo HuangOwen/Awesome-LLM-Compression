@@ -1123,6 +1123,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ARMOR: High-Performance Semi-Structured Pruning via Adaptive Matrix Factorization <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.05528) [[Code]](https://github.com/LawrenceRLiu/ARMOR)
 
+- RCPU: Rotation-Constrained Error Compensation for Structured Pruning of Large Language Models <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.07782)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
