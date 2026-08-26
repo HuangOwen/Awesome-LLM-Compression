@@ -1735,6 +1735,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CALR: Corrective Adaptive Low-Rank Decomposition for Efficient Large Language Model Layer Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.16680)
 
+- Lossless Compression of Neural Network Components: Weights, Checkpoints, and K/V Caches in Low-Precision Formats <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.19263)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
