@@ -1567,6 +1567,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Judge Q: Trainable Queries for Optimized Information Retention in KV Cache Eviction <br> AAAI 2026 [[Paper]](https://arxiv.org/abs/2509.10798)
 
+- EpiCache: Episodic KV Cache Management for Long-Term Conversation on Resource-Constrained Environments <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2509.17396)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
