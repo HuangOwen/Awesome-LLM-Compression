@@ -1141,6 +1141,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Sparser Block-Sparse Attention via Token Permutation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2510.21270) [[Code]](https://github.com/xinghaow99/pbs-attn)
 
+- Restoring Pruned Large Language Models via Lost Component Compensation <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.21834)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
