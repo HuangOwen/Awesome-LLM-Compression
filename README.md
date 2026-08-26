@@ -1321,6 +1321,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ProCut: LLM Prompt Compression via Attribution Estimation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02053)
 
+- SCOPE: A Generative Approach for LLM Prompt Compression <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2508.15813)
+
 - LensVLM: Selective Context Expansion for Compressed Visual Representation of Text <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07019)
 
 ### KV Cache Compression
