@@ -2530,6 +2530,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - SigmaScale: LLM compression using SVD and auxiliary learned scaling matrices. [[Code]](https://github.com/ernlavr/SigmaScale) [[Paper]](https://arxiv.org/abs/2606.07098)
 
+- SparseML: Libraries for applying sparsification recipes to neural networks, enabling faster and smaller models [[Code]](https://github.com/neuralmagic/sparseml)
+
 ### KV Cache and Prompt Compression
 
 - kvpress: LLM KV cache compression made easy [[Code]](https://github.com/NVIDIA/kvpress)
