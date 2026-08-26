@@ -875,6 +875,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - From Signal Degradation to Computation Collapse: Uncovering the Two Failure Modes of LLM Quantization <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2604.19884)
 
+- Statistically-Lossless Quantization of Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.02404) [[Code]](https://github.com/IST-DASLab/SLQ)
+
 - EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
 
 ### Pruning and Sparsity
