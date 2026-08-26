@@ -1795,6 +1795,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KEEP: A KV-Cache-Centric Memory Management System for Efficient Embodied Planning <br> DAC 2026 [[Paper]](https://arxiv.org/abs/2602.23592)
 
+- LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2603.10899)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
