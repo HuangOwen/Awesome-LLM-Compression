@@ -2221,6 +2221,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Activation- and Influence-Aware Ranks (AIR): Function-Preserving SVD Compression for LLMs <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2606.19993)
 
+- Understanding Calibration and Truncation Error Propagation in Training-Free Low-Rank Compression for LLMs <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2608.08506)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
