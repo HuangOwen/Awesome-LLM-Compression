@@ -1085,6 +1085,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2508.17610) [[Code]](https://github.com/amberhuang01/HGLA)
 
+- DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert Partition and Reconstruction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.18376)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
