@@ -1313,6 +1313,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Persona-Pruner: Sculpting Lightweight Models for Role-Playing <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.14695) [[Code]](https://github.com/jsu-kim/Persona-Pruner)
 
+- Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.24957)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
