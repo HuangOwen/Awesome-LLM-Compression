@@ -1987,6 +1987,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference <br> KDD 2026 [[Paper]](https://arxiv.org/abs/2607.17715)
 
+- WnW: Waxing-and-Waning KV Cache for Long-Form Speech LLMs <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2608.22704)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
