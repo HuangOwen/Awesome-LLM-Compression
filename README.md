@@ -1533,6 +1533,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Answer-Conditioned Chains of Thought Degrade Verifiable-Reasoning Distillation in Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.14552) [[Code]](https://github.com/js-lee-AI/answer-leakage)
 
+- On-Policy Delta Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.15161) [[Code]](https://github.com/naver-ai/opd2)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
