@@ -2502,6 +2502,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - AutoAWQ: Easy-to-use implementation of the AWQ algorithm for 4-bit quantization with a 2x inference speedup [[Code]](https://github.com/casper-hansen/AutoAWQ)
 
+- GPTQModel: LLM quantization toolkit with hardware acceleration for NVIDIA, AMD and Intel GPUs and CPUs, integrated with HF, vLLM and SGLang [[Code]](https://github.com/ModelCloud/GPTQModel)
+
 ### Model Compression Toolkits
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
