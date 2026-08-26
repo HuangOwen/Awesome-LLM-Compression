@@ -1829,6 +1829,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Conformal Sparsification for Bandwidth-Efficient Edge-Cloud Speculative Decoding <br> NeurIPS 2025 Workshop [[Paper]](https://arxiv.org/abs/2510.09942)
 
+- QSVD: Efficient Low-rank Approximation for Unified Query-Key-Value Weight Compression in Low-Precision Vision-Language Models <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.16292) [[Code]](https://github.com/SAI-Lab-NYU/QSVD)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
