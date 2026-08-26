@@ -623,6 +623,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - RSQ: Learning from Important Tokens Leads to Better Quantized LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.01820) [[Code]](https://github.com/ylsung/rsq)
 
+- VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference <br> HPCA 2025 [[Paper]](https://arxiv.org/abs/2503.02236)
+
 - Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.04704)
 
 - Towards Superior Quantization Accuracy: A Layer-sensitive Approach <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.06518)
@@ -633,13 +635,13 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - DynaMo: Runtime Switchable Quantization for MoE with Cross-Dataset Adaptation <br> DATE 2026 [[Paper]](https://arxiv.org/abs/2503.21135)
 
+- Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference <br> DATE 2025 [[Paper]](https://arxiv.org/abs/2503.23294)
+
 - GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2504.02692) [[Code]](https://github.com/Intelligent-Computing-Lab-Yale/GPTQv2)
 
 - Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression <br> COLM 2025 [[Paper]](https://arxiv.org/abs/2504.07389) [[Code]](https://github.com/The-Inscrutable-X/TACQ)
 
 - Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2504.09629) [[Code]](https://github.com/FujitsuResearch/qep)
-
-- Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference <br> DATE 2025 [[Paper]](https://arxiv.org/abs/2503.23294)
 
 - RaanA: A Fast, Flexible, and Data-Efficient Post-Training Quantization Algorithm <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.03717) [[Code]](https://github.com/FFTYYY/RaanA)
 
@@ -650,8 +652,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Gradual Binary Search and Dimension Expansion : A general method for activation quantization in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.13989)
 
 - FGMP: Fine-Grained Mixed-Precision Weight and Activation Quantization for Hardware-Accelerated LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.14152)
-
-- VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference <br> HPCA 2025 [[Paper]](https://arxiv.org/abs/2503.02236)
 
 - BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.18415)
 
@@ -735,9 +735,9 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
-- EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
-
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
+
+- EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
 
 ### Pruning and Sparsity
 
@@ -965,6 +965,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Change Is the Only Constant: Dynamic LLM Slicing based on Layer Redundancy <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2411.03513) [[Code]](https://github.com/RazvanDu/DynamicSlicing)
 
+- Zeroth-Order Adaptive Neuron Alignment Based Pruning without Retraining <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2411.07066) [[Code]](https://github.com/eliacunegatti/NeuroAL)
+
 - Scaling Law for Post-training after Model Pruning <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2411.10272)
 
 - LEMON: Reviving Stronger and Smaller LMs from Larger LMs with Linear Parameter Fusion <br> ACL 2024 [[Paper]](https://aclanthology.org/2024.acl-long.434/)
@@ -980,8 +982,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - MultiPruner: Balanced Structure Removal in Foundation Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.09949) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/MultiPruner)
 
 - Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2501.17088) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/Mamba-Shedder)
-
-- Zeroth-Order Adaptive Neuron Alignment Based Pruning without Retraining <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2411.07066) [[Code]](https://github.com/eliacunegatti/NeuroAL)
 
 - 2SSP: A Two-Stage Framework for Structured Pruning of LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.17771) [[Code]](https://github.com/FabrizioSandri/2SSP)
 
@@ -1626,11 +1626,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - NoWag: A Unified Framework for Shape Preserving Compression of Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.14569) [[Code]](https://github.com/LawrenceRLiu/NoWag)
 
+- On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.17376)
+
 - GaLore 2: Large-Scale LLM Pre-Training by Gradient Low-Rank Projection <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.20437) 
 
 - Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2506.01215)
-
-- On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.17376)
 
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
