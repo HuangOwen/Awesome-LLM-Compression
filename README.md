@@ -93,6 +93,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KV Cache Compression for Inference Efficiency in LLMs: A Review <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06297)
 
+- Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2607.08057)
+
 ### Quantization
 
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
