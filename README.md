@@ -777,6 +777,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - BitROM: Weight Reload-Free CiROM Architecture Towards Billion-Parameter 1.58-bit LLM Inference <br> ASP-DAC 2026 [[Paper]](https://arxiv.org/abs/2509.08542)
 
+- AMQ: Enabling AutoML for Mixed-precision Weight-Only Quantization of Large Language Models <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2509.12019)
+
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
