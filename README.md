@@ -1833,6 +1833,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Open-TQ-Metal: Fused Compressed-Domain Attention for Long-Context LLM Inference on Apple Silicon <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.16957) [[Code]](https://github.com/svv232/gemma4metal)
 
+- River-LLM: Large Language Model Seamless Exit Based on KV Share <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2604.18396)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
