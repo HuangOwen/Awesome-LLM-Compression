@@ -1253,6 +1253,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Sparser, Faster, Lighter Transformer Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.23198) [[Code]](https://github.com/SakanaAI/sparser-faster-llms)
 
+- REAM: Merging Improves Pruning of Experts in LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.04356) [[Code]](https://github.com/SamsungSAILMontreal/ream)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
