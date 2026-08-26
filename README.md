@@ -1283,6 +1283,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.15491) [[Code]](https://github.com/daniel-eai/ghosted_layers_official_repository)
 
+- LEAP: Learnable End-to-End Adaptive Pruning of Large Language Models <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2605.17289)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
