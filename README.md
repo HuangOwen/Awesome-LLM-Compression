@@ -1867,6 +1867,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.01708) [[Code]](https://github.com/Intelligent-Microsystems-Lab/SplitZip)
 
+- ReST-KV: Robust KV Cache Eviction with Layer-wise Output Reconstruction and Spatial-Temporal Smoothing <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2605.08840) [[Code]](https://github.com/an-yongqi/rest-kv)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
