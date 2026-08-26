@@ -2508,6 +2508,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - torchao: PyTorch-native quantization and sparsity for training and inference [[Code]](https://github.com/pytorch/ao)
 
+- HQQ: Official implementation of Half-Quadratic Quantization, a fast calibration-free quantization method [[Code]](https://github.com/dropbox/hqq)
+
 ### Model Compression Toolkits
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
