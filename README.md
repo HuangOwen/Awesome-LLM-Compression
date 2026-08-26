@@ -2512,6 +2512,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - TensorRT Model Optimizer: A unified library of model optimization techniques including quantization, distillation, pruning, NAS and speculative decoding [[Code]](https://github.com/NVIDIA/TensorRT-Model-Optimizer)
 
+- Optimum Quanto: A PyTorch quantization backend for Hugging Face Optimum [[Code]](https://github.com/huggingface/optimum-quanto)
+
 ### Model Compression Toolkits
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
