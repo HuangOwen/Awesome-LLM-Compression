@@ -2159,6 +2159,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SimSD: Simple Speculative Decoding in Diffusion Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.02544) [[Code]](https://github.com/airevo2/SimSD-release)
 
+- EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.18967) [[Code]](https://github.com/furiosa-ai/EfficientRollout)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
