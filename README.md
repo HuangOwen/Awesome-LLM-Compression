@@ -773,6 +773,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Quantized but Deceptive? A Multi-Dimensional Truthfulness Evaluation of Quantized LLMs <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2508.19432)
 
+- The Uneven Impact of Post-Training Quantization in Machine Translation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.20893)
+
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
