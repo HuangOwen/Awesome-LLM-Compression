@@ -1031,25 +1031,15 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Sparsified State-Space Models are Efficient Highway Networks <br> TMLR 2025 [[Paper]](https://arxiv.org/abs/2505.20698) [[Code]](https://github.com/woominsong/Simba)
 
-- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models
+- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
 
-  Arxiv 2025  [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
+- FineGates: LLMs Finetuning with Compression using Stochastic Gates <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2412.12951)
 
-- FineGates: LLMs Finetuning with Compression using Stochastic Gates
+- High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
-  Arxiv 2025  [[Paper]](https://arxiv.org/abs/2412.12951)
+- LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
 
-- High-Fidelity Pruning for Large Language Models
-
-  Arxiv 2026  [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
-
-- LLMs can Compress LLMs: Adaptive Pruning by Agents
-
-  Arxiv 2026  [[Paper]](https://arxiv.org/abs/2601.09694)
-
-- Fragile Knowledge, Robust Instruction-Following: The Width Pruning Dichotomy in Llama-3.2
-
-  Arxiv 2025  [[Paper]](https://arxiv.org/abs/2512.22671) [[Code]](https://github.com/peremartra/llama-glu-expansion-pruning)
+- Fragile Knowledge, Robust Instruction-Following: The Width Pruning Dichotomy in Llama-3.2 <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.22671) [[Code]](https://github.com/peremartra/llama-glu-expansion-pruning)
 
 ### Distillation
 
@@ -1165,10 +1155,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - A Token is Worth over 1,000 Tokens: Efficient Knowledge Distillation through Low-Rank Clone <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2505.12781) [[Code]](https://github.com/CURRENTF/LowRankClone)
 
-- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models
-
-  Arxiv 2025  [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
-
+- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
 
 ### Efficient Prompting
 
