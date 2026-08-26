@@ -1175,6 +1175,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Understanding and Harnessing Sparsity in Unified Multimodal Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.02351) [[Code]](https://github.com/Shwai-He/SparseUnifiedModel)
 
+- Resting Neurons, Active Insights: Robustifying Activation Sparsity in LLMs via Spontaneity <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2512.12744)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
