@@ -1695,6 +1695,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PackKV: Reducing KV Cache Memory Footprint through LLM-Aware Lossy Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.24449) [[Code]](https://github.com/BoJiang03/PackKV)
 
+- Joint Encoding of KV-Cache Blocks for Scalable LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.03067) [[Code]](https://github.com/sef1/kv_fast_fusion)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
