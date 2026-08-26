@@ -909,6 +909,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Quantize the Target, Quantize the Drafter: Efficient Inference with Qwen3.5-4B <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2607.04244) [[Code]](https://github.com/nota-github/adaptfm-quant-dflash)
 
+- KronQ: LLM Quantization via Kronecker-Factored Hessian <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2607.07964)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
