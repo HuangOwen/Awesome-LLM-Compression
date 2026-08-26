@@ -1289,6 +1289,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - AMiD: Knowledge Distillation for LLMs with $α$-mixture Assistant Distribution <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.15982)
 
+- Few-Shot Knowledge Distillation of LLMs With Counterfactual Explanations <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.21631)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
