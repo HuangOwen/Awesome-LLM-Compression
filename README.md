@@ -889,6 +889,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2605.23078) [[Code]](https://github.com/jndeng/GEMQ)
 
+- EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture <br> ISCA 2026 [[Paper]](https://arxiv.org/abs/2605.24144)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
