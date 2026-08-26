@@ -2035,6 +2035,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - TIDE: Token-Informed Depth Execution for Per-Token Early Exit in LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.21365) [[Code]](https://github.com/RightNow-AI/TIDE)
 
+- Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2604.01609)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
