@@ -2135,6 +2135,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Cassandra: Enabling Reasoning LLMs at Edge via Self-Speculative Decoding <br> ISCA 2026 [[Paper]](https://arxiv.org/abs/2605.26558)
 
+- SimSD: Simple Speculative Decoding in Diffusion Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.02544) [[Code]](https://github.com/airevo2/SimSD-release)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
