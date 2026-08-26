@@ -1369,6 +1369,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation <br> EMNLP Findings 2025 [[Paper]](https://arxiv.org/abs/2509.17486)
 
+- Distilling Many-Shot In-Context Learning into a Cheat Sheet <br> EMNLP Findings 2025 [[Paper]](https://arxiv.org/abs/2509.20820)
+
 - LensVLM: Selective Context Expansion for Compressed Visual Representation of Text <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07019)
 
 ### KV Cache Compression
