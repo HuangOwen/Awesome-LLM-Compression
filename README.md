@@ -1935,6 +1935,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.28831)
 
+- GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2607.01065)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
