@@ -1621,6 +1621,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.12872) [[Code]](https://github.com/FastMAS/KVCOMM)
 
+- Attention Is All You Need for KV Cache in Diffusion LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.14973) [[Code]](https://github.com/VILA-Lab/Elastic-Cache)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
