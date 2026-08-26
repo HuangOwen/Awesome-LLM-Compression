@@ -811,6 +811,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - T-SAR: A Full-Stack Co-design for CPU-Only Ternary LLM Inference via In-Place SIMD ALU Reorganization <br> DATE 2026 [[Paper]](https://arxiv.org/abs/2511.13676)
 
+- Enhancing Trustworthiness with Mixed Precision: Benchmarks, Opportunities, and Challenges <br> ASP-DAC 2026 [[Paper]](https://arxiv.org/abs/2511.22483)
+
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
 
 - EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
