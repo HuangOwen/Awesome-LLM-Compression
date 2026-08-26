@@ -1197,6 +1197,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.17917) [[Code]](https://github.com/xiaoshideta/Streaming-dLLM)
 
+- GradPruner: Gradient-Guided Layer Pruning Enabling Efficient Fine-Tuning and Inference for LLMs <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2601.19503)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
