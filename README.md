@@ -1271,6 +1271,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PIS: Linking Importance Sampling and Attention Mechanisms for Efficient Prompt Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.16574)
 
+- ProCut: LLM Prompt Compression via Attribution Estimation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02053)
+
 - LensVLM: Selective Context Expansion for Compressed Visual Representation of Text <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07019)
 
 ### KV Cache Compression
