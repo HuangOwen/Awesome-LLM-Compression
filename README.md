@@ -1419,6 +1419,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Dual-Space Knowledge Distillation with Key-Query Matching for Large Language Models with Vocabulary Mismatch <br> ICASSP 2026 [[Paper]](https://arxiv.org/abs/2603.22056)
 
+- Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs? <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2603.24472) [[Code]](https://github.com/beanie00/self-distillation-analysis)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
