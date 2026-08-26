@@ -2476,6 +2476,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ExLlamaV2: A fast inference library for running quantized LLMs locally on modern consumer-class GPUs [[Code]](https://github.com/turboderp-org/exllamav2)
 
+- Mooncake: KVCache-centric disaggregated serving platform, powering the Kimi LLM service [[Code]](https://github.com/kvcache-ai/Mooncake)
+
 ### Quantization Libraries and Kernels
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
