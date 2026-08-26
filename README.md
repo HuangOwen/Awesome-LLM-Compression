@@ -2504,6 +2504,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - GPTQModel: LLM quantization toolkit with hardware acceleration for NVIDIA, AMD and Intel GPUs and CPUs, integrated with HF, vLLM and SGLang [[Code]](https://github.com/ModelCloud/GPTQModel)
 
+- llm-compressor: Transformers-compatible library for applying quantization and sparsification algorithms to LLMs for optimized vLLM deployment [[Code]](https://github.com/vllm-project/llm-compressor)
+
 ### Model Compression Toolkits
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
