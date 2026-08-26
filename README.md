@@ -2095,6 +2095,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.02888) [[Code]](https://github.com/Amorfati123/SpecKV)
 
+- SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.08151) [[Code]](https://github.com/sgl-project/sglang)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
