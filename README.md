@@ -1547,6 +1547,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Learned Structure in Cartridges: Keys as Shareable Routers in Self-Studied Representations <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.17032)
 
+- Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.19740)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
