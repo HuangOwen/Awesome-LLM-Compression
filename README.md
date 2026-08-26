@@ -1885,6 +1885,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios <br> AAAI 2026 [[Paper]](https://arxiv.org/abs/2511.20340)
 
+- Decomposed Trust: Privacy, Adversarial Robustness, Ethics, and Fairness in Low-Rank LLMs <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2511.22099)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
