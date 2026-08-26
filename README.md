@@ -1853,6 +1853,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - QSVD: Efficient Low-rank Approximation for Unified Query-Key-Value Weight Compression in Low-Precision Vision-Language Models <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.16292) [[Code]](https://github.com/SAI-Lab-NYU/QSVD)
 
+- CAS-Spec: Cascade Adaptive Self-Speculative Decoding for On-the-Fly Lossless Inference Acceleration of LLMs <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.26843)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
