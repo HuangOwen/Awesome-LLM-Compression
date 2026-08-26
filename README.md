@@ -1235,6 +1235,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization <br> UAI 2026 [[Paper]](https://arxiv.org/abs/2603.00910) [[Code]](https://github.com/TKAI-LAB-Mali/Curvature-Weighted-Capacity-Allocation)
 
+- Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.05168) [[Code]](https://github.com/AAzdi/Sparse-BitNet)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
