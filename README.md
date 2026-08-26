@@ -1453,8 +1453,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Feature Alignment-Based Knowledge Distillation for Efficient Compression of Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.19449) 
 
-- Large Language Models Compression via Low-Rank Feature Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.16719) 
-
 - Lillama: Large Language Models Compression via Low-Rank Feature Distillation <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2412.16719) [[Code]](https://github.com/yaya-sy/lillama)
 
 - Multi-Level Optimal Transport for Universal Cross-Tokenizer Knowledge Distillation on Language Models <br> AAAI 2025 [[Paper]](https://arxiv.org/abs/2412.14528) 
