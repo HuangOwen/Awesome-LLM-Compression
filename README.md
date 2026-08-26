@@ -1651,6 +1651,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.20707) [[Code]](https://github.com/xuyang-liu16/MixKV)
 
+- FlexiCache: Leveraging Temporal Stability of Attention Heads for Efficient KV Cache Management <br> MLSys 2026 [[Paper]](https://arxiv.org/abs/2511.00868)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
