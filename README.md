@@ -2560,6 +2560,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs [[Code]](https://github.com/hiyouga/LLaMA-Factory)
 
+- Unsloth: Faster and more memory-efficient LLM fine-tuning with 4-bit quantization and custom kernels [[Code]](https://github.com/unslothai/unsloth)
+
 ### Analysis and Benchmarking
 
 - Can my GPU run this LLM?: Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization [[Code]](https://github.com/RahulSChand/gpu_poor)
