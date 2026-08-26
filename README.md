@@ -593,7 +593,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Learning from Students: Applying t-Distributions to Explore Accurate and Efficient Formats for LLMs <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2405.03103)
 
-- LLMC: Benchmarking Large Language Model Quantization with a Versatile Compression Toolkit <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2405.06001) [[Code]](https://github.com/ModelTC/llmc)
+- LLMC: Benchmarking Large Language Model Quantization with a Versatile Compression Toolkit <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2405.06001) [[Code]](https://github.com/ModelTC/LightCompress)
 
 - SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.06219) 
 
@@ -989,7 +989,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/microsoft/DeepSpeed)
 
-- LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2208.07339) [[Code]](https://github.com/TimDettmers/bitsandbytes)
+- LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2208.07339) [[Code]](https://github.com/bitsandbytes-foundation/bitsandbytes)
 
 - Outlier Suppression: Pushing the Limit of Low-bit Transformer Language Models <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2209.13325) [[Code]](https://github.com/wimh966/outlier_suppression)
 
@@ -2426,11 +2426,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 ### Inference and Serving Engines
 
-- llama.cpp: Inference of LLaMA model in pure C/C++ [[Code]](https://github.com/ggerganov/llama.cpp)
+- llama.cpp: Inference of LLaMA model in pure C/C++ [[Code]](https://github.com/ggml-org/llama.cpp)
 
 - vllm: A high-throughput and memory-efficient inference and serving engine for LLMs [[Code]](https://github.com/vllm-project/vllm)
 
-- gpt-fast: Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. [[Code]](https://github.com/pytorch-labs/gpt-fast)
+- gpt-fast: Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. [[Code]](https://github.com/meta-pytorch/gpt-fast)
 
 - ExLlama: A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights. [[Code]](https://github.com/turboderp/exllama)
 
@@ -2440,11 +2440,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - llama2.c: Inference Llama 2 in one file of pure C [[Code]](https://github.com/karpathy/llama2.c)
 
-- ggml: Tensor library for machine learning [[Code]](https://github.com/ggerganov/ggml)
+- ggml: Tensor library for machine learning [[Code]](https://github.com/ggml-org/ggml)
 
 - LLamaSharp: C#/.NET binding of llama.cpp, including LLaMa/GPT model inference and quantization, ASP.NET core integration and UI [[Code]](https://github.com/SciSharp/LLamaSharp)
 
-- rwkv.cpp: NT4/INT5/INT8 and FP16 inference on CPU for RWKV language model [[Code]](https://github.com/saharNooby/rwkv.cpp)
+- rwkv.cpp: NT4/INT5/INT8 and FP16 inference on CPU for RWKV language model [[Code]](https://github.com/RWKV/rwkv.cpp)
 
 - TinyChatEngine: On-Device LLM Inference Library [[Code]](https://github.com/mit-han-lab/TinyChatEngine)
 
@@ -2480,7 +2480,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
 
-- bitsandbytes: 8-bit CUDA functions for PyTorch [[Code]](https://github.com/TimDettmers/bitsandbytes)
+- bitsandbytes: 8-bit CUDA functions for PyTorch [[Code]](https://github.com/bitsandbytes-foundation/bitsandbytes)
 
 - IntLLaMA: A fast and light quantization solution for LLaMA [[Code]](https://github.com/megvii-research/IntLLaMA)
 
@@ -2508,7 +2508,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - HQQ: Official implementation of Half-Quadratic Quantization, a fast calibration-free quantization method [[Code]](https://github.com/dropbox/hqq)
 
-- TensorRT Model Optimizer: A unified library of model optimization techniques including quantization, distillation, pruning, NAS and speculative decoding [[Code]](https://github.com/NVIDIA/TensorRT-Model-Optimizer)
+- TensorRT Model Optimizer: A unified library of model optimization techniques including quantization, distillation, pruning, NAS and speculative decoding [[Code]](https://github.com/NVIDIA/Model-Optimizer)
 
 - Optimum Quanto: A PyTorch quantization backend for Hugging Face Optimum [[Code]](https://github.com/huggingface/optimum-quanto)
 
@@ -2520,7 +2520,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Intel® Neural Compressor: An open-source Python library supporting popular model compression techniques on all mainstream deep learning frameworks (TensorFlow, PyTorch, ONNX Runtime, and MXNet) [[Code]](https://github.com/intel/neural-compressor)
 
-- LLMC: A tool designed for LLM Compression. [[Code]](https://github.com/ModelTC/llmc)
+- LLMC: A tool designed for LLM Compression. [[Code]](https://github.com/ModelTC/LightCompress)
 
 - Transformer Compression: For releasing code related to compression methods for transformers, accompanying our publications [[Code]](https://github.com/microsoft/TransformerCompression)
 
@@ -2544,9 +2544,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Alpaca-CoT: An Instruction Fine-Tuning Platform with Instruction Data Collection and Unified Large Language Models Interface [[Code]](https://github.com/PhoebusSi/Alpaca-CoT)
 
-- Efficient-Tuning-LLMs: (Efficient Finetuning of QLoRA LLMs). QLoRA, LLama, bloom, baichuan-7B, GLM [[Code]](https://github.com/jianzhnie/Efficient-Tuning-LLMs)
+- Efficient-Tuning-LLMs: (Efficient Finetuning of QLoRA LLMs). QLoRA, LLama, bloom, baichuan-7B, GLM [[Code]](https://github.com/jianzhnie/LLamaTuner)
 
-- lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [[Code]](https://github.com/Lightning-AI/lit-gpt)
+- lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [[Code]](https://github.com/Lightning-AI/litgpt)
 
 - Lit-LLaMA: Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [[Code]](https://github.com/Lightning-AI/lit-llama)
 
@@ -2554,7 +2554,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - EasyLLM: Built upon Megatron-Deepspeed and HuggingFace Trainer, EasyLLM has reorganized the code logic with a focus on usability. While enhancing usability, it also ensures training efficiency [[Code]](https://github.com/ModelTC/EasyLLM)
 
-- LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs [[Code]](https://github.com/hiyouga/LLaMA-Factory)
+- LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs [[Code]](https://github.com/hiyouga/LlamaFactory)
 
 - Unsloth: Faster and more memory-efficient LLM fine-tuning with 4-bit quantization and custom kernels [[Code]](https://github.com/unslothai/unsloth)
 
@@ -2568,7 +2568,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 ### Other Tools
 
-- LangChain: Building applications with LLMs through composability [[Code]](https://github.com/hwchase17/langchain)
+- LangChain: Building applications with LLMs through composability [[Code]](https://github.com/langchain-ai/langchain)
 
 - llama-zip: LLM-powered lossless compression tool [[Code]](https://github.com/AlexBuz/llama-zip)
 
