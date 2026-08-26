@@ -1883,6 +1883,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ReST-KV: Robust KV Cache Eviction with Layer-wise Output Reconstruction and Spatial-Temporal Smoothing <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2605.08840) [[Code]](https://github.com/an-yongqi/rest-kv)
 
+- MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.22269) [[Code]](https://github.com/IMBALDY/MuKV)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
