@@ -30,7 +30,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Survey
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 1 paper</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 2 papers</summary>
+
+- Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.04445)
 
 - Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2607.08057)
 
