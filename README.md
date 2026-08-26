@@ -1447,6 +1447,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CommVQ: Commutative Vector Quantization for KV Cache Compression <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2506.18879) [[Code]](https://github.com/UMass-Embodied-AGI/CommVQ)
 
+- LeanK: Learnable K Cache Channel Pruning for Efficient Decoding <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02215)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
