@@ -1759,6 +1759,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ForesightKV: Optimizing KV Cache Eviction for Reasoning Models by Learning Long-Term Contribution <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2602.03203)
 
+- ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2602.07721) [[Code]](https://github.com/amy-77/ParisKV)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
