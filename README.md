@@ -2085,6 +2085,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2604.01609)
 
+- SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.02888) [[Code]](https://github.com/Amorfati123/SpecKV)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
