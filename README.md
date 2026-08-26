@@ -915,6 +915,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Rethinking Small VLM Quantization: From Component-Wise Analysis to Hardware-Aware Edge Deployment <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2607.08029)
 
+- Reliability Scaling Laws for Quantized Large Language Models <br> TMLR 2026 [[Paper]](https://arxiv.org/abs/2607.10855)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
