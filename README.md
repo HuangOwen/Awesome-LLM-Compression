@@ -1107,6 +1107,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.12464) [[Code]](https://github.com/RyanLucas3/RAC)
 
+- NIRVANA: Structured Pruning Reimagined for Large Language Model Compression <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2509.14230)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
