@@ -1197,6 +1197,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Slow Tuning and Low-Entropy Masking for Safe Chain-of-Thought Distillation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.09666)
 
+- Beyond Scaling Law: A Data-Efficient Distillation Framework for Reasoning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.09883)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
