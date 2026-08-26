@@ -833,6 +833,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Quartet II: Accurate LLM Pre-Training in NVFP4 by Improved Unbiased Gradient Estimation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.22813) [[Code]](https://github.com/IST-DASLab/Quartet-II)
 
+- Two-Stage Grid Optimization for Group-wise Quantization of LLMs <br> ICASSP 2026 [[Paper]](https://arxiv.org/abs/2602.02126)
+
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
 
 - EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
