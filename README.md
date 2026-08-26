@@ -1147,6 +1147,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.22228) [[Code]](https://github.com/keyu-wang-2002/Layer-Pruning-Harms-Inference-Scaling)
 
+- 1+1>2: A Synergistic Sparse and Low-Rank Compression Method for Large Language Models <br> EMNLP Findings 2025 [[Paper]](https://arxiv.org/abs/2510.26446)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
