@@ -1761,6 +1761,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2509.15235)
 
+- SnipSnap: A Joint Compression Format and Dataflow Co-Optimization Framework for Efficient Sparse LLM Accelerator Design <br> ASP-DAC 2026 [[Paper]](https://arxiv.org/abs/2509.17072)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
