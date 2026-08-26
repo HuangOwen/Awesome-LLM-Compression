@@ -1639,6 +1639,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CAMERA: Multi-Matrix Joint Compression for MoE Models via Micro-Expert Redundancy Analysis <br> AAAI 2026 [[Paper]](https://arxiv.org/abs/2508.02322)
 
+- LOST: Low-rank and Sparse Pre-training for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02668) [[Code]](https://github.com/JiaxiLi1/LOST-Low-rank-and-Sparse-Training-for-Large-Language-Models)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
