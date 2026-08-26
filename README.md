@@ -893,6 +893,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Influence-Inspired Spectral Rotations for Extreme Low-Bit LLM Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.25203) [[Code]](https://github.com/gogipav14/spectral-llm)
 
+- InfoQuant: Shaping Activation Distributions for Low-Bit LLM Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.26175) [[Code]](https://github.com/LLIKKE/InfoQuant)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
