@@ -1609,6 +1609,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2510.07651)
 
+- Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.09309) [[Code]](https://github.com/jianuo-huang/MaskKV)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
