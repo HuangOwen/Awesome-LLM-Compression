@@ -865,6 +865,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - RUQuant: Towards Refining Uniform Quantization for Large Language Models <br> KDD 2026 [[Paper]](https://arxiv.org/abs/2604.04013)
 
+- SEPTQ: A Simple and Effective Post-Training Quantization Paradigm for Large Language Models <br> KDD 2025 [[Paper]](https://arxiv.org/abs/2604.10091)
+
 - EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
 
 ### Pruning and Sparsity
