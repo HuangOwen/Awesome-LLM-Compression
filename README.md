@@ -1347,6 +1347,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - The Sparsity Whisperer <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.06630) [[Code]](https://github.com/Shavit-Lab/Whisper)
 
+- Prune Once: Retraining-Free Task-Agnostic Pruning for Vision-Language Models <br> ECCV 2026 [[Paper]](https://arxiv.org/abs/2608.06901)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
