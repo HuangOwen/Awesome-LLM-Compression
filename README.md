@@ -2506,6 +2506,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - llm-compressor: Transformers-compatible library for applying quantization and sparsification algorithms to LLMs for optimized vLLM deployment [[Code]](https://github.com/vllm-project/llm-compressor)
 
+- torchao: PyTorch-native quantization and sparsity for training and inference [[Code]](https://github.com/pytorch/ao)
+
 ### Model Compression Toolkits
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
