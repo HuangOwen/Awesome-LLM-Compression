@@ -903,6 +903,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LC-QAT: Data-Efficient 2-Bit QAT for LLMs via Linear-Constrained Vector Quantization <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.10531)
 
+- TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.13054)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
