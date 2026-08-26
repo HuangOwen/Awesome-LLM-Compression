@@ -2510,6 +2510,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - HQQ: Official implementation of Half-Quadratic Quantization, a fast calibration-free quantization method [[Code]](https://github.com/dropbox/hqq)
 
+- TensorRT Model Optimizer: A unified library of model optimization techniques including quantization, distillation, pruning, NAS and speculative decoding [[Code]](https://github.com/NVIDIA/TensorRT-Model-Optimizer)
+
 ### Model Compression Toolkits
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
