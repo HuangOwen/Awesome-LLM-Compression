@@ -1849,6 +1849,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.25975) [[Code]](https://github.com/jiamingyy/CapKV)
 
+- Make Your LVLM KV Cache More Lightweight <br> TMLR 2026 [[Paper]](https://arxiv.org/abs/2605.00789)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
