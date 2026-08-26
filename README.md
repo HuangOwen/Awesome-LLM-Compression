@@ -2458,6 +2458,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - FlexGen: Running large language models on a single GPU for throughput-oriented scenarios via offloading [[Code]](https://github.com/FMInference/FlexLLMGen)
 
+- AirLLM: 70B LLM inference on a single 4GB GPU through layer-wise offloading, without quantization or distillation [[Code]](https://github.com/lyogavin/airllm)
+
 ### Quantization Libraries and Kernels
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
