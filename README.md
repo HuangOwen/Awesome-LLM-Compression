@@ -885,6 +885,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2605.14359)
 
+- XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.14844) [[Code]](https://github.com/flash7777/vllm)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
