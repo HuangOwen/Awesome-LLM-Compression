@@ -1903,6 +1903,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.22269) [[Code]](https://github.com/IMBALDY/MuKV)
 
+- Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.07684)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
