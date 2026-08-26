@@ -1513,6 +1513,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System <br> IEEE CAL 2025 [[Paper]](https://arxiv.org/abs/2508.13231)
 
+- SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning <br> AAAI 2026 [[Paper]](https://arxiv.org/abs/2508.15212) [[Code]](https://github.com/Xnhyacinth/SparK)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
