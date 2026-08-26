@@ -2462,6 +2462,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - fastllm: Dependency-free high-performance inference library supporting tensor-parallel dense models and mixed-mode MoE inference on modest GPUs [[Code]](https://github.com/ztxz16/fastllm)
 
+- llamafile: Distribute and run LLMs with a single file [[Code]](https://github.com/mozilla-ai/llamafile)
+
 ### Quantization Libraries and Kernels
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
