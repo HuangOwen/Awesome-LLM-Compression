@@ -895,6 +895,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - InfoQuant: Shaping Activation Distributions for Low-Bit LLM Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.26175) [[Code]](https://github.com/LLIKKE/InfoQuant)
 
+- LFQ: Logit-aware Final-block Quantization for Boosting the Generation Quality of Low-Bit Quantized LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2605.29756)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
