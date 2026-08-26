@@ -1811,6 +1811,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Speculate Deep and Accurate: Lossless and Training-Free Acceleration for Offloaded LLMs via Substitute Speculative Decoding <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2509.18344)
 
+- FLRC: Fine-grained Low-Rank Compressor for Efficient LLM Inference <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2510.09332)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
