@@ -1169,6 +1169,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Activation Sparsity Opportunities for Compressing General Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.12178)
 
+- FineGates: LLMs Finetuning with Compression using Stochastic Gates <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2412.12951)
+
 - FASP: Fast and Accurate Structured Pruning of Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.09412)
 
 - MultiPruner: Balanced Structure Removal in Foundation Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.09949) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/MultiPruner)
@@ -1224,8 +1226,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Sparsified State-Space Models are Efficient Highway Networks <br> TMLR 2025 [[Paper]](https://arxiv.org/abs/2505.20698) [[Code]](https://github.com/woominsong/Simba)
 
 - SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
-
-- FineGates: LLMs Finetuning with Compression using Stochastic Gates <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2412.12951)
 
 - Amber Pruner: Leveraging N:M Activation Sparsity for Efficient Prefill in Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02128)
 
@@ -1289,7 +1289,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Resting Neurons, Active Insights: Robustifying Activation Sparsity in LLMs via Spontaneity <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2512.12744)
 
+- Fragile Knowledge, Robust Instruction-Following: The Width Pruning Dichotomy in Llama-3.2 <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.22671) [[Code]](https://github.com/peremartra/llama-glu-expansion-pruning)
+
 - Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL)
+
+- LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
 
 - Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.17917) [[Code]](https://github.com/xiaoshideta/Streaming-dLLM)
 
@@ -1310,10 +1314,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 - Stem: Rethinking Causal Information Flow in Sparse Attention <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.06274)
 
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
-
-- LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
-
-- Fragile Knowledge, Robust Instruction-Following: The Width Pruning Dichotomy in Llama-3.2 <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.22671) [[Code]](https://github.com/peremartra/llama-glu-expansion-pruning)
 
 - Sparser, Faster, Lighter Transformer Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.23198) [[Code]](https://github.com/SakanaAI/sparser-faster-llms)
 
