@@ -1365,6 +1365,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ILRe: Intermediate Layer Retrieval for Context Compression in Causal Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.17892)
 
+- AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation <br> EMNLP Findings 2025 [[Paper]](https://arxiv.org/abs/2509.17486)
+
 - LensVLM: Selective Context Expansion for Compressed Visual Representation of Text <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07019)
 
 ### KV Cache Compression
