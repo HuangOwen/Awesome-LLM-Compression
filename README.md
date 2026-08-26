@@ -1275,6 +1275,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2604.25098)
 
+- Compute Where it Counts: Self Optimizing Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.10875) [[Code]](https://github.com/akhauriyash/SOL)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
