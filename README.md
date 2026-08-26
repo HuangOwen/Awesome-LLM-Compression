@@ -769,6 +769,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Task-Stratified Knowledge Scaling Laws for Post-Training Quantized Large Language Models <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2508.18609)
 
+- APT-LLM: Exploiting Arbitrary-Precision Tensor Core Computing for LLM Acceleration <br> TCAD 2025 [[Paper]](https://arxiv.org/abs/2508.19087)
+
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
