@@ -37,7 +37,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 </details>
 
 <details>
-<summary><b>2025</b> &nbsp;·&nbsp; 12 papers</summary>
+<summary><b>2025</b> &nbsp;·&nbsp; 13 papers</summary>
 
 - Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs <br> NeurIPS Lock-LLM Workshop 2025 [[Paper]](https://openreview.net/pdf?id=OkNfb8SmLh) [[Blog]](https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17)
 
@@ -62,6 +62,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - KV Cache Compression for Inference Efficiency in LLMs: A Review <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06297)
 
 - A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.08712) [[Code]](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation)
+
+- A Survey on Collaborating Small and Large Language Models for Performance, Cost-effectiveness, Cloud-edge Privacy, and Trustworthiness <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.13890) [[Code]](https://github.com/FairyFali/SLMs-Survey)
 
 </details>
 
