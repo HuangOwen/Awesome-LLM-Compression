@@ -871,6 +871,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Robust Ultra Low-Bit Post-Training Quantization via Stable Diagonal Curvature Estimate <br> MLSys 2026 [[Paper]](https://arxiv.org/abs/2604.13806)
 
+- AQPIM: Breaking the PIM Capacity Wall for LLMs with In-Memory Activation Quantization <br> HPCA 2026 [[Paper]](https://arxiv.org/abs/2604.18137)
+
 - EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
 
 ### Pruning and Sparsity
