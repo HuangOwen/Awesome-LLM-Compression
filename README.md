@@ -2498,6 +2498,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - AutoGGUF: automatically quant GGUF models [[Code]](https://github.com/leafspark/AutoGGUF)
 
+- llm-awq: Official implementation of AWQ: Activation-aware Weight Quantization for LLM compression and acceleration (MLSys 2024 Best Paper) [[Code]](https://github.com/mit-han-lab/llm-awq)
+
 ### Model Compression Toolkits
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
