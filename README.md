@@ -1925,6 +1925,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2606.17034) [[Code]](https://github.com/Graph-COM/KVEraser)
 
+- CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.24467) [[Code]](https://github.com/TUDa-HWAI/CompressKV)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
