@@ -923,6 +923,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - GyRot: Leveraging Hidden Synergy between Rotation and Fine-grained Group Quantization for Low-bit LLM Inference <br> HPCA 2026 [[Paper]](https://arxiv.org/abs/2607.27694)
 
+- Attend to Your Own Thoughts: Breaking the Barrier for Post-Training Quantization of Reasoning LLMs through the Lens of 1.58-Bit Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.01078) [[Code]](https://github.com/IntelChina-AI/BitTern)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
