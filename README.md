@@ -2426,155 +2426,155 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 ### Inference and Serving Engines
 
-- llama.cpp: Inference of LLaMA model in pure C/C++ [[Code]](https://github.com/ggml-org/llama.cpp)
+- Ollama: Get up and running with local LLMs, built on llama.cpp with quantized GGUF models [[Code]](https://github.com/ollama/ollama) [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama)
 
-- vllm: A high-throughput and memory-efficient inference and serving engine for LLMs [[Code]](https://github.com/vllm-project/vllm)
+- llama.cpp: Inference of LLaMA model in pure C/C++ [[Code]](https://github.com/ggml-org/llama.cpp) [![Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social)](https://github.com/ggml-org/llama.cpp)
 
-- gpt-fast: Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. [[Code]](https://github.com/meta-pytorch/gpt-fast)
+- vllm: A high-throughput and memory-efficient inference and serving engine for LLMs [[Code]](https://github.com/vllm-project/vllm) [![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)](https://github.com/vllm-project/vllm)
 
-- ExLlama: A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights. [[Code]](https://github.com/turboderp/exllama)
+- AirLLM: 70B LLM inference on a single 4GB GPU through layer-wise offloading, without quantization or distillation [[Code]](https://github.com/lyogavin/airllm) [![Stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social)](https://github.com/lyogavin/airllm)
 
-- lama.onnx: LLaMa/RWKV onnx models, quantization and testcase [[Code]](https://github.com/tpoisonooo/llama.onnx)
+- SGLang: A high-performance serving framework for LLMs and multimodal models with RadixAttention prefix caching [[Code]](https://github.com/sgl-project/sglang) [![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social)](https://github.com/sgl-project/sglang)
 
-- fastLLaMa: An experimental high-performance framework for running Decoder-only LLMs with 4-bit quantization in Python using a C/C++ backend. [[Code]](https://github.com/PotatoSpudowski/fastLLaMa)
+- llamafile: Distribute and run LLMs with a single file [[Code]](https://github.com/mozilla-ai/llamafile) [![Stars](https://img.shields.io/github/stars/mozilla-ai/llamafile?style=social)](https://github.com/mozilla-ai/llamafile)
 
-- llama2.c: Inference Llama 2 in one file of pure C [[Code]](https://github.com/karpathy/llama2.c)
+- MLC LLM: Universal LLM deployment engine with ML compilation, supporting quantized deployment across GPUs, phones and browsers [[Code]](https://github.com/mlc-ai/mlc-llm) [![Stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social)](https://github.com/mlc-ai/mlc-llm)
 
-- ggml: Tensor library for machine learning [[Code]](https://github.com/ggml-org/ggml)
+- llama2.c: Inference Llama 2 in one file of pure C [[Code]](https://github.com/karpathy/llama2.c) [![Stars](https://img.shields.io/github/stars/karpathy/llama2.c?style=social)](https://github.com/karpathy/llama2.c)
 
-- LLamaSharp: C#/.NET binding of llama.cpp, including LLaMa/GPT model inference and quantization, ASP.NET core integration and UI [[Code]](https://github.com/SciSharp/LLamaSharp)
+- KTransformers: A flexible framework for experiencing cutting-edge heterogeneous (CPU/GPU) LLM inference and fine-tuning optimizations, enabling large MoE models on limited VRAM [[Code]](https://github.com/kvcache-ai/ktransformers) [![Stars](https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social)](https://github.com/kvcache-ai/ktransformers)
 
-- rwkv.cpp: NT4/INT5/INT8 and FP16 inference on CPU for RWKV language model [[Code]](https://github.com/RWKV/rwkv.cpp)
+- ggml: Tensor library for machine learning [[Code]](https://github.com/ggml-org/ggml) [![Stars](https://img.shields.io/github/stars/ggml-org/ggml?style=social)](https://github.com/ggml-org/ggml)
 
-- TinyChatEngine: On-Device LLM Inference Library [[Code]](https://github.com/mit-han-lab/TinyChatEngine)
+- TensorRT-LLM: TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. [[Code]](https://github.com/NVIDIA/TensorRT-LLM) [![Stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social)](https://github.com/NVIDIA/TensorRT-LLM)
 
-- TensorRT-LLM: TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. [[Code]](https://github.com/NVIDIA/TensorRT-LLM)
+- PowerInfer: High-speed LLM serving for local deployment using a GPU-CPU hybrid engine that exploits activation locality [[Code]](https://github.com/Tiiny-AI/PowerInfer) [![Stars](https://img.shields.io/github/stars/Tiiny-AI/PowerInfer?style=social)](https://github.com/Tiiny-AI/PowerInfer)
 
-- KTransformers: A flexible framework for experiencing cutting-edge heterogeneous (CPU/GPU) LLM inference and fine-tuning optimizations, enabling large MoE models on limited VRAM [[Code]](https://github.com/kvcache-ai/ktransformers)
+- FlexGen: Running large language models on a single GPU for throughput-oriented scenarios via offloading [[Code]](https://github.com/FMInference/FlexLLMGen) [![Stars](https://img.shields.io/github/stars/FMInference/FlexLLMGen?style=social)](https://github.com/FMInference/FlexLLMGen)
 
-- PowerInfer: High-speed LLM serving for local deployment using a GPU-CPU hybrid engine that exploits activation locality [[Code]](https://github.com/Tiiny-AI/PowerInfer)
+- ipex-llm: Accelerate local LLM inference and finetuning on Intel CPU, iGPU, NPU and discrete GPU with low-bit formats [[Code]](https://github.com/intel/ipex-llm) [![Stars](https://img.shields.io/github/stars/intel/ipex-llm?style=social)](https://github.com/intel/ipex-llm)
 
-- FlexGen: Running large language models on a single GPU for throughput-oriented scenarios via offloading [[Code]](https://github.com/FMInference/FlexLLMGen)
+- LMDeploy: A toolkit for compressing, deploying, and serving LLMs, including W4A16 and KV cache quantization [[Code]](https://github.com/InternLM/lmdeploy) [![Stars](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social)](https://github.com/InternLM/lmdeploy)
 
-- AirLLM: 70B LLM inference on a single 4GB GPU through layer-wise offloading, without quantization or distillation [[Code]](https://github.com/lyogavin/airllm)
+- Mooncake: KVCache-centric disaggregated serving platform, powering the Kimi LLM service [[Code]](https://github.com/kvcache-ai/Mooncake) [![Stars](https://img.shields.io/github/stars/kvcache-ai/Mooncake?style=social)](https://github.com/kvcache-ai/Mooncake)
 
-- fastllm: Dependency-free high-performance inference library supporting tensor-parallel dense models and mixed-mode MoE inference on modest GPUs [[Code]](https://github.com/ztxz16/fastllm)
+- gpt-fast: Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. [[Code]](https://github.com/meta-pytorch/gpt-fast) [![Stars](https://img.shields.io/github/stars/meta-pytorch/gpt-fast?style=social)](https://github.com/meta-pytorch/gpt-fast)
 
-- llamafile: Distribute and run LLMs with a single file [[Code]](https://github.com/mozilla-ai/llamafile)
+- fastllm: Dependency-free high-performance inference library supporting tensor-parallel dense models and mixed-mode MoE inference on modest GPUs [[Code]](https://github.com/ztxz16/fastllm) [![Stars](https://img.shields.io/github/stars/ztxz16/fastllm?style=social)](https://github.com/ztxz16/fastllm)
 
-- Ollama: Get up and running with local LLMs, built on llama.cpp with quantized GGUF models [[Code]](https://github.com/ollama/ollama)
+- ExLlamaV2: A fast inference library for running quantized LLMs locally on modern consumer-class GPUs [[Code]](https://github.com/turboderp-org/exllamav2) [![Stars](https://img.shields.io/github/stars/turboderp-org/exllamav2?style=social)](https://github.com/turboderp-org/exllamav2)
 
-- ipex-llm: Accelerate local LLM inference and finetuning on Intel CPU, iGPU, NPU and discrete GPU with low-bit formats [[Code]](https://github.com/intel/ipex-llm)
+- LLamaSharp: C#/.NET binding of llama.cpp, including LLaMa/GPT model inference and quantization, ASP.NET core integration and UI [[Code]](https://github.com/SciSharp/LLamaSharp) [![Stars](https://img.shields.io/github/stars/SciSharp/LLamaSharp?style=social)](https://github.com/SciSharp/LLamaSharp)
 
-- MLC LLM: Universal LLM deployment engine with ML compilation, supporting quantized deployment across GPUs, phones and browsers [[Code]](https://github.com/mlc-ai/mlc-llm)
+- ExLlama: A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights. [[Code]](https://github.com/turboderp/exllama) [![Stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)](https://github.com/turboderp/exllama)
 
-- LMDeploy: A toolkit for compressing, deploying, and serving LLMs, including W4A16 and KV cache quantization [[Code]](https://github.com/InternLM/lmdeploy)
+- rwkv.cpp: NT4/INT5/INT8 and FP16 inference on CPU for RWKV language model [[Code]](https://github.com/RWKV/rwkv.cpp) [![Stars](https://img.shields.io/github/stars/RWKV/rwkv.cpp?style=social)](https://github.com/RWKV/rwkv.cpp)
 
-- SGLang: A high-performance serving framework for LLMs and multimodal models with RadixAttention prefix caching [[Code]](https://github.com/sgl-project/sglang)
+- TinyChatEngine: On-Device LLM Inference Library [[Code]](https://github.com/mit-han-lab/TinyChatEngine) [![Stars](https://img.shields.io/github/stars/mit-han-lab/TinyChatEngine?style=social)](https://github.com/mit-han-lab/TinyChatEngine)
 
-- ExLlamaV2: A fast inference library for running quantized LLMs locally on modern consumer-class GPUs [[Code]](https://github.com/turboderp-org/exllamav2)
+- fastLLaMa: An experimental high-performance framework for running Decoder-only LLMs with 4-bit quantization in Python using a C/C++ backend. [[Code]](https://github.com/PotatoSpudowski/fastLLaMa) [![Stars](https://img.shields.io/github/stars/PotatoSpudowski/fastLLaMa?style=social)](https://github.com/PotatoSpudowski/fastLLaMa)
 
-- Mooncake: KVCache-centric disaggregated serving platform, powering the Kimi LLM service [[Code]](https://github.com/kvcache-ai/Mooncake)
+- lama.onnx: LLaMa/RWKV onnx models, quantization and testcase [[Code]](https://github.com/tpoisonooo/llama.onnx) [![Stars](https://img.shields.io/github/stars/tpoisonooo/llama.onnx?style=social)](https://github.com/tpoisonooo/llama.onnx)
 
 ### Quantization Libraries and Kernels
 
-- GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
+- bitsandbytes: 8-bit CUDA functions for PyTorch [[Code]](https://github.com/bitsandbytes-foundation/bitsandbytes) [![Stars](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes?style=social)](https://github.com/bitsandbytes-foundation/bitsandbytes)
 
-- bitsandbytes: 8-bit CUDA functions for PyTorch [[Code]](https://github.com/bitsandbytes-foundation/bitsandbytes)
+- llm-compressor: Transformers-compatible library for applying quantization and sparsification algorithms to LLMs for optimized vLLM deployment [[Code]](https://github.com/vllm-project/llm-compressor) [![Stars](https://img.shields.io/github/stars/vllm-project/llm-compressor?style=social)](https://github.com/vllm-project/llm-compressor)
 
-- IntLLaMA: A fast and light quantization solution for LLaMA [[Code]](https://github.com/megvii-research/IntLLaMA)
+- llm-awq: Official implementation of AWQ: Activation-aware Weight Quantization for LLM compression and acceleration (MLSys 2024 Best Paper) [[Code]](https://github.com/mit-han-lab/llm-awq) [![Stars](https://img.shields.io/github/stars/mit-han-lab/llm-awq?style=social)](https://github.com/mit-han-lab/llm-awq)
 
-- GreenBit LLaMA: Advanced Ultra-Low Bitrate Compression Techniques for the LLaMA Family of LLMs [[Code]](https://github.com/GreenBitAI/low_bit_llama)
+- TensorRT Model Optimizer: A unified library of model optimization techniques including quantization, distillation, pruning, NAS and speculative decoding [[Code]](https://github.com/NVIDIA/Model-Optimizer) [![Stars](https://img.shields.io/github/stars/NVIDIA/Model-Optimizer?style=social)](https://github.com/NVIDIA/Model-Optimizer)
 
-- Green-bit-LLM: A toolkit for fine-tuning, inferencing, and evaluating GreenBitAI's LLMs. [[Code]](https://github.com/GreenBitAI/green-bit-llm) [[Model]](https://huggingface.co/GreenBitAI)
+- GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa) [![Stars](https://img.shields.io/github/stars/qwopqwop200/GPTQ-for-LLaMa?style=social)](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
 
-- Bitorch Engine: Streamlining AI with Open-Source Low-Bit Quantization. [[Code]](https://github.com/GreenBitAI/bitorch-engine)
+- torchao: PyTorch-native quantization and sparsity for training and inference [[Code]](https://github.com/pytorch/ao) [![Stars](https://img.shields.io/github/stars/pytorch/ao?style=social)](https://github.com/pytorch/ao)
 
-- BitBLAS: BitBLAS is a library to support mixed-precision matrix multiplications, especially for quantized LLM deployment. [[Code]](https://github.com/microsoft/BitBLAS)
+- AutoAWQ: Easy-to-use implementation of the AWQ algorithm for 4-bit quantization with a 2x inference speedup [[Code]](https://github.com/casper-hansen/AutoAWQ) [![Stars](https://img.shields.io/github/stars/casper-hansen/AutoAWQ?style=social)](https://github.com/casper-hansen/AutoAWQ)
 
-- AutoFP8: Open-source FP8 quantization library for producing compressed checkpoints for running in vLLM  [[Code]](https://github.com/neuralmagic/AutoFP8)
+- GPTQModel: LLM quantization toolkit with hardware acceleration for NVIDIA, AMD and Intel GPUs and CPUs, integrated with HF, vLLM and SGLang [[Code]](https://github.com/ModelCloud/GPTQModel) [![Stars](https://img.shields.io/github/stars/ModelCloud/GPTQModel?style=social)](https://github.com/ModelCloud/GPTQModel)
 
-- AutoGGUF: automatically quant GGUF models [[Code]](https://github.com/leafspark/AutoGGUF)
+- Optimum Quanto: A PyTorch quantization backend for Hugging Face Optimum [[Code]](https://github.com/huggingface/optimum-quanto) [![Stars](https://img.shields.io/github/stars/huggingface/optimum-quanto?style=social)](https://github.com/huggingface/optimum-quanto)
 
-- llm-awq: Official implementation of AWQ: Activation-aware Weight Quantization for LLM compression and acceleration (MLSys 2024 Best Paper) [[Code]](https://github.com/mit-han-lab/llm-awq)
+- HQQ: Official implementation of Half-Quadratic Quantization, a fast calibration-free quantization method [[Code]](https://github.com/dropbox/hqq) [![Stars](https://img.shields.io/github/stars/dropbox/hqq?style=social)](https://github.com/dropbox/hqq)
 
-- AutoAWQ: Easy-to-use implementation of the AWQ algorithm for 4-bit quantization with a 2x inference speedup [[Code]](https://github.com/casper-hansen/AutoAWQ)
+- BitBLAS: BitBLAS is a library to support mixed-precision matrix multiplications, especially for quantized LLM deployment. [[Code]](https://github.com/microsoft/BitBLAS) [![Stars](https://img.shields.io/github/stars/microsoft/BitBLAS?style=social)](https://github.com/microsoft/BitBLAS)
 
-- GPTQModel: LLM quantization toolkit with hardware acceleration for NVIDIA, AMD and Intel GPUs and CPUs, integrated with HF, vLLM and SGLang [[Code]](https://github.com/ModelCloud/GPTQModel)
+- AutoGGUF: automatically quant GGUF models [[Code]](https://github.com/leafspark/AutoGGUF) [![Stars](https://img.shields.io/github/stars/leafspark/AutoGGUF?style=social)](https://github.com/leafspark/AutoGGUF)
 
-- llm-compressor: Transformers-compatible library for applying quantization and sparsification algorithms to LLMs for optimized vLLM deployment [[Code]](https://github.com/vllm-project/llm-compressor)
+- AutoFP8: Open-source FP8 quantization library for producing compressed checkpoints for running in vLLM  [[Code]](https://github.com/neuralmagic/AutoFP8) [![Stars](https://img.shields.io/github/stars/neuralmagic/AutoFP8?style=social)](https://github.com/neuralmagic/AutoFP8)
 
-- torchao: PyTorch-native quantization and sparsity for training and inference [[Code]](https://github.com/pytorch/ao)
+- Bitorch Engine: Streamlining AI with Open-Source Low-Bit Quantization. [[Code]](https://github.com/GreenBitAI/bitorch-engine) [![Stars](https://img.shields.io/github/stars/GreenBitAI/bitorch-engine?style=social)](https://github.com/GreenBitAI/bitorch-engine)
 
-- HQQ: Official implementation of Half-Quadratic Quantization, a fast calibration-free quantization method [[Code]](https://github.com/dropbox/hqq)
+- Green-bit-LLM: A toolkit for fine-tuning, inferencing, and evaluating GreenBitAI's LLMs. [[Code]](https://github.com/GreenBitAI/green-bit-llm) [[Model]](https://huggingface.co/GreenBitAI) [![Stars](https://img.shields.io/github/stars/GreenBitAI/green-bit-llm?style=social)](https://github.com/GreenBitAI/green-bit-llm)
 
-- TensorRT Model Optimizer: A unified library of model optimization techniques including quantization, distillation, pruning, NAS and speculative decoding [[Code]](https://github.com/NVIDIA/Model-Optimizer)
+- GreenBit LLaMA: Advanced Ultra-Low Bitrate Compression Techniques for the LLaMA Family of LLMs [[Code]](https://github.com/GreenBitAI/low_bit_llama) [![Stars](https://img.shields.io/github/stars/GreenBitAI/low_bit_llama?style=social)](https://github.com/GreenBitAI/low_bit_llama)
 
-- Optimum Quanto: A PyTorch quantization backend for Hugging Face Optimum [[Code]](https://github.com/huggingface/optimum-quanto)
+- IntLLaMA: A fast and light quantization solution for LLaMA [[Code]](https://github.com/megvii-research/IntLLaMA) [![Stars](https://img.shields.io/github/stars/megvii-research/IntLLaMA?style=social)](https://github.com/megvii-research/IntLLaMA)
 
 ### Model Compression Toolkits
 
-- BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
+- Intel® Neural Compressor: An open-source Python library supporting popular model compression techniques on all mainstream deep learning frameworks (TensorFlow, PyTorch, ONNX Runtime, and MXNet) [[Code]](https://github.com/intel/neural-compressor) [![Stars](https://img.shields.io/github/stars/intel/neural-compressor?style=social)](https://github.com/intel/neural-compressor)
 
-- Sparsebit: A model compression and acceleration toolbox based on pytorch. [[Code]](https://github.com/megvii-research/Sparsebit)
+- SparseML: Libraries for applying sparsification recipes to neural networks, enabling faster and smaller models [[Code]](https://github.com/neuralmagic/sparseml) [![Stars](https://img.shields.io/github/stars/neuralmagic/sparseml?style=social)](https://github.com/neuralmagic/sparseml)
 
-- Intel® Neural Compressor: An open-source Python library supporting popular model compression techniques on all mainstream deep learning frameworks (TensorFlow, PyTorch, ONNX Runtime, and MXNet) [[Code]](https://github.com/intel/neural-compressor)
+- LLMC: A tool designed for LLM Compression. [[Code]](https://github.com/ModelTC/LightCompress) [![Stars](https://img.shields.io/github/stars/ModelTC/LightCompress?style=social)](https://github.com/ModelTC/LightCompress)
 
-- LLMC: A tool designed for LLM Compression. [[Code]](https://github.com/ModelTC/LightCompress)
+- Transformer Compression: For releasing code related to compression methods for transformers, accompanying our publications [[Code]](https://github.com/microsoft/TransformerCompression) [![Stars](https://img.shields.io/github/stars/microsoft/TransformerCompression?style=social)](https://github.com/microsoft/TransformerCompression)
 
-- Transformer Compression: For releasing code related to compression methods for transformers, accompanying our publications [[Code]](https://github.com/microsoft/TransformerCompression)
+- Sparsebit: A model compression and acceleration toolbox based on pytorch. [[Code]](https://github.com/megvii-research/Sparsebit) [![Stars](https://img.shields.io/github/stars/megvii-research/Sparsebit?style=social)](https://github.com/megvii-research/Sparsebit)
+
+- BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook) [![Stars](https://img.shields.io/github/stars/OpenBMB/BMCook?style=social)](https://github.com/OpenBMB/BMCook)
+
+- SigmaScale: LLM compression using SVD and auxiliary learned scaling matrices. [[Code]](https://github.com/ernlavr/SigmaScale) [[Paper]](https://arxiv.org/abs/2606.07098) [![Stars](https://img.shields.io/github/stars/ernlavr/SigmaScale?style=social)](https://github.com/ernlavr/SigmaScale)
 
 - Knowledge Fidelity: Compress LLMs via SVD while auditing whether they still know truth vs popular myths. Uses factual probes for both importance-guided compression and false-belief detection. [[PyPI]](https://pypi.org/project/knowledge-fidelity/) [[Demo]](https://huggingface.co/spaces/bsanch52/knowledge-fidelity-demo)
 
-- SigmaScale: LLM compression using SVD and auxiliary learned scaling matrices. [[Code]](https://github.com/ernlavr/SigmaScale) [[Paper]](https://arxiv.org/abs/2606.07098)
-
-- SparseML: Libraries for applying sparsification recipes to neural networks, enabling faster and smaller models [[Code]](https://github.com/neuralmagic/sparseml)
-
 ### KV Cache and Prompt Compression
 
-- kvpress: LLM KV cache compression made easy [[Code]](https://github.com/NVIDIA/kvpress)
+- LMCache: A KV cache layer that speeds up LLM serving by reusing and offloading caches across queries [[Code]](https://github.com/LMCache/LMCache) [![Stars](https://img.shields.io/github/stars/LMCache/LMCache?style=social)](https://github.com/LMCache/LMCache)
 
-- PackRat: Auto-learning codebook compression for LLM context and prompt files. Token-optimized using tiktoken (cl100k_base) with 100% lossless round-trip. [[Code]](https://github.com/kevdogg102396-afk/packrat) [[npm]](https://www.npmjs.com/package/packrat-compress)
+- MInference: Dynamic sparse attention that accelerates long-context LLM prefill by up to 10x [[Code]](https://github.com/microsoft/MInference) [![Stars](https://img.shields.io/github/stars/microsoft/MInference?style=social)](https://github.com/microsoft/MInference)
 
-- LMCache: A KV cache layer that speeds up LLM serving by reusing and offloading caches across queries [[Code]](https://github.com/LMCache/LMCache)
+- kvpress: LLM KV cache compression made easy [[Code]](https://github.com/NVIDIA/kvpress) [![Stars](https://img.shields.io/github/stars/NVIDIA/kvpress?style=social)](https://github.com/NVIDIA/kvpress)
 
-- MInference: Dynamic sparse attention that accelerates long-context LLM prefill by up to 10x [[Code]](https://github.com/microsoft/MInference)
+- PackRat: Auto-learning codebook compression for LLM context and prompt files. Token-optimized using tiktoken (cl100k_base) with 100% lossless round-trip. [[Code]](https://github.com/kevdogg102396-afk/packrat) [[npm]](https://www.npmjs.com/package/packrat-compress) [![Stars](https://img.shields.io/github/stars/kevdogg102396-afk/packrat?style=social)](https://github.com/kevdogg102396-afk/packrat)
 
 ### Training and Fine-Tuning
 
-- Alpaca-CoT: An Instruction Fine-Tuning Platform with Instruction Data Collection and Unified Large Language Models Interface [[Code]](https://github.com/PhoebusSi/Alpaca-CoT)
+- Unsloth: Faster and more memory-efficient LLM fine-tuning with 4-bit quantization and custom kernels [[Code]](https://github.com/unslothai/unsloth) [![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social)](https://github.com/unslothai/unsloth)
 
-- Efficient-Tuning-LLMs: (Efficient Finetuning of QLoRA LLMs). QLoRA, LLama, bloom, baichuan-7B, GLM [[Code]](https://github.com/jianzhnie/LLamaTuner)
+- LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs [[Code]](https://github.com/hiyouga/LlamaFactory) [![Stars](https://img.shields.io/github/stars/hiyouga/LlamaFactory?style=social)](https://github.com/hiyouga/LlamaFactory)
 
-- lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [[Code]](https://github.com/Lightning-AI/litgpt)
+- Megatron-LM: Ongoing research training transformer models at scale [[Code]](https://github.com/NVIDIA/Megatron-LM) [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?style=social)](https://github.com/NVIDIA/Megatron-LM)
 
-- Lit-LLaMA: Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [[Code]](https://github.com/Lightning-AI/lit-llama)
+- lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [[Code]](https://github.com/Lightning-AI/litgpt) [![Stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social)](https://github.com/Lightning-AI/litgpt)
 
-- Megatron-LM: Ongoing research training transformer models at scale [[Code]](https://github.com/NVIDIA/Megatron-LM)
+- Lit-LLaMA: Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. [[Code]](https://github.com/Lightning-AI/lit-llama) [![Stars](https://img.shields.io/github/stars/Lightning-AI/lit-llama?style=social)](https://github.com/Lightning-AI/lit-llama)
 
-- EasyLLM: Built upon Megatron-Deepspeed and HuggingFace Trainer, EasyLLM has reorganized the code logic with a focus on usability. While enhancing usability, it also ensures training efficiency [[Code]](https://github.com/ModelTC/EasyLLM)
+- Alpaca-CoT: An Instruction Fine-Tuning Platform with Instruction Data Collection and Unified Large Language Models Interface [[Code]](https://github.com/PhoebusSi/Alpaca-CoT) [![Stars](https://img.shields.io/github/stars/PhoebusSi/Alpaca-CoT?style=social)](https://github.com/PhoebusSi/Alpaca-CoT)
 
-- LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs [[Code]](https://github.com/hiyouga/LlamaFactory)
+- Efficient-Tuning-LLMs: (Efficient Finetuning of QLoRA LLMs). QLoRA, LLama, bloom, baichuan-7B, GLM [[Code]](https://github.com/jianzhnie/LLamaTuner) [![Stars](https://img.shields.io/github/stars/jianzhnie/LLamaTuner?style=social)](https://github.com/jianzhnie/LLamaTuner)
 
-- Unsloth: Faster and more memory-efficient LLM fine-tuning with 4-bit quantization and custom kernels [[Code]](https://github.com/unslothai/unsloth)
+- EasyLLM: Built upon Megatron-Deepspeed and HuggingFace Trainer, EasyLLM has reorganized the code logic with a focus on usability. While enhancing usability, it also ensures training efficiency [[Code]](https://github.com/ModelTC/EasyLLM) [![Stars](https://img.shields.io/github/stars/ModelTC/EasyLLM?style=social)](https://github.com/ModelTC/EasyLLM)
 
 ### Analysis and Benchmarking
 
-- Can my GPU run this LLM?: Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization [[Code]](https://github.com/RahulSChand/gpu_poor)
+- Can my GPU run this LLM?: Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization [[Code]](https://github.com/RahulSChand/gpu_poor) [![Stars](https://img.shields.io/github/stars/RahulSChand/gpu_poor?style=social)](https://github.com/RahulSChand/gpu_poor)
 
-- LLM-Viewer: Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface. [[Code]](https://github.com/hahnyuan/LLM-Viewer)
+- LLM-Viewer: Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface. [[Code]](https://github.com/hahnyuan/LLM-Viewer) [![Stars](https://img.shields.io/github/stars/hahnyuan/LLM-Viewer?style=social)](https://github.com/hahnyuan/LLM-Viewer)
 
-- LLaMA3-Quantization: A repository dedicated to evaluating the performance of quantizied LLaMA3 using various quantization methods. [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization)
+- LLaMA3-Quantization: A repository dedicated to evaluating the performance of quantizied LLaMA3 using various quantization methods. [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization) [![Stars](https://img.shields.io/github/stars/Macaronlin/LLaMA3-Quantization?style=social)](https://github.com/Macaronlin/LLaMA3-Quantization)
 
 ### Other Tools
 
-- LangChain: Building applications with LLMs through composability [[Code]](https://github.com/langchain-ai/langchain)
+- LangChain: Building applications with LLMs through composability [[Code]](https://github.com/langchain-ai/langchain) [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain)
 
-- llama-zip: LLM-powered lossless compression tool [[Code]](https://github.com/AlexBuz/llama-zip)
+- llama-zip: LLM-powered lossless compression tool [[Code]](https://github.com/AlexBuz/llama-zip) [![Stars](https://img.shields.io/github/stars/AlexBuz/llama-zip?style=social)](https://github.com/AlexBuz/llama-zip)
 
-- Electron-BitNet: Running Microsoft's BitNet via Electron [[Code]](https://github.com/grctest/Electron-BitNet)
+- Electron-BitNet: Running Microsoft's BitNet via Electron [[Code]](https://github.com/grctest/Electron-BitNet) [![Stars](https://img.shields.io/github/stars/grctest/Electron-BitNet?style=social)](https://github.com/grctest/Electron-BitNet)
 
-- FastAPI-BitNet: a combination of Uvicorn, FastAPI (Python) and Docker to provide a reliable REST API for testing Microsoft's BitNet out locally [[Code]](https://github.com/grctest/FastAPI-BitNet)
+- FastAPI-BitNet: a combination of Uvicorn, FastAPI (Python) and Docker to provide a reliable REST API for testing Microsoft's BitNet out locally [[Code]](https://github.com/grctest/FastAPI-BitNet) [![Stars](https://img.shields.io/github/stars/grctest/FastAPI-BitNet?style=social)](https://github.com/grctest/FastAPI-BitNet)
 ## Contributing
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
 
