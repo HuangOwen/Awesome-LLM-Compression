@@ -2109,6 +2109,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.08151) [[Code]](https://github.com/sgl-project/sglang)
 
+- IO-SVD: Input-Output Whitened SVD for Adaptive-Rank LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.15626) [[Code]](https://github.com/mint-vu/IO-SVD)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
