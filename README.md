@@ -741,6 +741,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - FlashCommunication V2: Bit Splitting and Spike Reserving for Any Bit Communication <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.03760)
 
+- FlexQ: Efficient Post-training INT6 Quantization for LLM Serving via Algorithm-System Co-Design <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.04405) [[Code]](https://github.com/FlyFoxPlayer/FlexQ)
+
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
