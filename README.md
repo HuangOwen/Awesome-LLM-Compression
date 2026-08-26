@@ -1285,6 +1285,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LEAP: Learnable End-to-End Adaptive Pruning of Large Language Models <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2605.17289)
 
+- Efficient Long-Context Modeling in Diffusion Language Models via Block Approximate Sparse Attention <br> CVPR 2026 [[Paper]](https://arxiv.org/abs/2605.19726)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
