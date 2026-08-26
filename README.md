@@ -745,6 +745,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Provable Post-Training Quantization: Theoretical Analysis of OPTQ and Qronos <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.04853)
 
+- iFairy: the First 2-bit Complex LLM with All Parameters in $\{\pm1, \pm i\}$ <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.05571)
+
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
