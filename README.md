@@ -1345,6 +1345,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Celty: SpMspV GPU Kernel and SIMT Co-Design for Efficient Dual-Sparse LLM Inference <br> ICCAD 2026 [[Paper]](https://arxiv.org/abs/2608.01536) [[Code]](https://github.com/RuokaiYin/Celty)
 
+- The Sparsity Whisperer <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.06630) [[Code]](https://github.com/Shavit-Lab/Whisper)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
