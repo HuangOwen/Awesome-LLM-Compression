@@ -2111,7 +2111,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - UNComp: Can Matrix Entropy Uncover Sparsity? -- A Compressor Design from an Uncertainty-Aware Perspective <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2410.03090)
 
-- Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03765) [[Code]](https://arxiv.org/abs/2410.03765)
+- Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03765) [[Code]](https://github.com/TUDa-HWAI/Basis_Sharing)
 
 - Rodimus*: Breaking the Accuracy-Efficiency Trade-Off with Efficient Attentions <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2410.06577)
 
