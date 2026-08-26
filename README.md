@@ -2540,6 +2540,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LMCache: A KV cache layer that speeds up LLM serving by reusing and offloading caches across queries [[Code]](https://github.com/LMCache/LMCache)
 
+- MInference: Dynamic sparse attention that accelerates long-context LLM prefill by up to 10x [[Code]](https://github.com/microsoft/MInference)
+
 ### Training and Fine-Tuning
 
 - Alpaca-CoT: An Instruction Fine-Tuning Platform with Instruction Data Collection and Unified Large Language Models Interface [[Code]](https://github.com/PhoebusSi/Alpaca-CoT)
