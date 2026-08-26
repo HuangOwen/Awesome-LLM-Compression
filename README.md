@@ -1621,6 +1621,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LensVLM: Selective Context Expansion for Compressed Visual Representation of Text <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07019)
 
+- AGORA: Adapter-Grounded Observation-Action Retention for Inference-Free Prompt Compression in LLM Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.26596) [[Code]](https://github.com/ranranrannervous/agoracompression)
+
 ### KV Cache Compression
 
 - Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2305.17118)
