@@ -1619,6 +1619,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Compress, Gather, and Recompute: REFORMing Long-Context Processing in Transformers <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2506.01215)
 
+- FlashSVD: Memory-Efficient Inference with Streaming for Low-Rank Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.01506)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
