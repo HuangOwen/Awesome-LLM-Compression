@@ -1709,6 +1709,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - OverFill: Two-Stage Models for Efficient Language Model Decoding <br> COLM 2025 [[Paper]](https://arxiv.org/abs/2508.08446) [[Code]](https://github.com/friendshipkim/overfill)
 
+- SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2508.16201) [[Code]](https://github.com/zju-jiyicheng/SpecVLM)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
