@@ -1397,6 +1397,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ACON: Optimizing Context Compression for Long-horizon LLM Agents <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2510.00615)
 
+- Autoencoding-Free Context Compression for LLMs via Contextual Semantic Anchors <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.08907) [[Code]](https://github.com/lx-Meteors/SAC)
+
 - LensVLM: Selective Context Expansion for Compressed Visual Representation of Text <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07019)
 
 ### KV Cache Compression
