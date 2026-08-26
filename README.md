@@ -1337,6 +1337,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Super-Tuning: From Activation-Aware Pruning to Sparse Fine-Tuning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.09287) [[Code]](https://github.com/vectozavr/SuperTuning)
 
+- WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.28418) [[Code]](https://github.com/EIT-NLP/LLM-Pruning)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
