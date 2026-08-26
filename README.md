@@ -815,6 +815,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SignRoundV2: Toward Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.04746) [[Code]](https://github.com/intel/auto-round)
 
+- CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2512.17970)
+
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
 
 - EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
