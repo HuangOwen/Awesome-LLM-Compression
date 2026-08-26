@@ -73,7 +73,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - A Survey on Large Language Model Acceleration based on KV Cache Management <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.19442) 
 
-- Efficient AI in Practice: Training and Deployment of Efficient LLMs for Industry Applications <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.14305) 
+- Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.14305) 
 
 - Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques <br> CICC 2025 [[Paper]](https://arxiv.org/abs/2503.11816)
 
@@ -139,7 +139,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.03078) [[Code]](https://github.com/Vahe1994/SpQR)
 
-- OWQ: Lessons learned from activation outliers for weight quantization in large language models <br> AAAI 2024 [[Paper]](https://arxiv.org/abs/2306.02272)
+- OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large Language Models <br> AAAI 2024 [[Paper]](https://arxiv.org/abs/2306.02272)
 
 - SqueezeLLM: Dense-and-Sparse Quantization <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2306.07629)  [[Code]](https://github.com/SqueezeAILab/SqueezeLLM)
 
@@ -219,11 +219,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Dissecting the Runtime Performance of the Training, Fine-tuning, and Inference of Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.03687) 
 
-- How Does Calibration Data Affect the Post-training Pruning and Quantization of Large Language Models? <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.09755)
+- On the Impact of Calibration Data in Post-training Quantization and Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.09755)
 
 - A Speed Odyssey for Deployable Quantization of LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.09550)
 
-- Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.16442)
+- Fast and Efficient 2-bit LLM Inference on GPU: 2/4/16-bit in a Weight Matrix with Asynchronous Dequantization <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.16442)
 
 - Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2306.12929) [[Code]](https://github.com/Qualcomm-AI-research/outlier-free-transformers)
 
@@ -255,7 +255,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - A Performance Evaluation of a Quantized Large Language Model on Various Smartphones <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.12472)
 
-- DeltaZip: Multi-Tenant Language Model Serving via Delta Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.05215) [[Code]](https://github.com/eth-easl/deltazip)
+- DeltaZip: Efficient Serving of Multiple Full-Model-Tuned LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.05215) [[Code]](https://github.com/eth-easl/deltazip)
 
 - FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGA <br> FPGA 2024 [[Paper]](https://arxiv.org/abs/2401.03868)
 
@@ -269,7 +269,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Can Large Language Models Understand Context? <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.00858)
 
-- EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.10787) [[Code]](https://github.com/shawnricecake/EdgeQAT)
+- Squat: Quant Small Language Models on the Edge <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.10787) [[Code]](https://github.com/shawnricecake/EdgeQAT)
 
 - Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.10517) 
 
@@ -333,11 +333,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.02837)
 
-- Increased LLM Vulnerabilities from Fine-tuning and Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.04392)
+- Fine-Tuning, Quantization, and LLMs: Navigating Unintended Outcomes <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.04392)
 
 - Quantization of Large Language Models with an Overdetermined Basis <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.09737)
 
-- How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.14047) [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization) [[Model]](https://huggingface.co/LLMQ)
+- An empirical study of LLaMA3 quantization: from LLMs to MLLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.14047) [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization) [[Model]](https://huggingface.co/LLMQ)
 
 - How to Parameterize Asymmetric Quantization Ranges for Quantization-Aware Training <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.16898)
 
@@ -349,11 +349,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Learning from Students: Applying t-Distributions to Explore Accurate and Efficient Formats for LLMs <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2405.03103)
 
-- LLM-QBench: A Benchmark Towards the Best Practice for Post-training Quantization of Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.06001) [[Code]](https://github.com/ModelTC/llmc)
+- LLMC: Benchmarking Large Language Model Quantization with a Versatile Compression Toolkit <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.06001) [[Code]](https://github.com/ModelTC/llmc)
 
 - SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.06219) 
 
-- Combining multiple post-training techniques to achieve most efficient quantized LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.07135) 
+- Post Training Quantization of Large Language Models with Microscaling Formats <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.07135) 
 
 - Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.07140) 
 
@@ -415,7 +415,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Layer-Wise Quantization: A Pragmatic and Effective Method for Quantizing LLMs Beyond Integer Bit-Levels <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.17415) [[Code]](https://github.com/RazvanDu/LayerwiseQuant)
 
-- CDQuant: Accurate Post-training Weight Quantization of Large Pre-trained Models using Greedy Coordinate Descent <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.17542) 
+- CDQuant: Greedy Coordinate Descent for Accurate LLM Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.17542) 
 
 - OutlierTune: Efficient Channel-Wise Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.18832) 
 
@@ -447,7 +447,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Exploring Quantization for Efficient Pre-Training of Transformer Language Models <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.11722) [[Code]](https://github.com/chandar-lab/EfficientLLMs) 
 
-- Spectra: A Comprehensive Study of Ternary, Quantized, and FP16 Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12327) [[Code]](https://github.com/NolanoOrg/SpectraSuite) 
+- Spectra: Surprising Effectiveness of Pretraining Ternary Language Models at Scale <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12327) [[Code]](https://github.com/NolanoOrg/SpectraSuite) 
 
 - Mamba-PTQ: Outlier Channels in Recurrent Large Language Models  <br> Efficient Systems for Foundation Models Workshop @ ICML 2024 [[Paper]](https://arxiv.org/abs/2407.12397)
 
@@ -487,11 +487,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ARB-LLM: Alternating Refined Binarizations for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03129) [[Code]](https://github.com/ZHITENGLI/ARB-LLM)
 
-- PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.05265) [[Code]](https://github.com/ChenMnZ/PrefixQuant)
+- PrefixQuant: Eliminating Outliers by Prefixed Tokens for Large Language Models Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.05265) [[Code]](https://github.com/ChenMnZ/PrefixQuant)
 
-- SpaLLM: Unified Compressive Adaptation of Large Language Models with Sketching <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.06364) 
+- Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.06364) 
 
-- Scaling Laws for Mixed quantization in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.06722) 
+- Scaling Laws For Mixed Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.06722) 
 
 - Q-VLM: Post-training Quantization for Large Vision-Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2410.08119) [[Code]](https://github.com/ChangyuanWang17/QVLM)
 
@@ -545,7 +545,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration <br> HPCA 2025 [[Paper]](https://arxiv.org/abs/2411.11745) [[Code]](https://github.com/yc2367/BitMoD-HPCA-25)
 
-- SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.10958) [[Code]](https://github.com/thu-ml/SageAttention)
+- SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.10958) [[Code]](https://github.com/thu-ml/SageAttention)
 
 - AutoMixQ: Self-Adjusting Quantization for High Performance Memory-Efficient Fine-Tuning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.13814)
 
@@ -581,11 +581,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.18135)
 
-- Pushing the Envelope of Low-Bit LLM via Dynamic Error Compensation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.20185)
+- DecDEC: A Systems Approach to Advancing Low-Bit LLM Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.20185)
 
-- HALO: Hadamard-Assisted Lossless Optimization for Efficient Low-Precision LLM Training and Fine-Tuning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.02625)
+- HALO: Hadamard-Assisted Lower-Precision Optimization for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.02625)
 
-- The Power of Negative Zero: Datatype Customization for Quantized Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.04052)
+- RaZeR: Pushing the Limits of NVFP4 Quantization with Redundant Zero Remapping <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.04052)
 
 - FlexQuant: Elastic Quantization Framework for Locally Hosted LLM on Edge Devices <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.07139)
 
@@ -595,11 +595,11 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - OstQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2501.13987) [[Code]](https://github.com/BrotherHappy/OSTQuant)
 
-- HWPQ: Hessian-free Weight Pruning-Quantization For LLM Compression And Acceleration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.16376)
+- SwiftPrune: Hessian-Free Weight Pruning for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.16376)
 
 - Progressive Binarization with Semi-Structured Pruning for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01705) [[Code]](https://github.com/XIANGLONGYAN/PBS2P)
 
-- Unlocking Efficient Large Inference Models: One-Bit Unrolling Tips the Scales <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01908)
+- Physics-Inspired Binary Neural Networks: Interpretable Compression with Theoretical Guarantees <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01908)
 
 - QuEST: Stable Training of LLMs with 1-Bit Weights and Activations <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.05003)
 
@@ -635,7 +635,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ClusComp: A Simple Paradigm for Model Compression and Efficient Finetuning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.13089)
 
-- MoQa: Rethinking MoE Quantization with Multi-stage Data-model Distribution Awareness <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.21135)
+- DynaMo: Runtime Switchable Quantization for MoE with Cross-Dataset Adaptation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.21135)
 
 - GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.02692) [[Code]](https://github.com/Intelligent-Computing-Lab-Yale/GPTQv2)
 
@@ -667,7 +667,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Radio: Rate-Distortion Optimization for Large Language Model Compression <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2505.03031)
 
-- Efficient Fine-Tuning of Quantized Models via Adaptive Rank and Bitwidth <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.03802)
+- Balancing Fidelity and Plasticity: Aligning Mixed-Precision Fine-Tuning with Linguistic Hierarchies <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.03802)
 
 - MoEQuant: Enhancing Quantization for Mixture-of-Experts Large Language Models via Expert-Balanced Sampling and Affinity Guidance <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2505.03804)
 
@@ -725,7 +725,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - BASE-Q: Bias and Asymmetric Scaling Enhanced Rotational Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.15689) [[Code]](https://github.com/Heliulu/BASE-Q)
 
-- UltraSketchLLM: Saliency-Driven Sketching for Ultra-Low Bit LLM Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.17255) 
+- UltraSketchLLM: Sub-1-Bit LLM Compression via Sketch and Hardware-Friendly Operators <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.17255) 
 
 - DBellQuant: Breaking the Bell with Double-Bell Transformation for LLMs Post Training Binarization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2507.01027) 
 
@@ -841,7 +841,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SliceGPT: Compress Large Language Models by Deleting Rows and Columns <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2401.15024) [[Code]](https://github.com/microsoft/TransformerCompression)
 
-- Shortened LLaMA: A Simple Depth Pruning for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.02834)
+- Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.02834)
 
 - Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.05406) [[Code]](https://github.com/ldery/Bonsai)
 
@@ -861,7 +861,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.15388) [[Code]](https://github.com/42Shawn/LLaVA-PruMerge)
 
-- Compressing Large Language Models by Streamlining the Unimportant Layer <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.19135)
+- Streamlining Redundant Layers to Compress Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.19135)
 
 - LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.09695)
 
@@ -869,7 +869,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Shears: Unstructured Sparsity with Neural Low-rank Adapter Search <br> NAACL 2024 [[Paper]](https://arxiv.org/abs/2404.10934) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/Shears)
 
-- Eigenpruning <br> NAACL 2024 Abstract [[Paper]](https://arxiv.org/abs/2404.03147)
+- Eigenpruning: an Interpretability-Inspired PEFT Method <br> NAACL 2024 Abstract [[Paper]](https://arxiv.org/abs/2404.03147)
 
 - OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.05957)
 
@@ -895,15 +895,15 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ALPS: Improved Optimization for Highly Sparse One-Shot Pruning for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.07831)
 
-- HiP Attention: Sparse Sub-Quadratic Attention with Hierarchical Attention Pruning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.09827)
+- A Training-free Sub-quadratic Cost Transformer Model Serving Framework With Hierarchically Pruned Attention <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.09827)
 
-- Optimization-based Structural Pruning for Large Language Models without Back-Propagation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.10576)
+- Bypass Back-propagation: Optimization-based Structural Pruning for Large Language Models via Policy Gradient <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.10576)
 
 - BlockPruner: Fine-grained Pruning for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.10594) [[Code]](https://github.com/MrGGLS/BlockPruner)
 
 - Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.15524) 
 
-- RankAdaptor: Hierarchical Dynamic Low-Rank Adaptation for Structural Pruned LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.15734) 
+- RankAdaptor: Hierarchical Rank Allocation for Efficient Fine-Tuning Pruned LLMs via Performance Model <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.15734) 
 
 - What Matters in Transformers? Not All Attention is Needed <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.15786) [[Code]](https://github.com/Shwai-He/LLM-Drop)
 
@@ -957,7 +957,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Getting Free Bits Back from Rotational Symmetries in LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.01309)
 
-- SLiM: One-shot Quantized Sparse Plus Low-rank Approximation of LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.09615) [[Code]](https://github.com/Mohammad-Mozaffari/slim)
+- SLiM: One-shot Quantization and Sparsity with Low-rank Approximation for LLM Weight Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.09615) [[Code]](https://github.com/Mohammad-Mozaffari/slim)
 
 - Self-Data Distillation for Recovering Quality in Pruned Large Language Models <br> NeurIPS 2024 Machine Learning and Compression Workshop [[Paper]](https://arxiv.org/abs/2410.09982) 
 
@@ -993,7 +993,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - You Only Prune Once: Designing Calibration-Free Model Compression With Policy Learning <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2501.15296)
 
-- HWPQ: Hessian-free Weight Pruning-Quantization For LLM Compression And Acceleration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.16376)
+- SwiftPrune: Hessian-Free Weight Pruning for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.16376)
 
 - Pivoting Factorization: A Compact Meta Low-Rank Representation of Sparsity for Efficient Inference in Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.19090)
 
@@ -1031,7 +1031,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - RAP: Runtime-Adaptive Pruning for LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.17138)
 
-- ELDeR: Getting Efficient LLMs through Data-Driven Regularized Layer-wise Pruning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.18232)
+- Two-Stage Regularization-Based Structured Pruning for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.18232)
 
 - Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.20155)
 
@@ -1071,13 +1071,13 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.14402) [[Code]](https://github.com/mbzuai-nlp/LaMini-LM)
 
-- How To Train Your (Compressed) Large Language Model <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.14864) 
+- Just CHOP: Embarrassingly Simple LLM Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.14864) 
 
 - The False Promise of Imitating Proprietary LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.15717)
 
 - GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo <br> Arxiv 2023 [[Paper]](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf) [[Code]](https://github.com/nomic-ai/gpt4all)
 
-- PaD: Program-aided Distillation Specializes Large Models in Reasoning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.13888) 
+- PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.13888) 
 
 - MiniLLM: Knowledge Distillation of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.08543) [[Code]](https://github.com/microsoft/LMOps/tree/main/minillm)
 
@@ -1109,7 +1109,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Knowledge Distillation for Closed-Source Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.07013)
 
-- TinyLLM: Learning a Small Student from Multiple Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.04616)
+- Beyond Answers: Transferring Reasoning Capabilities to Smaller LLMs Using Multi-Teacher Knowledge Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.04616)
 
 - Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.12030)
 
@@ -1202,7 +1202,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - BatchPrompt: Accomplish more with less <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.00384) 
 
-- (Dynamic) Prompting might be all you need to repair Compressed LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.00867) 
+- Do Compressed LLMs Forget Knowledge? An Experimental Study with Practical Implications <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.00867) 
 
 - RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.04408) [[Code]](https://github.com/carriex/recomp)
 
@@ -1234,7 +1234,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Compressing Long Context for Enhancing RAG with AMR-based Concept Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.03085) 
 
-- Unifying Demonstration Selection and Compression for In-Context Learning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.17062) 
+- UniICL: An Efficient Unified Framework Unifying Compression, Selection, and Generation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.17062) 
 
 - SelfCP: Compressing Long Prompt to 1/12 Using the Frozen Large Language Model Itself <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.17052) 
 
@@ -1336,7 +1336,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Finch: Prompt-guided Key-Value Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2408.00167)
 
-- Zero-Delay QKV Compression for Mitigating KV Cache and Network Bottlenecks in LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.04107)
+- FDC: Fast KV Dimensionality Compression for Efficient LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.04107)
 
 - Eigen Attention: Attention in Low-Rank Space for KV Cache Compression <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2408.05646) [[Code]](https://github.com/UtkarshSaxena1/EigenAttn/tree/main)
 
@@ -1344,7 +1344,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03111)
 
-- SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.13846) [[Code]](https://github.com/sail-sg/SimLayerKV)
+- LightTransfer: Your Long-Context LLM is Secretly a Hybrid Model with Effortless Adaptation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.13846) [[Code]](https://github.com/sail-sg/SimLayerKV)
 
 - MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.14731)
 
@@ -1366,7 +1366,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Compressing KV Cache for Long-Context LLM Inference with Inter-Layer Attention Similarity <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.02252) 
 
-- Unifying KV Cache Compression for Large Language Models with LeanKV <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.03131) 
+- DiffKV: Differentiated Memory Management for Large Language Models with Parallel KV Compaction <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.03131) 
 
 - ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.03213) 
 
@@ -1392,23 +1392,23 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.00299) 
 
-- FastKV: KV Cache Compression for Fast Long-Context Processing with Token-Selective Propagation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01068) [[Code]](https://github.com/dongwonjo/FastKV)
+- FastKV: Decoupling of Context Reduction and KV Cache Compression for Prefill-Decoding Acceleration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01068) [[Code]](https://github.com/dongwonjo/FastKV)
 
-- Can LLMs Maintain Fundamental Abilities under KV Cache Compression? <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01941) 
+- Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01941) 
 
 - PolarQuant: Quantizing KV Caches with Polar Transformation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.02617) 
 
-- BalanceKV: KV Cache Compression through Discrepancy Theory <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.07861) 
+- Streaming Attention Approximation via Discrepancy Theory <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.07861) 
 
 - Unshackling Context Length: An Efficient Selective Attention Approach through Query-Key Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.14477) 
 
 - RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.14051) 
 
-- More for Keys, Less for Values: Adaptive KV Cache Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.15075) [[Code]](https://anonymous.4open.science/r/KV-AdaQuant-8F58)
+- Quantize What Counts: More for Keys, Less for Values <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.15075) [[Code]](https://anonymous.4open.science/r/KV-AdaQuant-8F58)
 
 - SVDq: 1.25-bit and 410x Key Cache Compression for LLM Attention <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.15304) 
 
-- DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.16886) 
+- ReFreeKV: Towards Threshold-Free KV Cache Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.16886) 
 
 - BaKlaVa -- Budgeted Allocation of KV cache for Long-context Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.13176) 
 
@@ -1426,7 +1426,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ZeroMerge: Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.10714) [[Code]](https://github.com/SusCom-Lab/ZeroMerge)
 
-- Limits of KV Cache Compression for Tensor Attention based Autoregressive Transformers <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.11108)
+- Time and Memory Trade-off of KV-Cache Compression in Tensor Transformer Decoding <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.11108)
 
 - Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.16257) [[Code]](https://github.com/KD-TAO/VidKV)
 
@@ -1434,7 +1434,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.17922) [[Code]](https://github.com/optim996/WindowKV)
 
-- xKV: Cross-Layer SVD for KV-Cache Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.18893) [[Code]](https://github.com/abdelfattah-lab/xKV)
+- xKV: Cross-Layer KV-Cache Compression via Aligned Singular Vector Extraction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.18893) [[Code]](https://github.com/abdelfattah-lab/xKV)
 
 - LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation <br> ICLR 2025 Workshop on Sparsity in LLMs (SLLM) [[Paper]](https://arxiv.org/abs/2503.19950) [[Code]](https://github.com/Concyclics/LogQuantKV)
 
@@ -1446,7 +1446,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.09936)
 
-- FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.00570)
+- FreqKV: Key-Value Compression in Frequency Domain for Context Window Extension <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.00570)
 
 - Accurate KV Cache Quantization with Outlier Tokens Tracing <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2505.10938) [[Code]](https://github.com/yisunlp/OTT)
 
@@ -1476,7 +1476,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling)
 
-- CPET: Effective Parameter-Efficient Tuning for Compressed Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.07705)
+- CA-LoRA: Adapting Existing LoRA for Compressed LLMs to Enable Efficient Multi-Tasking on Personal Devices <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.07705)
 
 - Ternary Singular Value Decomposition as a Better Parameterized Form in Linear Mapping <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.07641)
 
@@ -1554,7 +1554,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Basis Selection: Low-Rank Decomposition of Pretrained Large Language Models for Target Applications <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.15877)
 
-- Demystifying the Compression of Mixture-of-Experts Through a Unified Framework <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.02500) [[Code]](https://github.com/CASE-Lab-UMD/Unified-MoE-Compression)
+- Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.02500) [[Code]](https://github.com/CASE-Lab-UMD/Unified-MoE-Compression)
 
 - LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.14057)
 
@@ -1576,7 +1576,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.02367) [[Code]](https://github.com/thu-ml/SageAttention)
 
-- UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03090)
+- UNComp: Can Matrix Entropy Uncover Sparsity? -- A Compressor Design from an Uncertainty-Aware Perspective <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03090)
 
 - Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03765) [[Code]](https://arxiv.org/abs/2410.03765)
 
@@ -1606,7 +1606,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - HASSLE-free: A unified Framework for Sparse plus Low-Rank Matrix Decomposition for LLMs <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.00899) 
 
-- Choose Your Model Size: Any Compression by a Single Gradient Descent <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.01717) 
+- Choose Your Model Size: Any Compression of Large Language Models Without Re-Computation <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.01717) 
 
 - Delta Decompression for MoE-based LLMs Compression <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2502.17298) [[Code]](https://github.com/lliai/D2MoE)
 
@@ -1618,7 +1618,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - PromptDistill: Query-based Selective Token Retention in Intermediate Layers for Efficient Large Language Model Inference <br> Arxiv 2025 [[paper]](https://arxiv.org/abs/2503.23274) [[Code]](https://github.com/declare-lab/PromptDistill)
 
-- When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.02010) 
+- When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.02010) 
 
 - Compression Laws for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.04342) 
 
