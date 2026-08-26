@@ -735,6 +735,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - EAC-MoE: Expert-Selection Aware Compressor for Mixture-of-Experts Large Language Models <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2508.01625)
 
+- MicroMix: Efficient Mixed-Precision Quantization with Microscaling Formats for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02343) [[Code]](https://github.com/lwy2020/MicroMix)
+
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
