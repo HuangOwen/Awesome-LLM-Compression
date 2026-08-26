@@ -1531,6 +1531,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CommonKV: Compressing KV Cache with Cross-layer Parameter Sharing <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.16134)
 
+- Learned Structure in Cartridges: Keys as Shareable Routers in Self-Studied Representations <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.17032)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
