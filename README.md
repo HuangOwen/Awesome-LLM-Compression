@@ -1171,6 +1171,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - MACKO: Sparse Matrix-Vector Multiplication for Low Sparsity <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2511.13061) [[Code]](https://github.com/vlejd/macko_spmv)
 
+- Understanding and Harnessing Sparsity in Unified Multimodal Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.02351) [[Code]](https://github.com/Shwai-He/SparseUnifiedModel)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
