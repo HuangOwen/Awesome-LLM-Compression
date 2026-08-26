@@ -899,6 +899,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.04050)
 
+- UniSVQ: 2-bit Unified Scalar-Vector Quantization <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.10520)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
