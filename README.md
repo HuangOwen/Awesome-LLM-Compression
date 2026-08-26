@@ -1557,6 +1557,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.13017) [[Code]](https://github.com/Process-Point-Technologies-Corporation/searchat)
 
+- Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.25926) [[Code]](https://github.com/yuyijiong/semi-dynamic-context-compress)
+
 - LensVLM: Selective Context Expansion for Compressed Visual Representation of Text <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07019)
 
 ### KV Cache Compression
