@@ -1177,6 +1177,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
 
+- Less is More: Selective Reflection for Compatible and Efficient Knowledge Distillation in Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06135)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
