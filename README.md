@@ -1067,6 +1067,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06447) [[Code]](https://github.com/Longxmas/SlimInfer)
 
+- EGGS-PTP: An Expander-Graph Guided Structured Post-training Pruning Method for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.09471)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
