@@ -1961,6 +1961,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Fractal KV-Cache Archives: Lossless Symbolic Storage with In-Place Retrieval for Long-Context LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.07144) [[Code]](https://github.com/eighteight/fractal-kv)
 
+- C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference <br> KDD 2026 [[Paper]](https://arxiv.org/abs/2607.17715)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
