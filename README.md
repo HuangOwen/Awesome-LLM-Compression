@@ -1243,6 +1243,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Learning from Diverse Reasoning Paths with Routing and Collaboration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.16861) [[Code]](https://github.com/LzyFischer/Distill)
 
+- Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2509.14257)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
