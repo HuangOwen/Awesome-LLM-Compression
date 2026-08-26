@@ -1295,6 +1295,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Efficient Long-Context Modeling in Diffusion Language Models via Block Approximate Sparse Attention <br> CVPR 2026 [[Paper]](https://arxiv.org/abs/2605.19726)
 
+- Locality-Aware Redundancy Pruning for LLM Depth Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.27786) [[Code]](https://github.com/daniel-eai/LoRP-Locality-Aware-Redundancy-Pruning)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
