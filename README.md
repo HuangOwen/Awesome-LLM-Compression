@@ -2538,6 +2538,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - PackRat: Auto-learning codebook compression for LLM context and prompt files. Token-optimized using tiktoken (cl100k_base) with 100% lossless round-trip. [[Code]](https://github.com/kevdogg102396-afk/packrat) [[npm]](https://www.npmjs.com/package/packrat-compress)
 
+- LMCache: A KV cache layer that speeds up LLM serving by reusing and offloading caches across queries [[Code]](https://github.com/LMCache/LMCache)
+
 ### Training and Fine-Tuning
 
 - Alpaca-CoT: An Instruction Fine-Tuning Platform with Instruction Data Collection and Unified Large Language Models Interface [[Code]](https://github.com/PhoebusSi/Alpaca-CoT)
