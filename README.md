@@ -1311,6 +1311,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.09080) [[Code]](https://github.com/EIT-NLP/LLM-Pruning)
 
+- Persona-Pruner: Sculpting Lightweight Models for Role-Playing <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.14695) [[Code]](https://github.com/jsu-kim/Persona-Pruner)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
