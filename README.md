@@ -1355,6 +1355,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Router Sensitivity Under Lightweight Fine-Tuning Identifies Prunable Experts in Mixture-of-Experts Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.07890) [[Code]](https://github.com/ianKa1/MoE_pruning)
 
+- Reservoir of Importance: Learning Semi-Structured Sparsity with Differentiable Subset Sampling <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2608.23048)
+
 ### Distillation
 
 - Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
