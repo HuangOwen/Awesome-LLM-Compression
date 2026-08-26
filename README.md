@@ -1769,6 +1769,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SnipSnap: A Joint Compression Format and Dataflow Co-Optimization Framework for Efficient Sparse LLM Accelerator Design <br> ASP-DAC 2026 [[Paper]](https://arxiv.org/abs/2509.17072)
 
+- Structuring The Future: Diffusion LLM Speculative Decoding via Calibrated Draft Graphs <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2509.18085)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
