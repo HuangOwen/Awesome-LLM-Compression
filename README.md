@@ -2125,6 +2125,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - IO-SVD: Input-Output Whitened SVD for Adaptive-Rank LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.15626) [[Code]](https://github.com/mint-vu/IO-SVD)
 
+- Cassandra: Enabling Reasoning LLMs at Edge via Self-Speculative Decoding <br> ISCA 2026 [[Paper]](https://arxiv.org/abs/2605.26558)
+
 ## Tools
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
