@@ -757,6 +757,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.08531)
 
+- LLM Compression: How Far Can We Go in Balancing Size and Performance? <br> RANLP 2025 [[Paper]](https://arxiv.org/abs/2508.11318)
+
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
