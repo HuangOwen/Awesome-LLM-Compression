@@ -30,13 +30,15 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Survey
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 4 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 5 papers</summary>
 
 - Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.04445)
 
 - A Survey of On-Policy Distillation for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.00626)
 
 - Unifying Data, Memory, and Compute Efficiency in LLM training: A Survey <br> TAI 2026 [[Paper]](https://arxiv.org/abs/2606.10706)
+
+- From Tensor Buffer to Distributed Memory Hierarchy: A Survey of KV Cache Management for LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.02574)
 
 - Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2607.08057)
 
