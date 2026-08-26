@@ -2500,6 +2500,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - llm-awq: Official implementation of AWQ: Activation-aware Weight Quantization for LLM compression and acceleration (MLSys 2024 Best Paper) [[Code]](https://github.com/mit-han-lab/llm-awq)
 
+- AutoAWQ: Easy-to-use implementation of the AWQ algorithm for 4-bit quantization with a 2x inference speedup [[Code]](https://github.com/casper-hansen/AutoAWQ)
+
 ### Model Compression Toolkits
 
 - BMCook: Model Compression for Big Models [[Code]](https://github.com/OpenBMB/BMCook)
