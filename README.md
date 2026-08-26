@@ -1335,6 +1335,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SCOPE: A Generative Approach for LLM Prompt Compression <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2508.15813)
 
+- ILRe: Intermediate Layer Retrieval for Context Compression in Causal Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.17892)
+
 - LensVLM: Selective Context Expansion for Compressed Visual Representation of Text <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07019)
 
 ### KV Cache Compression
