@@ -1539,6 +1539,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - COMI: Coarse-to-fine Context Compression via Marginal Information Gain <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2602.01719)
 
+- Cross-Family Speculative Prefill: Training-Free Long-Context Compression with Small Draft Models <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2603.02631)
+
 - LensVLM: Selective Context Expansion for Compressed Visual Representation of Text <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07019)
 
 ### KV Cache Compression
