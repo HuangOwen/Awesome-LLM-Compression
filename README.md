@@ -1397,6 +1397,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Pedagogically-Inspired Data Synthesis for Language Model Knowledge Distillation <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2602.12172)
 
+- BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.17686) [[Code]](https://github.com/Applied-Machine-Learning-Lab/SDM2026_BRIDGE)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
