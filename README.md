@@ -925,6 +925,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Attend to Your Own Thoughts: Breaking the Barrier for Post-Training Quantization of Reasoning LLMs through the Lens of 1.58-Bit Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.01078) [[Code]](https://github.com/IntelChina-AI/BitTern)
 
+- ARCHead: Activation-Metric Residual Correction for Large Language Model Output Heads <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.02703) [[Code]](https://github.com/suayptalha/archead)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
