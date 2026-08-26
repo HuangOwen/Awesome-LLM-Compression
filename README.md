@@ -905,6 +905,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.13054)
 
+- CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.26650) [[Code]](https://github.com/IntelChina-AI/BitTern)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
