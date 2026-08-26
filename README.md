@@ -929,6 +929,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.18578) [[Code]](https://github.com/ShayanShahrabi/compress-and-forget)
 
+- Jacobian-guided Noise Injection for Quantization Robustness in Large Language Models <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2608.20988)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
