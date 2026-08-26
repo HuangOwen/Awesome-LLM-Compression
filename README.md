@@ -1901,6 +1901,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Low-Rank Prehab: Preparing Neural Networks for SVD Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.01980) [[Code]](https://github.com/niqretnuh/PREHAB-SVD)
 
+- SkipCat: Rank-Maximized Low-Rank Compression of Large Language Models via Shared Projection and Block Skipping <br> AAAI 2026 [[Paper]](https://arxiv.org/abs/2512.13494)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
