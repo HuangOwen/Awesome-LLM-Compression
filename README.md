@@ -2470,6 +2470,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - MLC LLM: Universal LLM deployment engine with ML compilation, supporting quantized deployment across GPUs, phones and browsers [[Code]](https://github.com/mlc-ai/mlc-llm)
 
+- LMDeploy: A toolkit for compressing, deploying, and serving LLMs, including W4A16 and KV cache quantization [[Code]](https://github.com/InternLM/lmdeploy)
+
 ### Quantization Libraries and Kernels
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
