@@ -883,6 +883,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Normalized Architectures are Natively 4-Bit <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.06067) [[Code]](https://github.com/anonymous452026/ngpt-nvfp4)
 
+- RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2605.14359)
+
 ### Pruning and Sparsity
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
