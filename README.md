@@ -1745,6 +1745,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2602.01053)
 
+- ForesightKV: Optimizing KV Cache Eviction for Reasoning Models by Learning Long-Term Contribution <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2602.03203)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
