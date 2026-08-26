@@ -1495,6 +1495,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.16746) [[Code]](https://github.com/Ayanami1314/swe-pruner)
 
+- COMI: Coarse-to-fine Context Compression via Marginal Information Gain <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2602.01719)
+
 - LensVLM: Selective Context Expansion for Compressed Visual Representation of Text <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07019)
 
 ### KV Cache Compression
