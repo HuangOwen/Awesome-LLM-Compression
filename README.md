@@ -909,7 +909,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.26650) [[Code]](https://github.com/IntelChina-AI/BitTern)
 
-- Quantize the Target, Quantize the Drafter: Efficient Inference with Qwen3.5-4B <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2607.04244) [[Code]](https://github.com/nota-github/adaptfm-quant-dflash)
+- Quantize the Target, Quantize the Drafter: Efficient Inference with Qwen3.5-4B <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.04244) [[Code]](https://github.com/nota-github/adaptfm-quant-dflash)
 
 - KronQ: LLM Quantization via Kronecker-Factored Hessian <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2607.07964)
 
