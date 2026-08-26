@@ -1759,6 +1759,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Lossless Compression of Neural Network Components: Weights, Checkpoints, and K/V Caches in Low-Precision Formats <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.19263)
 
+- ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2509.15235)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
