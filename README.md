@@ -1889,6 +1889,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Decomposed Trust: Privacy, Adversarial Robustness, Ethics, and Fairness in Low-Rank LLMs <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2511.22099)
 
+- Low-Rank Prehab: Preparing Neural Networks for SVD Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.01980) [[Code]](https://github.com/niqretnuh/PREHAB-SVD)
+
 - MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
 
 ## Tools
