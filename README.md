@@ -793,6 +793,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Learning Grouped Lattice Vector Quantizers for Low-Bit LLM Compression <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.20984)
 
+- A Convergence Analysis of Adaptive Optimizers under Floating-point Quantization <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.21314)
+
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
 
 - EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
