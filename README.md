@@ -1187,6 +1187,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Resting Neurons, Active Insights: Robustifying Activation Sparsity in LLMs via Spontaneity <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2512.12744)
 
+- Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL)
+
 - High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
