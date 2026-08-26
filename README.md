@@ -1561,6 +1561,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Thinking at the Right Size: Amortized Distillation Across Post-Trained LLMs <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2608.22854)
 
+- SelFusion: Self-distillation for Diffusion Language Models <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2608.22898) [[Code]](https://github.com/scai-research/SelFusion_official)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
