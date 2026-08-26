@@ -829,6 +829,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Calibrating Beyond English: Language Diversity for Better Quantized Multilingual LLM <br> EACL 2026 [[Paper]](https://arxiv.org/abs/2601.18306)
 
+- M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization <br> ASPLOS 2026 [[Paper]](https://arxiv.org/abs/2601.19213)
+
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
 
 - EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
