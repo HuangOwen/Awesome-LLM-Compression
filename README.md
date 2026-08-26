@@ -1353,6 +1353,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - RM-Distiller: Exploiting Generative LLM for Reward Model Distillation <br> ECAI 2026 [[Paper]](https://arxiv.org/abs/2601.14032)
 
+- Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.18734) [[Code]](https://github.com/siyan-zhao/OPSD)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
