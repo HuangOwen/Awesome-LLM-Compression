@@ -2454,6 +2454,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - KTransformers: A flexible framework for experiencing cutting-edge heterogeneous (CPU/GPU) LLM inference and fine-tuning optimizations, enabling large MoE models on limited VRAM [[Code]](https://github.com/kvcache-ai/ktransformers)
 
+- PowerInfer: High-speed LLM serving for local deployment using a GPU-CPU hybrid engine that exploits activation locality [[Code]](https://github.com/Tiiny-AI/PowerInfer)
+
 ### Quantization Libraries and Kernels
 
 - GPTQ-for-LLaMA: 4 bits quantization of LLaMA using GPTQ [[Code]](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
