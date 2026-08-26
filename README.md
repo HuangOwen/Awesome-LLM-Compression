@@ -1457,6 +1457,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02558) [[Code]](https://github.com/OpenMOSS/Sparse-dLLM)
 
+- SmallKV: Small Model Assisted Compensation of KV Cache Compression for Efficient LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02751)
+
 ### Other
 
 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
