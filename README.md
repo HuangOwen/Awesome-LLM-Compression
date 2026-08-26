@@ -869,6 +869,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - ReSpinQuant: Efficient Layer-Wise LLM Quantization via Subspace Residual Rotation Approximation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2604.11080)
 
+- Robust Ultra Low-Bit Post-Training Quantization via Stable Diagonal Curvature Estimate <br> MLSys 2026 [[Paper]](https://arxiv.org/abs/2604.13806)
+
 - EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
 
 ### Pruning and Sparsity
