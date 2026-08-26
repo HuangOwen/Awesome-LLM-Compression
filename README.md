@@ -753,6 +753,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Rethinking 1-bit Optimization Leveraging Pre-trained Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06974)
 
+- Efficient Edge LLMs Deployment via HessianAware Quantization and CPU GPU Collaborative <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.07329)
+
 - Fair-GPTQ: Bias-Aware Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.15206)
 
 - OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
