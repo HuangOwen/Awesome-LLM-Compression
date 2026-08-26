@@ -1463,6 +1463,8 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - Rubric-based On-policy Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07396) [[Code]](https://github.com/Peregrine123/ROPD_official)
 
+- Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2605.13981)
+
 ### Efficient Prompting
 
 - Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
