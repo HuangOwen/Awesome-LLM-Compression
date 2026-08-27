@@ -78,11 +78,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - KV Cache Compression for Inference Efficiency in LLMs: A Review <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06297)
 
-- A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.08712) [[Code]](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation)
+- A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.08712) [[Code]](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation) [![Stars](https://img.shields.io/github/stars/zhanglingzhe0820/Awesome-Parallel-Text-Generation?style=social)](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation)
 
-- A Survey on Collaborating Small and Large Language Models for Performance, Cost-effectiveness, Cloud-edge Privacy, and Trustworthiness <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.13890) [[Code]](https://github.com/FairyFali/SLMs-Survey)
+- A Survey on Collaborating Small and Large Language Models for Performance, Cost-effectiveness, Cloud-edge Privacy, and Trustworthiness <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.13890) [[Code]](https://github.com/FairyFali/SLMs-Survey) [![Stars](https://img.shields.io/github/stars/FairyFali/SLMs-Survey?style=social)](https://github.com/FairyFali/SLMs-Survey)
 
-- A Survey on Efficient Large Language Model Training: From Data-centric Perspectives <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2510.25817) [[Code]](https://github.com/luo-junyu/Awesome-Data-Efficient-LLM)
+- A Survey on Efficient Large Language Model Training: From Data-centric Perspectives <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2510.25817) [[Code]](https://github.com/luo-junyu/Awesome-Data-Efficient-LLM) [![Stars](https://img.shields.io/github/stars/luo-junyu/Awesome-Data-Efficient-LLM?style=social)](https://github.com/luo-junyu/Awesome-Data-Efficient-LLM)
 
 </details>
 
@@ -130,7 +130,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - A Survey on Model Compression for Large Language Models <br> TACL [[Paper]](https://arxiv.org/abs/2308.07633)
 
-- The Cost of Compression: Investigating the Impact of Compression on Parametric Knowledge in Language Models <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2312.00960) [[Code]](https://github.com/NamburiSrinath/LLMCompression)
+- The Cost of Compression: Investigating the Impact of Compression on Parametric Knowledge in Language Models <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2312.00960) [[Code]](https://github.com/NamburiSrinath/LLMCompression) [![Stars](https://img.shields.io/github/stars/NamburiSrinath/LLMCompression?style=social)](https://github.com/NamburiSrinath/LLMCompression)
 
 - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.00678)
 
@@ -149,21 +149,21 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - QSLM: A Performance- and Memory-aware Quantization Framework with Tiered Search Strategy for Spike-driven Language Models <br> DATE 2026 [[Paper]](https://arxiv.org/abs/2601.00679)
 
-- HAS-VQ: Hessian-Adaptive Sparse Vector Quantization for High-Fidelity LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.06959) [[Code]](https://github.com/VladimerKhasia/HASVQ)
+- HAS-VQ: Hessian-Adaptive Sparse Vector Quantization for High-Fidelity LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.06959) [[Code]](https://github.com/VladimerKhasia/HASVQ) [![Stars](https://img.shields.io/github/stars/VladimerKhasia/HASVQ?style=social)](https://github.com/VladimerKhasia/HASVQ)
 
 - ARCQuant: Boosting NVFP4 Quantization with Augmented Residual Channels for LLMs <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2601.07475)
 
-- Sherry: Hardware-Efficient 1.25-Bit Ternary Quantization via Fine-grained Sparsification <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.07892) [[Code]](https://github.com/Tencent/AngelSlim)
+- Sherry: Hardware-Efficient 1.25-Bit Ternary Quantization via Fine-grained Sparsification <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.07892) [[Code]](https://github.com/Tencent/AngelSlim) [![Stars](https://img.shields.io/github/stars/Tencent/AngelSlim?style=social)](https://github.com/Tencent/AngelSlim)
 
 - Calibrating Beyond English: Language Diversity for Better Quantized Multilingual LLM <br> EACL 2026 [[Paper]](https://arxiv.org/abs/2601.18306)
 
 - M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization <br> ASPLOS 2026 [[Paper]](https://arxiv.org/abs/2601.19213)
 
-- Quartet II: Accurate LLM Pre-Training in NVFP4 by Improved Unbiased Gradient Estimation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.22813) [[Code]](https://github.com/IST-DASLab/Quartet-II)
+- Quartet II: Accurate LLM Pre-Training in NVFP4 by Improved Unbiased Gradient Estimation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.22813) [[Code]](https://github.com/IST-DASLab/Quartet-II) [![Stars](https://img.shields.io/github/stars/IST-DASLab/Quartet-II?style=social)](https://github.com/IST-DASLab/Quartet-II)
 
 - Two-Stage Grid Optimization for Group-wise Quantization of LLMs <br> ICASSP 2026 [[Paper]](https://arxiv.org/abs/2602.02126)
 
-- Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.03120) [[Code]](https://github.com/dibbla/Quantized-Evolution-Strategies)
+- Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.03120) [[Code]](https://github.com/dibbla/Quantized-Evolution-Strategies) [![Stars](https://img.shields.io/github/stars/dibbla/Quantized-Evolution-Strategies?style=social)](https://github.com/dibbla/Quantized-Evolution-Strategies)
 
 - QVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2602.03782)
 
@@ -179,15 +179,15 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - QuRL: Efficient Reinforcement Learning with Quantized Rollout <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2602.13953)
 
-- SPQ: An Ensemble Technique for Large Language Model Compression <br> LREC 2026 [[Paper]](https://arxiv.org/abs/2602.18420) [[Code]](https://github.com/JiaminYao/spq-compression)
+- SPQ: An Ensemble Technique for Large Language Model Compression <br> LREC 2026 [[Paper]](https://arxiv.org/abs/2602.18420) [[Code]](https://github.com/JiaminYao/spq-compression) [![Stars](https://img.shields.io/github/stars/JiaminYao/spq-compression?style=social)](https://github.com/JiaminYao/spq-compression)
 
 - Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization <br> CVPR 2026 [[Paper]](https://arxiv.org/abs/2602.24059)
 
 - MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models <br> CVPR 2026 [[Paper]](https://arxiv.org/abs/2603.04800)
 
-- SliderQuant: Accurate Post-Training Quantization for LLMs <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2603.25284) [[Code]](https://github.com/deep-optimization/SliderQuant)
+- SliderQuant: Accurate Post-Training Quantization for LLMs <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2603.25284) [[Code]](https://github.com/deep-optimization/SliderQuant) [![Stars](https://img.shields.io/github/stars/deep-optimization/SliderQuant?style=social)](https://github.com/deep-optimization/SliderQuant)
 
-- OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression)
+- OneComp: One-Line Revolution for Generative AI Model Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.28845) [[Code]](https://github.com/FujitsuResearch/OneCompression) [![Stars](https://img.shields.io/github/stars/FujitsuResearch/OneCompression?style=social)](https://github.com/FujitsuResearch/OneCompression)
 
 - Fast NF4 Dequantization Kernels for Large Language Model Inference <br> ASPLOS 2026 Workshop [[Paper]](https://arxiv.org/abs/2604.02556)
 
@@ -203,25 +203,25 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - From Signal Degradation to Computation Collapse: Uncovering the Two Failure Modes of LLM Quantization <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2604.19884)
 
-- Statistically-Lossless Quantization of Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.02404) [[Code]](https://github.com/IST-DASLab/SLQ)
+- Statistically-Lossless Quantization of Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.02404) [[Code]](https://github.com/IST-DASLab/SLQ) [![Stars](https://img.shields.io/github/stars/IST-DASLab/SLQ?style=social)](https://github.com/IST-DASLab/SLQ)
 
-- EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround)
+- EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.04062) [[Code]](https://github.com/zhangsq-nju/EdgeRazor) [[Model]](https://huggingface.co/collections/zhangsq-nju/edgerazor-nbit) [[Playground]](https://huggingface.co/spaces/zhangsq-nju/EdgeRazor-PlayGround) [![Stars](https://img.shields.io/github/stars/zhangsq-nju/EdgeRazor?style=social)](https://github.com/zhangsq-nju/EdgeRazor)
 
 - OSAQ: Outlier Self-Absorption for Accurate Low-bit LLM Quantization <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2605.04738)
 
-- Normalized Architectures are Natively 4-Bit <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.06067) [[Code]](https://github.com/anonymous452026/ngpt-nvfp4)
+- Normalized Architectures are Natively 4-Bit <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.06067) [[Code]](https://github.com/anonymous452026/ngpt-nvfp4) [![Stars](https://img.shields.io/github/stars/anonymous452026/ngpt-nvfp4?style=social)](https://github.com/anonymous452026/ngpt-nvfp4)
 
 - RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2605.14359)
 
-- XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.14844) [[Code]](https://github.com/flash7777/vllm)
+- XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.14844) [[Code]](https://github.com/flash7777/vllm) [![Stars](https://img.shields.io/github/stars/flash7777/vllm?style=social)](https://github.com/flash7777/vllm)
 
-- GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2605.23078) [[Code]](https://github.com/jndeng/GEMQ)
+- GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2605.23078) [[Code]](https://github.com/jndeng/GEMQ) [![Stars](https://img.shields.io/github/stars/jndeng/GEMQ?style=social)](https://github.com/jndeng/GEMQ)
 
 - EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture <br> ISCA 2026 [[Paper]](https://arxiv.org/abs/2605.24144)
 
-- Influence-Inspired Spectral Rotations for Extreme Low-Bit LLM Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.25203) [[Code]](https://github.com/gogipav14/spectral-llm)
+- Influence-Inspired Spectral Rotations for Extreme Low-Bit LLM Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.25203) [[Code]](https://github.com/gogipav14/spectral-llm) [![Stars](https://img.shields.io/github/stars/gogipav14/spectral-llm?style=social)](https://github.com/gogipav14/spectral-llm)
 
-- InfoQuant: Shaping Activation Distributions for Low-Bit LLM Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.26175) [[Code]](https://github.com/LLIKKE/InfoQuant)
+- InfoQuant: Shaping Activation Distributions for Low-Bit LLM Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.26175) [[Code]](https://github.com/LLIKKE/InfoQuant) [![Stars](https://img.shields.io/github/stars/LLIKKE/InfoQuant?style=social)](https://github.com/LLIKKE/InfoQuant)
 
 - LFQ: Logit-aware Final-block Quantization for Boosting the Generation Quality of Low-Bit Quantized LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2605.29756)
 
@@ -233,9 +233,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.13054)
 
-- CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.26650) [[Code]](https://github.com/IntelChina-AI/BitTern)
+- CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.26650) [[Code]](https://github.com/IntelChina-AI/BitTern) [![Stars](https://img.shields.io/github/stars/IntelChina-AI/BitTern?style=social)](https://github.com/IntelChina-AI/BitTern)
 
-- Quantize the Target, Quantize the Drafter: Efficient Inference with Qwen3.5-4B <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.04244) [[Code]](https://github.com/nota-github/adaptfm-quant-dflash)
+- Quantize the Target, Quantize the Drafter: Efficient Inference with Qwen3.5-4B <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.04244) [[Code]](https://github.com/nota-github/adaptfm-quant-dflash) [![Stars](https://img.shields.io/github/stars/nota-github/adaptfm-quant-dflash?style=social)](https://github.com/nota-github/adaptfm-quant-dflash)
 
 - KronQ: LLM Quantization via Kronecker-Factored Hessian <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2607.07964)
 
@@ -249,11 +249,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - GyRot: Leveraging Hidden Synergy between Rotation and Fine-grained Group Quantization for Low-bit LLM Inference <br> HPCA 2026 [[Paper]](https://arxiv.org/abs/2607.27694)
 
-- Attend to Your Own Thoughts: Breaking the Barrier for Post-Training Quantization of Reasoning LLMs through the Lens of 1.58-Bit Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.01078) [[Code]](https://github.com/IntelChina-AI/BitTern)
+- Attend to Your Own Thoughts: Breaking the Barrier for Post-Training Quantization of Reasoning LLMs through the Lens of 1.58-Bit Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.01078) [[Code]](https://github.com/IntelChina-AI/BitTern) [![Stars](https://img.shields.io/github/stars/IntelChina-AI/BitTern?style=social)](https://github.com/IntelChina-AI/BitTern)
 
-- ARCHead: Activation-Metric Residual Correction for Large Language Model Output Heads <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.02703) [[Code]](https://github.com/suayptalha/archead)
+- ARCHead: Activation-Metric Residual Correction for Large Language Model Output Heads <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.02703) [[Code]](https://github.com/suayptalha/archead) [![Stars](https://img.shields.io/github/stars/suayptalha/archead?style=social)](https://github.com/suayptalha/archead)
 
-- Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.18578) [[Code]](https://github.com/ShayanShahrabi/compress-and-forget)
+- Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.18578) [[Code]](https://github.com/ShayanShahrabi/compress-and-forget) [![Stars](https://img.shields.io/github/stars/ShayanShahrabi/compress-and-forget?style=social)](https://github.com/ShayanShahrabi/compress-and-forget)
 
 - Jacobian-guided Noise Injection for Quantization Robustness in Large Language Models <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2608.20988)
 
@@ -272,11 +272,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Qrazor: Reliable and effortless 4-bit llm quantization by significant data razoring <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.13331)
 
-- OstQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2501.13987) [[Code]](https://github.com/BrotherHappy/OSTQuant)
+- OstQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2501.13987) [[Code]](https://github.com/BrotherHappy/OSTQuant) [![Stars](https://img.shields.io/github/stars/BrotherHappy/OSTQuant?style=social)](https://github.com/BrotherHappy/OSTQuant)
 
 - SwiftPrune: Hessian-Free Weight Pruning for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.16376)
 
-- Progressive Binarization with Semi-Structured Pruning for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01705) [[Code]](https://github.com/XIANGLONGYAN/PBS2P)
+- Progressive Binarization with Semi-Structured Pruning for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01705) [[Code]](https://github.com/XIANGLONGYAN/PBS2P) [![Stars](https://img.shields.io/github/stars/XIANGLONGYAN/PBS2P?style=social)](https://github.com/XIANGLONGYAN/PBS2P)
 
 - Physics-Inspired Binary Neural Networks: Interpretable Compression with Theoretical Guarantees <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.01908)
 
@@ -284,7 +284,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2502.02631)
 
-- Systematic Outliers in Large Language Models <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2502.06415) [[Code]](https://github.com/an-yongqi/systematic-outliers)
+- Systematic Outliers in Large Language Models <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2502.06415) [[Code]](https://github.com/an-yongqi/systematic-outliers) [![Stars](https://img.shields.io/github/stars/an-yongqi/systematic-outliers?style=social)](https://github.com/an-yongqi/systematic-outliers)
 
 - Can Post-Training Quantization Benefit from an Additional QLoRA Integration? <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2502.10202)
 
@@ -304,7 +304,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Identifying Sensitive Weights via Post-quantization Integral <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.01901)
 
-- RSQ: Learning from Important Tokens Leads to Better Quantized LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.01820) [[Code]](https://github.com/ylsung/rsq)
+- RSQ: Learning from Important Tokens Leads to Better Quantized LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.01820) [[Code]](https://github.com/ylsung/rsq) [![Stars](https://img.shields.io/github/stars/ylsung/rsq?style=social)](https://github.com/ylsung/rsq)
 
 - VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference <br> HPCA 2025 [[Paper]](https://arxiv.org/abs/2503.02236)
 
@@ -320,13 +320,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference <br> DATE 2025 [[Paper]](https://arxiv.org/abs/2503.23294)
 
-- GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2504.02692) [[Code]](https://github.com/Intelligent-Computing-Lab-Panda/GPTAQ)
+- GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2504.02692) [[Code]](https://github.com/Intelligent-Computing-Lab-Panda/GPTAQ) [![Stars](https://img.shields.io/github/stars/Intelligent-Computing-Lab-Panda/GPTAQ?style=social)](https://github.com/Intelligent-Computing-Lab-Panda/GPTAQ)
 
-- Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression <br> COLM 2025 [[Paper]](https://arxiv.org/abs/2504.07389) [[Code]](https://github.com/The-Inscrutable-X/TACQ)
+- Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression <br> COLM 2025 [[Paper]](https://arxiv.org/abs/2504.07389) [[Code]](https://github.com/The-Inscrutable-X/TACQ) [![Stars](https://img.shields.io/github/stars/The-Inscrutable-X/TACQ?style=social)](https://github.com/The-Inscrutable-X/TACQ)
 
-- Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2504.09629) [[Code]](https://github.com/FujitsuResearch/qep)
+- Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2504.09629) [[Code]](https://github.com/FujitsuResearch/qep) [![Stars](https://img.shields.io/github/stars/FujitsuResearch/qep?style=social)](https://github.com/FujitsuResearch/qep)
 
-- RaanA: A Fast, Flexible, and Data-Efficient Post-Training Quantization Algorithm <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.03717) [[Code]](https://github.com/FFTYYY/RaanA)
+- RaanA: A Fast, Flexible, and Data-Efficient Post-Training Quantization Algorithm <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.03717) [[Code]](https://github.com/FFTYYY/RaanA) [![Stars](https://img.shields.io/github/stars/FFTYYY/RaanA?style=social)](https://github.com/FFTYYY/RaanA)
 
 - Achieving binary weight and activation for LLMs using Post-Training Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.05352)
 
@@ -354,7 +354,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Improving Block-Wise LLM Quantization by 4-bit Block-Wise Optimal Float (BOF4): Analysis and Variations <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.06653)
 
-- GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2505.07004) [[Code]](https://github.com/snu-mllab/GuidedQuant)
+- GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2505.07004) [[Code]](https://github.com/snu-mllab/GuidedQuant) [![Stars](https://img.shields.io/github/stars/snu-mllab/GuidedQuant?style=social)](https://github.com/snu-mllab/GuidedQuant)
 
 - QuantX: A Framework for Hardware-Aware Quantization of Generative AI Workloads <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.07531)
 
@@ -366,15 +366,15 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Scaling Law for Quantization-Aware Training <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.14302)
 
-- Quaff: Quantized Parameter-Efficient Fine-Tuning under Outlier Spatial Stability Hypothesis <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2505.14742) [[Code]](https://github.com/Little0o0/Quaff)
+- Quaff: Quantized Parameter-Efficient Fine-Tuning under Outlier Spatial Stability Hypothesis <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2505.14742) [[Code]](https://github.com/Little0o0/Quaff) [![Stars](https://img.shields.io/github/stars/Little0o0/Quaff?style=social)](https://github.com/Little0o0/Quaff)
 
 - Is (Selective) Round-To-Nearest Quantization All You Need? <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.15909)
 
 - NeUQI: Near-Optimal Uniform Quantization Parameter Initialization <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2505.17595)
 
-- LoTA-QAF: Lossless Ternary Adaptation for Quantization-Aware Fine-Tuning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.18724) [[Code]](https://github.com/KingdalfGoodman/LoTA-QAF)
+- LoTA-QAF: Lossless Ternary Adaptation for Quantization-Aware Fine-Tuning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.18724) [[Code]](https://github.com/KingdalfGoodman/LoTA-QAF) [![Stars](https://img.shields.io/github/stars/KingdalfGoodman/LoTA-QAF?style=social)](https://github.com/KingdalfGoodman/LoTA-QAF)
 
-- FP4 All the Way: Fully Quantized Training of LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.19115) [[Code]](https://github.com/Anonymous1252022/fp4-all-the-way)
+- FP4 All the Way: Fully Quantized Training of LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.19115) [[Code]](https://github.com/Anonymous1252022/fp4-all-the-way) [![Stars](https://img.shields.io/github/stars/Anonymous1252022/fp4-all-the-way?style=social)](https://github.com/Anonymous1252022/fp4-all-the-way)
 
 - FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.20839)
 
@@ -386,13 +386,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - FPTQuant: Function-Preserving Transforms for LLM Quantization <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2506.04985) 
 
-- BAQ: Efficient Bit Allocation Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.05664) [[Code]](https://github.com/CSU-ModelCompression/BAQ)
+- BAQ: Efficient Bit Allocation Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.05664) [[Code]](https://github.com/CSU-ModelCompression/BAQ) [![Stars](https://img.shields.io/github/stars/CSU-ModelCompression/BAQ?style=social)](https://github.com/CSU-ModelCompression/BAQ)
 
 - MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2506.07533)
 
 - Unifying Block-wise PTQ and Distillation-based QAT for Progressive Quantization toward 2-bit Instruction-Tuned LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.09104) 
 
-- Boost Post-Training Quantization via Null Space Optimization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.11044) [[Code]](https://github.com/zjq0455/q2n)
+- Boost Post-Training Quantization via Null Space Optimization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.11044) [[Code]](https://github.com/zjq0455/q2n) [![Stars](https://img.shields.io/github/stars/zjq0455/q2n?style=social)](https://github.com/zjq0455/q2n)
 
 - FlexQuant: A Flexible and Efficient Dynamic Precision Switching Framework for LLM Quantization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.12024)
 
@@ -402,7 +402,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LittleBit: Ultra Low-Bit Quantization via Latent Factorization <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2506.13771)
 
-- BASE-Q: Bias and Asymmetric Scaling Enhanced Rotational Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.15689) [[Code]](https://github.com/Heliulu/BASE-Q)
+- BASE-Q: Bias and Asymmetric Scaling Enhanced Rotational Quantization for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.15689) [[Code]](https://github.com/Heliulu/BASE-Q) [![Stars](https://img.shields.io/github/stars/Heliulu/BASE-Q?style=social)](https://github.com/Heliulu/BASE-Q)
 
 - UltraSketchLLM: Sub-1-Bit LLM Compression via Sketch and Hardware-Friendly Operators <br> DAC 2026 [[Paper]](https://arxiv.org/abs/2506.17255) 
 
@@ -418,13 +418,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - EAC-MoE: Expert-Selection Aware Compressor for Mixture-of-Experts Large Language Models <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2508.01625)
 
-- MicroMix: Efficient Mixed-Precision Quantization with Microscaling Formats for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02343) [[Code]](https://github.com/lwy2020/MicroMix)
+- MicroMix: Efficient Mixed-Precision Quantization with Microscaling Formats for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02343) [[Code]](https://github.com/lwy2020/MicroMix) [![Stars](https://img.shields.io/github/stars/lwy2020/MicroMix?style=social)](https://github.com/lwy2020/MicroMix)
 
 - VLMQ: Token Saliency-Driven Post-Training Quantization for Vision-language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.03351)
 
 - FlashCommunication V2: Bit Splitting and Spike Reserving for Any Bit Communication <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.03760)
 
-- FlexQ: Efficient Post-training INT6 Quantization for LLM Serving via Algorithm-System Co-Design <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.04405) [[Code]](https://github.com/FlyFoxPlayer/FlexQ)
+- FlexQ: Efficient Post-training INT6 Quantization for LLM Serving via Algorithm-System Co-Design <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.04405) [[Code]](https://github.com/FlyFoxPlayer/FlexQ) [![Stars](https://img.shields.io/github/stars/FlyFoxPlayer/FlexQ?style=social)](https://github.com/FlyFoxPlayer/FlexQ)
 
 - Provable Post-Training Quantization: Theoretical Analysis of OPTQ and Qronos <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.04853)
 
@@ -468,7 +468,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - AnyBCQ: Hardware Efficient Flexible Binary-Coded Quantization for Multi-Precision LLMs <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.10467)
 
-- QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.11696) [[Code]](https://github.com/NVlabs/QeRL)
+- QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.11696) [[Code]](https://github.com/NVlabs/QeRL) [![Stars](https://img.shields.io/github/stars/NVlabs/QeRL?style=social)](https://github.com/NVlabs/QeRL)
 
 - F-BFQ: Flexible Block Floating-Point Quantization Accelerator for LLMs <br> ISCA 2025 Workshop [[Paper]](https://arxiv.org/abs/2510.13401)
 
@@ -486,7 +486,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - P3-LLM: An Integrated NPU-PIM Accelerator for Edge LLM Inference Using Hybrid Numerical Formats <br> ISCA 2026 [[Paper]](https://arxiv.org/abs/2511.06838)
 
-- ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2511.10645) [[Code]](https://github.com/z-lab/paroquant)
+- ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2511.10645) [[Code]](https://github.com/z-lab/paroquant) [![Stars](https://img.shields.io/github/stars/z-lab/paroquant?style=social)](https://github.com/z-lab/paroquant)
 
 - SpecQuant: Spectral Decomposition and Adaptive Truncation for Ultra-Low-Bit LLMs Quantization <br> AAAI 2026 [[Paper]](https://arxiv.org/abs/2511.11663)
 
@@ -494,7 +494,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Enhancing Trustworthiness with Mixed Precision: Benchmarks, Opportunities, and Challenges <br> ASP-DAC 2026 [[Paper]](https://arxiv.org/abs/2511.22483)
 
-- SignRoundV2: Toward Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.04746) [[Code]](https://github.com/intel/auto-round)
+- SignRoundV2: Toward Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.04746) [[Code]](https://github.com/intel/auto-round) [![Stars](https://img.shields.io/github/stars/intel/auto-round?style=social)](https://github.com/intel/auto-round)
 
 - CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2512.17970)
 
@@ -505,7 +505,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGA <br> FPGA 2024 [[Paper]](https://arxiv.org/abs/2401.03868)
 
-- Extreme Compression of Large Language Models via Additive Quantization <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2401.06118) [[Code]](https://github.com/Vahe1994/AQLM)
+- Extreme Compression of Large Language Models via Additive Quantization <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2401.06118) [[Code]](https://github.com/Vahe1994/AQLM) [![Stars](https://img.shields.io/github/stars/Vahe1994/AQLM?style=social)](https://github.com/Vahe1994/AQLM)
 
 - Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.07159)
 
@@ -515,13 +515,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Can Large Language Models Understand Context? <br> EACL Findings 2024 [[Paper]](https://arxiv.org/abs/2402.00858)
 
-- Squat: Quant Small Language Models on the Edge <br> ICCAD 2025 [[Paper]](https://arxiv.org/abs/2402.10787) [[Code]](https://github.com/shawnricecake/squant)
+- Squat: Quant Small Language Models on the Edge <br> ICCAD 2025 [[Paper]](https://arxiv.org/abs/2402.10787) [[Code]](https://github.com/shawnricecake/squant) [![Stars](https://img.shields.io/github/stars/shawnricecake/squant?style=social)](https://github.com/shawnricecake/squant)
 
 - LQER: Low-Rank Quantization Error Reconstruction for LLMs <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.02446) 
 
-- BiLLM: Pushing the Limit of Post-Training Quantization for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.04291) [[Code]](https://github.com/Aaronhuang-778/BiLLM)
+- BiLLM: Pushing the Limit of Post-Training Quantization for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.04291) [[Code]](https://github.com/Aaronhuang-778/BiLLM) [![Stars](https://img.shields.io/github/stars/Aaronhuang-778/BiLLM?style=social)](https://github.com/Aaronhuang-778/BiLLM)
 
-- QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.04396) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp)
+- QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.04396) [[Code]](https://github.com/Cornell-RelaxML/quip-sharp) [![Stars](https://img.shields.io/github/stars/Cornell-RelaxML/quip-sharp?style=social)](https://github.com/Cornell-RelaxML/quip-sharp)
 
 - L4Q: Parameter Efficient Quantization-Aware Training on Large Language Models via LoRA-wise LSQ <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.04902) 
 
@@ -529,15 +529,15 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ApiQ: Finetuning of 2-Bit Quantized Large Language Model <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2402.05147) 
 
-- Accurate LoRA-Finetuning Quantization of LLMs via Information Retention <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.05445) [[Code]](https://github.com/AI-Efficiency/IR-QLoRA)
+- Accurate LoRA-Finetuning Quantization of LLMs via Information Retention <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.05445) [[Code]](https://github.com/AI-Efficiency/IR-QLoRA) [![Stars](https://img.shields.io/github/stars/AI-Efficiency/IR-QLoRA?style=social)](https://github.com/AI-Efficiency/IR-QLoRA)
 
-- BitDelta: Your Fine-Tune May Only Be Worth One Bit <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2402.10193) [[Code]](https://github.com/FasterDecoding/BitDelta)
+- BitDelta: Your Fine-Tune May Only Be Worth One Bit <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2402.10193) [[Code]](https://github.com/FasterDecoding/BitDelta) [![Stars](https://img.shields.io/github/stars/FasterDecoding/BitDelta?style=social)](https://github.com/FasterDecoding/BitDelta)
 
 - QDyLoRA: Quantized Dynamic Low-Rank Adaptation for Efficient Large Language Model Tuning <br> EMNLP 2024 Industry Track [[Paper]](https://arxiv.org/abs/2402.10462) 
 
 - Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.10517) 
 
-- BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2402.10631) [[Code]](https://github.com/OpenBitSys/BitDistiller)
+- BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2402.10631) [[Code]](https://github.com/OpenBitSys/BitDistiller) [![Stars](https://img.shields.io/github/stars/OpenBitSys/BitDistiller?style=social)](https://github.com/OpenBitSys/BitDistiller)
 
 - OneBit: Towards Extremely Low-bit Large Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2402.11295)
 
@@ -545,7 +545,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - WKVQuant: Quantizing Weight and Key/Value Cache for Large Language Models Gains More <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.12065)
 
-- GPTVQ: The Blessing of Dimensionality for LLM Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.15319) [[Code]](https://github.com/qualcomm-ai-research/gptvq)
+- GPTVQ: The Blessing of Dimensionality for LLM Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.15319) [[Code]](https://github.com/qualcomm-ai-research/gptvq) [![Stars](https://img.shields.io/github/stars/qualcomm-ai-research/gptvq?style=social)](https://github.com/qualcomm-ai-research/gptvq)
 
 - APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models <br> DAC 2024 [[Paper]](https://arxiv.org/abs/2402.14866) 
 
@@ -557,7 +557,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LLM-PQ: Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.01136)
 
-- IntactKV: Improving Large Languagze Model Quantization by Keeping Pivot Tokens Intact <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2403.01241) [[Code]](https://github.com/ruikangliu/IntactKV)
+- IntactKV: Improving Large Languagze Model Quantization by Keeping Pivot Tokens Intact <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2403.01241) [[Code]](https://github.com/ruikangliu/IntactKV) [![Stars](https://img.shields.io/github/stars/ruikangliu/IntactKV?style=social)](https://github.com/ruikangliu/IntactKV)
 
 - On the Compressibility of Quantized Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.01384)
 
@@ -565,15 +565,15 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - What Makes Quantization for Large Language Models Hard? An Empirical Study from the Lens of Perturbation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.06408)
 
-- AffineQuant: Affine Transformation Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2403.12544) [[Code]](https://github.com/bytedance/AffineQuant)
+- AffineQuant: Affine Transformation Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2403.12544) [[Code]](https://github.com/bytedance/AffineQuant) [![Stars](https://img.shields.io/github/stars/bytedance/AffineQuant?style=social)](https://github.com/bytedance/AffineQuant)
 
 - Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models <br> ICLR Practical ML for Low Resource Settings Workshop 2024 [[Paper]](https://arxiv.org/abs/2403.18159) 
 
 - Accurate Block Quantization in LLMs with Outliers <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.20137)
 
-- QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.00456) [[Code]](https://github.com/spcl/QuaRot)
+- QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.00456) [[Code]](https://github.com/spcl/QuaRot) [![Stars](https://img.shields.io/github/stars/spcl/QuaRot?style=social)](https://github.com/spcl/QuaRot)
 
-- Minimize Quantization Output Error with Bias Compensation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.01892) [[Code]](https://github.com/GongCheng1919/bias-compensation)
+- Minimize Quantization Output Error with Bias Compensation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.01892) [[Code]](https://github.com/GongCheng1919/bias-compensation) [![Stars](https://img.shields.io/github/stars/GongCheng1919/bias-compensation?style=social)](https://github.com/GongCheng1919/bias-compensation)
 
 - Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.02837)
 
@@ -581,19 +581,19 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Quantization of Large Language Models with an Overdetermined Basis <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.09737)
 
-- An empirical study of LLaMA3 quantization: from LLMs to MLLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.14047) [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization)
+- An empirical study of LLaMA3 quantization: from LLMs to MLLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.14047) [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization) [![Stars](https://img.shields.io/github/stars/Macaronlin/LLaMA3-Quantization?style=social)](https://github.com/Macaronlin/LLaMA3-Quantization)
 
 - How to Parameterize Asymmetric Quantization Ranges for Quantization-Aware Training <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.16898)
 
-- Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.03605) [[Code]](https://github.com/aninrusimha/qat-pretrain)
+- Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.03605) [[Code]](https://github.com/aninrusimha/qat-pretrain) [![Stars](https://img.shields.io/github/stars/aninrusimha/qat-pretrain?style=social)](https://github.com/aninrusimha/qat-pretrain)
 
 - When Quantization Affects Confidence of Large Language Models? <br> NAACL 2024 [[Paper]](https://arxiv.org/abs/2405.00632)
 
-- QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.04532) [[Code]](https://github.com/mit-han-lab/omniserve)
+- QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.04532) [[Code]](https://github.com/mit-han-lab/omniserve) [![Stars](https://img.shields.io/github/stars/mit-han-lab/omniserve?style=social)](https://github.com/mit-han-lab/omniserve)
 
 - Learning from Students: Applying t-Distributions to Explore Accurate and Efficient Formats for LLMs <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2405.03103)
 
-- LLMC: Benchmarking Large Language Model Quantization with a Versatile Compression Toolkit <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2405.06001) [[Code]](https://github.com/ModelTC/LightCompress)
+- LLMC: Benchmarking Large Language Model Quantization with a Versatile Compression Toolkit <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2405.06001) [[Code]](https://github.com/ModelTC/LightCompress) [![Stars](https://img.shields.io/github/stars/ModelTC/LightCompress?style=social)](https://github.com/ModelTC/LightCompress)
 
 - SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.06219) 
 
@@ -601,7 +601,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.07140) 
 
-- SliM-LLM: Salience-Driven Mixed-Precision Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.14917) [[Code]](https://github.com/Aaronhuang-778/SliM-LLM)
+- SliM-LLM: Salience-Driven Mixed-Precision Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.14917) [[Code]](https://github.com/Aaronhuang-778/SliM-LLM) [![Stars](https://img.shields.io/github/stars/Aaronhuang-778/SliM-LLM?style=social)](https://github.com/Aaronhuang-778/SliM-LLM)
 
 - OAC: Output-adaptive Calibration for Accurate Post-training Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.15025) 
 
@@ -609,7 +609,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - SpinQuant -- LLM quantization with learned rotations <br> ICLR 2025 [[Paper]](https://www.arxiv.org/abs/2405.16406) 
 
-- Compressing Large Language Models using Low Rank and Low Precision Decomposition <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2405.18886) [[Code]](https://github.com/pilancilab/caldera)
+- Compressing Large Language Models using Low Rank and Low Precision Decomposition <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2405.18886) [[Code]](https://github.com/pilancilab/caldera) [![Stars](https://img.shields.io/github/stars/pilancilab/caldera?style=social)](https://github.com/pilancilab/caldera)
 
 - Athena: Efficient Block-Wise Post-Training Quantization for Large Language Models Using Second-Order Matrix Derivative Information <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.17470) 
 
@@ -619,7 +619,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LCQ: Low-Rank Codebook based Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.20973) 
 
-- LoQT: Low Rank Adapters for Quantized Training <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.16528) [[Code]](https://github.com/sebulo/LoQT)
+- LoQT: Low Rank Adapters for Quantized Training <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.16528) [[Code]](https://github.com/sebulo/LoQT) [![Stars](https://img.shields.io/github/stars/sebulo/LoQT?style=social)](https://github.com/sebulo/LoQT)
 
 - CLAQ: Pushing the Limits of Low-Bit Post-Training Quantization for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.17233)
 
@@ -627,21 +627,21 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.20835)
 
-- DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.01721) [[Code]](https://github.com/Hsu1023/DuQuant)
+- DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.01721) [[Code]](https://github.com/Hsu1023/DuQuant) [![Stars](https://img.shields.io/github/stars/Hsu1023/DuQuant?style=social)](https://github.com/Hsu1023/DuQuant)
 
-- ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.05981) [[Code]](https://github.com/GATECH-EIC/ShiftAddLLM)
+- ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.05981) [[Code]](https://github.com/GATECH-EIC/ShiftAddLLM) [![Stars](https://img.shields.io/github/stars/GATECH-EIC/ShiftAddLLM?style=social)](https://github.com/GATECH-EIC/ShiftAddLLM)
 
 - Low-Rank Quantization-Aware Training for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.06385)
 
 - TernaryLLM: Ternarized Large Language Model <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.07177)
 
-- Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.08155) [[Code]](https://github.com/UNITES-Lab/moe-quantization)
+- Examining Post-Training Quantization for Mixture-of-Experts: A Benchmark <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.08155) [[Code]](https://github.com/UNITES-Lab/moe-quantization) [![Stars](https://img.shields.io/github/stars/UNITES-Lab/moe-quantization?style=social)](https://github.com/UNITES-Lab/moe-quantization)
 
 - Delta-CoMe: Training-Free Delta-Compression with Mixed-Precision for Large Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.08903)
 
-- QQQ: Quality Quattuor-Bit Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.09904) [[Code]](https://github.com/HandH1998/QQQ)
+- QQQ: Quality Quattuor-Bit Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.09904) [[Code]](https://github.com/HandH1998/QQQ) [![Stars](https://img.shields.io/github/stars/HandH1998/QQQ?style=social)](https://github.com/HandH1998/QQQ)
 
-- QTIP: Quantization with Trellises and Incoherence Processing <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.11235) [[Code]](https://github.com/Cornell-RelaxML/qtip)
+- QTIP: Quantization with Trellises and Incoherence Processing <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.11235) [[Code]](https://github.com/Cornell-RelaxML/qtip) [![Stars](https://img.shields.io/github/stars/Cornell-RelaxML/qtip?style=social)](https://github.com/Cornell-RelaxML/qtip)
 
 - Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.12016) 
 
@@ -653,17 +653,17 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Attention-aware Post-training Quantization without Backpropagation <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2406.13474) 
 
-- EDGE-LLM: Enabling Efficient Large Language Model Adaptation on Edge Devices via Layerwise Unified Compression and Adaptive Layer Tuning and Voting <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.15758) [[Code]](https://github.com/GATECH-EIC/Edge-LLM)
+- EDGE-LLM: Enabling Efficient Large Language Model Adaptation on Edge Devices via Layerwise Unified Compression and Adaptive Layer Tuning and Voting <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.15758) [[Code]](https://github.com/GATECH-EIC/Edge-LLM) [![Stars](https://img.shields.io/github/stars/GATECH-EIC/Edge-LLM?style=social)](https://github.com/GATECH-EIC/Edge-LLM)
 
 - Compensate Quantization Errors: Make Weights Hierarchical to Compensate Each Other <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.16299) 
 
-- Layer-Wise Quantization: A Pragmatic and Effective Method for Quantizing LLMs Beyond Integer Bit-Levels <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.17415) [[Code]](https://github.com/RazvanDu/LayerwiseQuant)
+- Layer-Wise Quantization: A Pragmatic and Effective Method for Quantizing LLMs Beyond Integer Bit-Levels <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.17415) [[Code]](https://github.com/RazvanDu/LayerwiseQuant) [![Stars](https://img.shields.io/github/stars/RazvanDu/LayerwiseQuant?style=social)](https://github.com/RazvanDu/LayerwiseQuant)
 
 - CDQuant: Greedy Coordinate Descent for Accurate LLM Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.17542) 
 
 - OutlierTune: Efficient Channel-Wise Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.18832) 
 
-- T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge <br> EuroSys 2025 [[Paper]](https://arxiv.org/abs/2407.00088) [[Code]](https://github.com/microsoft/T-MAC)
+- T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge <br> EuroSys 2025 [[Paper]](https://arxiv.org/abs/2407.00088) [[Code]](https://github.com/microsoft/T-MAC) [![Stars](https://img.shields.io/github/stars/microsoft/T-MAC?style=social)](https://github.com/microsoft/T-MAC)
 
 - GPTQT: Quantize Large Language Models Twice to Push the Efficiency <br> ICORIS 2024 [[Paper]](https://arxiv.org/abs/2407.02891) 
 
@@ -671,11 +671,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - How Does Quantization Affect Multilingual LLMs? <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.03211) 
 
-- RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.08044) [[Code]](https://github.com/HuangOwen/RoLoRA) 
+- RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.08044) [[Code]](https://github.com/HuangOwen/RoLoRA) [![Stars](https://img.shields.io/github/stars/HuangOwen/RoLoRA?style=social)](https://github.com/HuangOwen/RoLoRA)
 
-- Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.08296) [[Code]](https://github.com/VITA-Group/Q-GaLore) 
+- Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.08296) [[Code]](https://github.com/VITA-Group/Q-GaLore) [![Stars](https://img.shields.io/github/stars/VITA-Group/Q-GaLore?style=social)](https://github.com/VITA-Group/Q-GaLore)
 
-- FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.08608) [[Code]](https://github.com/Dao-AILab/flash-attention) 
+- FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.08608) [[Code]](https://github.com/Dao-AILab/flash-attention) [![Stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=social)](https://github.com/Dao-AILab/flash-attention)
 
 - Accuracy is Not All You Need <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.09141)
 
@@ -683,21 +683,21 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LeanQuant: Accurate Large Language Model Quantization with Loss-Error-Aware Grid <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2407.10032)
 
-- Fast Matrix Multiplications for Lookup Table-Quantized LLMs <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.10960) [[Code]](https://github.com/HanGuo97/flute) 
+- Fast Matrix Multiplications for Lookup Table-Quantized LLMs <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.10960) [[Code]](https://github.com/HanGuo97/flute) [![Stars](https://img.shields.io/github/stars/HanGuo97/flute?style=social)](https://github.com/HanGuo97/flute)
 
-- EfficientQAT: Efficient Quantization-Aware Training for Large Language Models <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2407.11062) [[Code]](https://github.com/OpenGVLab/EfficientQAT) 
+- EfficientQAT: Efficient Quantization-Aware Training for Large Language Models <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2407.11062) [[Code]](https://github.com/OpenGVLab/EfficientQAT) [![Stars](https://img.shields.io/github/stars/OpenGVLab/EfficientQAT?style=social)](https://github.com/OpenGVLab/EfficientQAT)
 
 - LRQ: Optimizing Post-Training Quantization for Large Language Models by Learning Low-Rank Weight-Scaling Matrices <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2407.11534) 
 
-- Exploring Quantization for Efficient Pre-Training of Transformer Language Models <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.11722) [[Code]](https://github.com/chandar-lab/EfficientLLMs) 
+- Exploring Quantization for Efficient Pre-Training of Transformer Language Models <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2407.11722) [[Code]](https://github.com/chandar-lab/EfficientLLMs) [![Stars](https://img.shields.io/github/stars/chandar-lab/EfficientLLMs?style=social)](https://github.com/chandar-lab/EfficientLLMs)
 
-- Spectra: Surprising Effectiveness of Pretraining Ternary Language Models at Scale <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12327) [[Code]](https://github.com/NolanoOrg/SpectraSuite) 
+- Spectra: Surprising Effectiveness of Pretraining Ternary Language Models at Scale <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12327) [[Code]](https://github.com/NolanoOrg/SpectraSuite) [![Stars](https://img.shields.io/github/stars/NolanoOrg/SpectraSuite?style=social)](https://github.com/NolanoOrg/SpectraSuite)
 
 - Mamba-PTQ: Outlier Channels in Recurrent Large Language Models  <br> Efficient Systems for Foundation Models Workshop @ ICML 2024 [[Paper]](https://arxiv.org/abs/2407.12397)
 
 - Compensate Quantization Errors+: Quantized Models Are Inquisitive Learners <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.15508)
 
-- Accurate and Efficient Fine-Tuning of Quantized Large Language Models Through Optimal Balance <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.17029) [[Code]](https://github.com/xiaocaigou/qbaraqahira) 
+- Accurate and Efficient Fine-Tuning of Quantized Large Language Models Through Optimal Balance <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.17029) [[Code]](https://github.com/xiaocaigou/qbaraqahira) [![Stars](https://img.shields.io/github/stars/xiaocaigou/qbaraqahira?style=social)](https://github.com/xiaocaigou/qbaraqahira)
 
 - STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.01803)
 
@@ -705,19 +705,19 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models <br> AAAI 2025 [[Paper]](https://arxiv.org/abs/2408.08554) 
 
-- MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11743) [[Code (Marlin)]](https://github.com/IST-DASLab/marlin) [[Code (Sparse Marlin)]](https://github.com/IST-DASLab/Sparse-Marlin)
+- MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11743) [[Code (Marlin)]](https://github.com/IST-DASLab/marlin) [[Code (Sparse Marlin)]](https://github.com/IST-DASLab/Sparse-Marlin) [![Stars](https://img.shields.io/github/stars/IST-DASLab/marlin?style=social)](https://github.com/IST-DASLab/marlin)
 
 - Matmul or No Matmal in the Era of 1-bit LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11939)
 
-- MobileQuant: Mobile-friendly Quantization for On-device Language Models  <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2408.13933) [[Code]](https://github.com/saic-fi/MobileQuant) 
+- MobileQuant: Mobile-friendly Quantization for On-device Language Models  <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2408.13933) [[Code]](https://github.com/saic-fi/MobileQuant) [![Stars](https://img.shields.io/github/stars/saic-fi/MobileQuant?style=social)](https://github.com/saic-fi/MobileQuant)
 
-- GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.15300) [[Code]](https://github.com/On-Point-RND/GIFT_SW) 
+- GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.15300) [[Code]](https://github.com/On-Point-RND/GIFT_SW) [![Stars](https://img.shields.io/github/stars/On-Point-RND/GIFT_SW?style=social)](https://github.com/On-Point-RND/GIFT_SW)
 
 - Foundations of Large Language Model Compression -- Part 1: Weight Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.02026) 
 
 - OPAL: Outlier-Preserved Microscaling Quantization A ccelerator for Generative Large Language Models <br> DAC 2024 [[Paper]](https://arxiv.org/abs/2409.05902)
 
-- VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2409.17066) [[Code]](https://github.com/microsoft/VPTQ)
+- VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2409.17066) [[Code]](https://github.com/microsoft/VPTQ) [![Stars](https://img.shields.io/github/stars/microsoft/VPTQ?style=social)](https://github.com/microsoft/VPTQ)
 
 - Scaling FP8 training to trillion-token LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.12517)
 
@@ -725,27 +725,27 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Efficient Arbitrary Precision Acceleration for Large Language Models on GPU Tensor Cores <br> ASP-DAC 2025 [[Paper]](https://arxiv.org/abs/2409.17870)
 
-- Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.20361) [[Code]](https://github.com/Coco58323/Rotated_Runtime_Smooth)
+- Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.20361) [[Code]](https://github.com/Coco58323/Rotated_Runtime_Smooth) [![Stars](https://img.shields.io/github/stars/Coco58323/Rotated_Runtime_Smooth?style=social)](https://github.com/Coco58323/Rotated_Runtime_Smooth)
 
 - EXAQ: Exponent Aware Quantization For LLMs Acceleration <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03185) 
 
-- ARB-LLM: Alternating Refined Binarizations for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03129) [[Code]](https://github.com/ZHITENGLI/ARB-LLM)
+- ARB-LLM: Alternating Refined Binarizations for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03129) [[Code]](https://github.com/ZHITENGLI/ARB-LLM) [![Stars](https://img.shields.io/github/stars/ZHITENGLI/ARB-LLM?style=social)](https://github.com/ZHITENGLI/ARB-LLM)
 
-- PrefixQuant: Eliminating Outliers by Prefixed Tokens for Large Language Models Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.05265) [[Code]](https://github.com/ChenMnZ/PrefixQuant)
+- PrefixQuant: Eliminating Outliers by Prefixed Tokens for Large Language Models Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.05265) [[Code]](https://github.com/ChenMnZ/PrefixQuant) [![Stars](https://img.shields.io/github/stars/ChenMnZ/PrefixQuant?style=social)](https://github.com/ChenMnZ/PrefixQuant)
 
 - Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2410.06364) 
 
 - Scaling Laws For Mixed Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.06722) 
 
-- Q-VLM: Post-training Quantization for Large Vision-Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2410.08119) [[Code]](https://github.com/ChangyuanWang17/QVLM)
+- Q-VLM: Post-training Quantization for Large Vision-Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2410.08119) [[Code]](https://github.com/ChangyuanWang17/QVLM) [![Stars](https://img.shields.io/github/stars/ChangyuanWang17/QVLM?style=social)](https://github.com/ChangyuanWang17/QVLM)
 
 - CrossQuant: A Post-Training Quantization Method with Smaller Quantization Kernel for Precise Large Language Model Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.07505) 
 
-- FlatQuant: Flatness Matters for LLM Quantization <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2410.09426) [[Code]](https://github.com/ruikangliu/FlatQuant)
+- FlatQuant: Flatness Matters for LLM Quantization <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2410.09426) [[Code]](https://github.com/ruikangliu/FlatQuant) [![Stars](https://img.shields.io/github/stars/ruikangliu/FlatQuant?style=social)](https://github.com/ruikangliu/FlatQuant)
 
 - DeltaDQ: Ultra-High Delta Compression for Fine-Tuned LLMs via Group-wise Dropout and Separate Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.08666) 
 
-- QEFT: Quantization for Efficient Fine-Tuning of LLMs <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.08661) [[Code]](https://github.com/xvyaward/qeft)
+- QEFT: Quantization for Efficient Fine-Tuning of LLMs <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.08661) [[Code]](https://github.com/xvyaward/qeft) [![Stars](https://img.shields.io/github/stars/xvyaward/qeft?style=social)](https://github.com/xvyaward/qeft)
 
 - Continuous Approximations for Improving Quantization Aware Training of LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.10849) 
 
@@ -765,9 +765,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Pyramid Vector Quantization for LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.16926) 
 
-- TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.19103) [[Code]](https://github.com/Intelligent-Computing-Lab-Panda/TesseraQ)
+- TesseraQ: Ultra Low-Bit LLM Post-Training Quantization with Block Reconstruction <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.19103) [[Code]](https://github.com/Intelligent-Computing-Lab-Panda/TesseraQ) [![Stars](https://img.shields.io/github/stars/Intelligent-Computing-Lab-Panda/TesseraQ?style=social)](https://github.com/Intelligent-Computing-Lab-Panda/TesseraQ)
 
-- COAT: Compressing Optimizer states and Activation for Memory-Efficient FP8 Training <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2410.19313) [[Code]](https://github.com/NVlabs/COAT)
+- COAT: Compressing Optimizer states and Activation for Memory-Efficient FP8 Training <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2410.19313) [[Code]](https://github.com/NVlabs/COAT) [![Stars](https://img.shields.io/github/stars/NVlabs/COAT?style=social)](https://github.com/NVlabs/COAT)
 
 - GWQ: Gradient-Aware Weight Quantization for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.00850) 
 
@@ -777,19 +777,19 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - BitNet a4.8: 4-bit Activations for 1-bit LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.04965) 
 
-- The Super Weight in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.07191) [[Code]](https://github.com/mengxiayu/LLMSuperWeight)
+- The Super Weight in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.07191) [[Code]](https://github.com/mengxiayu/LLMSuperWeight) [![Stars](https://img.shields.io/github/stars/mengxiayu/LLMSuperWeight?style=social)](https://github.com/mengxiayu/LLMSuperWeight)
 
 - ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization <br> AAAI 2025 [[Paper]](https://arxiv.org/abs/2411.07762) 
 
 - Towards Low-bit Communication for Tensor Parallel LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.07942) 
 
-- AMXFP4: Taming Activation Outliers with Asymmetric Microscaling Floating-Point for 4-bit LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.09909) [[Code]](https://github.com/aiha-lab/MX-QLLM)
+- AMXFP4: Taming Activation Outliers with Asymmetric Microscaling Floating-Point for 4-bit LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.09909) [[Code]](https://github.com/aiha-lab/MX-QLLM) [![Stars](https://img.shields.io/github/stars/aiha-lab/MX-QLLM?style=social)](https://github.com/aiha-lab/MX-QLLM)
 
 - Scaling Laws for Precision <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.04330) 
 
-- BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration <br> HPCA 2025 [[Paper]](https://arxiv.org/abs/2411.11745) [[Code]](https://github.com/yc2367/BitMoD-HPCA-25)
+- BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration <br> HPCA 2025 [[Paper]](https://arxiv.org/abs/2411.11745) [[Code]](https://github.com/yc2367/BitMoD-HPCA-25) [![Stars](https://img.shields.io/github/stars/yc2367/BitMoD-HPCA-25?style=social)](https://github.com/yc2367/BitMoD-HPCA-25)
 
-- SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2411.10958) [[Code]](https://github.com/thu-ml/SageAttention)
+- SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2411.10958) [[Code]](https://github.com/thu-ml/SageAttention) [![Stars](https://img.shields.io/github/stars/thu-ml/SageAttention?style=social)](https://github.com/thu-ml/SageAttention)
 
 - AutoMixQ: Self-Adjusting Quantization for High Performance Memory-Efficient Fine-Tuning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.13814)
 
@@ -801,7 +801,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.17691) [[Models]](https://huggingface.co/Xu-Ouyang)
 
-- DFRot: Achieving Outlier-Free and Massive Activation-Free for Rotated LLMs with Refined Rotation <br> COLM 2025 [[Paper]](https://arxiv.org/abs/2412.00648) [[Code]](https://github.com/JingyangXiang/DFRot)
+- DFRot: Achieving Outlier-Free and Massive Activation-Free for Rotated LLMs with Refined Rotation <br> COLM 2025 [[Paper]](https://arxiv.org/abs/2412.00648) [[Code]](https://github.com/JingyangXiang/DFRot) [![Stars](https://img.shields.io/github/stars/JingyangXiang/DFRot?style=social)](https://github.com/JingyangXiang/DFRot)
 
 - RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy <br> AAAI 2025 [[Paper]](https://arxiv.org/abs/2412.01129)
 
@@ -809,7 +809,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - SKIM: Any-bit Quantization Pushing The Limits of Post-Training Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.04180)
 
-- Direct Quantized Training of Language Models with Stochastic Rounding <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.04787) [[Code]](https://github.com/KYuuto1006/DQT)
+- Direct Quantized Training of Language Models with Stochastic Rounding <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.04787) [[Code]](https://github.com/KYuuto1006/DQT) [![Stars](https://img.shields.io/github/stars/KYuuto1006/DQT?style=social)](https://github.com/KYuuto1006/DQT)
 
 - Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.06858)
 
@@ -817,7 +817,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - CRVQ: Channel-relaxed Vector Quantization for Extreme Compression of LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.09282) 
 
-- ResQ: Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.14363) [[Code]](https://github.com/utkarsh-dmx/project-resq)
+- ResQ: Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.14363) [[Code]](https://github.com/utkarsh-dmx/project-resq) [![Stars](https://img.shields.io/github/stars/utkarsh-dmx/project-resq?style=social)](https://github.com/utkarsh-dmx/project-resq)
 
 - MixLLM: LLM Quantization with Global Mixed-precision between Output-features and Highly-efficient System Design <br> MLSys 2026 [[Paper]](https://arxiv.org/abs/2412.14590)
 
@@ -832,7 +832,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2023</b> &nbsp;·&nbsp; 75 papers</summary>
 
-- FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2306.00317) [[Code (DeepSpeed)]](https://github.com/deepspeedai/DeepSpeed)
+- FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2306.00317) [[Code (DeepSpeed)]](https://github.com/deepspeedai/DeepSpeed) [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed)
 
 - Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2301.12017) [[Code]](https://openreview.net/attachment?id=-tYCaP0phY_&name=supplementary_material)
 
@@ -842,15 +842,15 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Boost Transformer-based Language Models with GPU-Friendly Sparsity and Quantization <br> ACL 2023 [[Paper]](https://aclanthology.org/2023.findings-acl.15.pdf) 
 
-- QLoRA: Efficient Finetuning of Quantized LLMs <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2305.14314) [[Code]](https://github.com/artidoro/qlora)
+- QLoRA: Efficient Finetuning of Quantized LLMs <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2305.14314) [[Code]](https://github.com/artidoro/qlora) [![Stars](https://img.shields.io/github/stars/artidoro/qlora?style=social)](https://github.com/artidoro/qlora)
 
 - The Quantization Model of Neural Scaling <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2303.13506)
 
 - Quantized Distributed Training of Large Models with Convergence Guarantees <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2302.02390)
 
-- RPTQ: Reorder-based Post-training Quantization for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.01089) [[Code]](https://github.com/hahnyuan/RPTQ4LLM)
+- RPTQ: Reorder-based Post-training Quantization for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2304.01089) [[Code]](https://github.com/hahnyuan/RPTQ4LLM) [![Stars](https://img.shields.io/github/stars/hahnyuan/RPTQ4LLM?style=social)](https://github.com/hahnyuan/RPTQ4LLM)
 
-- ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation <br> AAAI 2024 [[Paper]](https://arxiv.org/abs/2303.08302) [[Code]](https://github.com/deepspeedai/DeepSpeed)
+- ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation <br> AAAI 2024 [[Paper]](https://arxiv.org/abs/2303.08302) [[Code]](https://github.com/deepspeedai/DeepSpeed) [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed)
 
 - Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2305.12356)
 
@@ -858,27 +858,27 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.11186)
 
-- AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration <br> MLSys 2024 (Best Paper 🏆) [[Paper]](https://arxiv.org/abs/2306.00978) [[Code]](https://github.com/mit-han-lab/llm-awq)
+- AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration <br> MLSys 2024 (Best Paper 🏆) [[Paper]](https://arxiv.org/abs/2306.00978) [[Code]](https://github.com/mit-han-lab/llm-awq) [![Stars](https://img.shields.io/github/stars/mit-han-lab/llm-awq?style=social)](https://github.com/mit-han-lab/llm-awq)
 
-- LLM-QAT: Data-Free Quantization Aware Training for Large Language Models <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2305.17888) [[Code]](https://github.com/facebookresearch/LLM-QAT)
+- LLM-QAT: Data-Free Quantization Aware Training for Large Language Models <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2305.17888) [[Code]](https://github.com/facebookresearch/LLM-QAT) [![Stars](https://img.shields.io/github/stars/facebookresearch/LLM-QAT?style=social)](https://github.com/facebookresearch/LLM-QAT)
 
-- SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.03078) [[Code]](https://github.com/Vahe1994/SpQR)
+- SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.03078) [[Code]](https://github.com/Vahe1994/SpQR) [![Stars](https://img.shields.io/github/stars/Vahe1994/SpQR?style=social)](https://github.com/Vahe1994/SpQR)
 
 - OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large Language Models <br> AAAI 2024 [[Paper]](https://arxiv.org/abs/2306.02272)
 
-- SqueezeLLM: Dense-and-Sparse Quantization <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2306.07629)  [[Code]](https://github.com/SqueezeAILab/SqueezeLLM)
+- SqueezeLLM: Dense-and-Sparse Quantization <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2306.07629)  [[Code]](https://github.com/SqueezeAILab/SqueezeLLM) [![Stars](https://img.shields.io/github/stars/SqueezeAILab/SqueezeLLM?style=social)](https://github.com/SqueezeAILab/SqueezeLLM)
 
 - INT2.1: Towards Fine-Tunable Quantized Large Language Models with Error Correction through Low-Rank Adaptation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2306.08162)
 
 - LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2311.12023)
 
-- INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.03712) [[Code]](https://github.com/lightmatter-ai/INT-FP-QSim)
+- INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.03712) [[Code]](https://github.com/lightmatter-ai/INT-FP-QSim) [![Stars](https://img.shields.io/github/stars/lightmatter-ai/INT-FP-QSim?style=social)](https://github.com/lightmatter-ai/INT-FP-QSim)
 
-- QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.03738) [[Code]](https://github.com/IST-DASLab/QIGen)
+- QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.03738) [[Code]](https://github.com/IST-DASLab/QIGen) [![Stars](https://img.shields.io/github/stars/IST-DASLab/QIGen?style=social)](https://github.com/IST-DASLab/QIGen)
 
 - Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study <br> COLING 2024 [[Paper]](https://arxiv.org/abs/2307.08072)
 
-- ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.09782) [[Code (DeepSpeed)]](https://github.com/deepspeedai/DeepSpeed)
+- ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.09782) [[Code (DeepSpeed)]](https://github.com/deepspeedai/DeepSpeed) [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed)
 
 - OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization <br> ISCA 2023 [[Paper]](https://arxiv.org/abs/2304.07493)
 
@@ -892,7 +892,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - FineQuant: Unlocking Efficiency with Fine-Grained Weight-Only Quantization for LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.09723)
 
-- OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2308.13137) [[Code]](https://github.com/OpenGVLab/OmniQuant)
+- OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2308.13137) [[Code]](https://github.com/OpenGVLab/OmniQuant) [![Stars](https://img.shields.io/github/stars/OpenGVLab/OmniQuant?style=social)](https://github.com/OpenGVLab/OmniQuant)
 
 - FPTQ: Fine-grained Post-Training Quantization for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.15987)
 
@@ -906,39 +906,39 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - MEMORY-VQ: Compression for Tractable Internet-Scale Memory <br> NAACL 2024 [[Paper]](https://arxiv.org/abs/2308.14903)
 
-- Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2309.05516) [[Code]](https://github.com/intel/auto-round)
+- Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2309.05516) [[Code]](https://github.com/intel/auto-round) [![Stars](https://img.shields.io/github/stars/intel/auto-round?style=social)](https://github.com/intel/auto-round)
 
-- Efficient Post-training Quantization with FP8 Formats <br> MLSys 2024 [[Paper]](https://arxiv.org/abs/2309.14592) [[Code (Intel® Neural Compressor)]](https://github.com/intel/neural-compressor)
+- Efficient Post-training Quantization with FP8 Formats <br> MLSys 2024 [[Paper]](https://arxiv.org/abs/2309.14592) [[Code (Intel® Neural Compressor)]](https://github.com/intel/neural-compressor) [![Stars](https://img.shields.io/github/stars/intel/neural-compressor?style=social)](https://github.com/intel/neural-compressor)
 
-- QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2309.14717) [[Code]](https://github.com/yuhuixu1993/qa-lora)
+- QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2309.14717) [[Code]](https://github.com/yuhuixu1993/qa-lora) [![Stars](https://img.shields.io/github/stars/yuhuixu1993/qa-lora?style=social)](https://github.com/yuhuixu1993/qa-lora)
 
-- Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2309.15531) [[Code]](https://github.com/johnheo/adadim-llm)
+- Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2309.15531) [[Code]](https://github.com/johnheo/adadim-llm) [![Stars](https://img.shields.io/github/stars/johnheo/adadim-llm?style=social)](https://github.com/johnheo/adadim-llm)
 
 - ModuLoRA: Finetuning 3-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers <br> TMLR (Featured Certification 🌟) [[Paper]](https://arxiv.org/abs/2309.16119) 
 
-- PB-LLM: Partially Binarized Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.00034) [[Code]](https://github.com/hahnyuan/PB-LLM)
+- PB-LLM: Partially Binarized Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.00034) [[Code]](https://github.com/hahnyuan/PB-LLM) [![Stars](https://img.shields.io/github/stars/hahnyuan/PB-LLM?style=social)](https://github.com/hahnyuan/PB-LLM)
 
 - Dual Grained Quantization: Efficient Fine-Grained Quantization for LLM <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.04836) 
 
-- QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.08041) [[Code]](https://github.com/ModelTC/QLLM)
+- QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.08041) [[Code]](https://github.com/ModelTC/QLLM) [![Stars](https://img.shields.io/github/stars/ModelTC/QLLM?style=social)](https://github.com/ModelTC/QLLM)
 
-- LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.08659) [[Code]](https://github.com/yxli2123/LoftQ)
+- LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.08659) [[Code]](https://github.com/yxli2123/LoftQ) [![Stars](https://img.shields.io/github/stars/yxli2123/LoftQ?style=social)](https://github.com/yxli2123/LoftQ)
 
 - QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources <br> ICLR 2026 Workshop [[Paper]](https://arxiv.org/abs/2310.07147) 
 
-- TEQ: Trainable Equivalent Transformation for Quantization of LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.10944) [[Code (Intel® Neural Compressor)]](https://github.com/intel/neural-compressor)
+- TEQ: Trainable Equivalent Transformation for Quantization of LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.10944) [[Code (Intel® Neural Compressor)]](https://github.com/intel/neural-compressor) [![Stars](https://img.shields.io/github/stars/intel/neural-compressor?style=social)](https://github.com/intel/neural-compressor)
 
-- BitNet: Scaling 1-bit Transformers for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.11453)  [[Code]](https://github.com/Beomi/BitNet-Transformers)
+- BitNet: Scaling 1-bit Transformers for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.11453)  [[Code]](https://github.com/Beomi/BitNet-Transformers) [![Stars](https://img.shields.io/github/stars/Beomi/BitNet-Transformers?style=social)](https://github.com/Beomi/BitNet-Transformers)
 
-- FP8-LM: Training FP8 Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.18313) [[Code]](https://github.com/Azure/MS-AMP)
+- FP8-LM: Training FP8 Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.18313) [[Code]](https://github.com/Azure/MS-AMP) [![Stars](https://img.shields.io/github/stars/Azure/MS-AMP?style=social)](https://github.com/Azure/MS-AMP)
 
-- QUIK: Towards End-to-End 4-Bit Inference on Generative Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2310.09259) [[Code]](https://github.com/IST-DASLab/QUIK)
+- QUIK: Towards End-to-End 4-Bit Inference on Generative Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2310.09259) [[Code]](https://github.com/IST-DASLab/QUIK) [![Stars](https://img.shields.io/github/stars/IST-DASLab/QUIK?style=social)](https://github.com/IST-DASLab/QUIK)
 
-- AFPQ: Asymmetric Floating Point Quantization for LLMs <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2311.01792) [[Code]](https://github.com/zhangsichengsjtu/AFPQ)
+- AFPQ: Asymmetric Floating Point Quantization for LLMs <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2311.01792) [[Code]](https://github.com/zhangsichengsjtu/AFPQ) [![Stars](https://img.shields.io/github/stars/zhangsichengsjtu/AFPQ?style=social)](https://github.com/zhangsichengsjtu/AFPQ)
 
 - AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.01305) 
 
-- Atom: Low-bit Quantization for Efficient and Accurate LLM Serving <br> MLSys 2024 [[Paper]](https://arxiv.org/abs/2310.19102) [[Code]](https://github.com/efeslab/Atom)
+- Atom: Low-bit Quantization for Efficient and Accurate LLM Serving <br> MLSys 2024 [[Paper]](https://arxiv.org/abs/2310.19102) [[Code]](https://github.com/efeslab/Atom) [![Stars](https://img.shields.io/github/stars/efeslab/Atom?style=social)](https://github.com/efeslab/Atom)
 
 - QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.16795) 
 
@@ -950,23 +950,23 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Fast and Efficient 2-bit LLM Inference on GPU: 2/4/16-bit in a Weight Matrix with Asynchronous Dequantization <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.16442)
 
-- Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2306.12929) [[Code]](https://github.com/Qualcomm-AI-research/outlier-free-transformers)
+- Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2306.12929) [[Code]](https://github.com/Qualcomm-AI-research/outlier-free-transformers) [![Stars](https://img.shields.io/github/stars/Qualcomm-AI-research/outlier-free-transformers?style=social)](https://github.com/Qualcomm-AI-research/outlier-free-transformers)
 
-- Efficient LLM Inference on CPUs <br> NeurIPS 2023 on Efficient Natural Language and Speech Processing [[Paper]](https://arxiv.org/abs/2311.00502) [[Code]](https://github.com/intel/intel-extension-for-transformers)
+- Efficient LLM Inference on CPUs <br> NeurIPS 2023 on Efficient Natural Language and Speech Processing [[Paper]](https://arxiv.org/abs/2311.00502) [[Code]](https://github.com/intel/intel-extension-for-transformers) [![Stars](https://img.shields.io/github/stars/intel/intel-extension-for-transformers?style=social)](https://github.com/intel/intel-extension-for-transformers)
 
 - The Cost of Compression: Investigating the Impact of Compression on Parametric Knowledge in Language Models <br> EMNLP Findings 2023 [[Paper]](https://arxiv.org/abs/2312.00960) 
 
 - Zero-Shot Sharpness-Aware Quantization for Pre-trained Language Models <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.13315) 
 
-- Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference? <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.05079) [[Code]](https://github.com/ChengZhang-98/llm-mixed-q) 
+- Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference? <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.05079) [[Code]](https://github.com/ChengZhang-98/llm-mixed-q) [![Stars](https://img.shields.io/github/stars/ChengZhang-98/llm-mixed-q?style=social)](https://github.com/ChengZhang-98/llm-mixed-q)
 
 - Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2304.09145)
 
-- Watermarking LLMs with Weight Quantization <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.11237) [[Code]](https://github.com/Twilight92z/Quantize-Watermark)
+- Watermarking LLMs with Weight Quantization <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.11237) [[Code]](https://github.com/Twilight92z/Quantize-Watermark) [![Stars](https://img.shields.io/github/stars/Twilight92z/Quantize-Watermark?style=social)](https://github.com/Twilight92z/Quantize-Watermark)
 
 - Enhancing Computation Efficiency in Large Language Models through Weight and Activation Quantization <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2311.05161)
 
-- LLM-FP4: 4-Bit Floating-Point Quantized Transformers <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.16836) [[Code]](https://github.com/nbasyl/LLM-FP4)
+- LLM-FP4: 4-Bit Floating-Point Quantized Transformers <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.16836) [[Code]](https://github.com/nbasyl/LLM-FP4) [![Stars](https://img.shields.io/github/stars/nbasyl/LLM-FP4?style=social)](https://github.com/nbasyl/LLM-FP4)
 
 - Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge <br> AAAI 2024 [[Paper]](https://arxiv.org/abs/2312.05693)
 
@@ -976,28 +976,28 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.08583)
 
-- QuIP: 2-Bit Quantization of Large Language Models With Guarantees <br> NeurIPS 2023 [[Paper]](https://openreview.net/pdf?id=xrk9g5vcXR) [[Code]](https://github.com/jerry-chee/QuIP)
+- QuIP: 2-Bit Quantization of Large Language Models With Guarantees <br> NeurIPS 2023 [[Paper]](https://openreview.net/pdf?id=xrk9g5vcXR) [[Code]](https://github.com/jerry-chee/QuIP) [![Stars](https://img.shields.io/github/stars/jerry-chee/QuIP?style=social)](https://github.com/jerry-chee/QuIP)
 
 - A Performance Evaluation of a Quantized Large Language Model on Various Smartphones <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.12472)
 
-- DeltaZip: Efficient Serving of Multiple Full-Model-Tuned LLMs <br> EuroSys 2025 [[Paper]](https://arxiv.org/abs/2312.05215) [[Code]](https://github.com/eth-easl/deltazip)
+- DeltaZip: Efficient Serving of Multiple Full-Model-Tuned LLMs <br> EuroSys 2025 [[Paper]](https://arxiv.org/abs/2312.05215) [[Code]](https://github.com/eth-easl/deltazip) [![Stars](https://img.shields.io/github/stars/eth-easl/deltazip?style=social)](https://github.com/eth-easl/deltazip)
 
 </details>
 
 <details>
 <summary><b>2022</b> &nbsp;·&nbsp; 6 papers</summary>
 
-- ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/deepspeedai/DeepSpeed)
+- ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2206.01861) [[Code (DeepSpeed)]](https://github.com/deepspeedai/DeepSpeed) [![Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)](https://github.com/deepspeedai/DeepSpeed)
 
-- LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2208.07339) [[Code]](https://github.com/bitsandbytes-foundation/bitsandbytes)
+- LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2208.07339) [[Code]](https://github.com/bitsandbytes-foundation/bitsandbytes) [![Stars](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes?style=social)](https://github.com/bitsandbytes-foundation/bitsandbytes)
 
-- Outlier Suppression: Pushing the Limit of Low-bit Transformer Language Models <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2209.13325) [[Code]](https://github.com/wimh966/outlier_suppression)
+- Outlier Suppression: Pushing the Limit of Low-bit Transformer Language Models <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2209.13325) [[Code]](https://github.com/wimh966/outlier_suppression) [![Stars](https://img.shields.io/github/stars/wimh966/outlier_suppression?style=social)](https://github.com/wimh966/outlier_suppression)
 
 - LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2206.09557) 
 
-- SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2211.10438) [[Code]](https://github.com/mit-han-lab/smoothquant)
+- SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2211.10438) [[Code]](https://github.com/mit-han-lab/smoothquant) [![Stars](https://img.shields.io/github/stars/mit-han-lab/smoothquant?style=social)](https://github.com/mit-han-lab/smoothquant)
 
-- GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers <br> ICLR 2023 [[Paper]](https://arxiv.org/abs/2210.17323) [[Code]](https://github.com/IST-DASLab/gptq)
+- GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers <br> ICLR 2023 [[Paper]](https://arxiv.org/abs/2210.17323) [[Code]](https://github.com/IST-DASLab/gptq) [![Stars](https://img.shields.io/github/stars/IST-DASLab/gptq?style=social)](https://github.com/IST-DASLab/gptq)
 
 </details>
 
@@ -1006,69 +1006,69 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details open>
 <summary><b>2026</b> &nbsp;·&nbsp; 33 papers</summary>
 
-- Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL)
+- Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL) [![Stars](https://img.shields.io/github/stars/TANIGUCHIREI/ASL?style=social)](https://github.com/TANIGUCHIREI/ASL)
 
 - LLMs can Compress LLMs: Adaptive Pruning by Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.09694)
 
-- Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.17917) [[Code]](https://github.com/xiaoshideta/Streaming-dLLM)
+- Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.17917) [[Code]](https://github.com/xiaoshideta/Streaming-dLLM) [![Stars](https://img.shields.io/github/stars/xiaoshideta/Streaming-dLLM?style=social)](https://github.com/xiaoshideta/Streaming-dLLM)
 
 - GradPruner: Gradient-Guided Layer Pruning Enabling Efficient Fine-Tuning and Inference for LLMs <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2601.19503)
 
 - FASA: Frequency-aware Sparse Attention <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2602.03152)
 
-- Compressing LLMs with MoP: Mixture of Pruners <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.06127) [[Code]](https://github.com/c2d-usp/Efficient-LLMs-with-MoP)
+- Compressing LLMs with MoP: Mixture of Pruners <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.06127) [[Code]](https://github.com/c2d-usp/Efficient-LLMs-with-MoP) [![Stars](https://img.shields.io/github/stars/c2d-usp/Efficient-LLMs-with-MoP?style=social)](https://github.com/c2d-usp/Efficient-LLMs-with-MoP)
 
 - Pruning as a Cooperative Game: Surrogate-Assisted Layer Contribution Estimation for Large Language Models <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2602.07804)
 
-- Sink-Aware Pruning for Diffusion Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.17664) [[Code]](https://github.com/VILA-Lab/Sink-Aware-Pruning)
+- Sink-Aware Pruning for Diffusion Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.17664) [[Code]](https://github.com/VILA-Lab/Sink-Aware-Pruning) [![Stars](https://img.shields.io/github/stars/VILA-Lab/Sink-Aware-Pruning?style=social)](https://github.com/VILA-Lab/Sink-Aware-Pruning)
 
-- Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization <br> UAI 2026 [[Paper]](https://arxiv.org/abs/2603.00910) [[Code]](https://github.com/TKAI-LAB-Mali/Curvature-Weighted-Capacity-Allocation)
+- Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization <br> UAI 2026 [[Paper]](https://arxiv.org/abs/2603.00910) [[Code]](https://github.com/TKAI-LAB-Mali/Curvature-Weighted-Capacity-Allocation) [![Stars](https://img.shields.io/github/stars/TKAI-LAB-Mali/Curvature-Weighted-Capacity-Allocation?style=social)](https://github.com/TKAI-LAB-Mali/Curvature-Weighted-Capacity-Allocation)
 
-- Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.05168) [[Code]](https://github.com/AAzdi/Sparse-BitNet)
+- Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.05168) [[Code]](https://github.com/AAzdi/Sparse-BitNet) [![Stars](https://img.shields.io/github/stars/AAzdi/Sparse-BitNet?style=social)](https://github.com/AAzdi/Sparse-BitNet)
 
 - Stem: Rethinking Causal Information Flow in Sparse Attention <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.06274)
 
-- High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune)
+- High-Fidelity Pruning for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.08083) [[Code]](https://github.com/visresearch/HFPrune) [![Stars](https://img.shields.io/github/stars/visresearch/HFPrune?style=social)](https://github.com/visresearch/HFPrune)
 
-- Sparser, Faster, Lighter Transformer Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.23198) [[Code]](https://github.com/SakanaAI/sparser-faster-llms)
+- Sparser, Faster, Lighter Transformer Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.23198) [[Code]](https://github.com/SakanaAI/sparser-faster-llms) [![Stars](https://img.shields.io/github/stars/SakanaAI/sparser-faster-llms?style=social)](https://github.com/SakanaAI/sparser-faster-llms)
 
-- REAM: Merging Improves Pruning of Experts in LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.04356) [[Code]](https://github.com/SamsungSAILMontreal/ream)
+- REAM: Merging Improves Pruning of Experts in LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.04356) [[Code]](https://github.com/SamsungSAILMontreal/ream) [![Stars](https://img.shields.io/github/stars/SamsungSAILMontreal/ream?style=social)](https://github.com/SamsungSAILMontreal/ream)
 
 - GRASPrune: Global Gating for Budgeted Structured Pruning of Large Language Models <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2604.19398)
 
 - Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2604.25098)
 
-- Compute Where it Counts: Self Optimizing Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.10875) [[Code]](https://github.com/akhauriyash/SOL)
+- Compute Where it Counts: Self Optimizing Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.10875) [[Code]](https://github.com/akhauriyash/SOL) [![Stars](https://img.shields.io/github/stars/akhauriyash/SOL?style=social)](https://github.com/akhauriyash/SOL)
 
-- Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.15491) [[Code]](https://github.com/daniel-eai/ghosted_layers_official_repository)
+- Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.15491) [[Code]](https://github.com/daniel-eai/ghosted_layers_official_repository) [![Stars](https://img.shields.io/github/stars/daniel-eai/ghosted_layers_official_repository?style=social)](https://github.com/daniel-eai/ghosted_layers_official_repository)
 
 - LEAP: Learnable End-to-End Adaptive Pruning of Large Language Models <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2605.17289)
 
 - Efficient Long-Context Modeling in Diffusion Language Models via Block Approximate Sparse Attention <br> CVPR 2026 [[Paper]](https://arxiv.org/abs/2605.19726)
 
-- Locality-Aware Redundancy Pruning for LLM Depth Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.27786) [[Code]](https://github.com/daniel-eai/LoRP-Locality-Aware-Redundancy-Pruning)
+- Locality-Aware Redundancy Pruning for LLM Depth Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.27786) [[Code]](https://github.com/daniel-eai/LoRP-Locality-Aware-Redundancy-Pruning) [![Stars](https://img.shields.io/github/stars/daniel-eai/LoRP-Locality-Aware-Redundancy-Pruning?style=social)](https://github.com/daniel-eai/LoRP-Locality-Aware-Redundancy-Pruning)
 
-- FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.09079) [[Code]](https://github.com/libertywing/FlashMemory-Deepseek-V4)
+- FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.09079) [[Code]](https://github.com/libertywing/FlashMemory-Deepseek-V4) [![Stars](https://img.shields.io/github/stars/libertywing/FlashMemory-Deepseek-V4?style=social)](https://github.com/libertywing/FlashMemory-Deepseek-V4)
 
-- Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.09080) [[Code]](https://github.com/EIT-NLP/LLM-Pruning)
+- Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.09080) [[Code]](https://github.com/EIT-NLP/LLM-Pruning) [![Stars](https://img.shields.io/github/stars/EIT-NLP/LLM-Pruning?style=social)](https://github.com/EIT-NLP/LLM-Pruning)
 
-- Persona-Pruner: Sculpting Lightweight Models for Role-Playing <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.14695) [[Code]](https://github.com/jsu-kim/Persona-Pruner)
+- Persona-Pruner: Sculpting Lightweight Models for Role-Playing <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.14695) [[Code]](https://github.com/jsu-kim/Persona-Pruner) [![Stars](https://img.shields.io/github/stars/jsu-kim/Persona-Pruner?style=social)](https://github.com/jsu-kim/Persona-Pruner)
 
 - Dustin: Draft-Augmented Sparse Verification for Efficient Long-Context Generation with Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.24957)
 
 - EPTS: Elastic Post-Training Sparsity for Efficient Large Language Model Compression <br> KDD 2026 [[Paper]](https://arxiv.org/abs/2606.25285)
 
-- Super-Tuning: From Activation-Aware Pruning to Sparse Fine-Tuning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.09287) [[Code]](https://github.com/vectozavr/SuperTuning)
+- Super-Tuning: From Activation-Aware Pruning to Sparse Fine-Tuning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.09287) [[Code]](https://github.com/vectozavr/SuperTuning) [![Stars](https://img.shields.io/github/stars/vectozavr/SuperTuning?style=social)](https://github.com/vectozavr/SuperTuning)
 
-- WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.28418) [[Code]](https://github.com/EIT-NLP/LLM-Pruning)
+- WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.28418) [[Code]](https://github.com/EIT-NLP/LLM-Pruning) [![Stars](https://img.shields.io/github/stars/EIT-NLP/LLM-Pruning?style=social)](https://github.com/EIT-NLP/LLM-Pruning)
 
-- Celty: SpMspV GPU Kernel and SIMT Co-Design for Efficient Dual-Sparse LLM Inference <br> ICCAD 2026 [[Paper]](https://arxiv.org/abs/2608.01536) [[Code]](https://github.com/RuokaiYin/Celty)
+- Celty: SpMspV GPU Kernel and SIMT Co-Design for Efficient Dual-Sparse LLM Inference <br> ICCAD 2026 [[Paper]](https://arxiv.org/abs/2608.01536) [[Code]](https://github.com/RuokaiYin/Celty) [![Stars](https://img.shields.io/github/stars/RuokaiYin/Celty?style=social)](https://github.com/RuokaiYin/Celty)
 
-- The Sparsity Whisperer <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.06630) [[Code]](https://github.com/Shavit-Lab/Whisper)
+- The Sparsity Whisperer <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.06630) [[Code]](https://github.com/Shavit-Lab/Whisper) [![Stars](https://img.shields.io/github/stars/Shavit-Lab/Whisper?style=social)](https://github.com/Shavit-Lab/Whisper)
 
 - Prune Once: Retraining-Free Task-Agnostic Pruning for Vision-Language Models <br> ECCV 2026 [[Paper]](https://arxiv.org/abs/2608.06901)
 
-- Router Sensitivity Under Lightweight Fine-Tuning Identifies Prunable Experts in Mixture-of-Experts Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.07890) [[Code]](https://github.com/ianKa1/MoE_pruning)
+- Router Sensitivity Under Lightweight Fine-Tuning Identifies Prunable Experts in Mixture-of-Experts Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.07890) [[Code]](https://github.com/ianKa1/MoE_pruning) [![Stars](https://img.shields.io/github/stars/ianKa1/MoE_pruning?style=social)](https://github.com/ianKa1/MoE_pruning)
 
 - Reservoir of Importance: Learning Semi-Structured Sparsity with Differentiable Subset Sampling <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2608.23048)
 
@@ -1079,11 +1079,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - FASP: Fast and Accurate Structured Pruning of Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.09412)
 
-- MultiPruner: Balanced Structure Removal in Foundation Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.09949) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/MultiPruner)
+- MultiPruner: Balanced Structure Removal in Foundation Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.09949) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/MultiPruner) [![Stars](https://img.shields.io/github/stars/IntelLabs/Hardware-Aware-Automated-Machine-Learning?style=social)](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)
 
-- Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2501.17088) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/Mamba-Shedder)
+- Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2501.17088) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/Mamba-Shedder) [![Stars](https://img.shields.io/github/stars/IntelLabs/Hardware-Aware-Automated-Machine-Learning?style=social)](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)
 
-- 2SSP: A Two-Stage Framework for Structured Pruning of LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.17771) [[Code]](https://github.com/FabrizioSandri/2SSP)
+- 2SSP: A Two-Stage Framework for Structured Pruning of LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2501.17771) [[Code]](https://github.com/FabrizioSandri/2SSP) [![Stars](https://img.shields.io/github/stars/FabrizioSandri/2SSP?style=social)](https://github.com/FabrizioSandri/2SSP)
 
 - You Only Prune Once: Designing Calibration-Free Model Compression With Policy Learning <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2501.15296)
 
@@ -1097,7 +1097,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Dobi-SVD: Differentiable SVD for LLM Compression and Some New Perspectives <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2502.02723) [[Homepage]](https://ah-miu.github.io/Dobi-SVD.page/)
 
-- EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.06663) [[Code]](https://github.com/Xingrun-Xing2/EfficientLLM)
+- EfficientLLM: Scalable Pruning-Aware Pretraining for Architecture-Agnostic Edge Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.06663) [[Code]](https://github.com/Xingrun-Xing2/EfficientLLM) [![Stars](https://img.shields.io/github/stars/Xingrun-Xing2/EfficientLLM?style=social)](https://github.com/Xingrun-Xing2/EfficientLLM)
 
 - DarwinLM: Evolutionary Structured Pruning of Large Language Models <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2502.07780)
 
@@ -1117,11 +1117,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Efficient LLMs with AMP: Attention Heads and MLP Pruning <br> IJCNN 2025 [[Paper]](https://arxiv.org/abs/2504.21174)
 
-- ReplaceMe: Network Simplification via Layer Pruning and Linear Transformations <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2505.02819) [[Code]](https://github.com/mts-ai/ReplaceMe)
+- ReplaceMe: Network Simplification via Layer Pruning and Linear Transformations <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2505.02819) [[Code]](https://github.com/mts-ai/ReplaceMe) [![Stars](https://img.shields.io/github/stars/mts-ai/ReplaceMe?style=social)](https://github.com/mts-ai/ReplaceMe)
 
 - Large Language Model Compression with Global Rank and Sparsity Optimization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.03801)
 
-- TRIM: Achieving Extreme Sparsity with Targeted Row-wise Iterative Metric-driven Pruning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.16743) [[Code]](https://github.com/flobk/TRIM)
+- TRIM: Achieving Extreme Sparsity with Targeted Row-wise Iterative Metric-driven Pruning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.16743) [[Code]](https://github.com/flobk/TRIM) [![Stars](https://img.shields.io/github/stars/flobk/TRIM?style=social)](https://github.com/flobk/TRIM)
 
 - RAP: Runtime-Adaptive Pruning for LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.17138)
 
@@ -1129,39 +1129,39 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.20155)
 
-- Sparsified State-Space Models are Efficient Highway Networks <br> TMLR 2025 [[Paper]](https://arxiv.org/abs/2505.20698) [[Code]](https://github.com/woominsong/Simba)
+- Sparsified State-Space Models are Efficient Highway Networks <br> TMLR 2025 [[Paper]](https://arxiv.org/abs/2505.20698) [[Code]](https://github.com/woominsong/Simba) [![Stars](https://img.shields.io/github/stars/woominsong/Simba?style=social)](https://github.com/woominsong/Simba)
 
-- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
+- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune) [![Stars](https://img.shields.io/github/stars/visresearch/SDMPrune?style=social)](https://github.com/visresearch/SDMPrune)
 
 - Amber Pruner: Leveraging N:M Activation Sparsity for Efficient Prefill in Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02128)
 
-- Beyond Manually Designed Pruning Policies with Second-Level Performance Prediction: A Pruning Framework for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02381) [[Code]](https://github.com/Ma-zx/PPF)
+- Beyond Manually Designed Pruning Policies with Second-Level Performance Prediction: A Pruning Framework for LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02381) [[Code]](https://github.com/Ma-zx/PPF) [![Stars](https://img.shields.io/github/stars/Ma-zx/PPF?style=social)](https://github.com/Ma-zx/PPF)
 
-- Pruning Large Language Models by Identifying and Preserving Functional Networks <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.05239) [[Code]](https://github.com/WhatAboutMyStar/LLM_ACTIVATION)
+- Pruning Large Language Models by Identifying and Preserving Functional Networks <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.05239) [[Code]](https://github.com/WhatAboutMyStar/LLM_ACTIVATION) [![Stars](https://img.shields.io/github/stars/WhatAboutMyStar/LLM_ACTIVATION?style=social)](https://github.com/WhatAboutMyStar/LLM_ACTIVATION)
 
-- SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06447) [[Code]](https://github.com/Longxmas/SlimInfer)
+- SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06447) [[Code]](https://github.com/Longxmas/SlimInfer) [![Stars](https://img.shields.io/github/stars/Longxmas/SlimInfer?style=social)](https://github.com/Longxmas/SlimInfer)
 
 - EGGS-PTP: An Expander-Graph Guided Structured Post-training Pruning Method for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.09471)
 
-- Z-Pruner: Post-Training Pruning of Large Language Models for Efficiency without Retraining <br> AICCSA 2025 [[Paper]](https://arxiv.org/abs/2508.15828) [[Code]](https://github.com/sazzadadib/Z-Pruner)
+- Z-Pruner: Post-Training Pruning of Large Language Models for Efficiency without Retraining <br> AICCSA 2025 [[Paper]](https://arxiv.org/abs/2508.15828) [[Code]](https://github.com/sazzadadib/Z-Pruner) [![Stars](https://img.shields.io/github/stars/sazzadadib/Z-Pruner?style=social)](https://github.com/sazzadadib/Z-Pruner)
 
 - H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference <br> ICCAD 2025 [[Paper]](https://arxiv.org/abs/2508.16653)
 
-- Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2508.17610) [[Code]](https://github.com/amberhuang01/HGLA)
+- Less Is More? Examining Fairness in Pruned Large Language Models for Summarising Opinions <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2508.17610) [[Code]](https://github.com/amberhuang01/HGLA) [![Stars](https://img.shields.io/github/stars/amberhuang01/HGLA?style=social)](https://github.com/amberhuang01/HGLA)
 
 - DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert Partition and Reconstruction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.18376)
 
-- Optimal Sparsity of Mixture-of-Experts Language Models for Reasoning Tasks <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2508.18672) [[Code]](https://github.com/rioyokotalab/optimal-sparsity)
+- Optimal Sparsity of Mixture-of-Experts Language Models for Reasoning Tasks <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2508.18672) [[Code]](https://github.com/rioyokotalab/optimal-sparsity) [![Stars](https://img.shields.io/github/stars/rioyokotalab/optimal-sparsity?style=social)](https://github.com/rioyokotalab/optimal-sparsity)
 
 - Spatio-Temporal Pruning for Compressed Spiking Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.20122)
 
 - Dropping Experts, Recombining Neurons: Retraining-Free Pruning for Sparse Mixture-of-Experts LLMs <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2509.10377)
 
-- Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.12464) [[Code]](https://github.com/RyanLucas3/RAC)
+- Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2509.12464) [[Code]](https://github.com/RyanLucas3/RAC) [![Stars](https://img.shields.io/github/stars/RyanLucas3/RAC?style=social)](https://github.com/RyanLucas3/RAC)
 
 - NIRVANA: Structured Pruning Reimagined for Large Language Model Compression <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2509.14230)
 
-- HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2509.22299) [[Code]](https://github.com/LLIKKE/HEAPr)
+- HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2509.22299) [[Code]](https://github.com/LLIKKE/HEAPr) [![Stars](https://img.shields.io/github/stars/LLIKKE/HEAPr?style=social)](https://github.com/LLIKKE/HEAPr)
 
 - ProxyAttn: Guided Sparse Attention via Representative Heads <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2509.24745)
 
@@ -1169,40 +1169,40 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - The Unseen Frontier: Pushing the Limits of LLM Sparsity with Surrogate-Free ADMM <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.01650)
 
-- ARMOR: High-Performance Semi-Structured Pruning via Adaptive Matrix Factorization <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.05528) [[Code]](https://github.com/LawrenceRLiu/ARMOR)
+- ARMOR: High-Performance Semi-Structured Pruning via Adaptive Matrix Factorization <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.05528) [[Code]](https://github.com/LawrenceRLiu/ARMOR) [![Stars](https://img.shields.io/github/stars/LawrenceRLiu/ARMOR?style=social)](https://github.com/LawrenceRLiu/ARMOR)
 
 - RCPU: Rotation-Constrained Error Compensation for Structured Pruning of Large Language Models <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.07782)
 
-- Fewer Weights, More Problems: A Practical Attack on LLM Pruning <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.07985) [[Code]](https://github.com/eth-sri/llm-pruning-attack)
+- Fewer Weights, More Problems: A Practical Attack on LLM Pruning <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.07985) [[Code]](https://github.com/eth-sri/llm-pruning-attack) [![Stars](https://img.shields.io/github/stars/eth-sri/llm-pruning-attack?style=social)](https://github.com/eth-sri/llm-pruning-attack)
 
 - From Local to Global: Revisiting Structured Pruning Paradigms for Large Language Models <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2510.18030)
 
-- Sparser Block-Sparse Attention via Token Permutation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2510.21270) [[Code]](https://github.com/xinghaow99/pbs-attn)
+- Sparser Block-Sparse Attention via Token Permutation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2510.21270) [[Code]](https://github.com/xinghaow99/pbs-attn) [![Stars](https://img.shields.io/github/stars/xinghaow99/pbs-attn?style=social)](https://github.com/xinghaow99/pbs-attn)
 
 - Restoring Pruned Large Language Models via Lost Component Compensation <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.21834)
 
-- When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.22228) [[Code]](https://github.com/keyu-wang-2002/Layer-Pruning-Harms-Inference-Scaling)
+- When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.22228) [[Code]](https://github.com/keyu-wang-2002/Layer-Pruning-Harms-Inference-Scaling) [![Stars](https://img.shields.io/github/stars/keyu-wang-2002/Layer-Pruning-Harms-Inference-Scaling?style=social)](https://github.com/keyu-wang-2002/Layer-Pruning-Harms-Inference-Scaling)
 
 - 1+1>2: A Synergistic Sparse and Low-Rank Compression Method for Large Language Models <br> EMNLP Findings 2025 [[Paper]](https://arxiv.org/abs/2510.26446)
 
 - SpecAttn: Speculating Sparse Attention <br> NeurIPS 2025 Workshop [[Paper]](https://arxiv.org/abs/2510.27641)
 
-- IG-Pruning: Input-Guided Block Pruning for Large Language Models <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2511.02213) [[Code]](https://github.com/ictnlp/IG-Pruning)
+- IG-Pruning: Input-Guided Block Pruning for Large Language Models <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2511.02213) [[Code]](https://github.com/ictnlp/IG-Pruning) [![Stars](https://img.shields.io/github/stars/ictnlp/IG-Pruning?style=social)](https://github.com/ictnlp/IG-Pruning)
 
-- MACKO: Sparse Matrix-Vector Multiplication for Low Sparsity <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2511.13061) [[Code]](https://github.com/vlejd/macko_spmv)
+- MACKO: Sparse Matrix-Vector Multiplication for Low Sparsity <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2511.13061) [[Code]](https://github.com/vlejd/macko_spmv) [![Stars](https://img.shields.io/github/stars/vlejd/macko_spmv?style=social)](https://github.com/vlejd/macko_spmv)
 
-- Understanding and Harnessing Sparsity in Unified Multimodal Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.02351) [[Code]](https://github.com/Shwai-He/SparseUnifiedModel)
+- Understanding and Harnessing Sparsity in Unified Multimodal Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.02351) [[Code]](https://github.com/Shwai-He/SparseUnifiedModel) [![Stars](https://img.shields.io/github/stars/Shwai-He/SparseUnifiedModel?style=social)](https://github.com/Shwai-He/SparseUnifiedModel)
 
 - Resting Neurons, Active Insights: Robustifying Activation Sparsity in LLMs via Spontaneity <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2512.12744)
 
-- Fragile Knowledge, Robust Instruction-Following: The Width Pruning Dichotomy in Llama-3.2 <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.22671) [[Code]](https://github.com/peremartra/llama-glu-expansion-pruning)
+- Fragile Knowledge, Robust Instruction-Following: The Width Pruning Dichotomy in Llama-3.2 <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.22671) [[Code]](https://github.com/peremartra/llama-glu-expansion-pruning) [![Stars](https://img.shields.io/github/stars/peremartra/llama-glu-expansion-pruning?style=social)](https://github.com/peremartra/llama-glu-expansion-pruning)
 
 </details>
 
 <details>
 <summary><b>2024</b> &nbsp;·&nbsp; 77 papers</summary>
 
-- Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models <br> ICLR 2024 [[Paper]](https://openreview.net/forum?id=Tr0lPx9woF) [[Code]](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
+- Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models <br> ICLR 2024 [[Paper]](https://openreview.net/forum?id=Tr0lPx9woF) [[Code]](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning) [![Stars](https://img.shields.io/github/stars/biomedical-cybernetics/Relative-importance-and-activation-pruning?style=social)](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)
 
 - Fast and Optimal Weight Update for Pruned Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.02938)
 
@@ -1210,11 +1210,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Scaling Sparse Fine-Tuning to Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.16405)
 
-- SliceGPT: Compress Large Language Models by Deleting Rows and Columns <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2401.15024) [[Code]](https://github.com/microsoft/TransformerCompression)
+- SliceGPT: Compress Large Language Models by Deleting Rows and Columns <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2401.15024) [[Code]](https://github.com/microsoft/TransformerCompression) [![Stars](https://img.shields.io/github/stars/microsoft/TransformerCompression?style=social)](https://github.com/microsoft/TransformerCompression)
 
 - Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods <br> ICLR 2024 Workshop [[Paper]](https://arxiv.org/abs/2402.02834)
 
-- Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.05406) [[Code]](https://github.com/ldery/Bonsai)
+- Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.05406) [[Code]](https://github.com/ldery/Bonsai) [![Stars](https://img.shields.io/github/stars/ldery/Bonsai?style=social)](https://github.com/ldery/Bonsai)
 
 - NutePrune: Efficient Progressive Pruning with Numerous Teachers for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.09773)
 
@@ -1222,7 +1222,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Why Lift so Heavy? Slimming Large Language Models by Cutting Off the Layers <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.11700)
 
-- EBFT: Effective and Block-Wise Fine-Tuning for Sparse LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.12419) [[Code]](https://github.com/sunggo/EBFT)
+- EBFT: Effective and Block-Wise Fine-Tuning for Sparse LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.12419) [[Code]](https://github.com/sunggo/EBFT) [![Stars](https://img.shields.io/github/stars/sunggo/EBFT?style=social)](https://github.com/sunggo/EBFT)
 
 - Data-free Weight Compress and Denoise for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.16319)
 
@@ -1230,27 +1230,27 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ShortGPT: Layers in Large Language Models are More Redundant Than You Expect <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.03853)
 
-- LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models <br> ICCV 2025 [[Paper]](https://arxiv.org/abs/2403.15388) [[Code]](https://github.com/42Shawn/LLaVA-PruMerge)
+- LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models <br> ICCV 2025 [[Paper]](https://arxiv.org/abs/2403.15388) [[Code]](https://github.com/42Shawn/LLaVA-PruMerge) [![Stars](https://img.shields.io/github/stars/42Shawn/LLaVA-PruMerge?style=social)](https://github.com/42Shawn/LLaVA-PruMerge)
 
 - Streamlining Redundant Layers to Compress Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.19135)
 
 - LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.09695)
 
-- LoNAS: Elastic Low-Rank Adapters for Efficient Large Language Models <br> COLING 2024 [[Paper]](https://aclanthology.org/2024.lrec-main.940) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/LoNAS)
+- LoNAS: Elastic Low-Rank Adapters for Efficient Large Language Models <br> COLING 2024 [[Paper]](https://aclanthology.org/2024.lrec-main.940) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/LoNAS) [![Stars](https://img.shields.io/github/stars/IntelLabs/Hardware-Aware-Automated-Machine-Learning?style=social)](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)
 
-- Shears: Unstructured Sparsity with Neural Low-rank Adapter Search <br> NAACL 2024 [[Paper]](https://arxiv.org/abs/2404.10934) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/Shears)
+- Shears: Unstructured Sparsity with Neural Low-rank Adapter Search <br> NAACL 2024 [[Paper]](https://arxiv.org/abs/2404.10934) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/Shears) [![Stars](https://img.shields.io/github/stars/IntelLabs/Hardware-Aware-Automated-Machine-Learning?style=social)](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)
 
 - Eigenpruning: an Interpretability-Inspired PEFT Method <br> NAACL 2024 Abstract [[Paper]](https://arxiv.org/abs/2404.03147)
 
 - OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.05957)
 
-- Pruning as a Domain-specific LLM Extractor <br> NAACL 2024 Findings [[Paper]](https://arxiv.org/abs/2405.06275) [[Code]](https://github.com/psunlpgroup/D-Pruner)
+- Pruning as a Domain-specific LLM Extractor <br> NAACL 2024 Findings [[Paper]](https://arxiv.org/abs/2405.06275) [[Code]](https://github.com/psunlpgroup/D-Pruner) [![Stars](https://img.shields.io/github/stars/psunlpgroup/D-Pruner?style=social)](https://github.com/psunlpgroup/D-Pruner)
 
 - Differentiable Model Scaling using Differentiable Topk <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2405.07194)
 
 - COPAL: Continual Pruning in Large Language Generative Models <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2405.02347)
 
-- Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models  <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2406.02924) [[Code]](https://github.com/pprp/Pruner-Zero)
+- Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models  <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2406.02924) [[Code]](https://github.com/pprp/Pruner-Zero) [![Stars](https://img.shields.io/github/stars/pprp/Pruner-Zero?style=social)](https://github.com/pprp/Pruner-Zero)
 
 - Feature-based Low-Rank Compression of Large Language Models via Bayesian Optimization <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2405.10616)
 
@@ -1258,11 +1258,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Pruning Large Language Models to Intra-module Low-rank Architecture with Transitional Activations <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2407.05690)
 
-- Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2406.03792) [[Code]](https://github.com/gccnlp/Light-PEFT)
+- Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2406.03792) [[Code]](https://github.com/gccnlp/Light-PEFT) [![Stars](https://img.shields.io/github/stars/gccnlp/Light-PEFT?style=social)](https://github.com/gccnlp/Light-PEFT)
 
-- Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2406.10774) [[Code]](https://github.com/mit-han-lab/Quest)
+- Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2406.10774) [[Code]](https://github.com/mit-han-lab/Quest) [![Stars](https://img.shields.io/github/stars/mit-han-lab/Quest?style=social)](https://github.com/mit-han-lab/Quest)
 
-- MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.07017) [[Code]](https://github.com/ShiningSord/MoreauPruner)
+- MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.07017) [[Code]](https://github.com/ShiningSord/MoreauPruner) [![Stars](https://img.shields.io/github/stars/ShiningSord/MoreauPruner?style=social)](https://github.com/ShiningSord/MoreauPruner)
 
 - ALPS: Improved Optimization for Highly Sparse One-Shot Pruning for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.07831)
 
@@ -1270,27 +1270,27 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Bypass Back-propagation: Optimization-based Structural Pruning for Large Language Models via Policy Gradient <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2406.10576)
 
-- BlockPruner: Fine-grained Pruning for Large Language Models <br> ACL Findings 2025 [[Paper]](https://arxiv.org/abs/2406.10594) [[Code]](https://github.com/MrGGLS/BlockPruner)
+- BlockPruner: Fine-grained Pruning for Large Language Models <br> ACL Findings 2025 [[Paper]](https://arxiv.org/abs/2406.10594) [[Code]](https://github.com/MrGGLS/BlockPruner) [![Stars](https://img.shields.io/github/stars/MrGGLS/BlockPruner?style=social)](https://github.com/MrGGLS/BlockPruner)
 
 - Rethinking Pruning Large Language Models: Benefits and Pitfalls of Reconstruction Error Minimization <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.15524) 
 
 - RankAdaptor: Hierarchical Rank Allocation for Efficient Fine-Tuning Pruned LLMs via Performance Model <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.15734) 
 
-- What Matters in Transformers? Not All Attention is Needed <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.15786) [[Code]](https://github.com/CASE-Lab-UMD/LLM-Drop)
+- What Matters in Transformers? Not All Attention is Needed <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.15786) [[Code]](https://github.com/CASE-Lab-UMD/LLM-Drop) [![Stars](https://img.shields.io/github/stars/CASE-Lab-UMD/LLM-Drop?style=social)](https://github.com/CASE-Lab-UMD/LLM-Drop)
 
 - Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.16330) 
 
-- ShadowLLM: Predictor-based Contextual Sparsity for Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.16635) [[Code]](https://github.com/abdelfattah-lab/shadow_llm/)
+- ShadowLLM: Predictor-based Contextual Sparsity for Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.16635) [[Code]](https://github.com/abdelfattah-lab/shadow_llm/) [![Stars](https://img.shields.io/github/stars/abdelfattah-lab/shadow_llm?style=social)](https://github.com/abdelfattah-lab/shadow_llm)
 
-- Finding Transformer Circuits with Edge Pruning <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.16778) [[Code]](https://github.com/princeton-nlp/Edge-Pruning)
+- Finding Transformer Circuits with Edge Pruning <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.16778) [[Code]](https://github.com/princeton-nlp/Edge-Pruning) [![Stars](https://img.shields.io/github/stars/princeton-nlp/Edge-Pruning?style=social)](https://github.com/princeton-nlp/Edge-Pruning)
 
-- Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.00945) [[Code]](https://github.com/imagination-research/EEP)
+- Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.00945) [[Code]](https://github.com/imagination-research/EEP) [![Stars](https://img.shields.io/github/stars/imagination-research/EEP?style=social)](https://github.com/imagination-research/EEP)
 
 - MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.11681) 
 
 - Reconstruct the Pruned Model without Any Retraining  <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.13331) 
 
-- A deeper look at depth pruning of LLMs <br> ICML TF2M Workshop 2024 [[Paper]](https://arxiv.org/abs/2407.16286) [[Code]](https://github.com/shoaibahmed/llm_depth_pruning)
+- A deeper look at depth pruning of LLMs <br> ICML TF2M Workshop 2024 [[Paper]](https://arxiv.org/abs/2407.16286) [[Code]](https://github.com/shoaibahmed/llm_depth_pruning) [![Stars](https://img.shields.io/github/stars/shoaibahmed/llm_depth_pruning?style=social)](https://github.com/shoaibahmed/llm_depth_pruning)
 
 - Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.19126) 
 
@@ -1302,7 +1302,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - MoDeGPT: Modular Decomposition for Large Language Model Compression <br> ICLR 2025 [[Paper]](https://www.arxiv.org/abs/2408.09632) 
 
-- LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models <br> ICCAD 2025 [[Paper]](https://arxiv.org/abs/2408.10631) [[Code]](https://github.com/YupengSu/LLM-Barber)
+- LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models <br> ICCAD 2025 [[Paper]](https://arxiv.org/abs/2408.10631) [[Code]](https://github.com/YupengSu/LLM-Barber) [![Stars](https://img.shields.io/github/stars/YupengSu/LLM-Barber?style=social)](https://github.com/YupengSu/LLM-Barber)
 
 - LLM Pruning and Distillation in Practice: The Minitron Approach <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11796) [[Models]](https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base)
 
@@ -1310,9 +1310,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Enhancing One-shot Pruned Pre-trained Language Models through Sparse-Dense-Sparse Mechanism <br> COLING 2025 [[Paper]](https://arxiv.org/abs/2408.10473)
 
-- PAT: Pruning-Aware Tuning for Large Language Models <br> AAAI 2025 [[Paper]](https://arxiv.org/abs/2408.14721) [[Code]](https://github.com/kriskrisliu/PAT)
+- PAT: Pruning-Aware Tuning for Large Language Models <br> AAAI 2025 [[Paper]](https://arxiv.org/abs/2408.14721) [[Code]](https://github.com/kriskrisliu/PAT) [![Stars](https://img.shields.io/github/stars/kriskrisliu/PAT?style=social)](https://github.com/kriskrisliu/PAT)
 
-- Sirius: Contextual Sparsity with Correction for Efficient LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.03856) [[Code]](https://github.com/Infini-AI-Lab/Sirius)
+- Sirius: Contextual Sparsity with Correction for Efficient LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.03856) [[Code]](https://github.com/Infini-AI-Lab/Sirius) [![Stars](https://img.shields.io/github/stars/Infini-AI-Lab/Sirius?style=social)](https://github.com/Infini-AI-Lab/Sirius)
 
 - STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2409.06211)
 
@@ -1328,21 +1328,21 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Getting Free Bits Back from Rotational Symmetries in LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.01309)
 
-- SLiM: One-shot Quantization and Sparsity with Low-rank Approximation for LLM Weight Compression <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2410.09615) [[Code]](https://github.com/Paramathic/slim)
+- SLiM: One-shot Quantization and Sparsity with Low-rank Approximation for LLM Weight Compression <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2410.09615) [[Code]](https://github.com/Paramathic/slim) [![Stars](https://img.shields.io/github/stars/Paramathic/slim?style=social)](https://github.com/Paramathic/slim)
 
 - Self-Data Distillation for Recovering Quality in Pruned Large Language Models <br> MLSys 2025 [[Paper]](https://arxiv.org/abs/2410.09982) 
 
-- EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.14649) [[Code]](https://github.com/IST-DASLab/EvoPress)
+- EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.14649) [[Code]](https://github.com/IST-DASLab/EvoPress) [![Stars](https://img.shields.io/github/stars/IST-DASLab/EvoPress?style=social)](https://github.com/IST-DASLab/EvoPress)
 
-- Pruning Foundation Models for High Accuracy without Retraining <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.15567) [[Code]](https://github.com/piuzha/APT)
+- Pruning Foundation Models for High Accuracy without Retraining <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.15567) [[Code]](https://github.com/piuzha/APT) [![Stars](https://img.shields.io/github/stars/piuzha/APT?style=social)](https://github.com/piuzha/APT)
 
 - Beware of Calibration Data for Pruning Large Language Models <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2410.17711)
 
-- SQFT: Low-cost Model Adaptation in Low-precision Sparse Foundation Models <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.03750) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/SQFT)
+- SQFT: Low-cost Model Adaptation in Low-precision Sparse Foundation Models <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.03750) [[Code]](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/SQFT) [![Stars](https://img.shields.io/github/stars/IntelLabs/Hardware-Aware-Automated-Machine-Learning?style=social)](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)
 
-- Change Is the Only Constant: Dynamic LLM Slicing based on Layer Redundancy <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2411.03513) [[Code]](https://github.com/RazvanDu/DynamicSlicing)
+- Change Is the Only Constant: Dynamic LLM Slicing based on Layer Redundancy <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2411.03513) [[Code]](https://github.com/RazvanDu/DynamicSlicing) [![Stars](https://img.shields.io/github/stars/RazvanDu/DynamicSlicing?style=social)](https://github.com/RazvanDu/DynamicSlicing)
 
-- Zeroth-Order Adaptive Neuron Alignment Based Pruning without Retraining <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2411.07066) [[Code]](https://github.com/eliacunegatti/NeuroAL)
+- Zeroth-Order Adaptive Neuron Alignment Based Pruning without Retraining <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2411.07066) [[Code]](https://github.com/eliacunegatti/NeuroAL) [![Stars](https://img.shields.io/github/stars/eliacunegatti/NeuroAL?style=social)](https://github.com/eliacunegatti/NeuroAL)
 
 - Scaling Law for Post-training after Model Pruning <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2411.10272)
 
@@ -1363,17 +1363,17 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers <br> ICLR 2023 [[Paper]](https://openreview.net/forum?id=TJ2nxciYCk-)
 
-- Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time <br> ICML 2023 [[Paper]](https://proceedings.mlr.press/v202/liu23am.html)  [[Code]](https://github.com/FMInference/DejaVu)
+- Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time <br> ICML 2023 [[Paper]](https://proceedings.mlr.press/v202/liu23am.html)  [[Code]](https://github.com/FMInference/DejaVu) [![Stars](https://img.shields.io/github/stars/FMInference/DejaVu?style=social)](https://github.com/FMInference/DejaVu)
 
-- LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2306.11222)  [[Code]](https://github.com/yxli2123/LoSparse)
+- LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2306.11222)  [[Code]](https://github.com/yxli2123/LoSparse) [![Stars](https://img.shields.io/github/stars/yxli2123/LoSparse?style=social)](https://github.com/yxli2123/LoSparse)
 
-- LLM-Pruner: On the Structural Pruning of Large Language Models <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2305.11627) [[Code]](https://github.com/horseee/LLM-Pruner)
+- LLM-Pruner: On the Structural Pruning of Large Language Models <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2305.11627) [[Code]](https://github.com/horseee/LLM-Pruner) [![Stars](https://img.shields.io/github/stars/horseee/LLM-Pruner?style=social)](https://github.com/horseee/LLM-Pruner)
 
-- ZipLM: Inference-Aware Structured Pruning of Language Models <br> NeurIPS 2023  [[Paper]](https://arxiv.org/abs/2302.04089) [[Code]](https://github.com/IST-DASLab/ZipLM)
+- ZipLM: Inference-Aware Structured Pruning of Language Models <br> NeurIPS 2023  [[Paper]](https://arxiv.org/abs/2302.04089) [[Code]](https://github.com/IST-DASLab/ZipLM) [![Stars](https://img.shields.io/github/stars/IST-DASLab/ZipLM?style=social)](https://github.com/IST-DASLab/ZipLM)
 
-- H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2306.14048) [[Code]](https://github.com/FMInference/H2O)
+- H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2306.14048) [[Code]](https://github.com/FMInference/H2O) [![Stars](https://img.shields.io/github/stars/FMInference/H2O?style=social)](https://github.com/FMInference/H2O)
 
-- The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter <br> NeurIPS 2023 [[Paper]](https://openreview.net/pdf?id=bU9hwbsVcy) [[Code]](https://github.com/VITA-Group/essential_sparsity)
+- The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter <br> NeurIPS 2023 [[Paper]](https://openreview.net/pdf?id=bU9hwbsVcy) [[Code]](https://github.com/VITA-Group/essential_sparsity) [![Stars](https://img.shields.io/github/stars/VITA-Group/essential_sparsity?style=social)](https://github.com/VITA-Group/essential_sparsity)
 
 - Learning to Compress Prompts with Gist Tokens <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2304.08467)
 
@@ -1381,13 +1381,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Prune and Tune: Improving Efficient Pruning Techniques for Massive Language Models <br> ICLR 2023 TinyPapers [[Paper]](https://openreview.net/pdf?id=cKlgcx7nSZ)
 
-- SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2301.00774) [[Code]](https://github.com/IST-DASLab/sparsegpt)
+- SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot <br> ICML 2023 [[Paper]](https://arxiv.org/abs/2301.00774) [[Code]](https://github.com/IST-DASLab/sparsegpt) [![Stars](https://img.shields.io/github/stars/IST-DASLab/sparsegpt?style=social)](https://github.com/IST-DASLab/sparsegpt)
 
 - AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning <br> ICLR 2023 [[Paper]](https://arxiv.org/abs/2303.10512)
 
 - Structured Pruning for Efficient Generative Pre-trained Language Models <br> ACL 2023 [[Paper]](https://aclanthology.org/2023.findings-acl.692.pdf)
 
-- A Simple and Effective Pruning Approach for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.11695) [[Code]](https://github.com/locuslab/wanda)
+- A Simple and Effective Pruning Approach for Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.11695) [[Code]](https://github.com/locuslab/wanda) [![Stars](https://img.shields.io/github/stars/locuslab/wanda?style=social)](https://github.com/locuslab/wanda)
 
 - Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2305.18403) 
 
@@ -1395,19 +1395,19 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Pruning Large Language Models via Accuracy Predictor <br> ICASSP 2024 [[Paper]](https://arxiv.org/abs/2309.09507) 
 
-- Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity <br> VLDB 2024 [[Paper]](https://arxiv.org/abs/2309.10285) [[Code]](https://github.com/AlibabaResearch/flash-llm)
+- Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity <br> VLDB 2024 [[Paper]](https://arxiv.org/abs/2309.10285) [[Code]](https://github.com/AlibabaResearch/flash-llm) [![Stars](https://img.shields.io/github/stars/AlibabaResearch/flash-llm?style=social)](https://github.com/AlibabaResearch/flash-llm)
 
 - Compressing LLMs: The Truth is Rarely Pure and Never Simple <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.01382) 
 
-- Pruning Small Pre-Trained Weights Irreversibly and Monotonically Impairs "Difficult" Downstream Tasks in LLMs <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2310.02277)  [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
+- Pruning Small Pre-Trained Weights Irreversibly and Monotonically Impairs "Difficult" Downstream Tasks in LLMs <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2310.02277)  [[Code]](https://github.com/VITA-Group/Junk_DNA_Hypothesis) [![Stars](https://img.shields.io/github/stars/VITA-Group/Junk_DNA_Hypothesis?style=social)](https://github.com/VITA-Group/Junk_DNA_Hypothesis)
 
-- Compresso: Structured Pruning with Collaborative Prompting Learns Compact Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.05015) [[Code]](https://github.com/microsoft/Moonlit/tree/main/Compresso)
+- Compresso: Structured Pruning with Collaborative Prompting Learns Compact Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.05015) [[Code]](https://github.com/microsoft/Moonlit/tree/main/Compresso) [![Stars](https://img.shields.io/github/stars/microsoft/Moonlit?style=social)](https://github.com/microsoft/Moonlit)
 
-- Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2310.05175) [[Code]](https://github.com/luuyin/OWL)
+- Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2310.05175) [[Code]](https://github.com/luuyin/OWL) [![Stars](https://img.shields.io/github/stars/luuyin/OWL?style=social)](https://github.com/luuyin/OWL)
 
-- Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.06694) [[Code]](https://github.com/princeton-nlp/LLM-Shearing)
+- Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.06694) [[Code]](https://github.com/princeton-nlp/LLM-Shearing) [![Stars](https://img.shields.io/github/stars/princeton-nlp/LLM-Shearing?style=social)](https://github.com/princeton-nlp/LLM-Shearing)
 
-- Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.08915) [[Code]](https://github.com/zyxxmu/DSnoT)
+- Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.08915) [[Code]](https://github.com/zyxxmu/DSnoT) [![Stars](https://img.shields.io/github/stars/zyxxmu/DSnoT?style=social)](https://github.com/zyxxmu/DSnoT)
 
 - One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models <br> ICASSP 2024 [[Paper]](https://arxiv.org/abs/2310.09499) 
 
@@ -1423,17 +1423,17 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.15929)
 
-- Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.04902) [[Code]](https://github.com/VILA-Lab/GBLM-Pruner)
+- Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2311.04902) [[Code]](https://github.com/VILA-Lab/GBLM-Pruner) [![Stars](https://img.shields.io/github/stars/VILA-Lab/GBLM-Pruner?style=social)](https://github.com/VILA-Lab/GBLM-Pruner)
 
 - On the Impact of Calibration Data in Post-training Quantization and Pruning <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2311.09755)
 
-- BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation <br> OpenReview [[Paper]](https://openreview.net/pdf?id=gC6JTEU3jl) [[Code]](https://github.com/LinkAnonymous/BESA)
+- BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation <br> OpenReview [[Paper]](https://openreview.net/pdf?id=gC6JTEU3jl) [[Code]](https://github.com/LinkAnonymous/BESA) [![Stars](https://img.shields.io/github/stars/LinkAnonymous/BESA?style=social)](https://github.com/LinkAnonymous/BESA)
 
 - PUSHING GRADIENT TOWARDS ZERO: A NOVEL PRUNING METHOD FOR LARGE LANGUAGE MODELS <br> OpenReview 2023 [[Paper]](https://openreview.net/attachment?id=IU4L7wiwxw&name=pdf)
 
-- Lighter, yet More Faithful: Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization <br> TACL 2024 [[Paper]](https://arxiv.org/abs/2311.09335) [[Code]](https://github.com/casszhao/PruneHall)
+- Lighter, yet More Faithful: Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization <br> TACL 2024 [[Paper]](https://arxiv.org/abs/2311.09335) [[Code]](https://github.com/casszhao/PruneHall) [![Stars](https://img.shields.io/github/stars/casszhao/PruneHall?style=social)](https://github.com/casszhao/PruneHall)
 
-- Mini-GPTs: Efficient Large Language Models through Contextual Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.12682) [[Code]](https://github.com/tval2/contextual-pruning)
+- Mini-GPTs: Efficient Large Language Models through Contextual Pruning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.12682) [[Code]](https://github.com/tval2/contextual-pruning) [![Stars](https://img.shields.io/github/stars/tval2/contextual-pruning?style=social)](https://github.com/tval2/contextual-pruning)
 
 - The LLM Surgeon <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.17244)
 
@@ -1448,7 +1448,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2022</b> &nbsp;·&nbsp; 1 paper</summary>
 
-- Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2212.09095) [[Code]](https://github.com/amazon-science/llm-interpret)
+- Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2212.09095) [[Code]](https://github.com/amazon-science/llm-interpret) [![Stars](https://img.shields.io/github/stars/amazon-science/llm-interpret?style=social)](https://github.com/amazon-science/llm-interpret)
 
 </details>
 
@@ -1461,7 +1461,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - RM-Distiller: Exploiting Generative LLM for Reward Model Distillation <br> ECAI 2026 [[Paper]](https://arxiv.org/abs/2601.14032)
 
-- Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.18734) [[Code]](https://github.com/siyan-zhao/OPSD)
+- Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.18734) [[Code]](https://github.com/siyan-zhao/OPSD) [![Stars](https://img.shields.io/github/stars/siyan-zhao/OPSD?style=social)](https://github.com/siyan-zhao/OPSD)
 
 - Thinking Broad, Acting Fast: Latent Reasoning Distillation from Multi-Perspective Chain-of-Thought for E-Commerce Relevance <br> WWW 2026 [[Paper]](https://arxiv.org/abs/2601.21611)
 
@@ -1473,49 +1473,49 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Pedagogically-Inspired Data Synthesis for Language Model Knowledge Distillation <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2602.12172)
 
-- BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.17686) [[Code]](https://github.com/Applied-Machine-Learning-Lab/SDM2026_BRIDGE)
+- BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.17686) [[Code]](https://github.com/Applied-Machine-Learning-Lab/SDM2026_BRIDGE) [![Stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/SDM2026_BRIDGE?style=social)](https://github.com/Applied-Machine-Learning-Lab/SDM2026_BRIDGE)
 
-- Surgical Post-Training: Proximal On-Policy Distillation for Reasoning with Knowledge Retention <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.01683) [[Code]](https://github.com/Visual-AI/SPoT)
+- Surgical Post-Training: Proximal On-Policy Distillation for Reasoning with Knowledge Retention <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.01683) [[Code]](https://github.com/Visual-AI/SPoT) [![Stars](https://img.shields.io/github/stars/Visual-AI/SPoT?style=social)](https://github.com/Visual-AI/SPoT)
 
-- KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.01875) [[Code]](https://github.com/songmzhang/KDFlow)
+- KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.01875) [[Code]](https://github.com/songmzhang/KDFlow) [![Stars](https://img.shields.io/github/stars/songmzhang/KDFlow?style=social)](https://github.com/songmzhang/KDFlow)
 
 - Dual-Space Knowledge Distillation with Key-Query Matching for Large Language Models with Vocabulary Mismatch <br> ICASSP 2026 [[Paper]](https://arxiv.org/abs/2603.22056)
 
-- Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs? <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2603.24472) [[Code]](https://github.com/beanie00/self-distillation-analysis)
+- Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs? <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2603.24472) [[Code]](https://github.com/beanie00/self-distillation-analysis) [![Stars](https://img.shields.io/github/stars/beanie00/self-distillation-analysis?style=social)](https://github.com/beanie00/self-distillation-analysis)
 
 - Hybrid Policy Distillation for LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2604.20244)
 
-- Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.26951) [[Code]](https://github.com/PKU-YuanGroup/TIDE)
+- Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.26951) [[Code]](https://github.com/PKU-YuanGroup/TIDE) [![Stars](https://img.shields.io/github/stars/PKU-YuanGroup/TIDE?style=social)](https://github.com/PKU-YuanGroup/TIDE)
 
 - SRA: Span Representation Alignment for Large Language Model Distillation <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2605.01205)
 
 - MTA: Multi-Granular Trajectory Alignment for Large Language Model Distillation <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2605.01374)
 
-- UniSD: Towards a Unified Self-Distillation Framework for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.06597) [[Code]](https://github.com/Ahren09/UniSD)
+- UniSD: Towards a Unified Self-Distillation Framework for Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.06597) [[Code]](https://github.com/Ahren09/UniSD) [![Stars](https://img.shields.io/github/stars/Ahren09/UniSD?style=social)](https://github.com/Ahren09/UniSD)
 
-- Rubric-based On-policy Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07396) [[Code]](https://github.com/Peregrine123/ROPD_official)
+- Rubric-based On-policy Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07396) [[Code]](https://github.com/Peregrine123/ROPD_official) [![Stars](https://img.shields.io/github/stars/Peregrine123/ROPD_official?style=social)](https://github.com/Peregrine123/ROPD_official)
 
 - Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2605.13981)
 
-- Skill-Conditioned Gated Self-Distillation for LLM Reasoning <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2605.28791) [[Code]](https://github.com/walawalagoose/SGSD)
+- Skill-Conditioned Gated Self-Distillation for LLM Reasoning <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2605.28791) [[Code]](https://github.com/walawalagoose/SGSD) [![Stars](https://img.shields.io/github/stars/walawalagoose/SGSD?style=social)](https://github.com/walawalagoose/SGSD)
 
 - PADD: Path-Aligned Decompression Distillation for Non-Router Teacher to Guide MoE Student Learning <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.10369)
 
-- AsyncOPD: How Stale Can On-Policy Distillation Be? <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.24143) [[Code]](https://github.com/furiosa-ai/async-opd)
+- AsyncOPD: How Stale Can On-Policy Distillation Be? <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.24143) [[Code]](https://github.com/furiosa-ai/async-opd) [![Stars](https://img.shields.io/github/stars/furiosa-ai/async-opd?style=social)](https://github.com/furiosa-ai/async-opd)
 
 - Token-level Response-visual Attention Guidance for Multimodal LLMs Knowledge Distillation <br> ECCV 2026 [[Paper]](https://arxiv.org/abs/2607.02593)
 
-- Answer-Conditioned Chains of Thought Degrade Verifiable-Reasoning Distillation in Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.14552) [[Code]](https://github.com/js-lee-AI/answer-leakage)
+- Answer-Conditioned Chains of Thought Degrade Verifiable-Reasoning Distillation in Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.14552) [[Code]](https://github.com/js-lee-AI/answer-leakage) [![Stars](https://img.shields.io/github/stars/js-lee-AI/answer-leakage?style=social)](https://github.com/js-lee-AI/answer-leakage)
 
-- On-Policy Delta Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.15161) [[Code]](https://github.com/naver-ai/opd2)
+- On-Policy Delta Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.15161) [[Code]](https://github.com/naver-ai/opd2) [![Stars](https://img.shields.io/github/stars/naver-ai/opd2?style=social)](https://github.com/naver-ai/opd2)
 
-- On-Policy Self-Distillation without Any Supervision <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.06296) [[Code]](https://github.com/williamium3000/u-opsd)
+- On-Policy Self-Distillation without Any Supervision <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.06296) [[Code]](https://github.com/williamium3000/u-opsd) [![Stars](https://img.shields.io/github/stars/williamium3000/u-opsd?style=social)](https://github.com/williamium3000/u-opsd)
 
-- Mismatch Matters: On-Policy Distillation Beyond Token Agreement <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.09836) [[Code]](https://github.com/yzc-666/TIDE)
+- Mismatch Matters: On-Policy Distillation Beyond Token Agreement <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.09836) [[Code]](https://github.com/yzc-666/TIDE) [![Stars](https://img.shields.io/github/stars/yzc-666/TIDE?style=social)](https://github.com/yzc-666/TIDE)
 
 - Thinking at the Right Size: Amortized Distillation Across Post-Trained LLMs <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2608.22854)
 
-- SelFusion: Self-distillation for Diffusion Language Models <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2608.22898) [[Code]](https://github.com/scai-research/SelFusion_official)
+- SelFusion: Self-distillation for Diffusion Language Models <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2608.22898) [[Code]](https://github.com/scai-research/SelFusion_official) [![Stars](https://img.shields.io/github/stars/scai-research/SelFusion_official?style=social)](https://github.com/scai-research/SelFusion_official)
 
 </details>
 
@@ -1532,9 +1532,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - UNDO: Understanding Distillation as Optimization <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.02521) 
 
-- A Token is Worth over 1,000 Tokens: Efficient Knowledge Distillation through Low-Rank Clone <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2505.12781) [[Code]](https://github.com/CURRENTF/LowRankClone)
+- A Token is Worth over 1,000 Tokens: Efficient Knowledge Distillation through Low-Rank Clone <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2505.12781) [[Code]](https://github.com/CURRENTF/LowRankClone) [![Stars](https://img.shields.io/github/stars/CURRENTF/LowRankClone?style=social)](https://github.com/CURRENTF/LowRankClone)
 
-- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune)
+- SDMPrune: Self-Distillation MLP Pruning for Efficient Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2506.11120) [[Code]](https://github.com/visresearch/SDMPrune) [![Stars](https://img.shields.io/github/stars/visresearch/SDMPrune?style=social)](https://github.com/visresearch/SDMPrune)
 
 - Less is More: Selective Reflection for Compatible and Efficient Knowledge Distillation in Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06135)
 
@@ -1546,7 +1546,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Can Large Models Teach Student Models to Solve Mathematical Problems Like Human Beings? A Reasoning Distillation Method via Multi-LoRA Interaction <br> IJCAI 2025 [[Paper]](https://arxiv.org/abs/2508.13037)
 
-- Learning from Diverse Reasoning Paths with Routing and Collaboration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.16861) [[Code]](https://github.com/LzyFischer/Distill)
+- Learning from Diverse Reasoning Paths with Routing and Collaboration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.16861) [[Code]](https://github.com/LzyFischer/Distill) [![Stars](https://img.shields.io/github/stars/LzyFischer/Distill?style=social)](https://github.com/LzyFischer/Distill)
 
 - Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2509.14257)
 
@@ -1554,7 +1554,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Distillation of Large Language Models via Concrete Score Matching <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2509.25837)
 
-- SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.04595) [[Code]](https://github.com/HuuYuLong/SpikingMamba)
+- SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.04595) [[Code]](https://github.com/HuuYuLong/SpikingMamba) [![Stars](https://img.shields.io/github/stars/HuuYuLong/SpikingMamba?style=social)](https://github.com/HuuYuLong/SpikingMamba)
 
 - Boomerang Distillation Enables Zero-Shot Model Size Interpolation <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.05064)
 
@@ -1575,7 +1575,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - YODA: Teacher-Student Progressive Learning for Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2401.15670)
 
-- Knowledge Fusion of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2401.10491) [[Code]](https://github.com/fanqiwan/FuseAI)
+- Knowledge Fusion of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2401.10491) [[Code]](https://github.com/fanqiwan/FuseAI) [![Stars](https://img.shields.io/github/stars/fanqiwan/FuseAI?style=social)](https://github.com/fanqiwan/FuseAI)
 
 - Knowledge Distillation for Closed-Source Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.07013)
 
@@ -1591,7 +1591,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Learning to Maximize Mutual Information for Chain-of-Thought Distillation <br> ACL 2024 Findings [[Paper]](https://arxiv.org/abs/2403.03348)
 
-- DistiLLM: Towards Streamlined Distillation for Large Language Models <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.03898) [[Code]](https://github.com/jongwooko/distillm)
+- DistiLLM: Towards Streamlined Distillation for Large Language Models <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.03898) [[Code]](https://github.com/jongwooko/distillm) [![Stars](https://img.shields.io/github/stars/jongwooko/distillm?style=social)](https://github.com/jongwooko/distillm)
 
 - Efficiently Distilling LLMs for Edge Applications <br> NAACL 2024 [[Paper]](https://arxiv.org/abs/2404.01353)
 
@@ -1599,13 +1599,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Distilling Algorithmic Reasoning from LLMs via Explaining Solution Programs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.08148)
 
-- Direct Preference Knowledge Distillation for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.19774) [[Code]](https://github.com/microsoft/LMOps/tree/main/dpkd)
+- Direct Preference Knowledge Distillation for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.19774) [[Code]](https://github.com/microsoft/LMOps/tree/main/dpkd) [![Stars](https://img.shields.io/github/stars/microsoft/LMOps?style=social)](https://github.com/microsoft/LMOps)
 
-- Dual-Space Knowledge Distillation for Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.17328) [[Code]](https://github.com/songmzhang/DSKD)
+- Dual-Space Knowledge Distillation for Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.17328) [[Code]](https://github.com/songmzhang/DSKD) [![Stars](https://img.shields.io/github/stars/songmzhang/DSKD?style=social)](https://github.com/songmzhang/DSKD)
 
 - DDK: Distilling Domain Knowledge for Efficient Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.16154)
 
-- Compact Language Models via Pruning and Knowledge Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.14679) [[Code]](https://github.com/NVlabs/Minitron)
+- Compact Language Models via Pruning and Knowledge Distillation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.14679) [[Code]](https://github.com/NVlabs/Minitron) [![Stars](https://img.shields.io/github/stars/NVlabs/Minitron?style=social)](https://github.com/NVlabs/Minitron)
 
 - LLM Pruning and Distillation in Practice: The Minitron Approach <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.11796) [[Models]](https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base)
 
@@ -1615,17 +1615,17 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - SWITCH: Studying with Teacher for Knowledge Distillation of Large Language Models <br> NAACL Findings 2025 [[Paper]](https://arxiv.org/abs/2410.19503)
 
-- Mentor-KD: Making Small Language Models Better Multi-step Reasoners <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2410.09037) [[Code]](https://github.com/2hojae/mentor-kd)
+- Mentor-KD: Making Small Language Models Better Multi-step Reasoners <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2410.09037) [[Code]](https://github.com/2hojae/mentor-kd) [![Stars](https://img.shields.io/github/stars/2hojae/mentor-kd?style=social)](https://github.com/2hojae/mentor-kd)
 
 - Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.12512) 
 
 - LLM-Neo: Parameter Efficient Knowledge Distillation for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2411.06839) [[Code]](https://huggingface.co/collections/yang31210999/llm-neo-66e3c882f5579b829ff57eba)
 
-- Enhancing Knowledge Distillation for LLMs with Response-Priming Prompting <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.17846) [[Code]](https://github.com/alonso130r/knowledge-distillation)
+- Enhancing Knowledge Distillation for LLMs with Response-Priming Prompting <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.17846) [[Code]](https://github.com/alonso130r/knowledge-distillation) [![Stars](https://img.shields.io/github/stars/alonso130r/knowledge-distillation?style=social)](https://github.com/alonso130r/knowledge-distillation)
 
 - Feature Alignment-Based Knowledge Distillation for Efficient Compression of Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.19449) 
 
-- Lillama: Large Language Models Compression via Low-Rank Feature Distillation <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2412.16719) [[Code]](https://github.com/yaya-sy/lillama)
+- Lillama: Large Language Models Compression via Low-Rank Feature Distillation <br> NAACL 2025 [[Paper]](https://arxiv.org/abs/2412.16719) [[Code]](https://github.com/yaya-sy/lillama) [![Stars](https://img.shields.io/github/stars/yaya-sy/lillama?style=social)](https://github.com/yaya-sy/lillama)
 
 - Multi-Level Optimal Transport for Universal Cross-Tokenizer Knowledge Distillation on Language Models <br> AAAI 2025 [[Paper]](https://arxiv.org/abs/2412.14528) 
 
@@ -1634,7 +1634,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2023</b> &nbsp;·&nbsp; 20 papers</summary>
 
-- Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE)
+- Lifting the Curse of Capacity Gap in Distilling Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.12129) [[Code]](https://github.com/GeneZC/MiniMoE) [![Stars](https://img.shields.io/github/stars/GeneZC/MiniMoE?style=social)](https://github.com/GeneZC/MiniMoE)
 
 - Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.14050) 
 
@@ -1642,17 +1642,17 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - SCOTT: Self-Consistent Chain-of-Thought Distillation <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2305.01879) 
 
-- LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions <br> EACL 2024 [[Paper]](https://arxiv.org/abs/2304.14402) [[Code]](https://github.com/mbzuai-nlp/LaMini-LM)
+- LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions <br> EACL 2024 [[Paper]](https://arxiv.org/abs/2304.14402) [[Code]](https://github.com/mbzuai-nlp/LaMini-LM) [![Stars](https://img.shields.io/github/stars/mbzuai-nlp/LaMini-LM?style=social)](https://github.com/mbzuai-nlp/LaMini-LM)
 
 - Just CHOP: Embarrassingly Simple LLM Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.14864) 
 
 - The False Promise of Imitating Proprietary LLMs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.15717)
 
-- GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo <br> Arxiv 2023 [[Paper]](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf) [[Code]](https://github.com/nomic-ai/gpt4all)
+- GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo <br> Arxiv 2023 [[Paper]](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf) [[Code]](https://github.com/nomic-ai/gpt4all) [![Stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)](https://github.com/nomic-ai/gpt4all)
 
 - PaD: Program-aided Distillation Can Teach Small Models Reasoning Better than Chain-of-thought Fine-tuning <br> NAACL 2024 [[Paper]](https://arxiv.org/abs/2305.13888) 
 
-- MiniLLM: Knowledge Distillation of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.08543) [[Code]](https://github.com/microsoft/LMOps/tree/main/minillm)
+- MiniLLM: Knowledge Distillation of Large Language Models <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.08543) [[Code]](https://github.com/microsoft/LMOps/tree/main/minillm) [![Stars](https://img.shields.io/github/stars/microsoft/LMOps?style=social)](https://github.com/microsoft/LMOps)
 
 - On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2306.13649)
 
@@ -1662,13 +1662,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Sci-CoT: Leveraging Large Language Models for Enhanced Knowledge Distillation in Small Models for Scientific QA <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.04679)
 
-- Baby Llama: knowledge distillation from an ensemble of teachers trained on a small dataset with no performance penalty <br> CoNLL 2023 [[Paper]](https://arxiv.org/abs/2308.02019) [[Code]](https://github.com/timinar/BabyLlama)
+- Baby Llama: knowledge distillation from an ensemble of teachers trained on a small dataset with no performance penalty <br> CoNLL 2023 [[Paper]](https://arxiv.org/abs/2308.02019) [[Code]](https://github.com/timinar/BabyLlama) [![Stars](https://img.shields.io/github/stars/timinar/BabyLlama?style=social)](https://github.com/timinar/BabyLlama)
 
 - Can a student Large Language Model perform as well as it's teacher? <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.02421)
 
-- Multistage Collaborative Knowledge Distillation from Large Language Models <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2311.08640) [[Code]](https://github.com/andotalao24/Multistage-Collaborative-Knowledge-Distillation)
+- Multistage Collaborative Knowledge Distillation from Large Language Models <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2311.08640) [[Code]](https://github.com/andotalao24/Multistage-Collaborative-Knowledge-Distillation) [![Stars](https://img.shields.io/github/stars/andotalao24/Multistage-Collaborative-Knowledge-Distillation?style=social)](https://github.com/andotalao24/Multistage-Collaborative-Knowledge-Distillation)
 
-- Lion: Adversarial Distillation of Closed-Source Large Language Model <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2305.12870) [[Code]](https://github.com/YJiangcm/Lion)
+- Lion: Adversarial Distillation of Closed-Source Large Language Model <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2305.12870) [[Code]](https://github.com/YJiangcm/Lion) [![Stars](https://img.shields.io/github/stars/YJiangcm/Lion?style=social)](https://github.com/YJiangcm/Lion)
 
 - MCC-KD: Multi-CoT Consistent Knowledge Distillation <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.14747)
 
@@ -1679,7 +1679,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2022</b> &nbsp;·&nbsp; 1 paper</summary>
 
-- DISCO: Distilling Counterfactuals with Large Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2212.10534) [[Code]](https://github.com/eric11eca/disco)
+- DISCO: Distilling Counterfactuals with Large Language Models <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2212.10534) [[Code]](https://github.com/eric11eca/disco) [![Stars](https://img.shields.io/github/stars/eric11eca/disco?style=social)](https://github.com/eric11eca/disco)
 
 </details>
 
@@ -1688,19 +1688,19 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details open>
 <summary><b>2026</b> &nbsp;·&nbsp; 7 papers</summary>
 
-- SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.16746) [[Code]](https://github.com/Ayanami1314/swe-pruner)
+- SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.16746) [[Code]](https://github.com/Ayanami1314/swe-pruner) [![Stars](https://img.shields.io/github/stars/Ayanami1314/swe-pruner?style=social)](https://github.com/Ayanami1314/swe-pruner)
 
 - COMI: Coarse-to-fine Context Compression via Marginal Information Gain <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2602.01719)
 
 - Cross-Family Speculative Prefill: Training-Free Long-Context Compression with Small Draft Models <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2603.02631)
 
-- Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.13017) [[Code]](https://github.com/Process-Point-Technologies-Corporation/searchat)
+- Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.13017) [[Code]](https://github.com/Process-Point-Technologies-Corporation/searchat) [![Stars](https://img.shields.io/github/stars/Process-Point-Technologies-Corporation/searchat?style=social)](https://github.com/Process-Point-Technologies-Corporation/searchat)
 
-- Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.25926) [[Code]](https://github.com/yuyijiong/semi-dynamic-context-compress)
+- Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.25926) [[Code]](https://github.com/yuyijiong/semi-dynamic-context-compress) [![Stars](https://img.shields.io/github/stars/yuyijiong/semi-dynamic-context-compress?style=social)](https://github.com/yuyijiong/semi-dynamic-context-compress)
 
 - LensVLM: Selective Context Expansion for Compressed Visual Representation of Text <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.07019)
 
-- AGORA: Adapter-Grounded Observation-Action Retention for Inference-Free Prompt Compression in LLM Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.26596) [[Code]](https://github.com/ranranrannervous/agoracompression)
+- AGORA: Adapter-Grounded Observation-Action Retention for Inference-Free Prompt Compression in LLM Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.26596) [[Code]](https://github.com/ranranrannervous/agoracompression) [![Stars](https://img.shields.io/github/stars/ranranrannervous/agoracompression?style=social)](https://github.com/ranranrannervous/agoracompression)
 
 </details>
 
@@ -1717,9 +1717,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Task-agnostic Prompt Compression with Context-aware Sentence Embedding and Reward-guided Task Descriptor <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2502.13374)
 
-- LightThinker: Thinking Step-by-Step Compression <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2502.15589) [[Code]](https://github.com/zjunlp/LightThinker)
+- LightThinker: Thinking Step-by-Step Compression <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2502.15589) [[Code]](https://github.com/zjunlp/LightThinker) [![Stars](https://img.shields.io/github/stars/zjunlp/LightThinker?style=social)](https://github.com/zjunlp/LightThinker)
 
-- BatchGEMBA: Token-Efficient Machine Translation Evaluation with Batched Prompting and Prompt Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.02756) [[Code]](https://github.com/NL2G/batchgemba)
+- BatchGEMBA: Token-Efficient Machine Translation Evaluation with Batched Prompting and Prompt Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.02756) [[Code]](https://github.com/NL2G/batchgemba) [![Stars](https://img.shields.io/github/stars/NL2G/batchgemba?style=social)](https://github.com/NL2G/batchgemba)
 
 - EFPC: Towards Efficient and Flexible Prompt Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.07956)
 
@@ -1729,7 +1729,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Understanding and Improving Information Preservation in Prompt Compression for LLMs <br> EMNLP Findings 2025 [[Paper]](https://arxiv.org/abs/2503.19114)
 
-- Dynamic Compressing Prompts for Efficient Inference of Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.11004) [[Code]](https://github.com/Fhujinwu/DPC)
+- Dynamic Compressing Prompts for Efficient Inference of Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.11004) [[Code]](https://github.com/Fhujinwu/DPC) [![Stars](https://img.shields.io/github/stars/Fhujinwu/DPC?style=social)](https://github.com/Fhujinwu/DPC)
 
 - PIS: Linking Importance Sampling and Attention Mechanisms for Efficient Prompt Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.16574)
 
@@ -1745,7 +1745,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ACON: Optimizing Context Compression for Long-horizon LLM Agents <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2510.00615)
 
-- Autoencoding-Free Context Compression for LLMs via Contextual Semantic Anchors <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.08907) [[Code]](https://github.com/lx-Meteors/SAC)
+- Autoencoding-Free Context Compression for LLMs via Contextual Semantic Anchors <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.08907) [[Code]](https://github.com/lx-Meteors/SAC) [![Stars](https://img.shields.io/github/stars/lx-Meteors/SAC?style=social)](https://github.com/lx-Meteors/SAC)
 
 </details>
 
@@ -1756,17 +1756,17 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Learning to Compress Prompt in Natural Language Formats <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.18700)
 
-- Say More with Less: Understanding Prompt Learning Behaviors through Gist Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.16058) [[Code]](https://github.com/OpenMatch/Gist-COCO)
+- Say More with Less: Understanding Prompt Learning Behaviors through Gist Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.16058) [[Code]](https://github.com/OpenMatch/Gist-COCO) [![Stars](https://img.shields.io/github/stars/OpenMatch/Gist-COCO?style=social)](https://github.com/OpenMatch/Gist-COCO)
 
 - StreamingDialogue: Prolonged Dialogue Learning via Long Context Compression with Minimal Losses <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.08312) 
 
-- LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2403.12968)  [[Code]](https://github.com/microsoft/LLMLingua)
+- LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression <br> ACL Findings 2024 [[Paper]](https://arxiv.org/abs/2403.12968)  [[Code]](https://github.com/microsoft/LLMLingua) [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social)](https://github.com/microsoft/LLMLingua)
 
-- PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.17411)  [[Code]](https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression)
+- PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.17411)  [[Code]](https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression) [![Stars](https://img.shields.io/github/stars/3DAgentWorld/Toolkit-for-Prompt-Compression?style=social)](https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression)
 
 - PROMPT-SAW: Leveraging Relation-Aware Graphs for Textual Prompt Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.00489) 
 
-- Prompts As Programs: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.02319) [[Code]](https://github.com/microsoft/sammo)
+- Prompts As Programs: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.02319) [[Code]](https://github.com/microsoft/sammo) [![Stars](https://img.shields.io/github/stars/microsoft/sammo?style=social)](https://github.com/microsoft/sammo)
 
 - Adapting LLMs for Efficient Context Processing through Soft Prompt Compression <br> IPCA 2024 [[Paper]](https://arxiv.org/abs/2404.04997) 
 
@@ -1778,13 +1778,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2407.15504) 
 
-- QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.00274) [[Code]](https://github.com/Wenshansilvia/attention_compressor)
+- QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.00274) [[Code]](https://github.com/Wenshansilvia/attention_compressor) [![Stars](https://img.shields.io/github/stars/Wenshansilvia/attention_compressor?style=social)](https://github.com/Wenshansilvia/attention_compressor)
 
 - 500xCompressor: Generalized Prompt Compression for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.03094)
 
 - Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.15491)
 
-- Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.01227) [[Code]](https://github.com/Workday/cpc)
+- Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.01227) [[Code]](https://github.com/Workday/cpc) [![Stars](https://img.shields.io/github/stars/Workday/cpc?style=social)](https://github.com/Workday/cpc)
 
 - Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.07331)
 
@@ -1792,11 +1792,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - AlphaZip: Neural Network-Enhanced Lossless Text Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.15046)
 
-- Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.17422) [[Code]](https://github.com/SalesforceAIResearch/GemFilter)
+- Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.17422) [[Code]](https://github.com/SalesforceAIResearch/GemFilter) [![Stars](https://img.shields.io/github/stars/SalesforceAIResearch/GemFilter?style=social)](https://github.com/SalesforceAIResearch/GemFilter)
 
 - Perception Compressor:A training-free prompt compression method in long context scenarios <br> NAACL Findings 2025 [[Paper]](https://arxiv.org/abs/2409.19272)
 
-- From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.04139) [[Code]](https://github.com/eunseongc/R2C)
+- From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.04139) [[Code]](https://github.com/eunseongc/R2C) [![Stars](https://img.shields.io/github/stars/eunseongc/R2C?style=social)](https://github.com/eunseongc/R2C)
 
 - Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2410.11786)
 
@@ -1807,39 +1807,39 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2023</b> &nbsp;·&nbsp; 17 papers</summary>
 
-- Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
+- Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning <br> ACL 2023 [[Paper]](https://arxiv.org/abs/2306.01150) [[Code]](https://github.com/fanyin3639/Rethinking-instruction-effectiveness) [![Stars](https://img.shields.io/github/stars/fanyin3639/Rethinking-instruction-effectiveness?style=social)](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)
 
-- Batch Prompting: Efficient Inference with Large Language Model APIs <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2301.08721) [[Code]](https://github.com/xlang-ai/batch-prompting) 
+- Batch Prompting: Efficient Inference with Large Language Model APIs <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2301.08721) [[Code]](https://github.com/xlang-ai/batch-prompting) [![Stars](https://img.shields.io/github/stars/xlang-ai/batch-prompting?style=social)](https://github.com/xlang-ai/batch-prompting)
 
-- Adapting Language Models to Compress Contexts <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2305.14788) [[Code]](https://github.com/princeton-nlp/AutoCompressors)
+- Adapting Language Models to Compress Contexts <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2305.14788) [[Code]](https://github.com/princeton-nlp/AutoCompressors) [![Stars](https://img.shields.io/github/stars/princeton-nlp/AutoCompressors?style=social)](https://github.com/princeton-nlp/AutoCompressors)
 
-- Compressing Context to Enhance Inference Efficiency of Large Language Models <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.06201) [[Code]](https://github.com/liyucheng09/Selective_Context)
+- Compressing Context to Enhance Inference Efficiency of Large Language Models <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.06201) [[Code]](https://github.com/liyucheng09/Selective_Context) [![Stars](https://img.shields.io/github/stars/liyucheng09/Selective_Context?style=social)](https://github.com/liyucheng09/Selective_Context)
 
-- LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.05736) [[Code]](https://github.com/microsoft/LLMLingua)
+- LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.05736) [[Code]](https://github.com/microsoft/LLMLingua) [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social)](https://github.com/microsoft/LLMLingua)
 
 - Vector-Quantized Prompt Learning for Paraphrase Generation <br> EMNLP Findings 2023 [[Paper]](https://arxiv.org/abs/2311.14949)
 
 - Efficient Prompting via Dynamic In-Context Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.11170)
 
-- Learning to Compress Prompts with Gist Tokens <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2304.08467) [[Code]](https://github.com/jayelm/gisting)
+- Learning to Compress Prompts with Gist Tokens <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2304.08467) [[Code]](https://github.com/jayelm/gisting) [![Stars](https://img.shields.io/github/stars/jayelm/gisting?style=social)](https://github.com/jayelm/gisting)
 
 - In-context Autoencoder for Context Compression in a Large Language Model <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2307.06945) 
 
-- Discrete Prompt Compression with Reinforcement Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.08758) [[Code]](https://github.com/JungHoyoun/PromptCompressor)
+- Discrete Prompt Compression with Reinforcement Learning <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.08758) [[Code]](https://github.com/JungHoyoun/PromptCompressor) [![Stars](https://img.shields.io/github/stars/JungHoyoun/PromptCompressor?style=social)](https://github.com/JungHoyoun/PromptCompressor)
 
 - BatchPrompt: Accomplish more with less <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.00384) 
 
 - Do Compressed LLMs Forget Knowledge? An Experimental Study with Practical Implications <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.00867) 
 
-- RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.04408) [[Code]](https://github.com/carriex/recomp)
+- RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.04408) [[Code]](https://github.com/carriex/recomp) [![Stars](https://img.shields.io/github/stars/carriex/recomp?style=social)](https://github.com/carriex/recomp)
 
-- LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2310.06839) [[Code]](https://github.com/microsoft/LLMLingua)
+- LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2310.06839) [[Code]](https://github.com/microsoft/LLMLingua) [![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua?style=social)](https://github.com/microsoft/LLMLingua)
 
 - Extending Context Window of Large Language Models via Semantic Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.09571)
 
-- Fewer is More: Boosting LLM Reasoning with Reinforced Context Pruning <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2312.08901) [[Code]](https://github.com/HuangOwen/CoT-Influx)
+- Fewer is More: Boosting LLM Reasoning with Reinforced Context Pruning <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2312.08901) [[Code]](https://github.com/HuangOwen/CoT-Influx) [![Stars](https://img.shields.io/github/stars/HuangOwen/CoT-Influx?style=social)](https://github.com/HuangOwen/CoT-Influx)
 
-- Compressed Context Memory For Online Language Model Interaction <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2312.03414) [[Code]](https://github.com/snu-mllab/context-memory)
+- Compressed Context Memory For Online Language Model Interaction <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2312.03414) [[Code]](https://github.com/snu-mllab/context-memory) [![Stars](https://img.shields.io/github/stars/snu-mllab/context-memory?style=social)](https://github.com/snu-mllab/context-memory)
 
 </details>
 
@@ -1848,7 +1848,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details open>
 <summary><b>2026</b> &nbsp;·&nbsp; 31 papers</summary>
 
-- Joint Encoding of KV-Cache Blocks for Scalable LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.03067) [[Code]](https://github.com/sef1/kv_fast_fusion)
+- Joint Encoding of KV-Cache Blocks for Scalable LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.03067) [[Code]](https://github.com/sef1/kv_fast_fusion) [![Stars](https://img.shields.io/github/stars/sef1/kv_fast_fusion?style=social)](https://github.com/sef1/kv_fast_fusion)
 
 - OrbitFlow: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration <br> VLDB 2026 [[Paper]](https://arxiv.org/abs/2601.10729)
 
@@ -1858,9 +1858,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ForesightKV: Optimizing KV Cache Eviction for Reasoning Models by Learning Long-Term Contribution <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2602.03203)
 
-- ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2602.07721) [[Code]](https://github.com/amy-77/ParisKV)
+- ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2602.07721) [[Code]](https://github.com/amy-77/ParisKV) [![Stars](https://img.shields.io/github/stars/amy-77/ParisKV?style=social)](https://github.com/amy-77/ParisKV)
 
-- Learning to Evict from Key-Value Cache <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2602.10238) [[Code]](https://github.com/apple/ml-learning-to-evict)
+- Learning to Evict from Key-Value Cache <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2602.10238) [[Code]](https://github.com/apple/ml-learning-to-evict) [![Stars](https://img.shields.io/github/stars/apple/ml-learning-to-evict?style=social)](https://github.com/apple/ml-learning-to-evict)
 
 - KEEP: A KV-Cache-Centric Memory Management System for Efficient Embodied Planning <br> DAC 2026 [[Paper]](https://arxiv.org/abs/2602.23592)
 
@@ -1870,45 +1870,45 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Don't Waste Bits! Adaptive KV-Cache Quantization for Lightweight On-Device LLMs <br> CVPR 2026 [[Paper]](https://arxiv.org/abs/2604.04722)
 
-- TriAttention: Efficient Long Reasoning with Trigonometric KV Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.04921) [[Code]](https://github.com/WeianMao/triattention)
+- TriAttention: Efficient Long Reasoning with Trigonometric KV Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.04921) [[Code]](https://github.com/WeianMao/triattention) [![Stars](https://img.shields.io/github/stars/WeianMao/triattention?style=social)](https://github.com/WeianMao/triattention)
 
 - Latent-Condensed Transformer for Efficient Long Context Modeling <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2604.12452)
 
-- Open-TQ-Metal: Fused Compressed-Domain Attention for Long-Context LLM Inference on Apple Silicon <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.16957) [[Code]](https://github.com/mutable-state-inc/gemma4metal)
+- Open-TQ-Metal: Fused Compressed-Domain Attention for Long-Context LLM Inference on Apple Silicon <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.16957) [[Code]](https://github.com/mutable-state-inc/gemma4metal) [![Stars](https://img.shields.io/github/stars/mutable-state-inc/gemma4metal?style=social)](https://github.com/mutable-state-inc/gemma4metal)
 
 - River-LLM: Large Language Model Seamless Exit Based on KV Share <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2604.18396)
 
-- PolyKV: A Shared Asymmetrically-Compressed KV Cache Pool for Multi-Agent LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.24971) [[Code]](https://github.com/ishan1410/PolyKV)
+- PolyKV: A Shared Asymmetrically-Compressed KV Cache Pool for Multi-Agent LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.24971) [[Code]](https://github.com/ishan1410/PolyKV) [![Stars](https://img.shields.io/github/stars/ishan1410/PolyKV?style=social)](https://github.com/ishan1410/PolyKV)
 
-- Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.25975) [[Code]](https://github.com/jiamingyy/CapKV)
+- Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2604.25975) [[Code]](https://github.com/jiamingyy/CapKV) [![Stars](https://img.shields.io/github/stars/jiamingyy/CapKV?style=social)](https://github.com/jiamingyy/CapKV)
 
 - Make Your LVLM KV Cache More Lightweight <br> TMLR 2026 [[Paper]](https://arxiv.org/abs/2605.00789)
 
-- SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.01708) [[Code]](https://github.com/Intelligent-Microsystems-Lab/SplitZip)
+- SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.01708) [[Code]](https://github.com/Intelligent-Microsystems-Lab/SplitZip) [![Stars](https://img.shields.io/github/stars/Intelligent-Microsystems-Lab/SplitZip?style=social)](https://github.com/Intelligent-Microsystems-Lab/SplitZip)
 
-- ReST-KV: Robust KV Cache Eviction with Layer-wise Output Reconstruction and Spatial-Temporal Smoothing <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2605.08840) [[Code]](https://github.com/an-yongqi/rest-kv)
+- ReST-KV: Robust KV Cache Eviction with Layer-wise Output Reconstruction and Spatial-Temporal Smoothing <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2605.08840) [[Code]](https://github.com/an-yongqi/rest-kv) [![Stars](https://img.shields.io/github/stars/an-yongqi/rest-kv?style=social)](https://github.com/an-yongqi/rest-kv)
 
-- MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.22269) [[Code]](https://github.com/IMBALDY/MuKV)
+- MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.22269) [[Code]](https://github.com/IMBALDY/MuKV) [![Stars](https://img.shields.io/github/stars/IMBALDY/MuKV?style=social)](https://github.com/IMBALDY/MuKV)
 
 - Semantic Cache Distillation: Efficient State Transfer via Reuse and Selective Patching <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.07684)
 
 - RKSC: Reasoning-Aware KV Cache Sharing and Confident Early Exit for Multi-Step LLM Inference <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2606.09937)
 
-- KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2606.17034) [[Code]](https://github.com/Graph-COM/KVEraser)
+- KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2606.17034) [[Code]](https://github.com/Graph-COM/KVEraser) [![Stars](https://img.shields.io/github/stars/Graph-COM/KVEraser?style=social)](https://github.com/Graph-COM/KVEraser)
 
-- CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.24467) [[Code]](https://github.com/TUDa-HWAI/CompressKV)
+- CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.24467) [[Code]](https://github.com/TUDa-HWAI/CompressKV) [![Stars](https://img.shields.io/github/stars/TUDa-HWAI/CompressKV?style=social)](https://github.com/TUDa-HWAI/CompressKV)
 
 - HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2606.28831)
 
 - GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2607.01065)
 
-- Fractal KV-Cache Archives: Lossless Symbolic Storage with In-Place Retrieval for Long-Context LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.07144) [[Code]](https://github.com/eighteight/fractal-kv)
+- Fractal KV-Cache Archives: Lossless Symbolic Storage with In-Place Retrieval for Long-Context LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2607.07144) [[Code]](https://github.com/eighteight/fractal-kv) [![Stars](https://img.shields.io/github/stars/eighteight/fractal-kv?style=social)](https://github.com/eighteight/fractal-kv)
 
 - C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference <br> KDD 2026 [[Paper]](https://arxiv.org/abs/2607.17715)
 
 - WnW: Waxing-and-Waning KV Cache for Long-Form Speech LLMs <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2608.22704)
 
-- VisCache: Visual KV Cache Pruning for Efficient Vision Large Language Model Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.24063) [[Code]](https://github.com/Wlklk/VisCache)
+- VisCache: Visual KV Cache Pruning for Efficient Vision Large Language Model Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.24063) [[Code]](https://github.com/Wlklk/VisCache) [![Stars](https://img.shields.io/github/stars/Wlklk/VisCache?style=social)](https://github.com/Wlklk/VisCache)
 
 </details>
 
@@ -1923,7 +1923,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2502.00299) 
 
-- FastKV: Decoupling of Context Reduction and KV Cache Compression for Prefill-Decoding Acceleration <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2502.01068) [[Code]](https://github.com/dongwonjo/FastKV)
+- FastKV: Decoupling of Context Reduction and KV Cache Compression for Prefill-Decoding Acceleration <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2502.01068) [[Code]](https://github.com/dongwonjo/FastKV) [![Stars](https://img.shields.io/github/stars/dongwonjo/FastKV?style=social)](https://github.com/dongwonjo/FastKV)
 
 - Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2502.01941) 
 
@@ -1947,7 +1947,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - KVCrush: Key value cache size-reduction using similarity in head-behaviour <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.00022) 
 
-- Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.02812) [[Code]](https://github.com/NathanGodey/qfilters)
+- Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.02812) [[Code]](https://github.com/NathanGodey/qfilters) [![Stars](https://img.shields.io/github/stars/NathanGodey/qfilters?style=social)](https://github.com/NathanGodey/qfilters)
 
 - Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge Reasoning <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.04973)
 
@@ -1955,55 +1955,55 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LLMs Know What to Drop: Self-Attention Guided KV Cache Eviction for Efficient Long-Context Inference <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2503.08879)
 
-- ZeroMerge: Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.10714) [[Code]](https://github.com/SusCom-Lab/ZSMerge)
+- ZeroMerge: Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.10714) [[Code]](https://github.com/SusCom-Lab/ZSMerge) [![Stars](https://img.shields.io/github/stars/SusCom-Lab/ZSMerge?style=social)](https://github.com/SusCom-Lab/ZSMerge)
 
 - Time and Memory Trade-off of KV-Cache Compression in Tensor Transformer Decoding <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.11108)
 
-- Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.16257) [[Code]](https://github.com/KD-TAO/VidKV)
+- Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.16257) [[Code]](https://github.com/KD-TAO/VidKV) [![Stars](https://img.shields.io/github/stars/KD-TAO/VidKV?style=social)](https://github.com/KD-TAO/VidKV)
 
 - OmniKV: Dynamic Context Selection for Efficient Long-Context LLMs <br> ICLR 2025 [[Paper]](https://openreview.net/forum?id=ulCAPXYXfa)
 
-- WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.17922) [[Code]](https://github.com/optim996/WindowKV)
+- WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.17922) [[Code]](https://github.com/optim996/WindowKV) [![Stars](https://img.shields.io/github/stars/optim996/WindowKV?style=social)](https://github.com/optim996/WindowKV)
 
-- xKV: Cross-Layer KV-Cache Compression via Aligned Singular Vector Extraction <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2503.18893) [[Code]](https://github.com/abdelfattah-lab/xKV)
+- xKV: Cross-Layer KV-Cache Compression via Aligned Singular Vector Extraction <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2503.18893) [[Code]](https://github.com/abdelfattah-lab/xKV) [![Stars](https://img.shields.io/github/stars/abdelfattah-lab/xKV?style=social)](https://github.com/abdelfattah-lab/xKV)
 
-- LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation <br> ICLR 2025 Workshop on Sparsity in LLMs (SLLM) [[Paper]](https://arxiv.org/abs/2503.19950) [[Code]](https://github.com/Concyclics/LogQuantKV)
+- LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation <br> ICLR 2025 Workshop on Sparsity in LLMs (SLLM) [[Paper]](https://arxiv.org/abs/2503.19950) [[Code]](https://github.com/Concyclics/LogQuantKV) [![Stars](https://img.shields.io/github/stars/Concyclics/LogQuantKV?style=social)](https://github.com/Concyclics/LogQuantKV)
 
 - AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2503.23956)
 
-- Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving <br> MLSys 2025 [[Paper]](https://arxiv.org/abs/2503.24000) [[Code]](https://github.com/LLMkvsys/rethink-kv-compression)
+- Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving <br> MLSys 2025 [[Paper]](https://arxiv.org/abs/2503.24000) [[Code]](https://github.com/LLMkvsys/rethink-kv-compression) [![Stars](https://img.shields.io/github/stars/LLMkvsys/rethink-kv-compression?style=social)](https://github.com/LLMkvsys/rethink-kv-compression)
 
-- MILLION: Mastering Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization <br> DAC 2025 [[Paper]](https://arxiv.org/abs/2504.03661) [[Code]](https://github.com/ZongwuWang/MILLION)
+- MILLION: Mastering Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization <br> DAC 2025 [[Paper]](https://arxiv.org/abs/2504.03661) [[Code]](https://github.com/ZongwuWang/MILLION) [![Stars](https://img.shields.io/github/stars/ZongwuWang/MILLION?style=social)](https://github.com/ZongwuWang/MILLION)
 
 - KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.09936)
 
 - FreqKV: Key-Value Compression in Frequency Domain for Context Window Extension <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2505.00570)
 
-- Accurate KV Cache Quantization with Outlier Tokens Tracing <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2505.10938) [[Code]](https://github.com/yisunlp/OTT)
+- Accurate KV Cache Quantization with Outlier Tokens Tracing <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2505.10938) [[Code]](https://github.com/yisunlp/OTT) [![Stars](https://img.shields.io/github/stars/yisunlp/OTT?style=social)](https://github.com/yisunlp/OTT)
 
 - NQKV: A KV Cache Quantization Scheme Based on Normal Distribution Characteristics <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.16210)
 
-- Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration <br> GLSVLSI 2025 [[Paper]](https://arxiv.org/abs/2505.17787) [[Code]](https://github.com/peilin-chen/Titanus-for-LLM-acceleration)
+- Titanus: Enabling KV Cache Pruning and Quantization On-the-Fly for LLM Acceleration <br> GLSVLSI 2025 [[Paper]](https://arxiv.org/abs/2505.17787) [[Code]](https://github.com/peilin-chen/Titanus-for-LLM-acceleration) [![Stars](https://img.shields.io/github/stars/peilin-chen/Titanus-for-LLM-acceleration?style=social)](https://github.com/peilin-chen/Titanus-for-LLM-acceleration)
 
 - NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2505.18231)
 
-- PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2505.18610) [[Code]](https://github.com/thu-nics/PM-KVQ)
+- PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT LLMs <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2505.18610) [[Code]](https://github.com/thu-nics/PM-KVQ) [![Stars](https://img.shields.io/github/stars/thu-nics/PM-KVQ?style=social)](https://github.com/thu-nics/PM-KVQ)
 
-- KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2505.23416) [[Code]](https://github.com/snu-mllab/KVzip)
+- KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2505.23416) [[Code]](https://github.com/snu-mllab/KVzip) [![Stars](https://img.shields.io/github/stars/snu-mllab/KVzip?style=social)](https://github.com/snu-mllab/KVzip)
 
-- CommVQ: Commutative Vector Quantization for KV Cache Compression <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2506.18879) [[Code]](https://github.com/UMass-Embodied-AGI/CommVQ)
+- CommVQ: Commutative Vector Quantization for KV Cache Compression <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2506.18879) [[Code]](https://github.com/UMass-Embodied-AGI/CommVQ) [![Stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/CommVQ?style=social)](https://github.com/UMass-Embodied-AGI/CommVQ)
 
 - LeanK: Learnable K Cache Channel Pruning for Efficient Decoding <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02215)
 
-- CompressKV: Semantic Retrieval Heads Know What Tokens are Not Important Before Generation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02401) [[Code]](https://github.com/TUDa-HWAI/CompressKV)
+- CompressKV: Semantic Retrieval Heads Know What Tokens are Not Important Before Generation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02401) [[Code]](https://github.com/TUDa-HWAI/CompressKV) [![Stars](https://img.shields.io/github/stars/TUDa-HWAI/CompressKV?style=social)](https://github.com/TUDa-HWAI/CompressKV)
 
-- Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02558) [[Code]](https://github.com/OpenMOSS/Sparse-dLLM)
+- Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02558) [[Code]](https://github.com/OpenMOSS/Sparse-dLLM) [![Stars](https://img.shields.io/github/stars/OpenMOSS/Sparse-dLLM?style=social)](https://github.com/OpenMOSS/Sparse-dLLM)
 
 - SmallKV: Small Model Assisted Compensation of KV Cache Compression for Efficient LLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02751)
 
 - KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs <br> COLM 2025 [[Paper]](https://arxiv.org/abs/2508.04257)
 
-- PiKV: KV Cache Management System for Mixture of Experts <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06526) [[Code]](https://github.com/NoakLiu/PiKV)
+- PiKV: KV Cache Management System for Mixture of Experts <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.06526) [[Code]](https://github.com/NoakLiu/PiKV) [![Stars](https://img.shields.io/github/stars/NoakLiu/PiKV?style=social)](https://github.com/NoakLiu/PiKV)
 
 - Retrospective Sparse Attention for Efficient Long-Context Generation <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.09001)
 
@@ -2013,7 +2013,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Accelerating LLM Inference via Dynamic KV Cache Placement in Heterogeneous Memory System <br> IEEE CAL 2025 [[Paper]](https://arxiv.org/abs/2508.13231)
 
-- SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning <br> AAAI 2026 [[Paper]](https://arxiv.org/abs/2508.15212) [[Code]](https://github.com/Xnhyacinth/SparK)
+- SparK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning <br> AAAI 2026 [[Paper]](https://arxiv.org/abs/2508.15212) [[Code]](https://github.com/Xnhyacinth/SparK) [![Stars](https://img.shields.io/github/stars/Xnhyacinth/SparK?style=social)](https://github.com/Xnhyacinth/SparK)
 
 - StreamMem: Query-Agnostic KV Cache Memory for Streaming Video Understanding <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.15717)
 
@@ -2031,17 +2031,17 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2510.07651)
 
-- Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.09309) [[Code]](https://github.com/jianuo-huang/MaskKV)
+- Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.09309) [[Code]](https://github.com/jianuo-huang/MaskKV) [![Stars](https://img.shields.io/github/stars/jianuo-huang/MaskKV?style=social)](https://github.com/jianuo-huang/MaskKV)
 
 - XQuant: Achieving Ultra-Low Bit KV Cache Quantization with Cross-Layer Compression <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2510.11236)
 
-- KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.12872) [[Code]](https://github.com/FastMAS/KVCOMM)
+- KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.12872) [[Code]](https://github.com/FastMAS/KVCOMM) [![Stars](https://img.shields.io/github/stars/FastMAS/KVCOMM?style=social)](https://github.com/FastMAS/KVCOMM)
 
-- Attention Is All You Need for KV Cache in Diffusion LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.14973) [[Code]](https://github.com/VILA-Lab/Elastic-Cache)
+- Attention Is All You Need for KV Cache in Diffusion LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2510.14973) [[Code]](https://github.com/VILA-Lab/Elastic-Cache) [![Stars](https://img.shields.io/github/stars/VILA-Lab/Elastic-Cache?style=social)](https://github.com/VILA-Lab/Elastic-Cache)
 
 - StreamingTOM: Streaming Token Compression for Efficient Video Understanding <br> CVPR 2026 [[Paper]](https://arxiv.org/abs/2510.18269)
 
-- Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.20707) [[Code]](https://github.com/xuyang-liu16/MixKV)
+- Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models <br> ICLR 2026 [[Paper]](https://arxiv.org/abs/2510.20707) [[Code]](https://github.com/xuyang-liu16/MixKV) [![Stars](https://img.shields.io/github/stars/xuyang-liu16/MixKV?style=social)](https://github.com/xuyang-liu16/MixKV)
 
 - FlexiCache: Leveraging Temporal Stability of Attention Heads for Efficient KV Cache Management <br> MLSys 2026 [[Paper]](https://arxiv.org/abs/2511.00868)
 
@@ -2051,7 +2051,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval <br> HPCA 2026 [[Paper]](https://arxiv.org/abs/2512.12284)
 
-- PackKV: Reducing KV Cache Memory Footprint through LLM-Aware Lossy Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.24449) [[Code]](https://github.com/BoJiang03/PackKV)
+- PackKV: Reducing KV Cache Memory Footprint through LLM-Aware Lossy Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.24449) [[Code]](https://github.com/BoJiang03/PackKV) [![Stars](https://img.shields.io/github/stars/BoJiang03/PackKV?style=social)](https://github.com/BoJiang03/PackKV)
 
 </details>
 
@@ -2060,7 +2060,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2401.18079)
 
-- KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.02750) [[Code]](https://github.com/jy-yuan/KIVI)
+- KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.02750) [[Code]](https://github.com/jy-yuan/KIVI) [![Stars](https://img.shields.io/github/stars/jy-yuan/KIVI?style=social)](https://github.com/jy-yuan/KIVI)
 
 - No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2402.18096)
 
@@ -2068,7 +2068,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.05527)
 
-- QAQ: Quality Adaptive Quantization for LLM KV Cache <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.04643) [[Code]](https://github.com/ClubieDong/QAQ-KVCacheQuantization)
+- QAQ: Quality Adaptive Quantization for LLM KV Cache <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.04643) [[Code]](https://github.com/ClubieDong/QAQ-KVCacheQuantization) [![Stars](https://img.shields.io/github/stars/ClubieDong/QAQ-KVCacheQuantization?style=social)](https://github.com/ClubieDong/QAQ-KVCacheQuantization)
 
 - KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.03917)
 
@@ -2082,7 +2082,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling <br> Arxiv 2024 [[Paper]](http://arxiv.org/abs/2406.02069)
 
-- QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.03482) [[Code]](https://github.com/amirzandieh/QJL)
+- QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.03482) [[Code]](https://github.com/amirzandieh/QJL) [![Stars](https://img.shields.io/github/stars/amirzandieh/QJL?style=social)](https://github.com/amirzandieh/QJL)
 
 - Effectively Compress KV Heads for LLM <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.07056)
 
@@ -2090,7 +2090,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - PQCache: Product Quantization-based KVCache for Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.12820)
 
-- Palu: Compressing KV-Cache with Low-Rank Projection <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.21118) [[Code]](https://github.com/shadowpa0327/Palu)
+- Palu: Compressing KV-Cache with Low-Rank Projection <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.21118) [[Code]](https://github.com/shadowpa0327/Palu) [![Stars](https://img.shields.io/github/stars/shadowpa0327/Palu?style=social)](https://github.com/shadowpa0327/Palu)
 
 - RazorAttention: Efficient KV Cache Compression Through Retrieval Heads <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.15891)
 
@@ -2098,27 +2098,27 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - FDC: Fast KV Dimensionality Compression for Efficient LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2408.04107)
 
-- Eigen Attention: Attention in Low-Rank Space for KV Cache Compression <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2408.05646) [[Code]](https://github.com/UtkarshSaxena1/EigenAttn/tree/main)
+- Eigen Attention: Attention in Low-Rank Space for KV Cache Compression <br> EMNLP Findings 2024 [[Paper]](https://arxiv.org/abs/2408.05646) [[Code]](https://github.com/UtkarshSaxena1/EigenAttn/tree/main) [![Stars](https://img.shields.io/github/stars/UtkarshSaxena1/EigenAttn?style=social)](https://github.com/UtkarshSaxena1/EigenAttn)
 
-- CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.10593) [[Code]](https://github.com/wln20/CSKV)
+- CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.10593) [[Code]](https://github.com/wln20/CSKV) [![Stars](https://img.shields.io/github/stars/wln20/CSKV?style=social)](https://github.com/wln20/CSKV)
 
 - LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03111)
 
-- LightTransfer: Your Long-Context LLM is Secretly a Hybrid Model with Effortless Adaptation <br> TMLR 2025 [[Paper]](https://arxiv.org/abs/2410.13846) [[Code]](https://github.com/sail-sg/SimLayerKV)
+- LightTransfer: Your Long-Context LLM is Secretly a Hybrid Model with Effortless Adaptation <br> TMLR 2025 [[Paper]](https://arxiv.org/abs/2410.13846) [[Code]](https://github.com/sail-sg/SimLayerKV) [![Stars](https://img.shields.io/github/stars/sail-sg/SimLayerKV?style=social)](https://github.com/sail-sg/SimLayerKV)
 
 - MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.14731)
 
 - AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.13212) 
 
-- Residual vector quantization for KV cache compression in large language model <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.15704) [[Code]](https://github.com/iankur/vqllm)
+- Residual vector quantization for KV cache compression in large language model <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.15704) [[Code]](https://github.com/iankur/vqllm) [![Stars](https://img.shields.io/github/stars/iankur/vqllm?style=social)](https://github.com/iankur/vqllm)
 
 - Lossless KV Cache Compression to 2% <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.15252)
 
-- KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.18517) [[Code]](https://github.com/yangyifei729/KVSharer)
+- KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.18517) [[Code]](https://github.com/yangyifei729/KVSharer) [![Stars](https://img.shields.io/github/stars/yangyifei729/KVSharer?style=social)](https://github.com/yangyifei729/KVSharer)
 
-- Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2410.19258) [[Code]](https://github.com/Clement25/SharedLLM)
+- Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2410.19258) [[Code]](https://github.com/Clement25/SharedLLM) [![Stars](https://img.shields.io/github/stars/Clement25/SharedLLM?style=social)](https://github.com/Clement25/SharedLLM)
 
-- NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2408.03675) [[Code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL)
+- NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2408.03675) [[Code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL) [![Stars](https://img.shields.io/github/stars/PaddlePaddle/Research?style=social)](https://github.com/PaddlePaddle/Research)
 
 - DHA: Learning Decoupled-Head Attention from Transformer Checkpoints via Adaptive Heads Fusion <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2406.06567)
 
@@ -2130,19 +2130,19 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.03213) 
 
-- Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.08890) [[Code]](https://github.com/krafton-ai/lexico)
+- Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.08890) [[Code]](https://github.com/krafton-ai/lexico) [![Stars](https://img.shields.io/github/stars/krafton-ai/lexico?style=social)](https://github.com/krafton-ai/lexico)
 
 - ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.09036) 
 
-- SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2412.12094) [[Code]](https://github.com/HKUDS/SepLLM)
+- SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator <br> ICML 2025 [[Paper]](https://arxiv.org/abs/2412.12094) [[Code]](https://github.com/HKUDS/SepLLM) [![Stars](https://img.shields.io/github/stars/HKUDS/SepLLM?style=social)](https://github.com/HKUDS/SepLLM)
 
 - More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.12706) 
 
-- SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2412.13649) [[Code]](https://github.com/Linking-ai/SCOPE)
+- SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation <br> ACL 2025 [[Paper]](https://arxiv.org/abs/2412.13649) [[Code]](https://github.com/Linking-ai/SCOPE) [![Stars](https://img.shields.io/github/stars/Linking-ai/SCOPE?style=social)](https://github.com/Linking-ai/SCOPE)
 
 - DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2412.14838) 
 
-- Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2404.10308) [[Code]](https://github.com/alinlab/HOMER)
+- Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2404.10308) [[Code]](https://github.com/alinlab/HOMER) [![Stars](https://img.shields.io/github/stars/alinlab/HOMER?style=social)](https://github.com/alinlab/HOMER)
 
 </details>
 
@@ -2162,25 +2162,25 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.21198)
 
-- Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.02848) [[Code]](https://github.com/mint-vu/Zero-Sum-SVD)
+- Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2602.02848) [[Code]](https://github.com/mint-vu/Zero-Sum-SVD) [![Stars](https://img.shields.io/github/stars/mint-vu/Zero-Sum-SVD?style=social)](https://github.com/mint-vu/Zero-Sum-SVD)
 
-- MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft)
+- MineDraft: A Framework for Batch Parallel Speculative Decoding <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2603.18016) [[Code]](https://github.com/electron-shaders/MineDraft) [![Stars](https://img.shields.io/github/stars/electron-shaders/MineDraft?style=social)](https://github.com/electron-shaders/MineDraft)
 
-- TIDE: Token-Informed Depth Execution for Per-Token Early Exit in LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.21365) [[Code]](https://github.com/RightNow-AI/TIDE)
+- TIDE: Token-Informed Depth Execution for Per-Token Early Exit in LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2603.21365) [[Code]](https://github.com/RightNow-AI/TIDE) [![Stars](https://img.shields.io/github/stars/RightNow-AI/TIDE?style=social)](https://github.com/RightNow-AI/TIDE)
 
 - Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2604.01609)
 
-- SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.02888) [[Code]](https://github.com/Amorfati123/SpecKV)
+- SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.02888) [[Code]](https://github.com/Amorfati123/SpecKV) [![Stars](https://img.shields.io/github/stars/Amorfati123/SpecKV?style=social)](https://github.com/Amorfati123/SpecKV)
 
-- SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.08151) [[Code]](https://github.com/sgl-project/sglang)
+- SPECTRE: Hybrid Ordinary-Parallel Speculative Serving for Resource-Efficient LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.08151) [[Code]](https://github.com/sgl-project/sglang) [![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social)](https://github.com/sgl-project/sglang)
 
-- IO-SVD: Input-Output Whitened SVD for Adaptive-Rank LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.15626) [[Code]](https://github.com/mint-vu/IO-SVD)
+- IO-SVD: Input-Output Whitened SVD for Adaptive-Rank LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.15626) [[Code]](https://github.com/mint-vu/IO-SVD) [![Stars](https://img.shields.io/github/stars/mint-vu/IO-SVD?style=social)](https://github.com/mint-vu/IO-SVD)
 
 - Cassandra: Enabling Reasoning LLMs at Edge via Self-Speculative Decoding <br> ISCA 2026 [[Paper]](https://arxiv.org/abs/2605.26558)
 
-- SimSD: Simple Speculative Decoding in Diffusion Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.02544) [[Code]](https://github.com/airevo2/SimSD-release)
+- SimSD: Simple Speculative Decoding in Diffusion Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.02544) [[Code]](https://github.com/airevo2/SimSD-release) [![Stars](https://img.shields.io/github/stars/airevo2/SimSD-release?style=social)](https://github.com/airevo2/SimSD-release)
 
-- EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.18967) [[Code]](https://github.com/furiosa-ai/EfficientRollout)
+- EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.18967) [[Code]](https://github.com/furiosa-ai/EfficientRollout) [![Stars](https://img.shields.io/github/stars/furiosa-ai/EfficientRollout?style=social)](https://github.com/furiosa-ai/EfficientRollout)
 
 - Activation- and Influence-Aware Ranks (AIR): Function-Preserving SVD Compression for LLMs <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2606.19993)
 
@@ -2227,7 +2227,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.13471) 
 
-- NoWag: A Unified Framework for Shape Preserving Compression of Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.14569) [[Code]](https://github.com/LawrenceRLiu/NoWag)
+- NoWag: A Unified Framework for Shape Preserving Compression of Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.14569) [[Code]](https://github.com/LawrenceRLiu/NoWag) [![Stars](https://img.shields.io/github/stars/LawrenceRLiu/NoWag?style=social)](https://github.com/LawrenceRLiu/NoWag)
 
 - On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2504.17376)
 
@@ -2239,11 +2239,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - CAMERA: Multi-Matrix Joint Compression for MoE Models via Micro-Expert Redundancy Analysis <br> AAAI 2026 [[Paper]](https://arxiv.org/abs/2508.02322)
 
-- LOST: Low-rank and Sparse Pre-training for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02668) [[Code]](https://github.com/JiaxiLi1/LOST-Low-rank-and-Sparse-Training-for-Large-Language-Models)
+- LOST: Low-rank and Sparse Pre-training for Large Language Models <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.02668) [[Code]](https://github.com/JiaxiLi1/LOST-Low-rank-and-Sparse-Training-for-Large-Language-Models) [![Stars](https://img.shields.io/github/stars/JiaxiLi1/LOST-Low-rank-and-Sparse-Training-for-Large-Language-Models?style=social)](https://github.com/JiaxiLi1/LOST-Low-rank-and-Sparse-Training-for-Large-Language-Models)
 
-- OverFill: Two-Stage Models for Efficient Language Model Decoding <br> COLM 2025 [[Paper]](https://arxiv.org/abs/2508.08446) [[Code]](https://github.com/friendshipkim/overfill)
+- OverFill: Two-Stage Models for Efficient Language Model Decoding <br> COLM 2025 [[Paper]](https://arxiv.org/abs/2508.08446) [[Code]](https://github.com/friendshipkim/overfill) [![Stars](https://img.shields.io/github/stars/friendshipkim/overfill?style=social)](https://github.com/friendshipkim/overfill)
 
-- SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2508.16201) [[Code]](https://github.com/zju-jiyicheng/SpecVLM)
+- SpecVLM: Enhancing Speculative Decoding of Video LLMs via Verifier-Guided Token Pruning <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2508.16201) [[Code]](https://github.com/zju-jiyicheng/SpecVLM) [![Stars](https://img.shields.io/github/stars/zju-jiyicheng/SpecVLM?style=social)](https://github.com/zju-jiyicheng/SpecVLM)
 
 - CALR: Corrective Adaptive Low-Rank Decomposition for Efficient Large Language Model Layer Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2508.16680)
 
@@ -2261,7 +2261,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Conformal Sparsification for Bandwidth-Efficient Edge-Cloud Speculative Decoding <br> NeurIPS 2025 Workshop [[Paper]](https://arxiv.org/abs/2510.09942)
 
-- QSVD: Efficient Low-rank Approximation for Unified Query-Key-Value Weight Compression in Low-Precision Vision-Language Models <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.16292) [[Code]](https://github.com/SAI-Lab-NYU/QSVD)
+- QSVD: Efficient Low-rank Approximation for Unified Query-Key-Value Weight Compression in Low-Precision Vision-Language Models <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.16292) [[Code]](https://github.com/SAI-Lab-NYU/QSVD) [![Stars](https://img.shields.io/github/stars/SAI-Lab-NYU/QSVD?style=social)](https://github.com/SAI-Lab-NYU/QSVD)
 
 - CAS-Spec: Cascade Adaptive Self-Speculative Decoding for On-the-Fly Lossless Inference Acceleration of LLMs <br> NeurIPS 2025 [[Paper]](https://arxiv.org/abs/2510.26843)
 
@@ -2269,7 +2269,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Decomposed Trust: Privacy, Adversarial Robustness, Ethics, and Fairness in Low-Rank LLMs <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2511.22099)
 
-- Low-Rank Prehab: Preparing Neural Networks for SVD Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.01980) [[Code]](https://github.com/niqretnuh/PREHAB-SVD)
+- Low-Rank Prehab: Preparing Neural Networks for SVD Compression <br> Arxiv 2025 [[Paper]](https://arxiv.org/abs/2512.01980) [[Code]](https://github.com/niqretnuh/PREHAB-SVD) [![Stars](https://img.shields.io/github/stars/niqretnuh/PREHAB-SVD?style=social)](https://github.com/niqretnuh/PREHAB-SVD)
 
 - SkipCat: Rank-Maximized Low-Rank Compression of Large Language Models via Shared Projection and Block Skipping <br> AAAI 2026 [[Paper]](https://arxiv.org/abs/2512.13494)
 
@@ -2282,15 +2282,15 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LoMA: Lossless Compressed Memory Attention <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.09486)
 
-- Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.10774) [[Code]](https://github.com/FasterDecoding/Medusa)
+- Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.10774) [[Code]](https://github.com/FasterDecoding/Medusa) [![Stars](https://img.shields.io/github/stars/FasterDecoding/Medusa?style=social)](https://github.com/FasterDecoding/Medusa)
 
-- BiTA: Bi-Directional Tuning for Lossless Acceleration in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.12522) [[Code]](https://github.com/linfeng93/BiTA)
+- BiTA: Bi-Directional Tuning for Lossless Acceleration in Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.12522) [[Code]](https://github.com/linfeng93/BiTA) [![Stars](https://img.shields.io/github/stars/linfeng93/BiTA?style=social)](https://github.com/linfeng93/BiTA)
 
 - CompactifAI: Extreme Compression of Large Language Models using Quantum-Inspired Tensor Networks <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2401.14109)
 
-- MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.14905) [[Code]](https://github.com/facebookresearch/MobileLLM)
+- MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2402.14905) [[Code]](https://github.com/facebookresearch/MobileLLM) [![Stars](https://img.shields.io/github/stars/facebookresearch/MobileLLM?style=social)](https://github.com/facebookresearch/MobileLLM)
 
-- BAdam: A Memory Efficient Full Parameter Training Method for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.02827) [[Code]](https://github.com/Ledzy/BAdam)
+- BAdam: A Memory Efficient Full Parameter Training Method for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.02827) [[Code]](https://github.com/Ledzy/BAdam) [![Stars](https://img.shields.io/github/stars/Ledzy/BAdam?style=social)](https://github.com/Ledzy/BAdam)
 
 - NoMAD-Attention: Efficient LLM Inference on CPUs Through Multiply-add-free Attention <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2403.01273)
 
@@ -2304,33 +2304,33 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models <br> NAACL 2024 [[Paper]](https://arxiv.org/abs/2403.16187)
 
-- SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2403.07378) [[Code]](https://github.com/AIoT-MLSys-Lab/SVD-LLM)
+- SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2403.07378) [[Code]](https://github.com/AIoT-MLSys-Lab/SVD-LLM) [![Stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/SVD-LLM?style=social)](https://github.com/AIoT-MLSys-Lab/SVD-LLM)
 
 - Parameter Efficient Quasi-Orthogonal Fine-Tuning via Givens Rotation <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2404.04316)
 
 - Training LLMs over Neurally Compressed Text <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.03626)
 
-- TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding <br> COLM 2024 [[Paper]](https://arxiv.org/abs/2404.11912) [[Code]](https://github.com/Infini-AI-Lab/TriForce)
+- TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding <br> COLM 2024 [[Paper]](https://arxiv.org/abs/2404.11912) [[Code]](https://github.com/Infini-AI-Lab/TriForce) [![Stars](https://img.shields.io/github/stars/Infini-AI-Lab/TriForce?style=social)](https://github.com/Infini-AI-Lab/TriForce)
 
-- SnapKV: LLM Knows What You are Looking for Before Generation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.14469) [[Code]](https://github.com/FasterDecoding/SnapKV)
+- SnapKV: LLM Knows What You are Looking for Before Generation <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.14469) [[Code]](https://github.com/FasterDecoding/SnapKV) [![Stars](https://img.shields.io/github/stars/FasterDecoding/SnapKV?style=social)](https://github.com/FasterDecoding/SnapKV)
 
 - Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2405.06626)
 
 - KV-Runahead: Scalable Causal LLM Inference by Parallel Key-Value Cache Generation <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2405.05329)
 
-- Token-wise Influential Training Data Retrieval for Large Language Models <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2405.11724) [[Code]](https://github.com/huawei-lin/RapidIn)
+- Token-wise Influential Training Data Retrieval for Large Language Models <br> ACL 2024 [[Paper]](https://arxiv.org/abs/2405.11724) [[Code]](https://github.com/huawei-lin/RapidIn) [![Stars](https://img.shields.io/github/stars/huawei-lin/RapidIn?style=social)](https://github.com/huawei-lin/RapidIn)
 
 - Basis Selection: Low-Rank Decomposition of Pretrained Large Language Models for Target Applications <br> TMLR 2025 [[Paper]](https://arxiv.org/abs/2405.15877)
 
-- Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.02500) [[Code]](https://github.com/CASE-Lab-UMD/Unified-MoE-Compression)
+- Towards Efficient Mixture of Experts: A Holistic Study of Compression Techniques <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.02500) [[Code]](https://github.com/CASE-Lab-UMD/Unified-MoE-Compression) [![Stars](https://img.shields.io/github/stars/CASE-Lab-UMD/Unified-MoE-Compression?style=social)](https://github.com/CASE-Lab-UMD/Unified-MoE-Compression)
 
 - LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.14057)
 
 - AdaCoder: Adaptive Prompt Compression for Programmatic Visual Question Answering <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.19410)
 
-- CaM: Cache Merging for Memory-efficient LLMs Inference <br> ICML 2024 [[Paper]](https://openreview.net/forum?id=LCTmppB165) [[Code]](https://github.com/zyxxmu/cam)
+- CaM: Cache Merging for Memory-efficient LLMs Inference <br> ICML 2024 [[Paper]](https://openreview.net/forum?id=LCTmppB165) [[Code]](https://github.com/zyxxmu/cam) [![Stars](https://img.shields.io/github/stars/zyxxmu/cam?style=social)](https://github.com/zyxxmu/cam)
 
-- CLLMs: Consistency Large Language Models <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2403.00835) [[Code]](https://github.com/hao-ai-lab/Consistency_LLM)
+- CLLMs: Consistency Large Language Models <br> ICML 2024 [[Paper]](https://arxiv.org/abs/2403.00835) [[Code]](https://github.com/hao-ai-lab/Consistency_LLM) [![Stars](https://img.shields.io/github/stars/hao-ai-lab/Consistency_LLM?style=social)](https://github.com/hao-ai-lab/Consistency_LLM)
 
 - MoDeGPT: Modular Decomposition for Large Language Model Compression  <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2408.09632)
 
@@ -2342,25 +2342,25 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - InfiniPot: Infinite Context Processing on Memory-Constrained LLMs <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2410.01518)
 
-- SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2410.02367) [[Code]](https://github.com/thu-ml/SageAttention)
+- SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2410.02367) [[Code]](https://github.com/thu-ml/SageAttention) [![Stars](https://img.shields.io/github/stars/thu-ml/SageAttention?style=social)](https://github.com/thu-ml/SageAttention)
 
 - UNComp: Can Matrix Entropy Uncover Sparsity? -- A Compressor Design from an Uncertainty-Aware Perspective <br> EMNLP 2025 [[Paper]](https://arxiv.org/abs/2410.03090)
 
-- Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03765) [[Code]](https://github.com/TUDa-HWAI/Basis_Sharing)
+- Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.03765) [[Code]](https://github.com/TUDa-HWAI/Basis_Sharing) [![Stars](https://img.shields.io/github/stars/TUDa-HWAI/Basis_Sharing?style=social)](https://github.com/TUDa-HWAI/Basis_Sharing)
 
 - Rodimus*: Breaking the Accuracy-Efficiency Trade-Off with Efficient Attentions <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2410.06577)
 
-- DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.10819) [[Code]](https://github.com/mit-han-lab/duo-attention)
+- DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.10819) [[Code]](https://github.com/mit-han-lab/duo-attention) [![Stars](https://img.shields.io/github/stars/mit-han-lab/duo-attention?style=social)](https://github.com/mit-han-lab/duo-attention)
 
 - Progressive Mixed-Precision Decoding for Efficient LLM Inference <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2410.13461)
 
 - EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation <br> ICLR 2026 Workshop [[Paper]](https://arxiv.org/abs/2410.21271)
 
-- LLMCBench: Benchmarking Large Language Model Compression for Efficient Deployment <br> NeurIPS 2024 Datasets and Benchmarks Track [[Paper]](https://arxiv.org/abs/2410.21352) [[Code]](https://github.com/AboveParadise/LLMCBench)
+- LLMCBench: Benchmarking Large Language Model Compression for Efficient Deployment <br> NeurIPS 2024 Datasets and Benchmarks Track [[Paper]](https://arxiv.org/abs/2410.21352) [[Code]](https://github.com/AboveParadise/LLMCBench) [![Stars](https://img.shields.io/github/stars/AboveParadise/LLMCBench?style=social)](https://github.com/AboveParadise/LLMCBench)
 
 - NeuZip: Memory-Efficient Training and Inference with Dynamic Compression of Neural Networks <br> Arxiv 2024 [[paper]](https://arxiv.org/abs/2410.20650) [[Code]](https://github.com/BorealisAI/neuzip)
 
-- BitStack: Any-Size Compression of Large Language Models in Variable Memory Environments <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2410.23918) [[Code]](https://github.com/xinghaow99/BitStack)
+- BitStack: Any-Size Compression of Large Language Models in Variable Memory Environments <br> ICLR 2025 [[Paper]](https://arxiv.org/abs/2410.23918) [[Code]](https://github.com/xinghaow99/BitStack) [![Stars](https://img.shields.io/github/stars/xinghaow99/BitStack?style=social)](https://github.com/xinghaow99/BitStack)
 
 - LLM Vocabulary Compression for Low-Compute Environments <br> Machine Learning and Compression Workshop @ NeurIPS 2024 [[paper]](https://arxiv.org/abs/2411.06371)
 
@@ -2377,7 +2377,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Scaling In-Context Demonstrations with Structured Attention <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.02690)
 
-- Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling)
+- Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2305.13144) [[Code]](https://github.com/zhengzangw/Sequence-Scheduling) [![Stars](https://img.shields.io/github/stars/zhengzangw/Sequence-Scheduling?style=social)](https://github.com/zhengzangw/Sequence-Scheduling)
 
 - CA-LoRA: Adapting Existing LoRA for Compressed LLMs to Enable Efficient Multi-Tasking on Personal Devices <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.07705)
 
@@ -2387,13 +2387,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - vLLM: Efficient Memory Management for Large Language Model Serving with PagedAttention <br> SOSP 2023 [[Paper]](https://arxiv.org/abs/2309.06180)
 
-- LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.12307) [[Code]](https://github.com/JIA-Lab-research/LongLoRA)
+- LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.12307) [[Code]](https://github.com/JIA-Lab-research/LongLoRA) [![Stars](https://img.shields.io/github/stars/JIA-Lab-research/LongLoRA?style=social)](https://github.com/JIA-Lab-research/LongLoRA)
 
 - LORD: Low Rank Decomposition Of Monolingual Code LLMs For One-Shot Compression <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2309.14021) [[Code]](https://huggingface.co/nolanoAI)
 
 - Mixture of Tokens: Efficient LLMs through Cross-Example Aggregation <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2310.15961) 
 
-- Efficient Streaming Language Models with Attention Sinks <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2309.17453) [[Code]](https://github.com/mit-han-lab/streaming-llm)
+- Efficient Streaming Language Models with Attention Sinks <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2309.17453) [[Code]](https://github.com/mit-han-lab/streaming-llm) [![Stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm?style=social)](https://github.com/mit-han-lab/streaming-llm)
 
 - Efficient Large Language Models Fine-Tuning On Graphs <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.04737)
 
@@ -2401,13 +2401,13 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Rethinking Compression: Reduced Order Modelling of Latent Features in Large Language Models <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2312.07046) 
 
-- PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU <br> SOSP 2024 [[Paper]](https://arxiv.org/abs/2312.12456)  [[Code]](https://github.com/Tiiny-AI/PowerInfer)
+- PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU <br> SOSP 2024 [[Paper]](https://arxiv.org/abs/2312.12456)  [[Code]](https://github.com/Tiiny-AI/PowerInfer) [![Stars](https://img.shields.io/github/stars/Tiiny-AI/PowerInfer?style=social)](https://github.com/Tiiny-AI/PowerInfer)
 
-- Dataset Quantization <br> ICCV 2023 [[Paper]](https://arxiv.org/abs/2308.10524) [[Code]](https://github.com/magic-research/Dataset_Quantization)
+- Dataset Quantization <br> ICCV 2023 [[Paper]](https://arxiv.org/abs/2308.10524) [[Code]](https://github.com/magic-research/Dataset_Quantization) [![Stars](https://img.shields.io/github/stars/magic-research/Dataset_Quantization?style=social)](https://github.com/magic-research/Dataset_Quantization)
 
-- Text Alignment Is An Efficient Unified Model for Massive NLP Tasks <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2307.02729) [[Code]](https://github.com/yuh-zha/Align)
+- Text Alignment Is An Efficient Unified Model for Massive NLP Tasks <br> NeurIPS 2023 [[Paper]](https://arxiv.org/abs/2307.02729) [[Code]](https://github.com/yuh-zha/Align) [![Stars](https://img.shields.io/github/stars/yuh-zha/Align?style=social)](https://github.com/yuh-zha/Align)
 
-- Context Compression for Auto-regressive Transformers with Sentinel Tokens <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.08152) [[Code]](https://github.com/DRSY/KV_Compression)
+- Context Compression for Auto-regressive Transformers with Sentinel Tokens <br> EMNLP 2023 [[Paper]](https://arxiv.org/abs/2310.08152) [[Code]](https://github.com/DRSY/KV_Compression) [![Stars](https://img.shields.io/github/stars/DRSY/KV_Compression?style=social)](https://github.com/DRSY/KV_Compression)
 
 - TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction <br> EMNLP Findings 2023 [[Paper]](https://arxiv.org/abs/2310.15556)
 
@@ -2418,7 +2418,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 <details>
 <summary><b>2022</b> &nbsp;·&nbsp; 1 paper</summary>
 
-- FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention)
+- FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness <br> NeurIPS 2022 [[Paper]](https://arxiv.org/abs/2205.14135) [[Code]](https://github.com/Dao-AILab/flash-attention) [![Stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=social)](https://github.com/Dao-AILab/flash-attention)
 
 </details>
 
