@@ -1395,7 +1395,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Pruning Large Language Models via Accuracy Predictor <br> ICASSP 2024 [[Paper]](https://arxiv.org/abs/2309.09507) 
 
-- Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity <br> VLDB 2024 [[Paper]](https://arxiv.org/abs/2309.10285) [[Cde]](https://github.com/AlibabaResearch/flash-llm)
+- Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity <br> VLDB 2024 [[Paper]](https://arxiv.org/abs/2309.10285) [[Code]](https://github.com/AlibabaResearch/flash-llm)
 
 - Compressing LLMs: The Truth is Rarely Pure and Never Simple <br> ICLR 2024 [[Paper]](https://arxiv.org/abs/2310.01382) 
 
@@ -1599,9 +1599,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Distilling Algorithmic Reasoning from LLMs via Explaining Solution Programs <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2404.08148)
 
-- Direct Preference Knowledge Distillation for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.19774) [[Codes]](https://github.com/microsoft/LMOps/tree/main/dpkd)
+- Direct Preference Knowledge Distillation for Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2406.19774) [[Code]](https://github.com/microsoft/LMOps/tree/main/dpkd)
 
-- Dual-Space Knowledge Distillation for Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.17328) [[Codes]](https://github.com/songmzhang/DSKD)
+- Dual-Space Knowledge Distillation for Large Language Models <br> EMNLP 2024 [[Paper]](https://arxiv.org/abs/2406.17328) [[Code]](https://github.com/songmzhang/DSKD)
 
 - DDK: Distilling Domain Knowledge for Efficient Large Language Models <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2407.16154)
 
