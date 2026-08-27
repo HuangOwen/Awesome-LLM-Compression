@@ -2540,6 +2540,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - PackRat: Auto-learning codebook compression for LLM context and prompt files. Token-optimized using tiktoken (cl100k_base) with 100% lossless round-trip. [[Code]](https://github.com/kevdogg102396-afk/packrat) [[npm]](https://www.npmjs.com/package/packrat-compress) [![Stars](https://img.shields.io/github/stars/kevdogg102396-afk/packrat?style=social)](https://github.com/kevdogg102396-afk/packrat)
 
+- ctxfold: Structure-aware, lossless re-encoding of logs, JSON, and CSV for LLM prompts. Folds repeated keys, prefixes, and templates into a one-time header the model reads directly, cutting prompt tokens; every encode is round-trip verified, or the input passes through unchanged (lossless or no-op). [[Code]](https://github.com/antrixy/ctxfold) [[npm]](https://www.npmjs.com/package/ctxfold) [![Stars](https://img.shields.io/github/stars/antrixy/ctxfold?style=social)](https://github.com/antrixy/ctxfold)
+
 ### Training and Fine-Tuning
 
 - Unsloth: Faster and more memory-efficient LLM fine-tuning with 4-bit quantization and custom kernels [[Code]](https://github.com/unslothai/unsloth) [![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social)](https://github.com/unslothai/unsloth)
