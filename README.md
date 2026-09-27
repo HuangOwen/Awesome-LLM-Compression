@@ -2577,6 +2577,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Electron-BitNet: Running Microsoft's BitNet via Electron [[Code]](https://github.com/grctest/Electron-BitNet) [![Stars](https://img.shields.io/github/stars/grctest/Electron-BitNet?style=social)](https://github.com/grctest/Electron-BitNet)
 
 - FastAPI-BitNet: a combination of Uvicorn, FastAPI (Python) and Docker to provide a reliable REST API for testing Microsoft's BitNet out locally [[Code]](https://github.com/grctest/FastAPI-BitNet) [![Stars](https://img.shields.io/github/stars/grctest/FastAPI-BitNet?style=social)](https://github.com/grctest/FastAPI-BitNet)
+
+- jevos: 1B yes/no decision model pruned from 24 to 17 layers and quantized to GGUF q4_k_m (619 MB), served over a Jev-compatible FastAPI HTTP endpoint via llama.cpp, CPU-only [[Code]](https://github.com/feder-cr/jev) [![Stars](https://img.shields.io/github/stars/feder-cr/jev?style=social)](https://github.com/feder-cr/jev)
+
 ## Contributing
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
 
