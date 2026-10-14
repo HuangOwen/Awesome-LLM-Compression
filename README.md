@@ -2566,6 +2566,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LLM-Viewer: Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface. [[Code]](https://github.com/hahnyuan/LLM-Viewer) [![Stars](https://img.shields.io/github/stars/hahnyuan/LLM-Viewer?style=social)](https://github.com/hahnyuan/LLM-Viewer)
 
+- qgemv-roofline: Twelve CUDA kernels plus a Triton implementation of the batch-1 decode GEMV over ggml q8_0/q4_0 weights at 7B-model shapes, checked against a double-precision reference and measured on five NVIDIA GPUs against a self-measured bandwidth roof, showing where 4-bit weights beat 8-bit and where they do not [[Code]](https://github.com/manunicholasjacob/qgemv-roofline) [![Stars](https://img.shields.io/github/stars/manunicholasjacob/qgemv-roofline?style=social)](https://github.com/manunicholasjacob/qgemv-roofline)
+
 - LLaMA3-Quantization: A repository dedicated to evaluating the performance of quantizied LLaMA3 using various quantization methods. [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization) [![Stars](https://img.shields.io/github/stars/Macaronlin/LLaMA3-Quantization?style=social)](https://github.com/Macaronlin/LLaMA3-Quantization)
 
 ### Other Tools
