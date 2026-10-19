@@ -2550,6 +2550,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - TekMyra: Governed context compression that verifies protected spans exactly once and counts refusals against its published numbers [[Code]](https://github.com/laconiq-ai/tekmyra) [![Stars](https://img.shields.io/github/stars/laconiq-ai/tekmyra?style=social)](https://github.com/laconiq-ai/tekmyra)
 
+- ctxprune: LLMLingua-2-style prompt compression retrained on agent text (tool outputs, logs, code). A small mmBERT token classifier deletes low-value words and never splits identifiers; int8 ONNX on CPU. [[Code]](https://github.com/riceharvest/ctxprune) [[Model]](https://huggingface.co/darioooooo0o/ctxprune-small) [[PyPI]](https://pypi.org/project/ctxprune/) [![Stars](https://img.shields.io/github/stars/riceharvest/ctxprune?style=social)](https://github.com/riceharvest/ctxprune)
+
 ### Training and Fine-Tuning
 
 - Unsloth: Faster and more memory-efficient LLM fine-tuning with 4-bit quantization and custom kernels [[Code]](https://github.com/unslothai/unsloth) [![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social)](https://github.com/unslothai/unsloth)
