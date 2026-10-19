@@ -1050,6 +1050,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Locality-Aware Redundancy Pruning for LLM Depth Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.27786) [[Code]](https://github.com/daniel-eai/LoRP-Locality-Aware-Redundancy-Pruning) [![Stars](https://img.shields.io/github/stars/daniel-eai/LoRP-Locality-Aware-Redundancy-Pruning?style=social)](https://github.com/daniel-eai/LoRP-Locality-Aware-Redundancy-Pruning)
 
+- Less is MoE: Trimming Experts in Domain-Specialist Language Models <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2606.05538) [[Code]](https://github.com/HectorHHZ/Less-is-MoE) [![Stars](https://img.shields.io/github/stars/HectorHHZ/Less-is-MoE?style=social)](https://github.com/HectorHHZ/Less-is-MoE)
+
 - FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.09079) [[Code]](https://github.com/libertywing/FlashMemory-Deepseek-V4) [![Stars](https://img.shields.io/github/stars/libertywing/FlashMemory-Deepseek-V4?style=social)](https://github.com/libertywing/FlashMemory-Deepseek-V4)
 
 - Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2606.09080) [[Code]](https://github.com/EIT-NLP/LLM-Pruning) [![Stars](https://img.shields.io/github/stars/EIT-NLP/LLM-Pruning?style=social)](https://github.com/EIT-NLP/LLM-Pruning)
