@@ -2578,6 +2578,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LLaMA3-Quantization: A repository dedicated to evaluating the performance of quantizied LLaMA3 using various quantization methods. [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization) [![Stars](https://img.shields.io/github/stars/Macaronlin/LLaMA3-Quantization?style=social)](https://github.com/Macaronlin/LLaMA3-Quantization)
 
+- LLM VRAM Calculator: Estimate inference memory (weights, KV cache, overhead) of any Hugging Face model at a given quantization (GGUF, FP8, MXFP4, BF16) and context length, reading config.json and safetensors metadata; handles MoE, MLA, sliding-window and linear-attention layers [[Code]](https://github.com/159753a52/llm-vram-calculator) [[Web]](https://modelvram.com/llm-vram-calculator/) [![Stars](https://img.shields.io/github/stars/159753a52/llm-vram-calculator?style=social)](https://github.com/159753a52/llm-vram-calculator)
+
 ### Other Tools
 
 - LangChain: Building applications with LLMs through composability [[Code]](https://github.com/langchain-ai/langchain) [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain)
