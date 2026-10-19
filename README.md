@@ -1006,7 +1006,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Pruning and Sparsity
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 34 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 35 papers</summary>
 
 - Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL) [![Stars](https://img.shields.io/github/stars/TANIGUCHIREI/ASL?style=social)](https://github.com/TANIGUCHIREI/ASL)
 
@@ -2576,11 +2576,11 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LLM-Viewer: Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface. [[Code]](https://github.com/hahnyuan/LLM-Viewer) [![Stars](https://img.shields.io/github/stars/hahnyuan/LLM-Viewer?style=social)](https://github.com/hahnyuan/LLM-Viewer)
 
-- qgemv-roofline: Twelve CUDA kernels plus a Triton implementation of the batch-1 decode GEMV over ggml q8_0/q4_0 weights at 7B-model shapes, checked against a double-precision reference and measured on five NVIDIA GPUs against a self-measured bandwidth roof, showing where 4-bit weights beat 8-bit and where they do not [[Code]](https://github.com/manunicholasjacob/qgemv-roofline) [![Stars](https://img.shields.io/github/stars/manunicholasjacob/qgemv-roofline?style=social)](https://github.com/manunicholasjacob/qgemv-roofline)
-
 - LLaMA3-Quantization: A repository dedicated to evaluating the performance of quantizied LLaMA3 using various quantization methods. [[Code]](https://github.com/Macaronlin/LLaMA3-Quantization) [![Stars](https://img.shields.io/github/stars/Macaronlin/LLaMA3-Quantization?style=social)](https://github.com/Macaronlin/LLaMA3-Quantization)
 
 - LLM VRAM Calculator: Estimate inference memory (weights, KV cache, overhead) of any Hugging Face model at a given quantization (GGUF, FP8, MXFP4, BF16) and context length, reading config.json and safetensors metadata; handles MoE, MLA, sliding-window and linear-attention layers [[Code]](https://github.com/159753a52/llm-vram-calculator) [[Web]](https://modelvram.com/llm-vram-calculator/) [![Stars](https://img.shields.io/github/stars/159753a52/llm-vram-calculator?style=social)](https://github.com/159753a52/llm-vram-calculator)
+
+- qgemv-roofline: Twelve CUDA kernels plus a Triton implementation of the batch-1 decode GEMV over ggml q8_0/q4_0 weights at 7B-model shapes, checked against a double-precision reference and measured on five NVIDIA GPUs against a self-measured bandwidth roof, showing where 4-bit weights beat 8-bit and where they do not [[Code]](https://github.com/manunicholasjacob/qgemv-roofline) [![Stars](https://img.shields.io/github/stars/manunicholasjacob/qgemv-roofline?style=social)](https://github.com/manunicholasjacob/qgemv-roofline)
 
 ### Other Tools
 
