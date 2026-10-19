@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 56 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 57 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -200,6 +200,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Robust Ultra Low-Bit Post-Training Quantization via Stable Diagonal Curvature Estimate <br> MLSys 2026 [[Paper]](https://arxiv.org/abs/2604.13806)
 
 - AQPIM: Breaking the PIM Capacity Wall for LLMs with In-Memory Activation Quantization <br> HPCA 2026 [[Paper]](https://arxiv.org/abs/2604.18137)
+
+- Unlocking the Edge deployment and ondevice acceleration of multi-LoRA enabled one-for-all foundational LLM <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2604.18655)
 
 - From Signal Degradation to Computation Collapse: Uncovering the Two Failure Modes of LLM Quantization <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2604.19884)
 
