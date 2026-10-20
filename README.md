@@ -2584,6 +2584,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - qgemv-roofline: Twelve CUDA kernels plus a Triton implementation of the batch-1 decode GEMV over ggml q8_0/q4_0 weights at 7B-model shapes, checked against a double-precision reference and measured on five NVIDIA GPUs against a self-measured bandwidth roof, showing where 4-bit weights beat 8-bit and where they do not [[Code]](https://github.com/manunicholasjacob/qgemv-roofline) [![Stars](https://img.shields.io/github/stars/manunicholasjacob/qgemv-roofline?style=social)](https://github.com/manunicholasjacob/qgemv-roofline)
 
+- gpu.nz VRAM Calculator: Estimate the VRAM that 35 popular LLMs need at each quantization and context length, using real GGUF/FP8 file sizes and each model's KV-cache layout (GQA, sliding window, MLA); also covers image and video models. [[Website]](https://gpu.nz/en/tools/vram)
+
 ### Other Tools
 
 - LangChain: Building applications with LLMs through composability [[Code]](https://github.com/langchain-ai/langchain) [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain)
