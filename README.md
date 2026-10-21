@@ -1852,7 +1852,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### KV Cache Compression
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 32 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 33 papers</summary>
 
 - Joint Encoding of KV-Cache Blocks for Scalable LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.03067) [[Code]](https://github.com/sef1/kv_fast_fusion) [![Stars](https://img.shields.io/github/stars/sef1/kv_fast_fusion?style=social)](https://github.com/sef1/kv_fast_fusion)
 
@@ -1915,6 +1915,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - WnW: Waxing-and-Waning KV Cache for Long-Form Speech LLMs <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2608.22704)
 
 - VisCache: Visual KV Cache Pruning for Efficient Vision Large Language Model Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.24063) [[Code]](https://github.com/Wlklk/VisCache) [![Stars](https://img.shields.io/github/stars/Wlklk/VisCache?style=social)](https://github.com/Wlklk/VisCache)
+
+- EfficientAgent: What Makes KV Cache Offloading Work for Concurrent Agents? <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.33762) [[Code]](https://github.com/KunmingSHAO/efficientagent_release) [![Stars](https://img.shields.io/github/stars/KunmingSHAO/efficientagent_release?style=social)](https://github.com/KunmingSHAO/efficientagent_release)
 
 - MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.25431)
 
