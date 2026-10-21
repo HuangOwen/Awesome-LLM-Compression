@@ -2166,7 +2166,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Other
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 13 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 14 papers</summary>
 
 - ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.21198)
 
@@ -2193,6 +2193,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Activation- and Influence-Aware Ranks (AIR): Function-Preserving SVD Compression for LLMs <br> ICML 2026 Workshop [[Paper]](https://arxiv.org/abs/2606.19993)
 
 - Understanding Calibration and Truncation Error Propagation in Training-Free Low-Rank Compression for LLMs <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2608.08506)
+
+- Capability Scaling-Down Laws for LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.02462) [[Code]](https://github.com/LabRAI/scaling_down_law) [![Stars](https://img.shields.io/github/stars/LabRAI/scaling_down_law?style=social)](https://github.com/LabRAI/scaling_down_law)
 
 </details>
 
