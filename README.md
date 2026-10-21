@@ -1006,7 +1006,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Pruning and Sparsity
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 35 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 36 papers</summary>
 
 - Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL) [![Stars](https://img.shields.io/github/stars/TANIGUCHIREI/ASL?style=social)](https://github.com/TANIGUCHIREI/ASL)
 
@@ -1077,6 +1077,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Reservoir of Importance: Learning Semi-Structured Sparsity with Differentiable Subset Sampling <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2608.23048)
 
 - Debias-SparseGPT: Bias-Aware Pruning for Large Language Models <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.02496)
+
+- GroupMask: Layer-Adaptive Group-wise Sparsity for Semi-Structured LLM Pruning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.33977) [[Code]](https://github.com/ZhengaoLi/GroupMask) [![Stars](https://img.shields.io/github/stars/ZhengaoLi/GroupMask?style=social)](https://github.com/ZhengaoLi/GroupMask)
 
 </details>
 
