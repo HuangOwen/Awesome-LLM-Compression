@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 57 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 58 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -258,6 +258,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.18578) [[Code]](https://github.com/ShayanShahrabi/compress-and-forget) [![Stars](https://img.shields.io/github/stars/ShayanShahrabi/compress-and-forget?style=social)](https://github.com/ShayanShahrabi/compress-and-forget)
 
 - Jacobian-guided Noise Injection for Quantization Robustness in Large Language Models <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2608.20988)
+
+- Behavioral Capacity Certificates for Quantized Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.37887) [[Code]](https://github.com/eamaz/bcc) [![Stars](https://img.shields.io/github/stars/eamaz/bcc?style=social)](https://github.com/eamaz/bcc)
 
 </details>
 
