@@ -1461,7 +1461,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Distillation
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 30 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 31 papers</summary>
 
 - d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.07568)
 
@@ -1522,6 +1522,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Thinking at the Right Size: Amortized Distillation Across Post-Trained LLMs <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2608.22854)
 
 - SelFusion: Self-distillation for Diffusion Language Models <br> ACL 2026 [[Paper]](https://arxiv.org/abs/2608.22898) [[Code]](https://github.com/scai-research/SelFusion_official) [![Stars](https://img.shields.io/github/stars/scai-research/SelFusion_official?style=social)](https://github.com/scai-research/SelFusion_official)
+
+- Facts Don't Speak Louder than Words: The Behavioral Essence of Long-CoT Distillation <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.17607) [[Code]](https://github.com/yuyongcan/Long-CoT-Distillation) [![Stars](https://img.shields.io/github/stars/yuyongcan/Long-CoT-Distillation?style=social)](https://github.com/yuyongcan/Long-CoT-Distillation)
 
 </details>
 
