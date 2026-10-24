@@ -2554,6 +2554,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - ctxprune: LLMLingua-2-style prompt compression retrained on agent text (tool outputs, logs, code). A small mmBERT token classifier deletes low-value words and never splits identifiers; int8 ONNX on CPU. [[Code]](https://github.com/riceharvest/ctxprune) [[Model]](https://huggingface.co/darioooooo0o/ctxprune-small) [[PyPI]](https://pypi.org/project/ctxprune/) [![Stars](https://img.shields.io/github/stars/riceharvest/ctxprune?style=social)](https://github.com/riceharvest/ctxprune)
 
+- LLMSlim: Query-aware context compression for RAG and agents with no LLM call. It keeps the units (chunks, chat turns, log lines) that answer the query under a hard token budget, in their original order, scored lexically or with an optional 22M cross-encoder; also ships an MCP server for long-term agent memory [[Code]](https://github.com/Thanatos9404/llmslim) [[PyPI]](https://pypi.org/project/llmslim/) [![Stars](https://img.shields.io/github/stars/Thanatos9404/llmslim?style=social)](https://github.com/Thanatos9404/llmslim)
+
 ### Training and Fine-Tuning
 
 - Unsloth: Faster and more memory-efficient LLM fine-tuning with 4-bit quantization and custom kernels [[Code]](https://github.com/unslothai/unsloth) [![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social)](https://github.com/unslothai/unsloth)
