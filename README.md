@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 67 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 68 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -278,6 +278,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Beyond Reconstruction Loss in Post-Training Quantization: Balanced Fitting for Large Vision-Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.34765) [[Code]](https://github.com/kmc3661/BFQ) [![Stars](https://img.shields.io/github/stars/kmc3661/BFQ?style=social)](https://github.com/kmc3661/BFQ)
 
 - Behavioral Capacity Certificates for Quantized Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.37887) [[Code]](https://github.com/eamaz/bcc) [![Stars](https://img.shields.io/github/stars/eamaz/bcc?style=social)](https://github.com/eamaz/bcc)
+
+- RATIO: Reasoning Analysis and Token-level Inference Optimization for Quantized Reasoning Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.39801) [[Code]](https://github.com/steven-bao1/RATIO) [![Stars](https://img.shields.io/github/stars/steven-bao1/RATIO?style=social)](https://github.com/steven-bao1/RATIO)
 
 </details>
 
