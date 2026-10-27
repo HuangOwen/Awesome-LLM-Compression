@@ -1541,7 +1541,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Distillation
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 52 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 53 papers</summary>
 
 - d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.07568)
 
@@ -1646,6 +1646,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Facts Don't Speak Louder than Words: The Behavioral Essence of Long-CoT Distillation <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.17607) [[Code]](https://github.com/yuyongcan/Long-CoT-Distillation) [![Stars](https://img.shields.io/github/stars/yuyongcan/Long-CoT-Distillation?style=social)](https://github.com/yuyongcan/Long-CoT-Distillation)
 
 - Outcome-Routed Distillation and Reinforcement Learning for Diffusion Language Models <br> NeurIPS 2026 Workshop [[Paper]](https://arxiv.org/abs/2610.19271)
+
+- Progress-Aware Distillation for Mitigating Stagnation in Small Language Model Agents <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.19439)
 
 </details>
 
