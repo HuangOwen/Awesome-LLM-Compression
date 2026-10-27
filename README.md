@@ -1862,7 +1862,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### KV Cache Compression
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 33 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 34 papers</summary>
 
 - Joint Encoding of KV-Cache Blocks for Scalable LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.03067) [[Code]](https://github.com/sef1/kv_fast_fusion) [![Stars](https://img.shields.io/github/stars/sef1/kv_fast_fusion?style=social)](https://github.com/sef1/kv_fast_fusion)
 
@@ -1927,6 +1927,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - VisCache: Visual KV Cache Pruning for Efficient Vision Large Language Model Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2608.24063) [[Code]](https://github.com/Wlklk/VisCache) [![Stars](https://img.shields.io/github/stars/Wlklk/VisCache?style=social)](https://github.com/Wlklk/VisCache)
 
 - SGD-KV: Summarization Guided KV Cache Compression <br> NeurIPS 2026 Workshop [[Paper]](https://arxiv.org/abs/2609.03235)
+
+- Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.03430) [[Code]](https://github.com/SalesforceAIResearch/Random-Attention) [![Stars](https://img.shields.io/github/stars/SalesforceAIResearch/Random-Attention?style=social)](https://github.com/SalesforceAIResearch/Random-Attention)
 
 - MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.25431)
 
