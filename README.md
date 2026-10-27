@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 82 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 83 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -308,6 +308,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - What You Sign Is Not What You Run: The Verifiability Gap in Quantized LLM Supply Chains <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.19498) [[Code]](https://github.com/Rlonglong/gguf-verifiability-artifact) [![Stars](https://img.shields.io/github/stars/Rlonglong/gguf-verifiability-artifact?style=social)](https://github.com/Rlonglong/gguf-verifiability-artifact)
 
 - Fractional Power-of-Two Quantization for Efficient and Effective Multiplier-Free LLM Inference <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.21257)
+
+- LIRQuant: An Efficient Locally Isolated Rotation Quantization Method for Large Language Models <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2610.25675)
 
 </details>
 
