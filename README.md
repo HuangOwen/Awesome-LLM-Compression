@@ -1501,7 +1501,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Distillation
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 37 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 38 papers</summary>
 
 - d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.07568)
 
@@ -1576,6 +1576,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.35347) [[Code]](https://github.com/LiXin97/DN-MOPD) [![Stars](https://img.shields.io/github/stars/LiXin97/DN-MOPD?style=social)](https://github.com/LiXin97/DN-MOPD)
 
 - d-OPD: Future-Aware On-Policy Distillation for Block Diffusion Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.35362) [[Code]](https://github.com/mit-han-lab/d-OPD) [![Stars](https://img.shields.io/github/stars/mit-han-lab/d-OPD?style=social)](https://github.com/mit-han-lab/d-OPD)
+
+- An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.35505) [[Code]](https://github.com/UNCSciML/LSPD) [![Stars](https://img.shields.io/github/stars/UNCSciML/LSPD?style=social)](https://github.com/UNCSciML/LSPD)
 
 </details>
 
