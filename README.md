@@ -1523,7 +1523,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Distillation
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 44 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 45 papers</summary>
 
 - d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.07568)
 
@@ -1612,6 +1612,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2610.03665)
 
 - KVE-KD: Key Visual Evidence-Guided Knowledge Distillation for Vision-Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.03842) [[Code]](https://github.com/zhangjianbin07/KVE-KD) [![Stars](https://img.shields.io/github/stars/zhangjianbin07/KVE-KD?style=social)](https://github.com/zhangjianbin07/KVE-KD)
+
+- Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.06804) [[Code]](https://github.com/ArminAzizi98/OPPD) [![Stars](https://img.shields.io/github/stars/ArminAzizi98/OPPD?style=social)](https://github.com/ArminAzizi98/OPPD)
 
 </details>
 
