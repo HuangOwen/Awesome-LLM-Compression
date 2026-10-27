@@ -1078,7 +1078,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - Debias-SparseGPT: Bias-Aware Pruning for Large Language Models <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.02496)
 
-- TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.26754) [[Code]](https://github.com/tokengate-models/TokenGate) [![Stars](https://img.shields.io/github/stars/tokengate-models/TokenGate?style=social)](https://github.com/tokengate-models/TokenGate)
+- TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.26754) [[Code]](https://github.com/token-gate-llms/TokenGate) [![Stars](https://img.shields.io/github/stars/token-gate-llms/TokenGate?style=social)](https://github.com/token-gate-llms/TokenGate)
 
 </details>
 
