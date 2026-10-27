@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 74 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 75 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -292,6 +292,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.06026) [[Code]](https://github.com/MMAI-Laboratory/DBW) [![Stars](https://img.shields.io/github/stars/MMAI-Laboratory/DBW?style=social)](https://github.com/MMAI-Laboratory/DBW)
 
 - AlignQuant: Tile-Aligned Mixed-Precision Quantization for Efficient LLM Generation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.07457) [[Code]](https://github.com/HanzhiZhang-Ulrica/AlignQuant) [![Stars](https://img.shields.io/github/stars/HanzhiZhang-Ulrica/AlignQuant?style=social)](https://github.com/HanzhiZhang-Ulrica/AlignQuant)
+
+- Quantization Effects on Tool-Failure Recovery Vary Across Prompts and Evaluation Designs <br> NeurIPS 2026 Workshop [[Paper]](https://arxiv.org/abs/2610.07781)
 
 </details>
 
