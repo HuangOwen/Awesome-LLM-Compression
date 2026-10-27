@@ -1028,7 +1028,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Pruning and Sparsity
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 47 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 48 papers</summary>
 
 - Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL) [![Stars](https://img.shields.io/github/stars/TANIGUCHIREI/ASL?style=social)](https://github.com/TANIGUCHIREI/ASL)
 
@@ -1123,6 +1123,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - GroupMask: Layer-Adaptive Group-wise Sparsity for Semi-Structured LLM Pruning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.33977) [[Code]](https://github.com/ZhengaoLi/GroupMask) [![Stars](https://img.shields.io/github/stars/ZhengaoLi/GroupMask?style=social)](https://github.com/ZhengaoLi/GroupMask)
 
 - SparseEngine: Sparse-First Inference Engine <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.39068) [[Code]](https://github.com/CURRENTF/SparseEngine) [![Stars](https://img.shields.io/github/stars/CURRENTF/SparseEngine?style=social)](https://github.com/CURRENTF/SparseEngine)
+
+- IrekoGPT: Turning Structured Pruning into Post-Hoc Slimmable LLMs <br> NeurIPS 2026 Workshop [[Paper]](https://arxiv.org/abs/2610.00426) [[Code]](https://github.com/aimagelab/IrekoGPT) [![Stars](https://img.shields.io/github/stars/aimagelab/IrekoGPT?style=social)](https://github.com/aimagelab/IrekoGPT)
 
 </details>
 
