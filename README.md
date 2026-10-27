@@ -1034,7 +1034,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Pruning and Sparsity
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 49 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 50 papers</summary>
 
 - Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL) [![Stars](https://img.shields.io/github/stars/TANIGUCHIREI/ASL?style=social)](https://github.com/TANIGUCHIREI/ASL)
 
@@ -1133,6 +1133,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - IrekoGPT: Turning Structured Pruning into Post-Hoc Slimmable LLMs <br> NeurIPS 2026 Workshop [[Paper]](https://arxiv.org/abs/2610.00426) [[Code]](https://github.com/aimagelab/IrekoGPT) [![Stars](https://img.shields.io/github/stars/aimagelab/IrekoGPT?style=social)](https://github.com/aimagelab/IrekoGPT)
 
 - MWOP: Modality-aware Width-wise Operation Pruning for Efficient MLLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.01434) [[Code]](https://github.com/EIT-NLP/MWOP) [![Stars](https://img.shields.io/github/stars/EIT-NLP/MWOP?style=social)](https://github.com/EIT-NLP/MWOP)
+
+- More Value per Key: Asymmetric Sparse Attention for Faster LLM Decoding <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.04753)
 
 </details>
 
