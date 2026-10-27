@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 64 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 65 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -272,6 +272,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Quantization-Robust Unlearning through the Lens of Retain-Forget Loss Landscapes Interaction <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.27355) [[Code]](https://github.com/jialuw0830/QRUnlearn) [![Stars](https://img.shields.io/github/stars/jialuw0830/QRUnlearn?style=social)](https://github.com/jialuw0830/QRUnlearn)
 
 - Implementation and Evaluation of BitNet Inference on a CGLA by Signed-Int4 Instructions <br> CANDAR 2026 Workshop [[Paper]](https://arxiv.org/abs/2609.27453)
+
+- G$^2$PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.31009) [[Code]](https://github.com/G2PTQ/G2PTQ) [![Stars](https://img.shields.io/github/stars/G2PTQ/G2PTQ?style=social)](https://github.com/G2PTQ/G2PTQ)
 
 </details>
 
