@@ -1006,7 +1006,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Pruning and Sparsity
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 37 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 38 papers</summary>
 
 - Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL) [![Stars](https://img.shields.io/github/stars/TANIGUCHIREI/ASL?style=social)](https://github.com/TANIGUCHIREI/ASL)
 
@@ -1081,6 +1081,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.01925)
 
 - Debias-SparseGPT: Bias-Aware Pruning for Large Language Models <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.02496)
+
+- Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2609.05275)
 
 </details>
 
