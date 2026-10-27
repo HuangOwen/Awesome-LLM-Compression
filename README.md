@@ -1824,7 +1824,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Efficient Prompting
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 12 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 13 papers</summary>
 
 - SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.16746) [[Code]](https://github.com/Ayanami1314/swe-pruner) [![Stars](https://img.shields.io/github/stars/Ayanami1314/swe-pruner?style=social)](https://github.com/Ayanami1314/swe-pruner)
 
@@ -1849,6 +1849,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - zip2zip++: Towards Inference-Time Token Compression with Minimal Quality Loss <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.13605) [[Code]](https://github.com/epfl-dlab/zip2zip-plus-plus) [![Stars](https://img.shields.io/github/stars/epfl-dlab/zip2zip-plus-plus?style=social)](https://github.com/epfl-dlab/zip2zip-plus-plus)
 
 - Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.20927) [[Code]](https://github.com/GuanghuiMin/sjc) [![Stars](https://img.shields.io/github/stars/GuanghuiMin/sjc?style=social)](https://github.com/GuanghuiMin/sjc)
+
+- GACC-Bench: Benchmarking Goal-Adaptive Context Compression Ability across Large Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.21893) [[Code]](https://github.com/weiting24/GACC-Bench) [![Stars](https://img.shields.io/github/stars/weiting24/GACC-Bench?style=social)](https://github.com/weiting24/GACC-Bench)
 
 </details>
 
