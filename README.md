@@ -1499,7 +1499,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Distillation
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 34 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 35 papers</summary>
 
 - d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.07568)
 
@@ -1568,6 +1568,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Layer-wise Curriculum Learning for Efficient LLM Compression <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.19213)
 
 - Do We Really Need KL Divergence for On-Policy Distillation of Large Language Models? <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.33791) [[Code]](https://github.com/LeapLabTHU/KL-Free-OPD) [![Stars](https://img.shields.io/github/stars/LeapLabTHU/KL-Free-OPD?style=social)](https://github.com/LeapLabTHU/KL-Free-OPD)
+
+- DreamingGoose: Staged Distillation from Autoregressive Transformers to Bidirectional Recurrent Diffusion Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.34253) [[Code]](https://github.com/JIBSIL/dualgoose) [![Stars](https://img.shields.io/github/stars/JIBSIL/dualgoose?style=social)](https://github.com/JIBSIL/dualgoose)
 
 </details>
 
