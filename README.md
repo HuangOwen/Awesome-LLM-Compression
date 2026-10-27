@@ -1545,7 +1545,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Distillation
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 55 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 56 papers</summary>
 
 - d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.07568)
 
@@ -1656,6 +1656,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Do As I Do, Not As I Say: On-Policy Distillation Inherits the Teacher in Vision-Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.20989) [[Code]](https://github.com/ffy208/opd-inherits-teacher-vlm) [![Stars](https://img.shields.io/github/stars/ffy208/opd-inherits-teacher-vlm?style=social)](https://github.com/ffy208/opd-inherits-teacher-vlm)
 
 - Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.22217) [[Code]](https://github.com/NEUIR/SCOPED) [![Stars](https://img.shields.io/github/stars/NEUIR/SCOPED?style=social)](https://github.com/NEUIR/SCOPED)
+
+- OPDArena: Understanding Learning and Forgetting in On-Policy Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.25651) [[Code]](https://github.com/StellarCurtain/OPDArena) [![Stars](https://img.shields.io/github/stars/StellarCurtain/OPDArena?style=social)](https://github.com/StellarCurtain/OPDArena)
 
 </details>
 
