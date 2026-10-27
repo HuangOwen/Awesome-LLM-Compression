@@ -1531,7 +1531,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Distillation
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 47 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 48 papers</summary>
 
 - d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.07568)
 
@@ -1626,6 +1626,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - WASD: Wasserstein-based Knowledge Distillation for Large Language Models <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.07706) [[Code]](https://github.com/aailab-kaist/WASD) [![Stars](https://img.shields.io/github/stars/aailab-kaist/WASD?style=social)](https://github.com/aailab-kaist/WASD)
 
 - Collaborative Reasoning Distillation via Cross-Feedback and Coherent Curation <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.09587)
+
+- SAPD: Step-Aligned Privileged Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.09665) [[Code]](https://github.com/Miaow-Lab/SAPD) [![Stars](https://img.shields.io/github/stars/Miaow-Lab/SAPD?style=social)](https://github.com/Miaow-Lab/SAPD)
 
 </details>
 
