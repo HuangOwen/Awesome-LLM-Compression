@@ -1730,7 +1730,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Efficient Prompting
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 8 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 9 papers</summary>
 
 - SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.16746) [[Code]](https://github.com/Ayanami1314/swe-pruner) [![Stars](https://img.shields.io/github/stars/Ayanami1314/swe-pruner?style=social)](https://github.com/Ayanami1314/swe-pruner)
 
@@ -1747,6 +1747,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - AGORA: Adapter-Grounded Observation-Action Retention for Inference-Free Prompt Compression in LLM Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2605.26596) [[Code]](https://github.com/ranranrannervous/agoracompression) [![Stars](https://img.shields.io/github/stars/ranranrannervous/agoracompression?style=social)](https://github.com/ranranrannervous/agoracompression)
 
 - LatentPress: Context Compression Beyond Text and Vision <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.01507) [[Code]](https://github.com/HJSang/LatentPress) [![Stars](https://img.shields.io/github/stars/HJSang/LatentPress?style=social)](https://github.com/HJSang/LatentPress)
+
+- Highlight-Then-Summarize: Learning to Compress Evidence for Long-Context Understanding <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.31382) [[Code]](https://github.com/X-Luffy/Highlight-Then-Summarize) [![Stars](https://img.shields.io/github/stars/X-Luffy/Highlight-Then-Summarize?style=social)](https://github.com/X-Luffy/Highlight-Then-Summarize)
 
 </details>
 
