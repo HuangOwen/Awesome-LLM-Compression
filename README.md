@@ -1948,7 +1948,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### KV Cache Compression
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 46 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 47 papers</summary>
 
 - Joint Encoding of KV-Cache Blocks for Scalable LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.03067) [[Code]](https://github.com/sef1/kv_fast_fusion) [![Stars](https://img.shields.io/github/stars/sef1/kv_fast_fusion?style=social)](https://github.com/sef1/kv_fast_fusion)
 
@@ -2039,6 +2039,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Page-EntroKV: Hardware-Aligned, Entropy-Weighted KV-Cache Eviction under Grouped-Query Attention <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.03135) [[Code]](https://github.com/bruce12-glitch/PageEntro-KV) [![Stars](https://img.shields.io/github/stars/bruce12-glitch/PageEntro-KV?style=social)](https://github.com/bruce12-glitch/PageEntro-KV)
 
 - Behavior-Preserving KV Cache Compression <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2610.06479)
+
+- OVAL: Output-Aware Local Page Bases for KV Cache Retrieval <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.06686) [[Code]](https://github.com/Ashkan13776/oval-kv) [![Stars](https://img.shields.io/github/stars/Ashkan13776/oval-kv?style=social)](https://github.com/Ashkan13776/oval-kv)
 
 - MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.25431)
 
