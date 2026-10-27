@@ -2270,7 +2270,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Other
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 16 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 17 papers</summary>
 
 - ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.21198)
 
@@ -2303,6 +2303,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.26796) [[Code]](https://github.com/VILA-Lab/Flash-dLLM) [![Stars](https://img.shields.io/github/stars/VILA-Lab/Flash-dLLM?style=social)](https://github.com/VILA-Lab/Flash-dLLM)
 
 - ITC-MoE: Importance-guided Token-aware Compression for MoE Diffusion Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.01296) [[Code]](https://github.com/lianjunl13-sudo/ITC-MoE) [![Stars](https://img.shields.io/github/stars/lianjunl13-sudo/ITC-MoE?style=social)](https://github.com/lianjunl13-sudo/ITC-MoE)
+
+- Capability Scaling-Down Laws for LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.02462) [[Code]](https://github.com/LabRAI/scaling_down_law) [![Stars](https://img.shields.io/github/stars/LabRAI/scaling_down_law?style=social)](https://github.com/LabRAI/scaling_down_law)
 
 </details>
 
