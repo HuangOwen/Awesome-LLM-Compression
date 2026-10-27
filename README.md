@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 68 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 69 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -280,6 +280,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Behavioral Capacity Certificates for Quantized Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.37887) [[Code]](https://github.com/eamaz/bcc) [![Stars](https://img.shields.io/github/stars/eamaz/bcc?style=social)](https://github.com/eamaz/bcc)
 
 - RATIO: Reasoning Analysis and Token-level Inference Optimization for Quantized Reasoning Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.39801) [[Code]](https://github.com/steven-bao1/RATIO) [![Stars](https://img.shields.io/github/stars/steven-bao1/RATIO?style=social)](https://github.com/steven-bao1/RATIO)
+
+- The Devil Is in the Reconstruction Loss Scale: Rethinking Optimization in LLM Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.00983) [[Code]](https://github.com/IntelChina-AI/RMSE) [![Stars](https://img.shields.io/github/stars/IntelChina-AI/RMSE?style=social)](https://github.com/IntelChina-AI/RMSE)
 
 </details>
 
