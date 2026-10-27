@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 58 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 59 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -260,6 +260,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Jacobian-guided Noise Injection for Quantization Robustness in Large Language Models <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2608.20988)
 
 - All for 1-Bit: Towards Genuine 1-Bit Post-Training Quantization for LLMs <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.06161)
+
+- AGENTQ: Quantization-Conditioned Backdoor Attacks on LLM Agents <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.14060)
 
 </details>
 
