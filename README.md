@@ -1876,7 +1876,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### KV Cache Compression
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 38 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 39 papers</summary>
 
 - Joint Encoding of KV-Cache Blocks for Scalable LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.03067) [[Code]](https://github.com/sef1/kv_fast_fusion) [![Stars](https://img.shields.io/github/stars/sef1/kv_fast_fusion?style=social)](https://github.com/sef1/kv_fast_fusion)
 
@@ -1951,6 +1951,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - MetaKV: Adaptive KV Cache Compression for Constrained LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.07966) [[Code]](https://github.com/MichaelWang0505/MetaKV) [![Stars](https://img.shields.io/github/stars/MichaelWang0505/MetaKV?style=social)](https://github.com/MichaelWang0505/MetaKV)
 
 - KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.10266) [[Code]](https://github.com/xishi404/KVShare-Arena) [![Stars](https://img.shields.io/github/stars/xishi404/KVShare-Arena?style=social)](https://github.com/xishi404/KVShare-Arena)
+
+- OmniKVQuant: KV Cache Quantization for Omni-LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.11582) [[Code]](https://github.com/kaistmm/OmniKVQuant) [![Stars](https://img.shields.io/github/stars/kaistmm/OmniKVQuant?style=social)](https://github.com/kaistmm/OmniKVQuant)
 
 - MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.25431)
 
