@@ -2216,7 +2216,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Other
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 14 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 15 papers</summary>
 
 - ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.21198)
 
@@ -2245,6 +2245,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Understanding Calibration and Truncation Error Propagation in Training-Free Low-Rank Compression for LLMs <br> COLM 2026 [[Paper]](https://arxiv.org/abs/2608.08506)
 
 - Per-Matrix Optimality Is Not Enough: Three-Level Optimization for Low-Rank LLM Compression <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2609.15838)
+
+- Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.26796) [[Code]](https://github.com/VILA-Lab/Flash-dLLM) [![Stars](https://img.shields.io/github/stars/VILA-Lab/Flash-dLLM?style=social)](https://github.com/VILA-Lab/Flash-dLLM)
 
 </details>
 
