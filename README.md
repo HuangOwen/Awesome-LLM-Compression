@@ -1820,7 +1820,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Efficient Prompting
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 11 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 12 papers</summary>
 
 - SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.16746) [[Code]](https://github.com/Ayanami1314/swe-pruner) [![Stars](https://img.shields.io/github/stars/Ayanami1314/swe-pruner?style=social)](https://github.com/Ayanami1314/swe-pruner)
 
@@ -1843,6 +1843,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - FocusVTC: Efficient and High-Performance Visual Text Compression with Adaptive Resolution <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.36651) [[Code]](https://github.com/fangzhi-zhong/FoucsVTC) [![Stars](https://img.shields.io/github/stars/fangzhi-zhong/FoucsVTC?style=social)](https://github.com/fangzhi-zhong/FoucsVTC)
 
 - zip2zip++: Towards Inference-Time Token Compression with Minimal Quality Loss <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.13605) [[Code]](https://github.com/epfl-dlab/zip2zip-plus-plus) [![Stars](https://img.shields.io/github/stars/epfl-dlab/zip2zip-plus-plus?style=social)](https://github.com/epfl-dlab/zip2zip-plus-plus)
+
+- Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.20927) [[Code]](https://github.com/GuanghuiMin/sjc) [![Stars](https://img.shields.io/github/stars/GuanghuiMin/sjc?style=social)](https://github.com/GuanghuiMin/sjc)
 
 </details>
 
