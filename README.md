@@ -1006,7 +1006,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Pruning and Sparsity
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 36 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 37 papers</summary>
 
 - Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL) [![Stars](https://img.shields.io/github/stars/TANIGUCHIREI/ASL?style=social)](https://github.com/TANIGUCHIREI/ASL)
 
@@ -1077,6 +1077,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Reservoir of Importance: Learning Semi-Structured Sparsity with Differentiable Subset Sampling <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2608.23048)
 
 - Residual Sparsification via Output Importance for Compressing Mixture-of-Experts LLMs <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.00575) [[Code]](https://github.com/OSSS-KU/PARSER) [![Stars](https://img.shields.io/github/stars/OSSS-KU/PARSER?style=social)](https://github.com/OSSS-KU/PARSER)
+
+- CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.01925)
 
 - Debias-SparseGPT: Bias-Aware Pruning for Large Language Models <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.02496)
 
