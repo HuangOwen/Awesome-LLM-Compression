@@ -1008,7 +1008,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Pruning and Sparsity
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 41 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 42 papers</summary>
 
 - Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL) [![Stars](https://img.shields.io/github/stars/TANIGUCHIREI/ASL?style=social)](https://github.com/TANIGUCHIREI/ASL)
 
@@ -1091,6 +1091,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Hidden in Plain Sight: The Overlooked Significance of Canonical Elements for Extreme LLM Sparsity <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.06557)
 
 - Train Overcomplete, Deploy Compact: Scaling Recovery Capacity for Structured LLM Pruning <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.06974) [[Code]](https://github.com/MMAI-Laboratory/OverRep) [![Stars](https://img.shields.io/github/stars/MMAI-Laboratory/OverRep?style=social)](https://github.com/MMAI-Laboratory/OverRep)
+
+- Sample-Guided Exact Top-K Selection for Long-Context Sparse Attention <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.08450) [[Code]](https://github.com/Tencent/hpc-ops) [![Stars](https://img.shields.io/github/stars/Tencent/hpc-ops?style=social)](https://github.com/Tencent/hpc-ops)
 
 </details>
 
