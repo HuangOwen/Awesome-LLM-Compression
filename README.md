@@ -1026,7 +1026,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Pruning and Sparsity
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 46 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 47 papers</summary>
 
 - Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL) [![Stars](https://img.shields.io/github/stars/TANIGUCHIREI/ASL?style=social)](https://github.com/TANIGUCHIREI/ASL)
 
@@ -1119,6 +1119,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Where Activation Sparsity and KV-Cache Sparsity Cross in LLM Decoding <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.33889) [[Code]](https://github.com/js-lee-AI/ByteCross) [![Stars](https://img.shields.io/github/stars/js-lee-AI/ByteCross?style=social)](https://github.com/js-lee-AI/ByteCross)
 
 - GroupMask: Layer-Adaptive Group-wise Sparsity for Semi-Structured LLM Pruning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.33977) [[Code]](https://github.com/ZhengaoLi/GroupMask) [![Stars](https://img.shields.io/github/stars/ZhengaoLi/GroupMask?style=social)](https://github.com/ZhengaoLi/GroupMask)
+
+- SparseEngine: Sparse-First Inference Engine <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.39068) [[Code]](https://github.com/CURRENTF/SparseEngine) [![Stars](https://img.shields.io/github/stars/CURRENTF/SparseEngine?style=social)](https://github.com/CURRENTF/SparseEngine)
 
 </details>
 
