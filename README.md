@@ -1934,7 +1934,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### KV Cache Compression
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 44 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 45 papers</summary>
 
 - Joint Encoding of KV-Cache Blocks for Scalable LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.03067) [[Code]](https://github.com/sef1/kv_fast_fusion) [![Stars](https://img.shields.io/github/stars/sef1/kv_fast_fusion?style=social)](https://github.com/sef1/kv_fast_fusion)
 
@@ -2021,6 +2021,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - PatchKV: Weight-Space Compensation of KV Cache <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2609.39329) [[Code]](https://github.com/cusasak/PatchKV) [![Stars](https://img.shields.io/github/stars/cusasak/PatchKV?style=social)](https://github.com/cusasak/PatchKV)
 
 - SlimKV: Joint Token-Feature KV Cache Compression with Reconstruction-Free Beacon Attention <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2610.02953)
+
+- Page-EntroKV: Hardware-Aligned, Entropy-Weighted KV-Cache Eviction under Grouped-Query Attention <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.03135) [[Code]](https://github.com/bruce12-glitch/PageEntro-KV) [![Stars](https://img.shields.io/github/stars/bruce12-glitch/PageEntro-KV?style=social)](https://github.com/bruce12-glitch/PageEntro-KV)
 
 - MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.25431)
 
