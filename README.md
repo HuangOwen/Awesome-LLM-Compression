@@ -1513,7 +1513,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Distillation
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 42 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 43 papers</summary>
 
 - d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.07568)
 
@@ -1598,6 +1598,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - REVO: Rollout-Efficient Off-Policy Distillation via Variance-Guided Reuse <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.37500) [[Code]](https://github.com/UNCSciML/REVO) [![Stars](https://img.shields.io/github/stars/UNCSciML/REVO?style=social)](https://github.com/UNCSciML/REVO)
 
 - Revisiting On-policy Adversarial Black-Box Distillation: Calibrating Groupwise Reward Geometry for Effective Advantage Construction <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2609.39757) [[Code]](https://github.com/2018cx/GRGC) [![Stars](https://img.shields.io/github/stars/2018cx/GRGC?style=social)](https://github.com/2018cx/GRGC)
+
+- Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2610.03665)
 
 </details>
 
