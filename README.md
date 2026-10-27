@@ -2304,7 +2304,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Other
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 18 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 19 papers</summary>
 
 - ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.21198)
 
@@ -2341,6 +2341,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Capability Scaling-Down Laws for LLM Compression <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.02462) [[Code]](https://github.com/LabRAI/scaling_down_law) [![Stars](https://img.shields.io/github/stars/LabRAI/scaling_down_law?style=social)](https://github.com/LabRAI/scaling_down_law)
 
 - Preserving Mathematical Reasoning in Compressed Diffusion Language Models via Trajectory-Aware Low-Rank Approximation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.03326) [[Code]](https://github.com/Zishan-Shao/traj-mc) [![Stars](https://img.shields.io/github/stars/Zishan-Shao/traj-mc?style=social)](https://github.com/Zishan-Shao/traj-mc)
+
+- Shared Low-rank Basis Factorization for Data-free Mixture-of-Experts Compression <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2610.09342)
 
 </details>
 
