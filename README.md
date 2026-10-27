@@ -1872,7 +1872,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### KV Cache Compression
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 36 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 37 papers</summary>
 
 - Joint Encoding of KV-Cache Blocks for Scalable LLM Serving <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.03067) [[Code]](https://github.com/sef1/kv_fast_fusion) [![Stars](https://img.shields.io/github/stars/sef1/kv_fast_fusion?style=social)](https://github.com/sef1/kv_fast_fusion)
 
@@ -1943,6 +1943,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Interface-Aware KV Cache Quantization for Dense On-Chip NVM in Long-Context LLM Decoding <br> ICCAD 2026 [[Paper]](https://arxiv.org/abs/2609.05764)
 
 - CONDUIT: A Unified Residual-Stream Restoration Framework for KV Cache Reuse in Vision-Language Models <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2609.05821)
+
+- MetaKV: Adaptive KV Cache Compression for Constrained LLM Inference <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.07966) [[Code]](https://github.com/MichaelWang0505/MetaKV) [![Stars](https://img.shields.io/github/stars/MichaelWang0505/MetaKV?style=social)](https://github.com/MichaelWang0505/MetaKV)
 
 - MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.25431)
 
