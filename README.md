@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 81 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 82 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -306,6 +306,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - LoopQuant: Accurate and Efficient Post-Training Quantization for Looped Transformers <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.16368) [[Code]](https://github.com/Kishon-zzx/LoopQuant) [![Stars](https://img.shields.io/github/stars/Kishon-zzx/LoopQuant?style=social)](https://github.com/Kishon-zzx/LoopQuant)
 
 - What You Sign Is Not What You Run: The Verifiability Gap in Quantized LLM Supply Chains <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.19498) [[Code]](https://github.com/Rlonglong/gguf-verifiability-artifact) [![Stars](https://img.shields.io/github/stars/Rlonglong/gguf-verifiability-artifact?style=social)](https://github.com/Rlonglong/gguf-verifiability-artifact)
+
+- Fractional Power-of-Two Quantization for Efficient and Effective Multiplier-Free LLM Inference <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.21257)
 
 </details>
 
