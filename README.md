@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 72 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 73 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -288,6 +288,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - BARQ: Balanced Codebook Refinement for Low-Bit LLM Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.04490) [[Code]](https://github.com/chenhangcuisg-code/BARQ) [![Stars](https://img.shields.io/github/stars/chenhangcuisg-code/BARQ?style=social)](https://github.com/chenhangcuisg-code/BARQ)
 
 - Understanding the Weight Averaging Mechanism in LLM Training for Post-Training Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.05329) [[Code]](https://github.com/MOFA-LAB/weight-averaging-for-ptq) [![Stars](https://img.shields.io/github/stars/MOFA-LAB/weight-averaging-for-ptq?style=social)](https://github.com/MOFA-LAB/weight-averaging-for-ptq)
+
+- Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.06026) [[Code]](https://github.com/MMAI-Laboratory/DBW) [![Stars](https://img.shields.io/github/stars/MMAI-Laboratory/DBW?style=social)](https://github.com/MMAI-Laboratory/DBW)
 
 </details>
 
