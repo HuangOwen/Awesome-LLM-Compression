@@ -1501,7 +1501,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Distillation
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 39 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 40 papers</summary>
 
 - d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.07568)
 
@@ -1580,6 +1580,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.35505) [[Code]](https://github.com/UNCSciML/LSPD) [![Stars](https://img.shields.io/github/stars/UNCSciML/LSPD?style=social)](https://github.com/UNCSciML/LSPD)
 
 - The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.36484) [[Code]](https://github.com/xixixixixxxx/RIDE) [![Stars](https://img.shields.io/github/stars/xixixixixxxx/RIDE?style=social)](https://github.com/xixixixixxxx/RIDE)
+
+- Distilling What Matters: Confidence-Aware Selective Distillation for Large Language Models <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2609.36734)
 
 </details>
 
