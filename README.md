@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 75 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 76 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -294,6 +294,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - AlignQuant: Tile-Aligned Mixed-Precision Quantization for Efficient LLM Generation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.07457) [[Code]](https://github.com/HanzhiZhang-Ulrica/AlignQuant) [![Stars](https://img.shields.io/github/stars/HanzhiZhang-Ulrica/AlignQuant?style=social)](https://github.com/HanzhiZhang-Ulrica/AlignQuant)
 
 - Quantization Effects on Tool-Failure Recovery Vary Across Prompts and Evaluation Designs <br> NeurIPS 2026 Workshop [[Paper]](https://arxiv.org/abs/2610.07781)
+
+- OSFP4: Joint Optimization of Diagonal Smoothing and Block Scales for NVFP4 Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.08231) [[Code]](https://github.com/neriahbd/OSFP4) [![Stars](https://img.shields.io/github/stars/neriahbd/OSFP4?style=social)](https://github.com/neriahbd/OSFP4)
 
 </details>
 
