@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 71 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 72 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -286,6 +286,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Saying, Not Knowing: Aggressively GGUF-Quantized Small Language Models Still Write Rare Words They Can No Longer Define <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.04403) [[Code]](https://github.com/NietzscheDostoevsky/snk-release) [![Stars](https://img.shields.io/github/stars/NietzscheDostoevsky/snk-release?style=social)](https://github.com/NietzscheDostoevsky/snk-release)
 
 - BARQ: Balanced Codebook Refinement for Low-Bit LLM Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.04490) [[Code]](https://github.com/chenhangcuisg-code/BARQ) [![Stars](https://img.shields.io/github/stars/chenhangcuisg-code/BARQ?style=social)](https://github.com/chenhangcuisg-code/BARQ)
+
+- Understanding the Weight Averaging Mechanism in LLM Training for Post-Training Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.05329) [[Code]](https://github.com/MOFA-LAB/weight-averaging-for-ptq) [![Stars](https://img.shields.io/github/stars/MOFA-LAB/weight-averaging-for-ptq?style=social)](https://github.com/MOFA-LAB/weight-averaging-for-ptq)
 
 </details>
 
