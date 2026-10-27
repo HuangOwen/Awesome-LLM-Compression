@@ -1481,7 +1481,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Distillation
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 32 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 33 papers</summary>
 
 - d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.07568)
 
@@ -1546,6 +1546,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.01532) [[Code]](https://github.com/facebookresearch/midtraining-distillation) [![Stars](https://img.shields.io/github/stars/facebookresearch/midtraining-distillation?style=social)](https://github.com/facebookresearch/midtraining-distillation)
 
 - Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.02548) [[Code]](https://github.com/hexixiang/MT-SDPO) [![Stars](https://img.shields.io/github/stars/hexixiang/MT-SDPO?style=social)](https://github.com/hexixiang/MT-SDPO)
+
+- Layer-wise Curriculum Learning for Efficient LLM Compression <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2609.19213)
 
 </details>
 
