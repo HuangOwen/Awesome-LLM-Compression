@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 83 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 84 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -310,6 +310,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Fractional Power-of-Two Quantization for Efficient and Effective Multiplier-Free LLM Inference <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.21257)
 
 - LIRQuant: An Efficient Locally Isolated Rotation Quantization Method for Large Language Models <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2610.25675)
+
+- Small-State Coset Trellis Coding at IQ2_XXS Size: An Equal-Bytes Study in llama.cpp <br> Preprint 2026 [[Paper]](https://doi.org/10.5281/zenodo.23481757) [[Code]](https://github.com/Genrius-AI/pingala8-llm) [![Stars](https://img.shields.io/github/stars/Genrius-AI/pingala8-llm?style=social)](https://github.com/Genrius-AI/pingala8-llm)
 
 </details>
 
