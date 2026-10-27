@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 61 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 62 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -266,6 +266,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - MiX: Micro-Inverted-Scaling for End-to-End Low-Bit Vision-Language Model Acceleration <br> MICRO 2026 [[Paper]](https://arxiv.org/abs/2609.19683)
 
 - SpecQuant: Speculative Decoding with Multi-Parent Quantization for Adaptive LLM Inference <br> ICPC2T 2026 [[Paper]](https://arxiv.org/abs/2609.21704)
+
+- SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.24875) [[Code]](https://github.com/Pushazf/SPHQuant) [![Stars](https://img.shields.io/github/stars/Pushazf/SPHQuant?style=social)](https://github.com/Pushazf/SPHQuant)
 
 </details>
 
