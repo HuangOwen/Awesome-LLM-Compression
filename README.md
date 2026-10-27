@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 77 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 78 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -298,6 +298,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - OSFP4: Joint Optimization of Diagonal Smoothing and Block Scales for NVFP4 Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.08231) [[Code]](https://github.com/neriahbd/OSFP4) [![Stars](https://img.shields.io/github/stars/neriahbd/OSFP4?style=social)](https://github.com/neriahbd/OSFP4)
 
 - SSR: Sparse Segment Reduction for Ternary GEMM Acceleration <br> DATE 2026 [[Paper]](https://arxiv.org/abs/2610.08403)
+
+- SAGE: Pushing 2-Bit Vector-Quantized LLMs toward Real-World Usability <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.14745) [[Code]](https://github.com/Zincwolf/sage) [![Stars](https://img.shields.io/github/stars/Zincwolf/sage?style=social)](https://github.com/Zincwolf/sage)
 
 </details>
 
