@@ -1050,7 +1050,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Pruning and Sparsity
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 51 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 52 papers</summary>
 
 - Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL) [![Stars](https://img.shields.io/github/stars/TANIGUCHIREI/ASL?style=social)](https://github.com/TANIGUCHIREI/ASL)
 
@@ -1153,6 +1153,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - More Value per Key: Asymmetric Sparse Attention for Faster LLM Decoding <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.04753)
 
 - Beyond Adjacent Layers: Graph-Guided Layer Fusion for Compressing Large Language Models <br> NeurIPS 2026 [[Paper]](https://arxiv.org/abs/2610.15159) [[Code]](https://github.com/Usama1002/fcm-layer-fusion) [![Stars](https://img.shields.io/github/stars/Usama1002/fcm-layer-fusion?style=social)](https://github.com/Usama1002/fcm-layer-fusion)
+
+- SARATHI: Decoupled Data-Free Probing and Adaptive Reconstruction for Structured LLM Pruning <br> EMNLP 2026 [[Paper]](https://arxiv.org/abs/2610.15514)
 
 </details>
 
