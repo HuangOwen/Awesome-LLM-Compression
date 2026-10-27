@@ -1022,7 +1022,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Pruning and Sparsity
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 44 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 45 papers</summary>
 
 - Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference <br> ACL Findings 2026 [[Paper]](https://arxiv.org/abs/2601.07667) [[Code]](https://github.com/TANIGUCHIREI/ASL) [![Stars](https://img.shields.io/github/stars/TANIGUCHIREI/ASL?style=social)](https://github.com/TANIGUCHIREI/ASL)
 
@@ -1111,6 +1111,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Distribution-Consistent Inference for Dynamic Sparse Mixture-of-Experts <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2609.09241)
 
 - PQ-HSA: Reusing Product-Quantized Scores for Hybrid Sparse-Approximate Attention <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.33746) [[Code]](https://github.com/KunmingSHAO/pqhsa_release) [![Stars](https://img.shields.io/github/stars/KunmingSHAO/pqhsa_release?style=social)](https://github.com/KunmingSHAO/pqhsa_release)
+
+- Where Activation Sparsity and KV-Cache Sparsity Cross in LLM Decoding <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.33889) [[Code]](https://github.com/js-lee-AI/ByteCross) [![Stars](https://img.shields.io/github/stars/js-lee-AI/ByteCross?style=social)](https://github.com/js-lee-AI/ByteCross)
 
 </details>
 
