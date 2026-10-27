@@ -1750,7 +1750,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Efficient Prompting
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 9 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 10 papers</summary>
 
 - SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2601.16746) [[Code]](https://github.com/Ayanami1314/swe-pruner) [![Stars](https://img.shields.io/github/stars/Ayanami1314/swe-pruner?style=social)](https://github.com/Ayanami1314/swe-pruner)
 
@@ -1769,6 +1769,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - LatentPress: Context Compression Beyond Text and Vision <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.01507) [[Code]](https://github.com/HJSang/LatentPress) [![Stars](https://img.shields.io/github/stars/HJSang/LatentPress?style=social)](https://github.com/HJSang/LatentPress)
 
 - Highlight-Then-Summarize: Learning to Compress Evidence for Long-Context Understanding <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.31382) [[Code]](https://github.com/X-Luffy/Highlight-Then-Summarize) [![Stars](https://img.shields.io/github/stars/X-Luffy/Highlight-Then-Summarize?style=social)](https://github.com/X-Luffy/Highlight-Then-Summarize)
+
+- FocusVTC: Efficient and High-Performance Visual Text Compression with Adaptive Resolution <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2609.36651) [[Code]](https://github.com/fangzhi-zhong/FoucsVTC) [![Stars](https://img.shields.io/github/stars/fangzhi-zhong/FoucsVTC?style=social)](https://github.com/fangzhi-zhong/FoucsVTC)
 
 </details>
 
