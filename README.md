@@ -1531,7 +1531,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Distillation
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 49 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 50 papers</summary>
 
 - d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation <br> ICML 2026 [[Paper]](https://arxiv.org/abs/2601.07568)
 
@@ -1630,6 +1630,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - SAPD: Step-Aligned Privileged Distillation <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.09665) [[Code]](https://github.com/Miaow-Lab/SAPD) [![Stars](https://img.shields.io/github/stars/Miaow-Lab/SAPD?style=social)](https://github.com/Miaow-Lab/SAPD)
 
 - PIVOT: Perplexity-Informed KD-to-RL Transition Scheduling for Vertical-Domain Few-Shot Distillation <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2610.11167)
+
+- Why On-Policy Distillation Sometimes Fails: Vanishing Learning Signals <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.11247) [[Code]](https://github.com/leizhao7/opd-learning-signals) [![Stars](https://img.shields.io/github/stars/leizhao7/opd-learning-signals?style=social)](https://github.com/leizhao7/opd-learning-signals)
 
 </details>
 
