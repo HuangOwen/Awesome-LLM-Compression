@@ -2764,6 +2764,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 - LLMSlim: Query-aware context compression for RAG and agents with no LLM call. It keeps the units (chunks, chat turns, log lines) that answer the query under a hard token budget, in their original order, scored lexically or with an optional 22M cross-encoder; also ships an MCP server for long-term agent memory [[Code]](https://github.com/Thanatos9404/llmslim) [[PyPI]](https://pypi.org/project/llmslim/) [![Stars](https://img.shields.io/github/stars/Thanatos9404/llmslim?style=social)](https://github.com/Thanatos9404/llmslim)
 
+- - HyperCache AI: Dual-engine runtime acceleration SDK that cuts PyTorch / Hugging Face LLM KV-Cache VRAM by 58.2% (+30% faster decoding) with 100% verbatim Needle-in-a-Haystack recall, and compresses 1536-D RAG / Vector DB embeddings down to 656-D (-57.3% RAM) with zero model retraining. [[Code]](https://github.com/WalWal1977/HyperCache-AI) [[Model]](https://huggingface.co/Walid-Kotb-1/HyperCache-AI) [[PyPI]](https://pypi.org/project/hypercache-ai/) [![Stars](https://img.shields.io/github/stars/WalWal1977/HyperCache-AI?style=social)](https://github.com/WalWal1977/HyperCache-AI)
+
 ### Training and Fine-Tuning
 
 - Unsloth: Faster and more memory-efficient LLM fine-tuning with 4-bit quantization and custom kernels [[Code]](https://github.com/unslothai/unsloth) [![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social)](https://github.com/unslothai/unsloth)
