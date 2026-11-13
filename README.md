@@ -2730,6 +2730,9 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 
 ### Model Compression Toolkits
 
+- MAPLE: An open-source framework for structural pruning of Mixture-of-Experts (MoE) LLMs, using empirical activation manifolds to compress Gemma 4 26B and DeepSeek-Coder-V2 down to sub-2-BPW for 100% in-VRAM execution on consumer 6GB GPUs. [[Code]](https://github.com/AmSach/maple) [![Stars](https://img.shields.io/github/stars/AmSach/maple?style=social)](https://github.com/AmSach/maple)
+
+
 - Intel® Neural Compressor: An open-source Python library supporting popular model compression techniques on all mainstream deep learning frameworks (TensorFlow, PyTorch, ONNX Runtime, and MXNet) [[Code]](https://github.com/intel/neural-compressor) [![Stars](https://img.shields.io/github/stars/intel/neural-compressor?style=social)](https://github.com/intel/neural-compressor)
 
 - SparseML: Libraries for applying sparsification recipes to neural networks, enabling faster and smaller models [[Code]](https://github.com/neuralmagic/sparseml) [![Stars](https://img.shields.io/github/stars/neuralmagic/sparseml?style=social)](https://github.com/neuralmagic/sparseml)
