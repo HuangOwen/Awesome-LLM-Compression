@@ -143,7 +143,7 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 ### Quantization
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 85 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 86 papers</summary>
 
 - Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations <br> EMNLP Findings 2026 [[Paper]](https://arxiv.org/abs/2601.00282)
 
@@ -314,6 +314,8 @@ Papers in each category are grouped by year in collapsible blocks, newest first 
 - Small-State Coset Trellis Coding at IQ2_XXS Size: An Equal-Bytes Study in llama.cpp <br> Preprint 2026 [[Paper]](https://doi.org/10.5281/zenodo.23481757) [[Code]](https://github.com/Genrius-AI/pingala8-llm) [![Stars](https://img.shields.io/github/stars/Genrius-AI/pingala8-llm?style=social)](https://github.com/Genrius-AI/pingala8-llm)
 
 - Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.31309) [[Code]](https://github.com/VILA-Lab/optic) [![Stars](https://img.shields.io/github/stars/VILA-Lab/optic?style=social)](https://github.com/VILA-Lab/optic)
+
+- Low-Bit N-Gram Embeddings for Language Models <br> Arxiv 2026 [[Paper]](https://arxiv.org/abs/2610.31646) [[Code]](https://github.com/dualverse-ai/lowbit-ngram) [![Stars](https://img.shields.io/github/stars/dualverse-ai/lowbit-ngram?style=social)](https://github.com/dualverse-ai/lowbit-ngram)
 
 </details>
 
